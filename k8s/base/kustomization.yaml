@@ -8,8 +8,6 @@ resources:
   - secret.yaml
   - external-services.yaml
   - backend-deployment.yaml
-  # - postgres-deployment.yaml  # Using external PostgreSQL  
-  # - redis-deployment.yaml     # Using external Redis
 
 labels:
   - pairs:
@@ -23,4 +21,5 @@ images:
 replicas:
   - name: backend
     count: 1
+
 
