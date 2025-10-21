@@ -45,7 +45,7 @@ spec:
           name: metrics
         envFrom:
         - configMapRef:
-            name: discoverlocal-config
+            name: backend-config
         - secretRef:
             name: discoverlocal-secret
         env:
