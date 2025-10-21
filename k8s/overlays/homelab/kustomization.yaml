@@ -10,7 +10,7 @@ patches:
   - path: deployment-patches.yaml
 
 configMapGenerator:
-  - name: discoverlocal-config
+  - name: backend-config
     literals:
       - NODE_ENV=production
       - LOG_LEVEL=info
@@ -21,7 +21,7 @@ configMapGenerator:
       - REDIS_HOST=redis-service
       - REDIS_PORT=6379
       - FRONTEND_URL=https://localist.leopaska.xyz
-      - ALLOWED_ORIGINS=https://localist.leopaska.xyz
+      - CORS_ORIGIN=https://localist.leopaska.xyz
       - POSTGRES_HOST=postgres-service
       - POSTGRES_PORT=5432
       - POSTGRES_DB=localist
@@ -29,6 +29,4 @@ configMapGenerator:
 
 replicas:
   - name: backend
-    count: 1
-  - name: frontend
     count: 1

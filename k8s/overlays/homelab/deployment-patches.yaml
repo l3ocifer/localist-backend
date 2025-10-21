@@ -11,56 +11,11 @@ spec:
       - name: backend
         resources:
           requests:
-            memory: "64Mi"
-            cpu: "50m"
+            memory: "128Mi"
+            cpu: "100m"
           limits:
-            memory: "256Mi"
-            cpu: "200m"
-        env:
-        - name: NODE_ENV
-          value: "production"
-        - name: NEXT_PUBLIC_API_URL
-          value: "https://localist.leopaska.xyz/api"
-      # Add tolerations for K3s control plane and disk pressure
-      tolerations:
-      - key: "CriticalAddonsOnly"
-        operator: "Equal"
-        value: "true"
-        effect: "NoExecute"
-      - key: "node-role.kubernetes.io/control-plane"
-        operator: "Exists"
-        effect: "NoSchedule"
-      - key: "node.kubernetes.io/disk-pressure"
-        operator: "Exists"
-        effect: "NoSchedule"
-      - key: "node.kubernetes.io/disk-pressure"
-        operator: "Exists"
-        effect: "NoExecute"
-
----
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: frontend
-  namespace: localist
-spec:
-  replicas: 1
-  template:
-    spec:
-      containers:
-      - name: frontend
-        resources:
-          requests:
-            memory: "64Mi"
-            cpu: "50m"
-          limits:
-            memory: "256Mi"
-            cpu: "200m"
-        env:
-        - name: NEXT_PUBLIC_API_URL
-          value: "https://localist.leopaska.xyz/api"
-        - name: NEXT_PUBLIC_APP_URL
-          value: "https://localist.leopaska.xyz"
+            memory: "512Mi"
+            cpu: "500m"
       # Add tolerations for K3s control plane and disk pressure
       tolerations:
       - key: "CriticalAddonsOnly"
