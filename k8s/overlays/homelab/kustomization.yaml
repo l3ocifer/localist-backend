@@ -1,0 +1,34 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+namespace: localist
+
+resources:
+  - ../../base
+
+patches:
+  - path: deployment-patches.yaml
+
+configMapGenerator:
+  - name: discoverlocal-config
+    literals:
+      - NODE_ENV=production
+      - LOG_LEVEL=info
+      - DB_SSL=false
+      - DB_NAME=localist
+      - DB_HOST=postgres-service
+      - DB_PORT=5432
+      - REDIS_HOST=redis-service
+      - REDIS_PORT=6379
+      - FRONTEND_URL=https://localist.leopaska.xyz
+      - ALLOWED_ORIGINS=https://localist.leopaska.xyz
+      - POSTGRES_HOST=postgres-service
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=localist
+      - POSTGRES_USER=postgres
+
+replicas:
+  - name: backend
+    count: 1
+  - name: frontend
+    count: 1

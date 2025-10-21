@@ -1,0 +1,51 @@
+# External Services for Docker Containers
+# These services point to PostgreSQL and Redis running as Docker containers on the homelab
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: postgres-service
+  namespace: localist
+spec:
+  type: ClusterIP
+  ports:
+  - port: 5432
+    targetPort: 5432
+    protocol: TCP
+
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: postgres-service
+  namespace: localist
+subsets:
+- addresses:
+  - ip: 192.168.1.200
+  ports:
+  - port: 5432
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis-service
+  namespace: localist
+spec:
+  type: ClusterIP
+  ports:
+  - port: 6379
+    targetPort: 6379
+    protocol: TCP
+
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: redis-service
+  namespace: localist
+subsets:
+- addresses:
+  - ip: 192.168.1.200
+  ports:
+  - port: 6379

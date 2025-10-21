@@ -1,0 +1,325 @@
+{
+  "cities": [
+    {
+      "id": "nyc",
+      "name": "New York City",
+      "state": "NY",
+      "country": "USA",
+      "description": "The city that never sleeps - endless dining and nightlife options",
+      "image_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800",
+      "timezone": "America/New_York",
+      "coordinates": {
+        "lat": 40.7128,
+        "lng": -74.0060
+      }
+    },
+    {
+      "id": "la",
+      "name": "Los Angeles",
+      "state": "CA",
+      "country": "USA",
+      "description": "City of Angels - diverse culinary scene from food trucks to Michelin stars",
+      "image_url": "https://images.unsplash.com/photo-1544413164-9b4db5ad4e9e?w=800",
+      "timezone": "America/Los_Angeles",
+      "coordinates": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "description": "The Windy City - deep dish pizza and world-class dining",
+      "image_url": "https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=800",
+      "timezone": "America/Chicago",
+      "coordinates": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    },
+    {
+      "id": "miami",
+      "name": "Miami",
+      "state": "FL",
+      "country": "USA",
+      "description": "Magic City - vibrant nightlife and Latin-inspired cuisine",
+      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "timezone": "America/New_York",
+      "coordinates": {
+        "lat": 25.7617,
+        "lng": -80.1918
+      }
+    },
+    {
+      "id": "vegas",
+      "name": "Las Vegas",
+      "state": "NV",
+      "country": "USA",
+      "description": "Sin City - 24/7 entertainment and celebrity chef restaurants",
+      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "timezone": "America/Los_Angeles",
+      "coordinates": {
+        "lat": 36.1699,
+        "lng": -115.1398
+      }
+    }
+  ],
+  "venues": [
+    {
+      "id": "venue_001",
+      "name": "Joe's Pizza",
+      "city_id": "nyc",
+      "category": "Pizza",
+      "cuisine": "Italian",
+      "price_range": "$",
+      "description": "Classic New York slice since 1975",
+      "address": "7 Carmine St, New York, NY 10014",
+      "phone": "+1-212-366-1182",
+      "website": "https://joespizzanyc.com",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600",
+      "rating": 4.5,
+      "coordinates": {
+        "lat": 40.7301,
+        "lng": -74.0027
+      },
+      "hours": {
+        "monday": "11:00-23:00",
+        "tuesday": "11:00-23:00",
+        "wednesday": "11:00-23:00",
+        "thursday": "11:00-23:00",
+        "friday": "11:00-01:00",
+        "saturday": "11:00-01:00",
+        "sunday": "11:00-23:00"
+      },
+      "features": ["takeout", "delivery", "casual_dining"]
+    },
+    {
+      "id": "venue_002",
+      "name": "The Dead Rabbit",
+      "city_id": "nyc",
+      "category": "Cocktail Bar",
+      "cuisine": "Irish",
+      "price_range": "$$$",
+      "description": "World's best bar with Irish hospitality and craft cocktails",
+      "address": "30 Water St, New York, NY 10004",
+      "phone": "+1-646-422-7906",
+      "website": "https://deadrabbitnyc.com",
+      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600",
+      "rating": 4.8,
+      "coordinates": {
+        "lat": 40.7037,
+        "lng": -74.0118
+      },
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-03:00",
+        "saturday": "17:00-03:00",
+        "sunday": "17:00-02:00"
+      },
+      "features": ["craft_cocktails", "historic", "award_winning"]
+    },
+    {
+      "id": "venue_003",
+      "name": "Guelaguetza",
+      "city_id": "la",
+      "category": "Mexican",
+      "cuisine": "Oaxacan",
+      "price_range": "$$",
+      "description": "Authentic Oaxacan cuisine and mezcal in Koreatown",
+      "address": "3014 W Olympic Blvd, Los Angeles, CA 90006",
+      "phone": "+1-213-427-0608",
+      "website": "https://ilovemole.com",
+      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600",
+      "rating": 4.6,
+      "coordinates": {
+        "lat": 34.0370,
+        "lng": -118.2982
+      },
+      "hours": {
+        "monday": "11:00-21:00",
+        "tuesday": "11:00-21:00",
+        "wednesday": "11:00-21:00",
+        "thursday": "11:00-21:00",
+        "friday": "11:00-22:00",
+        "saturday": "09:00-22:00",
+        "sunday": "09:00-21:00"
+      },
+      "features": ["authentic", "family_owned", "mezcal_bar"]
+    },
+    {
+      "id": "venue_004",
+      "name": "Girl & Goat",
+      "city_id": "chicago",
+      "category": "New American",
+      "cuisine": "Contemporary",
+      "price_range": "$$$",
+      "description": "Stephanie Izard's bold flavors and wood-fired dishes",
+      "address": "809 W Randolph St, Chicago, IL 60607",
+      "phone": "+1-312-492-6262",
+      "website": "https://girlandgoat.com",
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600",
+      "rating": 4.7,
+      "coordinates": {
+        "lat": 41.8846,
+        "lng": -87.6477
+      },
+      "hours": {
+        "monday": "17:00-22:00",
+        "tuesday": "17:00-22:00",
+        "wednesday": "17:00-22:00",
+        "thursday": "17:00-22:00",
+        "friday": "17:00-23:00",
+        "saturday": "17:00-23:00",
+        "sunday": "17:00-22:00"
+      },
+      "features": ["celebrity_chef", "reservations_required", "wood_fired"]
+    },
+    {
+      "id": "venue_005",
+      "name": "Joe's Stone Crab",
+      "city_id": "miami",
+      "category": "Seafood",
+      "cuisine": "American",
+      "price_range": "$$$",
+      "description": "Miami Beach institution famous for stone crabs since 1913",
+      "address": "11 Washington Ave, Miami Beach, FL 33139",
+      "phone": "+1-305-673-0365",
+      "website": "https://joesstonecrab.com",
+      "image_url": "https://images.unsplash.com/photo-1559737558-2f5a35f4523d?w=600",
+      "rating": 4.4,
+      "coordinates": {
+        "lat": 25.7663,
+        "lng": -80.1320
+      },
+      "hours": {
+        "monday": "17:00-22:00",
+        "tuesday": "17:00-22:00",
+        "wednesday": "17:00-22:00",
+        "thursday": "17:00-22:00",
+        "friday": "17:00-23:00",
+        "saturday": "17:00-23:00",
+        "sunday": "17:00-22:00"
+      },
+      "features": ["historic", "stone_crab", "no_reservations"]
+    }
+  ],
+  "lists": [
+    {
+      "id": "list_001",
+      "name": "Best Pizza in NYC",
+      "city_id": "nyc",
+      "category": "Pizza",
+      "description": "The ultimate guide to New York's finest pizza slices",
+      "curator": "Discover Local Team",
+      "is_featured": true,
+      "venue_ids": ["venue_001"],
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "list_002",
+      "name": "Top Cocktail Bars NYC",
+      "city_id": "nyc",
+      "category": "Cocktails",
+      "description": "Craft cocktails and speakeasies in the Big Apple",
+      "curator": "Discover Local Team",
+      "is_featured": true,
+      "venue_ids": ["venue_002"],
+      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "list_003",
+      "name": "Authentic Mexican LA",
+      "city_id": "la",
+      "category": "Mexican",
+      "description": "Real deal Mexican food in Los Angeles",
+      "curator": "Discover Local Team",
+      "is_featured": true,
+      "venue_ids": ["venue_003"],
+      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "list_004",
+      "name": "Chicago Fine Dining",
+      "city_id": "chicago",
+      "category": "Fine Dining",
+      "description": "Chicago's most celebrated restaurants",
+      "curator": "Discover Local Team",
+      "is_featured": true,
+      "venue_ids": ["venue_004"],
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "list_005",
+      "name": "Miami Seafood Spots",
+      "city_id": "miami",
+      "category": "Seafood",
+      "description": "Fresh seafood with ocean views",
+      "curator": "Discover Local Team",
+      "is_featured": true,
+      "venue_ids": ["venue_005"],
+      "image_url": "https://images.unsplash.com/photo-1559737558-2f5a35f4523d?w=800",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "demo_user",
+      "email": "demo@discoverlocal.ai",
+      "phone": "+1-555-0123",
+      "first_name": "Demo",
+      "last_name": "User",
+      "is_premium": false,
+      "preferences": {
+        "cuisines": ["Italian", "Mexican", "Contemporary"],
+        "price_range": "$$",
+        "dietary_restrictions": [],
+        "preferred_cities": ["nyc", "la"]
+      },
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "premium_user",
+      "email": "premium@discoverlocal.ai",
+      "phone": "+1-555-0124",
+      "first_name": "Premium",
+      "last_name": "User",
+      "is_premium": true,
+      "preferences": {
+        "cuisines": ["Fine Dining", "Cocktails", "Seafood"],
+        "price_range": "$$$",
+        "dietary_restrictions": ["vegetarian"],
+        "preferred_cities": ["nyc", "chicago", "miami"]
+      },
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "user_lists": [
+    {
+      "id": "user_list_001",
+      "user_id": "demo_user",
+      "name": "My Favorites",
+      "description": "Places I want to try",
+      "venue_ids": ["venue_001", "venue_003"],
+      "is_public": false,
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "user_list_002",
+      "user_id": "premium_user",
+      "name": "Date Night Spots",
+      "description": "Perfect for romantic evenings",
+      "venue_ids": ["venue_002", "venue_004", "venue_005"],
+      "is_public": true,
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ]
+}

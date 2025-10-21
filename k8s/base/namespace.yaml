@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: localist
+  labels:
+    app: localist
+    environment: production

@@ -1,0 +1,111 @@
+version: '3.9'
+
+services:
+  # ============================================
+  # HOMELAB DEPLOYMENT (Using External Services)
+  # ============================================
+  # We use existing PostgreSQL and Redis services
+  # running on the homelab server:
+  # - PostgreSQL: 192.168.1.200:5432
+  # - Redis: 192.168.1.200:6379
+  #
+  # For cloud deployment, uncomment the services below:
+  # ============================================
+
+  # # PostgreSQL 15 Database (Cloud Deployment Only)
+  # postgres:
+  #   image: postgres:15-alpine
+  #   container_name: localist-backend-postgres
+  #   restart: unless-stopped
+  #   environment:
+  #     POSTGRES_DB: localist
+  #     POSTGRES_USER: postgres
+  #     POSTGRES_PASSWORD: ${DB_PASSWORD:-dev_password_123}
+  #   ports:
+  #     - "5432:5432"
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #     - ./database/migrations:/docker-entrypoint-initdb.d
+  #   networks:
+  #     - backend-network
+  #   healthcheck:
+  #     test: ["CMD-SHELL", "pg_isready -U postgres -d localist"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+
+  # # Redis 7 Cache (Cloud Deployment Only)
+  # redis:
+  #   image: redis:7-alpine
+  #   container_name: localist-backend-redis
+  #   restart: unless-stopped
+  #   command: redis-server --appendonly yes --requirepass ${REDIS_PASSWORD:-redis_dev_password}
+  #   ports:
+  #     - "6379:6379"
+  #   volumes:
+  #     - redis_data:/data
+  #   networks:
+  #     - backend-network
+  #   healthcheck:
+  #     test: ["CMD", "redis-cli", "--raw", "incr", "ping"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+
+  # Backend API (optional - can run directly with npm run dev)
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: localist-backend-api
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      PORT: 3001
+      # Using external homelab services
+      DATABASE_URL: postgresql://postgres:${DB_PASSWORD}@${DB_HOST:-192.168.1.200}:5432/localist
+      REDIS_URL: redis://:${REDIS_PASSWORD}@${REDIS_HOST:-192.168.1.200}:6379
+      DB_HOST: ${DB_HOST:-192.168.1.200}
+      DB_PORT: 5432
+      DB_NAME: localist
+      DB_USER: postgres
+      DB_PASSWORD: ${DB_PASSWORD}
+      REDIS_HOST: ${REDIS_HOST:-192.168.1.200}
+      REDIS_PORT: 6379
+      REDIS_PASSWORD: ${REDIS_PASSWORD}
+      JWT_SECRET: ${JWT_SECRET:-dev_jwt_secret_change_in_production}
+      REFRESH_TOKEN_SECRET: ${REFRESH_TOKEN_SECRET:-dev_refresh_secret_change_in_production}
+      FRONTEND_URL: http://localhost:3005
+    ports:
+      - "3001:3001"
+      - "9090:9090"  # Metrics
+      - "9229:9229"  # Node.js debugging
+    volumes:
+      - ./src:/app/src
+      - ./dist:/app/dist
+      - backend_node_modules:/app/node_modules
+    networks:
+      - backend-network
+    # For cloud deployment with local postgres/redis, uncomment:
+    # depends_on:
+    #   postgres:
+    #     condition: service_healthy
+    #   redis:
+    #     condition: service_healthy
+    command: npm run dev
+    profiles:
+      - with-backend
+
+volumes:
+  # # Uncomment for cloud deployment with local postgres/redis:
+  # postgres_data:
+  #   driver: local
+  # redis_data:
+  #   driver: local
+  backend_node_modules:
+    driver: local
+
+networks:
+  backend-network:
+    driver: bridge
+

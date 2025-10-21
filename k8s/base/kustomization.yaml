@@ -1,0 +1,26 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+namespace: localist
+
+resources:
+  - namespace.yaml
+  - secret.yaml
+  - external-services.yaml
+  - backend-deployment.yaml
+  # - postgres-deployment.yaml  # Using external PostgreSQL  
+  # - redis-deployment.yaml     # Using external Redis
+
+labels:
+  - pairs:
+      app.kubernetes.io/name: localist-backend
+      app.kubernetes.io/managed-by: kustomize
+
+images:
+  - name: localist/backend
+    newTag: v7
+
+replicas:
+  - name: backend
+    count: 1
+
