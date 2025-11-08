@@ -1,0 +1,109 @@
+version: '3.9'
+
+# ==============================================================
+# LOCAL DEVELOPMENT SETUP
+# Complete stack with PostgreSQL + Redis + Backend API
+# ==============================================================
+# Usage:
+#   docker-compose -f docker-compose.local.yml up -d
+#
+# This will start:
+#   - PostgreSQL 15 on port 5432
+#   - Redis 7 on port 6379
+#   - Backend API on port 3002
+# ==============================================================
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: localist-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: localist
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: localist_dev_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/migrations:/docker-entrypoint-initdb.d:ro
+    networks:
+      - localist-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d localist"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: localist-redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes --requirepass localist_redis_password
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - localist-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "--raw", "incr", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Backend API (optional - you can also run with npm run dev)
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: localist-backend
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      PORT: 3002
+      DATABASE_URL: postgresql://postgres:localist_dev_password@postgres:5432/localist
+      REDIS_URL: redis://:localist_redis_password@redis:6379
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: localist
+      DB_USER: postgres
+      DB_PASSWORD: localist_dev_password
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      REDIS_PASSWORD: localist_redis_password
+      JWT_SECRET: dev_jwt_secret_please_change_in_production_123456
+      REFRESH_TOKEN_SECRET: dev_refresh_secret_please_change_in_production_123456
+      FRONTEND_URL: http://localhost:3005
+      CORS_ORIGIN: http://localhost:3005
+    ports:
+      - "3002:3002"
+      - "9090:9090"  # Prometheus metrics
+      - "9229:9229"  # Node.js debugging
+    volumes:
+      - ./src:/app/src
+      - ./dist:/app/dist
+      - backend_node_modules:/app/node_modules
+    networks:
+      - localist-network
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    command: npm run dev
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  backend_node_modules:
+    driver: local
+
+networks:
+  localist-network:
+    driver: bridge
+
