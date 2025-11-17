@@ -480,5 +480,83 @@ router.post('/review-queue/:id/duplicate', async (req: Request, res: Response, n
   }
 });
 
+// ============================================================================
+// ADMIN DASHBOARD STATISTICS
+// ============================================================================
+
+/**
+ * Get admin dashboard statistics
+ * GET /api/admin/stats
+ */
+router.get('/stats', async (req: Request, res: Response, next: NextFunction) => {
+  try {
+    // Get scraping job statistics
+    const scrapingStats = await pool.query(`
+      SELECT 
+        COUNT(*) as total_jobs,
+        COUNT(*) FILTER (WHERE status = 'completed') as completed_jobs,
+        COUNT(*) FILTER (WHERE status = 'running') as running_jobs,
+        COUNT(*) FILTER (WHERE status = 'failed') as failed_jobs,
+        SUM(venues_found) as total_venues_found,
+        SUM(venues_added) as total_venues_added,
+        SUM(venues_updated) as total_venues_updated,
+        SUM(venues_failed) as total_venues_failed
+      FROM scraping_jobs
+      WHERE created_at > NOW() - INTERVAL '30 days'
+    `);
+
+    // Get CSV import statistics
+    const importStats = await pool.query(`
+      SELECT 
+        COUNT(*) as total_batches,
+        COUNT(*) FILTER (WHERE status = 'completed') as completed_batches,
+        COUNT(*) FILTER (WHERE status = 'failed') as failed_batches,
+        SUM(total_rows) as total_rows_processed,
+        SUM(rows_successful) as total_rows_successful,
+        SUM(rows_failed) as total_rows_failed
+      FROM import_batches
+      WHERE created_at > NOW() - INTERVAL '30 days'
+    `);
+
+    // Get review queue statistics
+    const reviewStats = await pool.query(`
+      SELECT 
+        COUNT(*) as total_items,
+        COUNT(*) FILTER (WHERE status = 'pending') as pending_items,
+        COUNT(*) FILTER (WHERE status = 'in_review') as in_review_items,
+        COUNT(*) FILTER (WHERE status = 'approved') as approved_items,
+        COUNT(*) FILTER (WHERE status = 'rejected') as rejected_items,
+        COUNT(*) FILTER (WHERE requires_manual_review = true) as manual_review_items
+      FROM content_review_queue
+    `);
+
+    // Get recent activity (last 7 days)
+    const recentActivity = await pool.query(`
+      SELECT 
+        DATE(created_at) as date,
+        job_type,
+        COUNT(*) as count,
+        SUM(venues_added) as venues_added
+      FROM scraping_jobs
+      WHERE created_at > NOW() - INTERVAL '7 days'
+      GROUP BY DATE(created_at), job_type
+      ORDER BY date DESC, job_type
+    `);
+
+    return res.json({
+      success: true,
+      data: {
+        scraping: scrapingStats.rows[0] || {},
+        imports: importStats.rows[0] || {},
+        reviewQueue: reviewStats.rows[0] || {},
+        recentActivity: recentActivity.rows || []
+      }
+    });
+  } catch (error) {
+    logger.error('Error getting admin statistics', error);
+    return next(error);
+  }
+});
+
 export default router;
 
