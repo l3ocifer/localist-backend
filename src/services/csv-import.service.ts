@@ -3,7 +3,7 @@ import { Readable } from 'stream';
 import pool from '../config/database';
 import logger from './logger.service';
 import { v4 as uuidv4 } from 'uuid';
-import crypto from 'crypto';
+import { createHash } from 'crypto';
 
 export interface CSVImportConfig {
   mapping?: {
@@ -38,7 +38,7 @@ export class CSVImportService {
     config: CSVImportConfig
   ): Promise<string> {
     const batchId = uuidv4();
-    const fileHash = crypto.createHash('sha256').update(fileBuffer).digest('hex');
+    const fileHash = createHash('sha256').update(fileBuffer).digest('hex');
 
     try {
       // Create import batch record

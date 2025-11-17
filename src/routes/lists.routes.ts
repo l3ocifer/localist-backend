@@ -1,7 +1,9 @@
 import { Router, Request, Response } from 'express';
 import pool from '../config/database';
+import { TrendingService } from '../services/trending.service';
 
 const router = Router();
+const trendingService = TrendingService.getInstance();
 
 router.get('/', async (req: Request, res: Response) => {
   const { featured, city, limit = 20, offset = 0 } = req.query;
@@ -43,6 +45,56 @@ router.get('/', async (req: Request, res: Response) => {
   } catch (error) {
     console.error('Get lists error:', error);
     return res.status(500).json({ error: 'Failed to fetch lists' });
+  }
+});
+
+// Trending lists endpoint
+router.get('/trending', async (req: Request, res: Response) => {
+  const { city, limit = 10 } = req.query;
+  
+  try {
+    const trendingLists = await trendingService.getTrendingLists(
+      city as string | undefined,
+      Number(limit)
+    );
+    
+    // Enrich with venue data
+    const enrichedLists = await Promise.all(
+      trendingLists.map(async (list) => {
+        const listDetails = await pool.query(
+          'SELECT * FROM user_lists WHERE id = $1',
+          [list.id]
+        );
+        
+        if (listDetails.rows.length === 0) return null;
+        
+        const venueIds = listDetails.rows[0].venue_ids || [];
+        let venues = [];
+        
+        if (venueIds.length > 0) {
+          const venuesResult = await pool.query(
+            `SELECT id, name, category, cuisine, price_range, rating, image_url
+             FROM venues 
+             WHERE id = ANY($1::text[])
+             LIMIT 5`,
+            [venueIds]
+          );
+          venues = venuesResult.rows;
+        }
+        
+        return {
+          ...list,
+          venues,
+        };
+      })
+    );
+    
+    return res.json({
+      lists: enrichedLists.filter(Boolean),
+    });
+  } catch (error) {
+    console.error('Get trending lists error:', error);
+    return res.status(500).json({ error: 'Failed to fetch trending lists' });
   }
 });
 
