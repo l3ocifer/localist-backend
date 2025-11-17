@@ -151,7 +151,7 @@ export class ReviewQueueService {
       const result = await pool.query(
         `UPDATE content_review_queue 
          SET status = $1, reviewed_by = $2, reviewed_at = NOW(), review_notes = $3
-         WHERE id = $4 AND status = 'pending' OR status = 'in_review'`,
+         WHERE id = $4 AND (status = 'pending' OR status = 'in_review')`,
         ['approved', reviewedBy, notes || null, queueId]
       );
 
@@ -175,7 +175,7 @@ export class ReviewQueueService {
       const result = await pool.query(
         `UPDATE content_review_queue 
          SET status = $1, reviewed_by = $2, reviewed_at = NOW(), review_notes = $3
-         WHERE id = $4 AND status = 'pending' OR status = 'in_review'`,
+         WHERE id = $4 AND (status = 'pending' OR status = 'in_review')`,
         ['rejected', reviewedBy, notes || null, queueId]
       );
 

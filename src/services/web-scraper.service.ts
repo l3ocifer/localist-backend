@@ -38,17 +38,44 @@ export class WebScraperService {
   }
 
   /**
-   * Fetch and parse HTML page
+   * Fetch and parse HTML page with retry logic
    */
-  async fetchPage(url: string): Promise<cheerio.CheerioAPI> {
-    try {
-      const response = await this.httpClient.get(url);
-      const $ = cheerio.load(response.data);
-      return $ as unknown as cheerio.CheerioAPI;
-    } catch (error) {
-      logger.error(`Failed to fetch page: ${url}`, error);
-      throw error;
+  async fetchPage(url: string, retries: number = 3): Promise<cheerio.CheerioAPI> {
+    let lastError: any;
+    
+    for (let attempt = 1; attempt <= retries; attempt++) {
+      try {
+        const response = await this.httpClient.get(url, {
+          timeout: 30000,
+          validateStatus: (status) => status >= 200 && status < 400
+        });
+        
+        if (!response.data) {
+          throw new Error('Empty response body');
+        }
+        
+        const $ = cheerio.load(response.data);
+        return $ as unknown as cheerio.CheerioAPI;
+      } catch (error: any) {
+        lastError = error;
+        
+        // Don't retry on 4xx errors (client errors)
+        if (error.response?.status >= 400 && error.response?.status < 500) {
+          logger.error(`Client error fetching ${url}: ${error.response.status}`);
+          throw error;
+        }
+        
+        // Retry on network errors or 5xx errors
+        if (attempt < retries) {
+          const delay = attempt * 2000; // Exponential backoff: 2s, 4s, 6s
+          logger.warn(`Failed to fetch ${url} (attempt ${attempt}/${retries}), retrying in ${delay}ms...`);
+          await this.delay(delay);
+        }
+      }
     }
+    
+    logger.error(`Failed to fetch page after ${retries} attempts: ${url}`, lastError);
+    throw lastError;
   }
 
   /**
@@ -59,10 +86,87 @@ export class WebScraperService {
   }
 
   /**
-   * Save scraped venue to database (venues table)
+   * Extract cuisine type from text (shared across all scrapers)
    */
-  protected async saveVenue(venue: ScrapedVenueData, cityId: string): Promise<boolean> {
+  protected extractCuisine(text: string): string | undefined {
+    if (!text) return undefined;
+    
+    const cuisineKeywords: { [key: string]: string } = {
+      'italian': 'Italian',
+      'mexican': 'Mexican',
+      'japanese': 'Japanese',
+      'chinese': 'Chinese',
+      'french': 'French',
+      'american': 'American',
+      'mediterranean': 'Mediterranean',
+      'thai': 'Thai',
+      'indian': 'Indian',
+      'korean': 'Korean',
+      'spanish': 'Spanish',
+      'greek': 'Greek',
+      'middle eastern': 'Middle Eastern',
+      'vietnamese': 'Vietnamese',
+      'sushi': 'Japanese',
+      'pizza': 'Italian',
+      'bbq': 'American',
+      'steakhouse': 'American',
+      'seafood': 'Seafood'
+    };
+
+    const lowerText = text.toLowerCase();
+    for (const [keyword, cuisine] of Object.entries(cuisineKeywords)) {
+      if (lowerText.includes(keyword)) {
+        return cuisine;
+      }
+    }
+
+    return undefined;
+  }
+
+  /**
+   * Normalize phone number
+   */
+  protected normalizePhone(phone: string | undefined): string | null {
+    if (!phone) return null;
+    
+    // Remove all non-digit characters except +
+    const cleaned = phone.replace(/[^\d+]/g, '');
+    
+    // Basic validation - must have at least 10 digits
+    const digits = cleaned.replace(/\D/g, '');
+    if (digits.length < 10) return null;
+    
+    return cleaned;
+  }
+
+  /**
+   * Normalize address
+   */
+  protected normalizeAddress(address: string | undefined): string | null {
+    if (!address) return null;
+    
+    // Trim and normalize whitespace
+    const normalized = address.trim().replace(/\s+/g, ' ');
+    
+    // Remove common address artifacts
+    return normalized.length > 5 ? normalized : null;
+  }
+
+  /**
+   * Save scraped venue to database (venues table)
+   * Returns: { isNew: boolean, success: boolean }
+   */
+  protected async saveVenue(venue: ScrapedVenueData, cityId: string): Promise<{ isNew: boolean; success: boolean }> {
     try {
+      // Validate required fields
+      if (!venue.name || venue.name.trim().length < 2) {
+        logger.warn(`Skipping venue with invalid name: ${venue.name}`);
+        return { isNew: false, success: false };
+      }
+
+      // Normalize venue name
+      const normalizedName = venue.name.trim();
+
       // Check if venue already exists
       let existing;
       
@@ -71,41 +175,44 @@ export class WebScraperService {
           `SELECT id FROM venues
            WHERE city_id = $1
            AND (
-             (LOWER(name) = LOWER($2)) OR
+             (LOWER(TRIM(name)) = LOWER($2)) OR
              (coordinates IS NOT NULL AND
               ABS((coordinates->>'lat')::float - $3) < 0.001 AND
               ABS((coordinates->>'lng')::float - $4) < 0.001)
-           )`,
-          [cityId, venue.name, venue.coordinates.lat, venue.coordinates.lng]
+           )
+           LIMIT 1`,
+          [cityId, normalizedName, venue.coordinates.lat, venue.coordinates.lng]
         );
       } else {
         existing = await pool.query(
-          'SELECT id FROM venues WHERE LOWER(name) = LOWER($1) AND city_id = $2',
-          [venue.name, cityId]
+          'SELECT id FROM venues WHERE LOWER(TRIM(name)) = LOWER($1) AND city_id = $2 LIMIT 1',
+          [normalizedName, cityId]
         );
       }
 
       if (existing.rows.length > 0) {
-        // Update existing venue
+        // Update existing venue (only update non-null fields)
         await pool.query(
           `UPDATE venues SET
             rating = COALESCE($1, rating),
-            phone = COALESCE($2, phone),
-            website = COALESCE($3, website),
-            image_url = COALESCE($4, image_url),
-            description = COALESCE($5, description),
+            phone = COALESCE(NULLIF($2, ''), phone),
+            website = COALESCE(NULLIF($3, ''), website),
+            image_url = COALESCE(NULLIF($4, ''), image_url),
+            description = COALESCE(NULLIF($5, ''), description),
+            address = COALESCE(NULLIF($6, ''), address),
             updated_at = NOW()
-          WHERE id = $6`,
+          WHERE id = $7`,
           [
-            venue.rating,
-            venue.phone,
-            venue.website,
-            venue.imageUrl,
-            venue.description,
+            venue.rating || null,
+            this.normalizePhone(venue.phone),
+            venue.website ? this.normalizeUrl(venue.website, venue.sourceUrl) : null,
+            venue.imageUrl ? this.normalizeUrl(venue.imageUrl, venue.sourceUrl) : null,
+            venue.description || null,
+            this.normalizeAddress(venue.address),
             existing.rows[0].id
           ]
         );
-        return false; // Not a new venue
+        return { isNew: false, success: true };
       }
 
       // Insert new venue
@@ -117,27 +224,65 @@ export class WebScraperService {
         ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)`,
         [
           id,
-          venue.name,
+          normalizedName,
           cityId,
           venue.category || 'restaurant',
-          venue.cuisine,
+          venue.cuisine || null,
           venue.priceRange || '$$',
-          venue.description,
-          venue.address,
-          venue.phone,
-          venue.website,
-          venue.imageUrl,
-          venue.rating,
+          venue.description || null,
+          venue.address || null,
+          venue.phone || null,
+          venue.website ? this.normalizeUrl(venue.website) : null,
+          venue.imageUrl ? this.normalizeUrl(venue.imageUrl) : null,
+          venue.rating || null,
           venue.coordinates ? JSON.stringify(venue.coordinates) : null
         ]
       );
 
-      logger.info(`Saved venue: ${venue.name} from web scraping`);
-      return true;
+      logger.debug(`Saved new venue: ${normalizedName} from web scraping`);
+      return { isNew: true, success: true };
     } catch (error) {
       logger.error(`Failed to save venue ${venue.name}`, error);
-      return false;
+      return { isNew: false, success: false };
     }
+  }
+
+  /**
+   * Normalize URL (handle relative URLs and validate)
+   */
+  protected normalizeUrl(url: string | undefined, baseUrl?: string): string | null {
+    if (!url || url.trim().length === 0) return null;
+    
+    const trimmed = url.trim();
+    
+    // Already absolute URL - validate format
+    if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) {
+      try {
+        new URL(trimmed);
+        return trimmed;
+      } catch {
+        logger.warn(`Invalid absolute URL: ${trimmed}`);
+        return null;
+      }
+    }
+    
+    // Relative URL - prepend base URL if provided
+    if (baseUrl && trimmed.startsWith('/')) {
+      try {
+        const base = new URL(baseUrl);
+        return new URL(trimmed, base.origin).toString();
+      } catch {
+        logger.warn(`Failed to resolve relative URL: ${trimmed} with base: ${baseUrl}`);
+        return null;
+      }
+    }
+    
+    // Protocol-relative URL (//example.com)
+    if (trimmed.startsWith('//')) {
+      return `https:${trimmed}`;
+    }
+    
+    return null;
   }
 }
 
@@ -148,7 +293,7 @@ export class EaterScraper extends WebScraperService {
   /**
    * Scrape Eater city list and save to database
    */
-  async scrapeCityList(citySlug: string, cityId: string): Promise<{ found: number; saved: number }> {
+  async scrapeCityList(citySlug: string, cityId: string): Promise<{ found: number; saved: number; updated: number; failed: number }> {
     const venues: ScrapedVenueData[] = [];
     const url = `https://www.eater.com/maps/${citySlug}`;
 
@@ -187,18 +332,21 @@ export class EaterScraper extends WebScraperService {
             cityId
           });
         } catch (error) {
-          logger.warn(`Failed to parse venue element`, error);
+          logger.warn(`Failed to parse venue element in Eater scraper`, error);
         }
       });
 
       // If no venues found with expected selectors, try alternative patterns
       if (venues.length === 0) {
         logger.warn(`No venues found with standard selectors for ${citySlug}, trying alternatives`);
-        // Try alternative selectors
+        // Try alternative selectors - look for headings that might be venue names
         $('h2, h3').each((index, element) => {
           const $el = $(element);
           const name = $el.text().trim();
-          if (name && name.length > 2 && name.length < 100) {
+          // Filter out common non-venue headings
+          const skipPatterns = ['about', 'contact', 'menu', 'hours', 'location', 'directions', 'reviews'];
+          const lowerName = name.toLowerCase();
+          if (name && name.length > 2 && name.length < 100 && !skipPatterns.some(pattern => lowerName.includes(pattern))) {
             venues.push({
               name,
               sourceUrl: url,
@@ -212,42 +360,29 @@ export class EaterScraper extends WebScraperService {
 
       // Save venues to database
       let saved = 0;
+      let updated = 0;
+      let failed = 0;
       for (const venue of venues) {
-        const wasNew = await this.saveVenue(venue, cityId);
-        if (wasNew) saved++;
+        const result = await this.saveVenue(venue, cityId);
+        if (result.success) {
+          if (result.isNew) {
+            saved++;
+          } else {
+            updated++;
+          }
+        } else {
+          failed++;
+        }
       }
 
-      logger.info(`Eater scraping complete: ${venues.length} found, ${saved} saved for ${citySlug}`);
-      return { found: venues.length, saved };
+      logger.info(`Eater scraping complete: ${venues.length} found, ${saved} saved, ${updated} updated, ${failed} failed for ${citySlug}`);
+      return { found: venues.length, saved, updated, failed };
     } catch (error) {
       logger.error(`Failed to scrape Eater for ${citySlug}`, error);
-      return { found: venues.length, saved: 0 };
+      return { found: venues.length, saved: 0, updated: 0, failed: 0 };
     }
   }
 
-  private extractCuisine(text: string): string | undefined {
-    const cuisineKeywords: { [key: string]: string } = {
-      'italian': 'Italian',
-      'mexican': 'Mexican',
-      'japanese': 'Japanese',
-      'chinese': 'Chinese',
-      'french': 'French',
-      'american': 'American',
-      'mediterranean': 'Mediterranean',
-      'thai': 'Thai',
-      'indian': 'Indian',
-      'korean': 'Korean'
-    };
-
-    const lowerText = text.toLowerCase();
-    for (const [keyword, cuisine] of Object.entries(cuisineKeywords)) {
-      if (lowerText.includes(keyword)) {
-        return cuisine;
-      }
-    }
-
-    return undefined;
-  }
 }
 
 /**
@@ -257,7 +392,7 @@ export class InfatuationScraper extends WebScraperService {
   /**
    * Scrape Infatuation city list and save to database
    */
-  async scrapeCityList(citySlug: string, cityId: string): Promise<{ found: number; saved: number }> {
+  async scrapeCityList(citySlug: string, cityId: string): Promise<{ found: number; saved: number; updated: number; failed: number }> {
     const venues: ScrapedVenueData[] = [];
     const url = `https://www.theinfatuation.com/${citySlug}/guides`;
 
@@ -301,43 +436,29 @@ export class InfatuationScraper extends WebScraperService {
 
       // Save venues to database
       let saved = 0;
+      let updated = 0;
+      let failed = 0;
       for (const venue of venues) {
-        const wasNew = await this.saveVenue(venue, cityId);
-        if (wasNew) saved++;
+        const result = await this.saveVenue(venue, cityId);
+        if (result.success) {
+          if (result.isNew) {
+            saved++;
+          } else {
+            updated++;
+          }
+        } else {
+          failed++;
+        }
       }
 
-      logger.info(`Infatuation scraping complete: ${venues.length} found, ${saved} saved for ${citySlug}`);
-      return { found: venues.length, saved };
+      logger.info(`Infatuation scraping complete: ${venues.length} found, ${saved} saved, ${updated} updated, ${failed} failed for ${citySlug}`);
+      return { found: venues.length, saved, updated, failed };
     } catch (error) {
       logger.error(`Failed to scrape Infatuation for ${citySlug}`, error);
-      return { found: venues.length, saved: 0 };
+      return { found: venues.length, saved: 0, updated: 0, failed: 0 };
     }
   }
 
-  private extractCuisine(text: string): string | undefined {
-    // Similar cuisine extraction as Eater
-    const cuisineKeywords: { [key: string]: string } = {
-      'italian': 'Italian',
-      'mexican': 'Mexican',
-      'japanese': 'Japanese',
-      'chinese': 'Chinese',
-      'french': 'French',
-      'american': 'American',
-      'mediterranean': 'Mediterranean',
-      'thai': 'Thai',
-      'indian': 'Indian',
-      'korean': 'Korean'
-    };
-
-    const lowerText = text.toLowerCase();
-    for (const [keyword, cuisine] of Object.entries(cuisineKeywords)) {
-      if (lowerText.includes(keyword)) {
-        return cuisine;
-      }
-    }
-
-    return undefined;
-  }
 }
 
 /**
@@ -347,7 +468,7 @@ export class ThrillistScraper extends WebScraperService {
   /**
    * Scrape Thrillist city list and save to database
    */
-  async scrapeCityList(citySlug: string, cityId: string): Promise<{ found: number; saved: number }> {
+  async scrapeCityList(citySlug: string, cityId: string): Promise<{ found: number; saved: number; updated: number; failed: number }> {
     const venues: ScrapedVenueData[] = [];
     const url = `https://www.thrillist.com/eat/${citySlug}`;
 
@@ -391,42 +512,43 @@ export class ThrillistScraper extends WebScraperService {
 
       // Save venues to database
       let saved = 0;
+      let updated = 0;
       for (const venue of venues) {
-        const wasNew = await this.saveVenue(venue, cityId);
-        if (wasNew) saved++;
+        const result = await this.saveVenue(venue, cityId);
+        if (result.success) {
+          if (result.isNew) {
+            saved++;
+          } else {
+            updated++;
+          }
+        }
       }
 
-      logger.info(`Thrillist scraping complete: ${venues.length} found, ${saved} saved for ${citySlug}`);
-      return { found: venues.length, saved };
+      // Save venues to database
+      let saved = 0;
+      let updated = 0;
+      let failed = 0;
+      for (const venue of venues) {
+        const result = await this.saveVenue(venue, cityId);
+        if (result.success) {
+          if (result.isNew) {
+            saved++;
+          } else {
+            updated++;
+          }
+        } else {
+          failed++;
+        }
+      }
+
+      logger.info(`Thrillist scraping complete: ${venues.length} found, ${saved} saved, ${updated} updated, ${failed} failed for ${citySlug}`);
+      return { found: venues.length, saved, updated, failed };
     } catch (error) {
       logger.error(`Failed to scrape Thrillist for ${citySlug}`, error);
-      return { found: venues.length, saved: 0 };
+      return { found: venues.length, saved: 0, updated: 0, failed: 0 };
     }
   }
 
-  private extractCuisine(text: string): string | undefined {
-    // Similar cuisine extraction
-    const cuisineKeywords: { [key: string]: string } = {
-      'italian': 'Italian',
-      'mexican': 'Mexican',
-      'japanese': 'Japanese',
-      'chinese': 'Chinese',
-      'french': 'French',
-      'american': 'American',
-      'mediterranean': 'Mediterranean',
-      'thai': 'Thai',
-      'indian': 'Indian',
-      'korean': 'Korean'
-    };
-
-    const lowerText = text.toLowerCase();
-    for (const [keyword, cuisine] of Object.entries(cuisineKeywords)) {
-      if (lowerText.includes(keyword)) {
-        return cuisine;
-      }
-    }
-
-    return undefined;
-  }
 }
+
 

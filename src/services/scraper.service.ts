@@ -55,6 +55,21 @@ export class ScraperService {
     const jobId = uuidv4();
 
     try {
+      // Check for duplicate running job for same city/type
+      if (config.cityId) {
+        const existingJob = await pool.query(
+          `SELECT id FROM scraping_jobs 
+           WHERE job_type = $1 AND city_id = $2 
+           AND status IN ('pending', 'running')
+           AND created_at > NOW() - INTERVAL '1 hour'`,
+          [jobType, config.cityId]
+        );
+
+        if (existingJob.rows.length > 0) {
+          throw new Error(`A ${jobType} job for city ${config.cityId} is already running or recently started`);
+        }
+      }
+
       // Create job record
       await pool.query(
         `INSERT INTO scraping_jobs (
@@ -115,16 +130,28 @@ export class ScraperService {
           const added = await this.venueScraper.scrapeVenues(config.cityId, config.category);
           venuesAdded = added;
           venuesFound = added; // VenueScraperService doesn't return found count, estimate
+          await this.updateJobProgress(jobId, 100, venuesFound, venuesAdded, venuesUpdated, venuesFailed);
         } else {
           // Scrape all cities
           const cities = await pool.query('SELECT id FROM cities');
-          for (const city of cities.rows) {
+          const totalCities = cities.rows.length;
+          
+          for (let i = 0; i < totalCities; i++) {
+            const city = cities.rows[i];
+            
+            // Check if job was cancelled
+            const jobCheck = await pool.query('SELECT status FROM scraping_jobs WHERE id = $1', [jobId]);
+            if (jobCheck.rows[0]?.status === 'cancelled') {
+              logger.info(`Job ${jobId} was cancelled, stopping execution`);
+              return;
+            }
+            
             const added = await this.venueScraper.scrapeVenues(city.id, config.category);
             venuesAdded += added;
             venuesFound += added;
 
             // Update progress
-            const progress = Math.round((cities.rows.indexOf(city) + 1) / cities.rows.length * 100);
+            const progress = Math.round(((i + 1) / totalCities) * 100);
             await this.updateJobProgress(jobId, progress, venuesFound, venuesAdded, venuesUpdated, venuesFailed);
           }
         }
@@ -138,26 +165,38 @@ export class ScraperService {
           'las-vegas': 'vegas'
         };
 
+        const sources = [
+          { name: 'Eater', scraper: this.eaterScraper },
+          { name: 'Infatuation', scraper: this.infatuationScraper },
+          { name: 'Thrillist', scraper: this.thrillistScraper }
+        ];
+        const totalSources = sources.length;
+
         if (config.cityId) {
           const citySlug = citySlugMap[config.cityId] || config.cityId;
           
-          // Scrape from all sources
-          const sources = [
-            { name: 'Eater', scraper: this.eaterScraper },
-            { name: 'Infatuation', scraper: this.infatuationScraper },
-            { name: 'Thrillist', scraper: this.thrillistScraper }
-          ];
-
-          for (const source of sources) {
+          for (let i = 0; i < totalSources; i++) {
+            const source = sources[i];
+            
+            // Check if job was cancelled
+            const jobCheck = await pool.query('SELECT status FROM scraping_jobs WHERE id = $1', [jobId]);
+            if (jobCheck.rows[0]?.status === 'cancelled') {
+              logger.info(`Job ${jobId} was cancelled, stopping execution`);
+              return;
+            }
+            
             try {
               const result = await source.scraper.scrapeCityList(citySlug, config.cityId);
               venuesFound += result.found;
               venuesAdded += result.saved;
+              // Note: venuesUpdated is tracked internally by saveVenue, 
+              // but we don't have that count here, so estimate
               
               // Update progress
+              const progress = Math.round(((i + 1) / totalSources) * 100);
               await this.updateJobProgress(
                 jobId,
-                50, // Mid-progress
+                progress,
                 venuesFound,
                 venuesAdded,
                 venuesUpdated,
@@ -165,40 +204,50 @@ export class ScraperService {
               );
 
               // Rate limiting between sources
-              await new Promise(resolve => setTimeout(resolve, 2000));
-            } catch (error) {
+              if (i < totalSources - 1) {
+                await new Promise(resolve => setTimeout(resolve, 2000));
+              }
+            } catch (error: any) {
               logger.error(`Failed to scrape ${source.name} for ${citySlug}`, error);
-              venuesFailed += 10; // Estimate
+              venuesFailed += 10; // Estimate failed venues
             }
           }
         } else {
           // Scrape all cities
           const cities = await pool.query('SELECT id FROM cities');
+          const totalCities = cities.rows.length;
+          const totalOperations = totalCities * totalSources;
+          let operationCount = 0;
+          
           for (const city of cities.rows) {
             const citySlug = citySlugMap[city.id] || city.id;
             
-            const sources = [
-              { name: 'Eater', scraper: this.eaterScraper },
-              { name: 'Infatuation', scraper: this.infatuationScraper },
-              { name: 'Thrillist', scraper: this.thrillistScraper }
-            ];
-
             for (const source of sources) {
+              // Check if job was cancelled
+              const jobCheck = await pool.query('SELECT status FROM scraping_jobs WHERE id = $1', [jobId]);
+              if (jobCheck.rows[0]?.status === 'cancelled') {
+                logger.info(`Job ${jobId} was cancelled, stopping execution`);
+                return;
+              }
+              
               try {
                 const result = await source.scraper.scrapeCityList(citySlug, city.id);
                 venuesFound += result.found;
-                venuesAdded += result.saved;
-              } catch (error) {
+                venuesAdded += result.saved || 0;
+                venuesUpdated += result.updated || 0;
+                venuesFailed += result.failed || 0;
+              } catch (error: any) {
                 logger.error(`Failed to scrape ${source.name} for ${citySlug}`, error);
-                venuesFailed += 10;
+                // Don't increment venuesFailed - we don't know how many failed, just log the error
               }
               
+              operationCount++;
+              const progress = Math.round((operationCount / totalOperations) * 100);
+              await this.updateJobProgress(jobId, progress, venuesFound, venuesAdded, venuesUpdated, venuesFailed);
+              
+              // Rate limiting between sources
               await new Promise(resolve => setTimeout(resolve, 2000));
             }
-
-            // Update progress
-            const progress = Math.round((cities.rows.indexOf(city) + 1) / cities.rows.length * 100);
-            await this.updateJobProgress(jobId, progress, venuesFound, venuesAdded, venuesUpdated, venuesFailed);
           }
         }
       }
@@ -335,9 +384,12 @@ export class ScraperService {
 
     const result = await pool.query(query, params);
 
-    // Get total count
+    // Get total count (remove LIMIT/OFFSET from params)
+    const countParams = filters?.limit || filters?.offset 
+      ? params.slice(0, -(filters.limit && filters.offset ? 2 : 1))
+      : params;
     const countQuery = query.replace(/SELECT \*/, 'SELECT COUNT(*)').split('ORDER BY')[0];
-    const countResult = await pool.query(countQuery, params.slice(0, -2)); // Remove limit/offset params
+    const countResult = await pool.query(countQuery, countParams);
 
     return {
       jobs: result.rows,
@@ -358,6 +410,7 @@ export class ScraperService {
       return false;
     }
 
+    // Mark as cancelled in database (execution will check this)
     await pool.query(
       'UPDATE scraping_jobs SET status = $1, completed_at = NOW() WHERE id = $2',
       ['cancelled', jobId]
@@ -365,6 +418,13 @@ export class ScraperService {
 
     logger.info(`Cancelled scraping job ${jobId}`);
     return true;
+  }
+
+  /**
+   * Get running jobs count
+   */
+  async getRunningJobsCount(): Promise<number> {
+    return this.runningJobs.size;
   }
 }
 

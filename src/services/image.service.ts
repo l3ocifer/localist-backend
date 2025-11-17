@@ -37,18 +37,37 @@ export class ImageService {
    */
   async uploadFromUrl(imageUrl: string, venueId?: string): Promise<ImageUploadResult> {
     try {
-      // Download image
+      // Validate URL
+      if (!imageUrl || (!imageUrl.startsWith('http://') && !imageUrl.startsWith('https://'))) {
+        throw new Error('Invalid image URL');
+      }
+
+      // Download image with size limit (10MB)
+      const maxSize = 10 * 1024 * 1024;
       const response = await axios.get(imageUrl, {
         responseType: 'arraybuffer',
-        timeout: 30000
+        timeout: 30000,
+        maxContentLength: maxSize,
+        validateStatus: (status) => status >= 200 && status < 400
       });
 
       const imageBuffer = Buffer.from(response.data);
+      
+      // Check size
+      if (imageBuffer.length > maxSize) {
+        throw new Error(`Image too large: ${imageBuffer.length} bytes (max: ${maxSize})`);
+      }
+
+      // Validate content type
       const contentType = response.headers['content-type'] || 'image/jpeg';
+      const validTypes = ['image/jpeg', 'image/jpg', 'image/png', 'image/webp', 'image/gif'];
+      if (!validTypes.some(type => contentType.includes(type))) {
+        logger.warn(`Unexpected content type: ${contentType} for URL: ${imageUrl}`);
+      }
 
       // Process and upload
       return await this.uploadImage(imageBuffer, contentType, venueId);
-    } catch (error) {
+    } catch (error: any) {
       logger.error(`Failed to upload image from URL: ${imageUrl}`, error);
       throw error;
     }

@@ -464,12 +464,21 @@ router.post('/lists/:listId/share', async (req: AuthRequest, res: Response) => {
   try {
     // Verify list belongs to user
     const list = await pool.query(
-      'SELECT id, is_public FROM user_lists WHERE id = $1 AND user_id = $2',
+      'SELECT id, is_public, share_token FROM user_lists WHERE id = $1 AND user_id = $2',
       [listId, req.userId]
     );
     
     if (list.rows.length === 0) {
       return res.status(404).json({ error: 'List not found' });
+    }
+    
+    // Ensure list is public before sharing
+    if (!list.rows[0].is_public) {
+      // Make list public if generating share URL
+      await pool.query(
+        'UPDATE user_lists SET is_public = true WHERE id = $1',
+        [listId]
+      );
     }
     
     // Generate share token if doesn't exist
@@ -500,37 +509,74 @@ router.post('/lists/:listId/share', async (req: AuthRequest, res: Response) => {
 router.get('/export', async (req: AuthRequest, res: Response) => {
   try {
     // Get user data
-    const userResult = await pool.query(
-      'SELECT id, email, first_name, last_name, phone, preferences, created_at, updated_at FROM users WHERE id = $1',
-      [req.userId]
-    );
+    const [userResult, listsResult, favoritesResult, interactionsResult] = await Promise.all([
+      pool.query(
+        'SELECT id, email, first_name, last_name, phone, preferences, created_at, updated_at FROM users WHERE id = $1',
+        [req.userId]
+      ),
+      pool.query(
+        'SELECT id, name, description, venue_ids, is_public, created_at FROM user_lists WHERE user_id = $1 ORDER BY created_at DESC',
+        [req.userId]
+      ),
+      pool.query(
+        'SELECT venue_id, created_at FROM user_favorites WHERE user_id = $1 ORDER BY created_at DESC',
+        [req.userId]
+      ),
+      pool.query(
+        'SELECT venue_id, action, duration, rating, context, source, created_at FROM user_interactions WHERE user_id = $1 ORDER BY created_at DESC LIMIT 1000',
+        [req.userId]
+      )
+    ]);
 
-    const listsResult = await pool.query(
-      'SELECT id, name, description, venue_ids, is_public, created_at FROM user_lists WHERE user_id = $1',
-      [req.userId]
-    );
-
-    const favoritesResult = await pool.query(
-      'SELECT venue_id, created_at FROM user_favorites WHERE user_id = $1',
-      [req.userId]
-    );
-
-    const interactionsResult = await pool.query(
-      'SELECT venue_id, action, duration, rating, context, created_at FROM user_interactions WHERE user_id = $1 ORDER BY created_at DESC LIMIT 1000',
-      [req.userId]
-    );
+    if (userResult.rows.length === 0) {
+      return res.status(404).json({ error: 'User not found' });
+    }
 
     const exportData = {
-      user: userResult.rows[0],
-      lists: listsResult.rows,
-      favorites: favoritesResult.rows,
-      interactions: interactionsResult.rows,
+      user: {
+        id: userResult.rows[0].id,
+        email: userResult.rows[0].email,
+        firstName: userResult.rows[0].first_name,
+        lastName: userResult.rows[0].last_name,
+        phone: userResult.rows[0].phone,
+        preferences: userResult.rows[0].preferences,
+        createdAt: userResult.rows[0].created_at,
+        updatedAt: userResult.rows[0].updated_at,
+      },
+      lists: listsResult.rows.map(list => ({
+        id: list.id,
+        name: list.name,
+        description: list.description,
+        venueCount: Array.isArray(list.venue_ids) ? list.venue_ids.length : 0,
+        isPublic: list.is_public,
+        createdAt: list.created_at,
+      })),
+      favorites: favoritesResult.rows.map(fav => ({
+        venueId: fav.venue_id,
+        savedAt: fav.created_at,
+      })),
+      interactions: interactionsResult.rows.map(inter => ({
+        venueId: inter.venue_id,
+        action: inter.action,
+        duration: inter.duration,
+        rating: inter.rating,
+        context: inter.context,
+        source: inter.source,
+        timestamp: inter.created_at,
+      })),
       exportedAt: new Date().toISOString(),
+      recordCounts: {
+        lists: listsResult.rows.length,
+        favorites: favoritesResult.rows.length,
+        interactions: interactionsResult.rows.length,
+      }
     };
 
-    res.setHeader('Content-Type', 'application/json');
+    // Send as JSON download
+    const jsonString = JSON.stringify(exportData, null, 2);
+    res.setHeader('Content-Type', 'application/json; charset=utf-8');
     res.setHeader('Content-Disposition', `attachment; filename="localist-data-export-${Date.now()}.json"`);
-    return res.json(exportData);
+    return res.send(jsonString);
   } catch (error) {
     console.error('Export user data error:', error);
     return res.status(500).json({ error: 'Failed to export user data' });
@@ -540,7 +586,20 @@ router.get('/export', async (req: AuthRequest, res: Response) => {
 // Account deletion endpoint (GDPR compliant)
 router.delete('/account', async (req: AuthRequest, res: Response) => {
   try {
+    // Verify user exists
+    const userCheck = await pool.query('SELECT id FROM users WHERE id = $1', [req.userId]);
+    if (userCheck.rows.length === 0) {
+      return res.status(404).json({ error: 'User not found' });
+    }
+
     // Delete all user data (cascade deletes will handle related records)
+    // This will cascade delete:
+    // - user_lists (via ON DELETE CASCADE)
+    // - user_favorites (via ON DELETE CASCADE)
+    // - user_interactions (via ON DELETE CASCADE)
+    // - user_sessions (via ON DELETE CASCADE)
+    // - password_reset_tokens (via ON DELETE CASCADE)
+    // - list_views (user_id will be set to NULL)
     await pool.query('DELETE FROM users WHERE id = $1', [req.userId]);
 
     return res.json({ message: 'Account deleted successfully' });

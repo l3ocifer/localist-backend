@@ -99,13 +99,28 @@ export class CSVImportService {
       );
 
       const rows: CSVRow[] = [];
-      const stream = Readable.from(fileBuffer.toString());
+      
+      // Try to detect encoding - default to utf8
+      let fileContent: string;
+      try {
+        // Try UTF-8 first
+        fileContent = fileBuffer.toString('utf8');
+      } catch {
+        // Fallback to latin1 if UTF-8 fails
+        fileContent = fileBuffer.toString('latin1');
+      }
+      
+      const stream = Readable.from(fileContent);
 
       await new Promise<void>((resolve, reject) => {
         stream
           .pipe(csvParser())
           .on('data', (row: CSVRow) => {
-            rows.push(row);
+            // Skip completely empty rows
+            const hasData = Object.values(row).some(val => val && String(val).trim().length > 0);
+            if (hasData) {
+              rows.push(row);
+            }
           })
           .on('end', () => {
             resolve();
@@ -149,9 +164,11 @@ export class CSVImportService {
             rowsSuccessful++;
           }
 
-          // Update progress every 10 rows
-          if (rowsProcessed % 10 === 0) {
-            const progress = Math.round((rowsProcessed / dataRows.length) * 100);
+          // Update progress every 10 rows or at end
+          if (rowsProcessed % 10 === 0 || rowsProcessed === dataRows.length) {
+            const progress = dataRows.length > 0 
+              ? Math.round((rowsProcessed / dataRows.length) * 100)
+              : 0;
             await pool.query(
               `UPDATE import_batches 
                SET progress_percent = $1, rows_processed = $2, 
@@ -163,7 +180,7 @@ export class CSVImportService {
                 rowsProcessed,
                 rowsSuccessful,
                 rowsFailed,
-                JSON.stringify(validationErrors),
+                JSON.stringify(validationErrors.slice(-100)), // Keep last 100 errors
                 batchId
               ]
             );
@@ -220,19 +237,55 @@ export class CSVImportService {
     const mapping = config.mapping || {};
     const venue: any = {};
 
+    // Helper to safely get and trim field value
+    const getField = (fieldName: string | undefined): string | undefined => {
+      if (!fieldName || !row[fieldName]) return undefined;
+      const value = String(row[fieldName]).trim();
+      return value.length > 0 ? value : undefined;
+    };
+
     // Map fields based on configuration
-    if (mapping.name) venue.name = row[mapping.name];
-    if (mapping.address) venue.address = row[mapping.address];
-    if (mapping.city) venue.city = row[mapping.city];
-    if (mapping.category) venue.category = row[mapping.category];
-    if (mapping.cuisine) venue.cuisine = row[mapping.cuisine];
-    if (mapping.phone) venue.phone = row[mapping.phone];
-    if (mapping.website) venue.website = row[mapping.website];
-    if (mapping.description) venue.description = row[mapping.description];
-    if (mapping.price_range) venue.price_range = row[mapping.price_range];
-    if (mapping.rating) venue.rating = parseFloat(row[mapping.rating]) || null;
-    if (mapping.latitude) venue.latitude = parseFloat(row[mapping.latitude]) || null;
-    if (mapping.longitude) venue.longitude = parseFloat(row[mapping.longitude]) || null;
+    if (mapping.name) venue.name = getField(mapping.name);
+    if (mapping.address) venue.address = getField(mapping.address);
+    if (mapping.city) venue.city = getField(mapping.city);
+    if (mapping.category) venue.category = getField(mapping.category);
+    if (mapping.cuisine) venue.cuisine = getField(mapping.cuisine);
+    if (mapping.phone) venue.phone = getField(mapping.phone);
+    if (mapping.website) venue.website = getField(mapping.website);
+    if (mapping.description) venue.description = getField(mapping.description);
+    if (mapping.price_range) {
+      const priceRange = getField(mapping.price_range);
+      // Normalize price range format
+      if (priceRange) {
+        const normalized = priceRange.replace(/[^$]/g, '');
+        venue.price_range = normalized.length > 0 && normalized.length <= 4 ? normalized : '$$';
+      }
+    }
+    
+    // Parse numeric fields with validation
+    if (mapping.rating) {
+      const ratingStr = getField(mapping.rating);
+      if (ratingStr) {
+        const rating = parseFloat(ratingStr);
+        venue.rating = isNaN(rating) ? null : Math.max(0, Math.min(5, rating));
+      }
+    }
+    
+    if (mapping.latitude) {
+      const latStr = getField(mapping.latitude);
+      if (latStr) {
+        const lat = parseFloat(latStr);
+        venue.latitude = isNaN(lat) ? null : Math.max(-90, Math.min(90, lat));
+      }
+    }
+    
+    if (mapping.longitude) {
+      const lngStr = getField(mapping.longitude);
+      if (lngStr) {
+        const lng = parseFloat(lngStr);
+        venue.longitude = isNaN(lng) ? null : Math.max(-180, Math.min(180, lng));
+      }
+    }
 
     return venue;
   }
@@ -261,10 +314,15 @@ export class CSVImportService {
   }
 
   /**
-   * Import venue to database
+   * Import venue to database (check for duplicates by name/city)
    */
   private async importVenue(venue: any, cityId?: string): Promise<void> {
-    const venueId = uuidv4();
+    const normalizedName = venue.name.trim();
+    const targetCityId = cityId || venue.city;
+
+    if (!targetCityId) {
+      throw new Error('City ID is required for venue import');
+    }
 
     // Build coordinates if available
     let coordinates = null;
@@ -275,38 +333,66 @@ export class CSVImportService {
       });
     }
 
-    await pool.query(
-      `INSERT INTO venues (
-        id, name, city_id, category, cuisine, price_range, description,
-        address, phone, website, rating, coordinates
-      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
-      ON CONFLICT (id) DO UPDATE SET
-        name = EXCLUDED.name,
-        category = EXCLUDED.category,
-        cuisine = EXCLUDED.cuisine,
-        price_range = EXCLUDED.price_range,
-        description = EXCLUDED.description,
-        address = EXCLUDED.address,
-        phone = EXCLUDED.phone,
-        website = EXCLUDED.website,
-        rating = EXCLUDED.rating,
-        coordinates = EXCLUDED.coordinates,
-        updated_at = NOW()`,
-      [
-        venueId,
-        venue.name,
-        cityId || venue.city,
-        venue.category || 'restaurant',
-        venue.cuisine,
-        venue.price_range,
-        venue.description,
-        venue.address,
-        venue.phone,
-        venue.website,
-        venue.rating,
-        coordinates
-      ]
+    // Check if venue already exists
+    const existing = await pool.query(
+      `SELECT id FROM venues 
+       WHERE LOWER(TRIM(name)) = LOWER($1) AND city_id = $2 
+       LIMIT 1`,
+      [normalizedName, targetCityId]
     );
+
+    if (existing.rows.length > 0) {
+      // Update existing venue
+      await pool.query(
+        `UPDATE venues SET
+          category = COALESCE($1, category),
+          cuisine = COALESCE($2, cuisine),
+          price_range = COALESCE($3, price_range),
+          description = COALESCE(NULLIF($4, ''), description),
+          address = COALESCE(NULLIF($5, ''), address),
+          phone = COALESCE(NULLIF($6, ''), phone),
+          website = COALESCE(NULLIF($7, ''), website),
+          rating = COALESCE($8, rating),
+          coordinates = COALESCE($9, coordinates),
+          updated_at = NOW()
+        WHERE id = $10`,
+        [
+          venue.category || null,
+          venue.cuisine || null,
+          venue.price_range || null,
+          venue.description || null,
+          venue.address || null,
+          venue.phone || null,
+          venue.website || null,
+          venue.rating || null,
+          coordinates,
+          existing.rows[0].id
+        ]
+      );
+    } else {
+      // Insert new venue
+      const venueId = uuidv4();
+      await pool.query(
+        `INSERT INTO venues (
+          id, name, city_id, category, cuisine, price_range, description,
+          address, phone, website, rating, coordinates
+        ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)`,
+        [
+          venueId,
+          normalizedName,
+          targetCityId,
+          venue.category || 'restaurant',
+          venue.cuisine || null,
+          venue.price_range || '$$',
+          venue.description || null,
+          venue.address || null,
+          venue.phone || null,
+          venue.website || null,
+          venue.rating || null,
+          coordinates
+        ]
+      );
+    }
   }
 
   /**
