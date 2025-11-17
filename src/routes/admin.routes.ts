@@ -4,9 +4,14 @@ import { ScraperService } from '../services/scraper.service';
 import { CSVImportService } from '../services/csv-import.service';
 import { ImageService } from '../services/image.service';
 import { ReviewQueueService } from '../services/review-queue.service';
+import { authenticateAdmin } from '../middleware/auth.middleware';
+import pool from '../config/database';
 import logger from '../services/logger.service';
 
 const router = Router();
+
+// All admin routes require admin authentication
+router.use(authenticateAdmin);
 const scraperService = ScraperService.getInstance();
 const csvImportService = new CSVImportService();
 const imageService = ImageService.getInstance();

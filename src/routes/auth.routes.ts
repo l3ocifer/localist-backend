@@ -73,7 +73,7 @@ router.post('/login', [
 
   try {
     const user = await pool.query(
-      'SELECT id, email, password_hash, first_name, last_name, is_premium FROM users WHERE email = $1',
+      'SELECT id, email, password_hash, first_name, last_name, is_premium, is_admin FROM users WHERE email = $1',
       [email]
     );
 
@@ -91,7 +91,8 @@ router.post('/login', [
       { 
         userId: user.rows[0].id, 
         email: user.rows[0].email,
-        isPremium: user.rows[0].is_premium
+        isPremium: user.rows[0].is_premium,
+        isAdmin: user.rows[0].is_admin || false
       },
       JWT_SECRET,
       { expiresIn: '7d' }
@@ -111,7 +112,8 @@ router.post('/login', [
         email: user.rows[0].email,
         firstName: user.rows[0].first_name,
         lastName: user.rows[0].last_name,
-        isPremium: user.rows[0].is_premium
+        isPremium: user.rows[0].is_premium,
+        isAdmin: user.rows[0].is_admin || false
       },
       token
     });
