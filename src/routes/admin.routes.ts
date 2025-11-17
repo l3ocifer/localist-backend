@@ -488,7 +488,7 @@ router.post('/review-queue/:id/duplicate', async (req: Request, res: Response, n
  * Get admin dashboard statistics
  * GET /api/admin/stats
  */
-router.get('/stats', async (req: Request, res: Response, next: NextFunction) => {
+router.get('/stats', async (_req: Request, res: Response, next: NextFunction) => {
   try {
     // Get scraping job statistics
     const scrapingStats = await pool.query(`
