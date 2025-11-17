@@ -513,20 +513,6 @@ export class ThrillistScraper extends WebScraperService {
       // Save venues to database
       let saved = 0;
       let updated = 0;
-      for (const venue of venues) {
-        const result = await this.saveVenue(venue, cityId);
-        if (result.success) {
-          if (result.isNew) {
-            saved++;
-          } else {
-            updated++;
-          }
-        }
-      }
-
-      // Save venues to database
-      let saved = 0;
-      let updated = 0;
       let failed = 0;
       for (const venue of venues) {
         const result = await this.saveVenue(venue, cityId);
