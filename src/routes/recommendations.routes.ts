@@ -197,9 +197,14 @@ router.post('/track', authenticateToken, async (req: AuthRequest, res: Response)
 
   try {
     // Extract request metadata
-    const ipAddress = req.ip || req.headers['x-forwarded-for'] || req.socket.remoteAddress || null;
-    const userAgent = req.headers['user-agent'] || null;
-    const referrer = req.headers['referer'] || req.headers['referrer'] || null;
+    const forwardedFor = req.headers['x-forwarded-for'];
+    const ipAddress = req.ip || 
+      (Array.isArray(forwardedFor) ? forwardedFor[0] : forwardedFor) || 
+      req.socket.remoteAddress || 
+      undefined;
+    const userAgent = req.headers['user-agent'] || undefined;
+    const referrerHeader = req.headers['referer'] || req.headers['referrer'];
+    const referrer = Array.isArray(referrerHeader) ? referrerHeader[0] : referrerHeader || undefined;
 
     await recommendationService.trackInteraction(
       req.userId!,
@@ -214,7 +219,7 @@ router.post('/track', authenticateToken, async (req: AuthRequest, res: Response)
         dayOfWeek,
         ipAddress,
         userAgent,
-        referrer: referrer as string | undefined,
+        referrer,
         listId,
         cityId,
         sessionId,

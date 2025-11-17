@@ -10,12 +10,13 @@ export class CacheService {
     this.redis = new Redis({
       host: config.redis.host,
       port: config.redis.port,
-      password: process.env.REDIS_PASSWORD,
+      password: config.redis.password,
       retryStrategy: (times) => {
         const delay = Math.min(times * 50, 2000);
         return delay;
       },
       maxRetriesPerRequest: 3,
+      lazyConnect: true, // Don't fail on startup if Redis is unavailable
     });
 
     this.redis.on('error', (err) => {

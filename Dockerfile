@@ -1,5 +1,8 @@
 FROM node:20-alpine
 
+# Install PostgreSQL client for migrations
+RUN apk add --no-cache postgresql-client
+
 WORKDIR /app
 
 # Copy package files
@@ -17,8 +20,12 @@ RUN npm run build
 # Remove dev dependencies
 RUN npm prune --production
 
-# Expose port
-EXPOSE 3001
+# Expose ports
+EXPOSE 3001 9090
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=3s --start-period=60s --retries=3 \
+  CMD node -e "require('http').get('http://localhost:3001/health', (r) => {process.exit(r.statusCode === 200 ? 0 : 1)})"
 
 # Start the application
 CMD ["npm", "start"]

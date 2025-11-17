@@ -75,7 +75,7 @@ class EmailService {
     }
   }
 
-  async sendPasswordResetEmail(email: string, resetToken: string, resetUrl: string): Promise<boolean> {
+  async sendPasswordResetEmail(email: string, _resetToken: string, resetUrl: string): Promise<boolean> {
     const html = `
       <!DOCTYPE html>
       <html>
