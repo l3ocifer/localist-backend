@@ -1,0 +1,58 @@
+# External Services in Default Namespace
+# These services point to PostgreSQL and Redis running as Docker containers on the homelab
+# These are shared infrastructure services used by multiple applications
+# Apply this separately: kubectl apply -f external-services-default.yaml
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: external-postgres
+  namespace: default
+spec:
+  type: ClusterIP
+  clusterIP: None  # Headless service
+  ports:
+  - port: 5432
+    targetPort: 5432
+    protocol: TCP
+
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: external-postgres
+  namespace: default
+subsets:
+- addresses:
+  - ip: 192.168.1.200  # Host IP where PostgreSQL container is exposed
+  ports:
+  - port: 5432
+    protocol: TCP
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: external-redis
+  namespace: default
+spec:
+  type: ClusterIP
+  clusterIP: None  # Headless service
+  ports:
+  - port: 6379
+    targetPort: 6379
+    protocol: TCP
+
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: external-redis
+  namespace: default
+subsets:
+- addresses:
+  - ip: 192.168.1.200  # Host IP where Redis container is exposed
+  ports:
+  - port: 6379
+    protocol: TCP
+

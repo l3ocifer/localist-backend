@@ -171,7 +171,20 @@ router.post('/cold-start', async (req: Request, res: Response) => {
  * Track user interaction with a venue
  */
 router.post('/track', authenticateToken, async (req: AuthRequest, res: Response) => {
-  const { venueId, action, duration, rating, context } = req.body;
+  const { 
+    venueId, 
+    action, 
+    duration, 
+    rating, 
+    context,
+    source,
+    timeOfDay,
+    dayOfWeek,
+    listId,
+    cityId,
+    sessionId,
+    deviceType
+  } = req.body;
   
   if (!venueId || !action) {
     return res.status(400).json({ error: 'Venue ID and action are required' });
@@ -183,11 +196,30 @@ router.post('/track', authenticateToken, async (req: AuthRequest, res: Response)
   }
 
   try {
+    // Extract request metadata
+    const ipAddress = req.ip || req.headers['x-forwarded-for'] || req.socket.remoteAddress || null;
+    const userAgent = req.headers['user-agent'] || null;
+    const referrer = req.headers['referer'] || req.headers['referrer'] || null;
+
     await recommendationService.trackInteraction(
       req.userId!,
       venueId,
       action,
-      { duration, rating, context }
+      {
+        duration,
+        rating,
+        context,
+        source,
+        timeOfDay,
+        dayOfWeek,
+        ipAddress,
+        userAgent,
+        referrer: referrer as string | undefined,
+        listId,
+        cityId,
+        sessionId,
+        deviceType
+      }
     );
 
     return res.json({ message: 'Interaction tracked successfully' });

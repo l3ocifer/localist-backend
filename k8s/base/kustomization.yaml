@@ -5,8 +5,8 @@ namespace: localist
 
 resources:
   - namespace.yaml
+  - configmap.yaml
   - secret.yaml
-  - external-services.yaml
   - backend-deployment.yaml
 
 labels:
@@ -14,9 +14,10 @@ labels:
       app.kubernetes.io/name: localist-backend
       app.kubernetes.io/managed-by: kustomize
 
-images:
-  - name: localist/backend
-    newTag: v7
+# Image tag will be overridden by overlays
+# images:
+#   - name: localist/backend
+#     newTag: v7
 
 replicas:
   - name: backend

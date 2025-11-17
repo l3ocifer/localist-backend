@@ -314,11 +314,29 @@ export class RecommendationService {
       duration?: number;
       rating?: number;
       context?: string;
+      source?: string;
+      timeOfDay?: string;
+      dayOfWeek?: number;
+      ipAddress?: string;
+      userAgent?: string;
+      referrer?: string;
+      listId?: string;
+      cityId?: string;
+      sessionId?: string;
+      deviceType?: string;
     }
   ): Promise<void> {
+    const now = new Date();
+    const timeOfDay = metadata?.timeOfDay || this.getTimeOfDay(now);
+    const dayOfWeek = metadata?.dayOfWeek !== undefined ? metadata.dayOfWeek : now.getDay();
+
     const query = `
-      INSERT INTO user_interactions (user_id, venue_id, action, duration, rating, context, created_at)
-      VALUES ($1, $2, $3, $4, $5, $6, NOW())
+      INSERT INTO user_interactions (
+        user_id, venue_id, action, duration, rating, context,
+        source, time_of_day, day_of_week, ip_address, user_agent,
+        referrer, list_id, city_id, session_id, device_type, created_at
+      )
+      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, NOW())
     `;
 
     await pool.query(query, [
@@ -327,8 +345,29 @@ export class RecommendationService {
       action,
       metadata?.duration || null,
       metadata?.rating || null,
-      metadata?.context || null
+      metadata?.context || null,
+      metadata?.source || null,
+      timeOfDay,
+      dayOfWeek,
+      metadata?.ipAddress || null,
+      metadata?.userAgent || null,
+      metadata?.referrer || null,
+      metadata?.listId || null,
+      metadata?.cityId || null,
+      metadata?.sessionId || null,
+      metadata?.deviceType || null
     ]);
+  }
+
+  /**
+   * Get time of day category from Date object
+   */
+  private getTimeOfDay(date: Date): string {
+    const hour = date.getHours();
+    if (hour >= 5 && hour < 12) return 'morning';
+    if (hour >= 12 && hour < 17) return 'afternoon';
+    if (hour >= 17 && hour < 21) return 'evening';
+    return 'night';
   }
 
   /**

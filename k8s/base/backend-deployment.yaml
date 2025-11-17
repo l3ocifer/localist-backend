@@ -7,7 +7,7 @@ metadata:
     app: backend
     tier: backend
 spec:
-  replicas: 2
+  replicas: 1
   strategy:
     type: RollingUpdate
     rollingUpdate:
@@ -36,7 +36,7 @@ spec:
               topologyKey: kubernetes.io/hostname
       containers:
       - name: backend
-        image: localist/backend:v5
+        image: k3d-registry.localhost:5555/localist-backend:latest
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 3001
@@ -52,11 +52,11 @@ spec:
         - name: DB_NAME
           value: "localist"
         - name: DB_HOST
-          value: "postgres-service"
+          value: "external-postgres.default.svc.cluster.local"
         - name: DB_PORT
           value: "5432"
         - name: REDIS_HOST
-          value: "redis-service"
+          value: "external-redis.default.svc.cluster.local"
         - name: REDIS_PORT
           value: "6379"
         resources:
@@ -70,10 +70,10 @@ spec:
           httpGet:
             path: /health
             port: 3001
-          initialDelaySeconds: 30
-          periodSeconds: 10
+          initialDelaySeconds: 60
+          periodSeconds: 30
           timeoutSeconds: 5
-          failureThreshold: 3
+          failureThreshold: 5
         readinessProbe:
           httpGet:
             path: /health
