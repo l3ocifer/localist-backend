@@ -496,4 +496,58 @@ router.post('/lists/:listId/share', async (req: AuthRequest, res: Response) => {
   }
 });
 
+// Data export endpoint (GDPR compliant)
+router.get('/export', async (req: AuthRequest, res: Response) => {
+  try {
+    // Get user data
+    const userResult = await pool.query(
+      'SELECT id, email, first_name, last_name, phone, preferences, created_at, updated_at FROM users WHERE id = $1',
+      [req.userId]
+    );
+
+    const listsResult = await pool.query(
+      'SELECT id, name, description, venue_ids, is_public, created_at FROM user_lists WHERE user_id = $1',
+      [req.userId]
+    );
+
+    const favoritesResult = await pool.query(
+      'SELECT venue_id, created_at FROM user_favorites WHERE user_id = $1',
+      [req.userId]
+    );
+
+    const interactionsResult = await pool.query(
+      'SELECT venue_id, action, duration, rating, context, created_at FROM user_interactions WHERE user_id = $1 ORDER BY created_at DESC LIMIT 1000',
+      [req.userId]
+    );
+
+    const exportData = {
+      user: userResult.rows[0],
+      lists: listsResult.rows,
+      favorites: favoritesResult.rows,
+      interactions: interactionsResult.rows,
+      exportedAt: new Date().toISOString(),
+    };
+
+    res.setHeader('Content-Type', 'application/json');
+    res.setHeader('Content-Disposition', `attachment; filename="localist-data-export-${Date.now()}.json"`);
+    return res.json(exportData);
+  } catch (error) {
+    console.error('Export user data error:', error);
+    return res.status(500).json({ error: 'Failed to export user data' });
+  }
+});
+
+// Account deletion endpoint (GDPR compliant)
+router.delete('/account', async (req: AuthRequest, res: Response) => {
+  try {
+    // Delete all user data (cascade deletes will handle related records)
+    await pool.query('DELETE FROM users WHERE id = $1', [req.userId]);
+
+    return res.json({ message: 'Account deleted successfully' });
+  } catch (error) {
+    console.error('Delete account error:', error);
+    return res.status(500).json({ error: 'Failed to delete account' });
+  }
+});
+
 export default router;

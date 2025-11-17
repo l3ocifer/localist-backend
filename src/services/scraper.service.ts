@@ -1,5 +1,6 @@
 import pool from '../config/database';
 import { VenueScraperService } from './venue-scraper.service';
+import { EaterScraper, InfatuationScraper, ThrillistScraper } from './web-scraper.service';
 import logger from './logger.service';
 import { v4 as uuidv4 } from 'uuid';
 
@@ -24,10 +25,16 @@ export interface ScrapingJobResult {
 export class ScraperService {
   private static instance: ScraperService;
   private venueScraper: VenueScraperService;
+  private eaterScraper: EaterScraper;
+  private infatuationScraper: InfatuationScraper;
+  private thrillistScraper: ThrillistScraper;
   private runningJobs: Map<string, Promise<void>> = new Map();
 
   private constructor() {
     this.venueScraper = VenueScraperService.getInstance();
+    this.eaterScraper = new EaterScraper();
+    this.infatuationScraper = new InfatuationScraper();
+    this.thrillistScraper = new ThrillistScraper();
   }
 
   static getInstance(): ScraperService {
@@ -122,9 +129,78 @@ export class ScraperService {
           }
         }
       } else if (jobType === 'web_scrape') {
-        // Web scraping will be handled by specific hunter agents
-        // For now, mark as completed with 0 results
-        logger.info(`Web scraping job ${jobId} - to be implemented by hunter agents`);
+        // Web scraping using specific scrapers
+        const citySlugMap: { [key: string]: string } = {
+          'nyc': 'nyc',
+          'los-angeles': 'la',
+          'chicago': 'chicago',
+          'miami': 'miami',
+          'las-vegas': 'vegas'
+        };
+
+        if (config.cityId) {
+          const citySlug = citySlugMap[config.cityId] || config.cityId;
+          
+          // Scrape from all sources
+          const sources = [
+            { name: 'Eater', scraper: this.eaterScraper },
+            { name: 'Infatuation', scraper: this.infatuationScraper },
+            { name: 'Thrillist', scraper: this.thrillistScraper }
+          ];
+
+          for (const source of sources) {
+            try {
+              const result = await source.scraper.scrapeCityList(citySlug, config.cityId);
+              venuesFound += result.found;
+              venuesAdded += result.saved;
+              
+              // Update progress
+              await this.updateJobProgress(
+                jobId,
+                50, // Mid-progress
+                venuesFound,
+                venuesAdded,
+                venuesUpdated,
+                venuesFailed
+              );
+
+              // Rate limiting between sources
+              await new Promise(resolve => setTimeout(resolve, 2000));
+            } catch (error) {
+              logger.error(`Failed to scrape ${source.name} for ${citySlug}`, error);
+              venuesFailed += 10; // Estimate
+            }
+          }
+        } else {
+          // Scrape all cities
+          const cities = await pool.query('SELECT id FROM cities');
+          for (const city of cities.rows) {
+            const citySlug = citySlugMap[city.id] || city.id;
+            
+            const sources = [
+              { name: 'Eater', scraper: this.eaterScraper },
+              { name: 'Infatuation', scraper: this.infatuationScraper },
+              { name: 'Thrillist', scraper: this.thrillistScraper }
+            ];
+
+            for (const source of sources) {
+              try {
+                const result = await source.scraper.scrapeCityList(citySlug, city.id);
+                venuesFound += result.found;
+                venuesAdded += result.saved;
+              } catch (error) {
+                logger.error(`Failed to scrape ${source.name} for ${citySlug}`, error);
+                venuesFailed += 10;
+              }
+              
+              await new Promise(resolve => setTimeout(resolve, 2000));
+            }
+
+            // Update progress
+            const progress = Math.round((cities.rows.indexOf(city) + 1) / cities.rows.length * 100);
+            await this.updateJobProgress(jobId, progress, venuesFound, venuesAdded, venuesUpdated, venuesFailed);
+          }
+        }
       }
 
       // Mark job as completed
