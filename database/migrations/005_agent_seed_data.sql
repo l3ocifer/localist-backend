@@ -19,6 +19,12 @@ INSERT INTO data_sources (id, name, type, authority_weight, url, scrape_config, 
   ('la_times', 'LA Times', 'expert_list', 0.75, 'https://www.latimes.com/food', 
    '{"sections": ["101-best", "gold-guide"]}', true),
   
+  ('infatuation', 'The Infatuation', 'expert_list', 0.80, 'https://www.theinfatuation.com', 
+   '{"cities": ["new-york", "los-angeles", "chicago", "miami", "san-francisco"], "urlPattern": "https://www.theinfatuation.com/{city}"}', true),
+  
+  ('thrillist', 'Thrillist', 'expert_list', 0.75, 'https://www.thrillist.com', 
+   '{"cities": ["nyc", "la", "chicago", "miami", "sf"], "sections": ["food", "drink", "restaurants"]}', true),
+  
   -- Consumer Review Sources (Medium Authority)
   ('yelp', 'Yelp', 'consumer_review', 0.30, 'https://api.yelp.com/v3', 
    '{"apiVersion": "v3", "rateLimit": "5000/day"}', true),

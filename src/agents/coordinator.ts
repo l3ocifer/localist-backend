@@ -1,7 +1,9 @@
 import { Pool } from 'pg';
 import { EventEmitter } from 'events';
 import { BaseAgent } from './base.agent';
-import { EaterHunter } from './hunter.agent';
+import { EaterHunter } from './eater-hunter.agent';
+import { InfatuationHunter } from './infatuation-hunter.agent';
+import { ThrillistHunter } from './thrillist-hunter.agent';
 import { DeduplicationAgent, ScoringAgent } from './archivist.agent';
 import { CityListCurator, CurationAlgorithm } from './curator.agent';
 import logger from '../services/logger.service';
@@ -49,6 +51,8 @@ export class AgentCoordinator extends EventEmitter {
 
     // Register Hunter Agents
     await this.registerAgent(new EaterHunter(this.db));
+    await this.registerAgent(new InfatuationHunter(this.db));
+    await this.registerAgent(new ThrillistHunter(this.db));
     
     // Register Archivist Agents
     await this.registerAgent(new DeduplicationAgent(this.db));
@@ -145,11 +149,13 @@ export class AgentCoordinator extends EventEmitter {
     // Setup schedules
     const schedules: AgentSchedule[] = [
       // Hunters
-      { agentName: 'EaterHunter', cronExpression: '0 2 * * *', enabled: true }, // Daily at 2 AM
+      { agentName: 'EaterHunter', cronExpression: '0 2 * * *', enabled: true },
+      { agentName: 'InfatuationHunter', cronExpression: '0 2 * * *', enabled: true },
+      { agentName: 'ThrillistHunter', cronExpression: '0 2 * * *', enabled: true },
       
       // Archivists
-      { agentName: 'DeduplicationAgent', cronExpression: '0 4 * * *', enabled: true }, // Daily at 4 AM
-      { agentName: 'ScoringAgent', cronExpression: '0 5 * * *', enabled: true }, // Daily at 5 AM
+      { agentName: 'DeduplicationAgent', cronExpression: '0 4 * * *', enabled: true },
+      { agentName: 'ScoringAgent', cronExpression: '0 5 * * *', enabled: true },
       
       // Curators (run for all cities)
       { agentName: 'CityListCurator-nyc', cronExpression: '0 7 * * *', enabled: true },
@@ -406,4 +412,3 @@ export function getAgentCoordinator(db: Pool): AgentCoordinator {
   }
   return coordinatorInstance;
 }
-

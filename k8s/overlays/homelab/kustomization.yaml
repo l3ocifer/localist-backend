@@ -9,29 +9,11 @@ resources:
 patches:
   - path: deployment-patches.yaml
 
-configMapGenerator:
-  - name: backend-config
-    literals:
-      - NODE_ENV=production
-      - LOG_LEVEL=info
-      - DB_SSL=false
-      - DB_NAME=localist
-      - DB_HOST=external-postgres.default.svc.cluster.local
-      - DB_PORT=5432
-      - REDIS_HOST=external-redis.default.svc.cluster.local
-      - REDIS_PORT=6379
-      - FRONTEND_URL=https://localist.leopaska.xyz
-      - CORS_ORIGIN=https://localist.leopaska.xyz
-      - POSTGRES_HOST=external-postgres.default.svc.cluster.local
-      - POSTGRES_PORT=5432
-      - POSTGRES_DB=localist
-      - POSTGRES_USER=postgres
-
 replicas:
   - name: backend
     count: 1
 
 images:
-  - name: localist/backend
+  - name: k3d-registry.localhost:5555/localist-backend
     newName: k3d-registry.localhost:5555/localist-backend
-    newTag: v8
+    newTag: latest

@@ -259,90 +259,11 @@ export abstract class HunterAgent extends BaseAgent {
       throw error;
     }
   }
-}
 
-/**
- * Example: Eater 38 Hunter
- */
-export class EaterHunter extends HunterAgent {
-  constructor(db: Pool) {
-    const source: DataSource = {
-      id: 'eater_38',
-      name: 'Eater 38',
-      type: 'expert_list',
-      authorityWeight: 0.90,
-      url: 'https://www.eater.com',
-      scrapeConfig: {
-        cities: ['nyc', 'la', 'chicago', 'miami', 'vegas'],
-        urlPattern: 'https://www.eater.com/{city}/maps/'
-      },
-      isActive: true
-    };
-
-    super('EaterHunter', source, {}, db);
-  }
-
-  async execute(): Promise<void> {
-    const cities = this.source.scrapeConfig.cities as string[];
-    
-    for (const city of cities) {
-      logger.info(`Fetching Eater 38 for ${city}`);
-      
-      try {
-        // TODO: Implement actual scraping logic
-        // This is a placeholder showing the structure
-        const venueList = await this.scrapeEaterCity(city);
-        
-        for (const venue of venueList) {
-          await this.insertBronzeVenue(venue);
-          this.metrics.recordsProcessed++;
-        }
-        
-        // Rate limiting
-        await this.rateLimitDelay(2000);
-        
-      } catch (error) {
-        logger.error(`Failed to scrape Eater 38 for ${city}`, error);
-        this.metrics.recordsFailed++;
-      }
-    }
-  }
-
-  private async scrapeEaterCity(_city: string): Promise<any[]> {
-    // Placeholder - implement actual scraping
-    // Could use Puppeteer, Cheerio, or API calls
-    return [];
+  /**
+   * Get current run metrics
+   */
+  getMetrics(): AgentRunMetrics {
+    return { ...this.metrics };
   }
 }
-
-/**
- * Example: Yelp Hunter
- */
-export class YelpHunter extends HunterAgent {
-  constructor(db: Pool, apiKey: string) {
-    const source: DataSource = {
-      id: 'yelp',
-      name: 'Yelp',
-      type: 'consumer_review',
-      authorityWeight: 0.30,
-      url: 'https://api.yelp.com/v3',
-      scrapeConfig: {
-        apiKey,
-        rateLimit: '5000/day'
-      },
-      isActive: true
-    };
-
-    super('YelpHunter', source, { apiKey }, db);
-    
-    // Configure Yelp API client
-    this.httpClient.defaults.headers.common['Authorization'] = `Bearer ${apiKey}`;
-    this.httpClient.defaults.baseURL = 'https://api.yelp.com/v3';
-  }
-
-  async execute(): Promise<void> {
-    // TODO: Implement Yelp API integration
-    logger.info('Yelp Hunter execution - placeholder');
-  }
-}
-

@@ -1,40 +1,47 @@
--- Scraping Infrastructure Tables
--- For tracking scraping jobs, CSV imports, and content review queue
+-- Scraping Infrastructure Schema
+-- Supports scraping job tracking, CSV imports, and content review queue
 
 -- ============================================================================
--- SCRAPING JOBS TRACKING
+-- SCRAPING JOB TRACKING
 -- ============================================================================
 
 CREATE TABLE IF NOT EXISTS scraping_jobs (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  job_type VARCHAR(50) NOT NULL CHECK (job_type IN ('api_scrape', 'web_scrape', 'csv_import', 'manual_curation')),
+  job_type VARCHAR(50) NOT NULL CHECK (job_type IN ('venue_scrape', 'list_scrape', 'review_scrape', 'bulk_import')),
   source_id VARCHAR(100) REFERENCES data_sources(id),
   city_id VARCHAR(50) REFERENCES cities(id),
   category VARCHAR(100),
   
   -- Job status
   status VARCHAR(50) DEFAULT 'pending' CHECK (status IN ('pending', 'running', 'completed', 'failed', 'cancelled')),
-  progress_percent INTEGER DEFAULT 0 CHECK (progress_percent BETWEEN 0 AND 100),
+  progress_percentage INTEGER DEFAULT 0 CHECK (progress_percentage >= 0 AND progress_percentage <= 100),
   
-  -- Results
-  venues_found INTEGER DEFAULT 0,
-  venues_added INTEGER DEFAULT 0,
-  venues_updated INTEGER DEFAULT 0,
-  venues_failed INTEGER DEFAULT 0,
-  
-  -- Error tracking
-  error_message TEXT,
-  error_stack TEXT,
+  -- Metrics
+  records_found INTEGER DEFAULT 0,
+  records_processed INTEGER DEFAULT 0,
+  records_added INTEGER DEFAULT 0,
+  records_updated INTEGER DEFAULT 0,
+  records_failed INTEGER DEFAULT 0,
   
   -- Configuration
   config JSONB DEFAULT '{}',
+  error_message TEXT,
+  error_details JSONB,
   
-  -- Timestamps
+  -- Timing
   started_at TIMESTAMP,
   completed_at TIMESTAMP,
   created_at TIMESTAMP DEFAULT NOW(),
-  updated_at TIMESTAMP DEFAULT NOW()
+  created_by UUID REFERENCES users(id),
+  
+  -- Indexes
+  CONSTRAINT scraping_jobs_status_check CHECK (status IN ('pending', 'running', 'completed', 'failed', 'cancelled'))
 );
+
+CREATE INDEX idx_scraping_jobs_status ON scraping_jobs(status, created_at DESC);
+CREATE INDEX idx_scraping_jobs_source ON scraping_jobs(source_id, status);
+CREATE INDEX idx_scraping_jobs_city ON scraping_jobs(city_id, status);
+CREATE INDEX idx_scraping_jobs_type ON scraping_jobs(job_type, status);
 
 -- ============================================================================
 -- CSV IMPORT BATCHES
@@ -42,35 +49,44 @@ CREATE TABLE IF NOT EXISTS scraping_jobs (
 
 CREATE TABLE IF NOT EXISTS import_batches (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  filename VARCHAR(500) NOT NULL,
+  batch_name VARCHAR(200) NOT NULL,
+  file_name VARCHAR(500) NOT NULL,
   file_size_bytes BIGINT,
-  file_hash VARCHAR(64), -- SHA-256 hash for deduplication
+  file_type VARCHAR(50) DEFAULT 'csv',
   
   -- Import status
-  status VARCHAR(50) DEFAULT 'pending' CHECK (status IN ('pending', 'parsing', 'validating', 'importing', 'completed', 'failed')),
-  progress_percent INTEGER DEFAULT 0 CHECK (progress_percent BETWEEN 0 AND 100),
+  status VARCHAR(50) DEFAULT 'pending' CHECK (status IN ('pending', 'parsing', 'validating', 'importing', 'completed', 'failed', 'cancelled')),
+  progress_percentage INTEGER DEFAULT 0 CHECK (progress_percentage >= 0 AND progress_percentage <= 100),
   
-  -- Results
+  -- Metrics
   total_rows INTEGER DEFAULT 0,
   rows_processed INTEGER DEFAULT 0,
   rows_successful INTEGER DEFAULT 0,
   rows_failed INTEGER DEFAULT 0,
   
-  -- Error tracking
-  error_summary JSONB DEFAULT '[]', -- Array of {row, error, field} objects
-  validation_errors JSONB DEFAULT '[]',
-  
   -- Configuration
-  mapping_config JSONB DEFAULT '{}', -- Column mapping configuration
-  import_config JSONB DEFAULT '{}',
+  mapping_config JSONB DEFAULT '{}', -- Column mappings
+  validation_rules JSONB DEFAULT '{}',
   
-  -- Timestamps
-  uploaded_at TIMESTAMP DEFAULT NOW(),
+  -- Results
+  error_summary JSONB, -- Summary of errors
+  failed_rows JSONB, -- Array of failed row data with errors
+  
+  -- File storage
+  file_path VARCHAR(1000), -- Path to uploaded file
+  file_url VARCHAR(1000), -- URL if stored in S3/MinIO
+  
+  -- Timing
   started_at TIMESTAMP,
   completed_at TIMESTAMP,
   created_at TIMESTAMP DEFAULT NOW(),
-  updated_at TIMESTAMP DEFAULT NOW()
+  created_by UUID REFERENCES users(id),
+  
+  CONSTRAINT import_batches_status_check CHECK (status IN ('pending', 'parsing', 'validating', 'importing', 'completed', 'failed', 'cancelled'))
 );
+
+CREATE INDEX idx_import_batches_status ON import_batches(status, created_at DESC);
+CREATE INDEX idx_import_batches_created_by ON import_batches(created_by, status);
 
 -- ============================================================================
 -- CONTENT REVIEW QUEUE
@@ -80,65 +96,72 @@ CREATE TABLE IF NOT EXISTS content_review_queue (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   
   -- Content type and reference
-  content_type VARCHAR(50) NOT NULL CHECK (content_type IN ('venue', 'list', 'review', 'image')),
-  content_id VARCHAR(200) NOT NULL, -- References venue id, list id, etc.
+  content_type VARCHAR(50) NOT NULL CHECK (content_type IN ('venue', 'list', 'review', 'image', 'merchant_submission')),
+  content_id VARCHAR(200) NOT NULL, -- ID of the content (venue_id, list_id, etc.)
   source_id VARCHAR(100) REFERENCES data_sources(id),
   
   -- Review status
   status VARCHAR(50) DEFAULT 'pending' CHECK (status IN ('pending', 'in_review', 'approved', 'rejected', 'needs_changes')),
-  priority INTEGER DEFAULT 5 CHECK (priority BETWEEN 1 AND 10), -- 1 = highest priority
+  priority VARCHAR(20) DEFAULT 'normal' CHECK (priority IN ('low', 'normal', 'high', 'urgent')),
   
   -- Review metadata
-  submitted_by VARCHAR(200), -- User email or system identifier
-  submitted_at TIMESTAMP DEFAULT NOW(),
-  reviewed_by VARCHAR(200),
-  reviewed_at TIMESTAMP,
   review_notes TEXT,
+  rejection_reason TEXT,
+  suggested_changes JSONB,
   
-  -- Content data snapshot (for review)
-  content_snapshot JSONB NOT NULL,
+  -- Reviewer tracking
+  assigned_to UUID REFERENCES users(id),
+  reviewed_by UUID REFERENCES users(id),
+  reviewed_at TIMESTAMP,
   
-  -- Flags
-  requires_manual_review BOOLEAN DEFAULT false,
-  is_duplicate BOOLEAN DEFAULT false,
-  duplicate_of_id VARCHAR(200), -- If duplicate, reference to original
+  -- Content preview
+  content_preview JSONB, -- Snapshot of content for review
   
-  -- Timestamps
+  -- Timing
   created_at TIMESTAMP DEFAULT NOW(),
-  updated_at TIMESTAMP DEFAULT NOW()
+  updated_at TIMESTAMP DEFAULT NOW(),
+  
+  CONSTRAINT content_review_queue_status_check CHECK (status IN ('pending', 'in_review', 'approved', 'rejected', 'needs_changes'))
 );
 
+CREATE INDEX idx_content_review_queue_status ON content_review_queue(status, priority DESC, created_at ASC);
+CREATE INDEX idx_content_review_queue_type ON content_review_queue(content_type, status);
+CREATE INDEX idx_content_review_queue_assigned ON content_review_queue(assigned_to, status);
+CREATE INDEX idx_content_review_queue_content ON content_review_queue(content_type, content_id);
+
 -- ============================================================================
--- INDEXES FOR PERFORMANCE
+-- SCRAPING JOB LOGS (for detailed tracking)
 -- ============================================================================
 
--- Scraping jobs
-CREATE INDEX IF NOT EXISTS idx_scraping_jobs_status ON scraping_jobs(status, created_at DESC);
-CREATE INDEX IF NOT EXISTS idx_scraping_jobs_source ON scraping_jobs(source_id, status);
-CREATE INDEX IF NOT EXISTS idx_scraping_jobs_city ON scraping_jobs(city_id, status);
-CREATE INDEX IF NOT EXISTS idx_scraping_jobs_type ON scraping_jobs(job_type, status);
+CREATE TABLE IF NOT EXISTS scraping_job_logs (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  job_id UUID REFERENCES scraping_jobs(id) ON DELETE CASCADE,
+  
+  log_level VARCHAR(20) NOT NULL CHECK (log_level IN ('debug', 'info', 'warn', 'error')),
+  message TEXT NOT NULL,
+  metadata JSONB,
+  
+  created_at TIMESTAMP DEFAULT NOW()
+);
 
--- Import batches
-CREATE INDEX IF NOT EXISTS idx_import_batches_status ON import_batches(status, uploaded_at DESC);
-CREATE INDEX IF NOT EXISTS idx_import_batches_hash ON import_batches(file_hash);
-
--- Content review queue
-CREATE INDEX IF NOT EXISTS idx_review_queue_status ON content_review_queue(status, priority DESC, created_at ASC);
-CREATE INDEX IF NOT EXISTS idx_review_queue_type ON content_review_queue(content_type, status);
-CREATE INDEX IF NOT EXISTS idx_review_queue_content ON content_review_queue(content_type, content_id);
-CREATE INDEX IF NOT EXISTS idx_review_queue_source ON content_review_queue(source_id, status);
-CREATE INDEX IF NOT EXISTS idx_review_queue_manual ON content_review_queue(requires_manual_review, status) WHERE requires_manual_review = true;
+CREATE INDEX idx_scraping_job_logs_job ON scraping_job_logs(job_id, created_at DESC);
+CREATE INDEX idx_scraping_job_logs_level ON scraping_job_logs(log_level, created_at DESC);
 
 -- ============================================================================
 -- TRIGGERS
 -- ============================================================================
 
-CREATE TRIGGER update_scraping_jobs_updated_at BEFORE UPDATE ON scraping_jobs
-    FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
-
-CREATE TRIGGER update_import_batches_updated_at BEFORE UPDATE ON import_batches
-    FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
-
 CREATE TRIGGER update_content_review_queue_updated_at BEFORE UPDATE ON content_review_queue
     FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
+
+-- ============================================================================
+-- COMMENTS
+-- ============================================================================
+
+COMMENT ON TABLE scraping_jobs IS 'Tracks all scraping jobs with status and metrics';
+COMMENT ON TABLE import_batches IS 'Tracks CSV import batches with validation and error reporting';
+COMMENT ON TABLE content_review_queue IS 'Queue for content that needs manual review before publishing';
+COMMENT ON TABLE scraping_job_logs IS 'Detailed logs for scraping jobs';
+
+
 

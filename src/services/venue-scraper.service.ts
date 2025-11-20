@@ -1,9 +1,7 @@
 import axios from 'axios';
 import pool from '../config/database';
 import { v4 as uuidv4 } from 'uuid';
-import * as dotenv from 'dotenv';
-
-dotenv.config();
+import logger from './logger.service';
 
 interface ScrapedVenue {
   name: string;
@@ -139,7 +137,7 @@ export class VenueScraperService {
    */
   async scrapeVenues(cityId: string, category?: string): Promise<number> {
     if (this.isRunning) {
-      console.log('Scraper is already running, skipping...');
+      logger.warn('Scraper is already running, skipping...');
       return 0;
     }
 
@@ -147,7 +145,7 @@ export class VenueScraperService {
     let venuesAdded = 0;
 
     try {
-      console.log(`🔍 Starting venue scraping for ${cityId}...`);
+      logger.info(`Starting venue scraping for ${cityId}...`);
 
       // Get city details
       const cityResult = await pool.query('SELECT * FROM cities WHERE id = $1', [cityId]);
@@ -163,29 +161,30 @@ export class VenueScraperService {
       if (this.googleApiKey) {
         const googlePlaces = await this.scrapeGooglePlaces(city, category);
         allVenues.push(...googlePlaces);
-        console.log(`  ✓ Google Places: ${googlePlaces.length} venues found`);
+        logger.info(`Google Places: ${googlePlaces.length} venues found for ${cityId}`);
       }
 
       if (this.yelpApiKey) {
         const yelpVenues = await this.scrapeYelp(city, category);
         allVenues.push(...yelpVenues);
-        console.log(`  ✓ Yelp: ${yelpVenues.length} venues found`);
+        logger.info(`Yelp: ${yelpVenues.length} venues found for ${cityId}`);
       }
 
       if (this.foursquareApiKey) {
         const foursquareVenues = await this.scrapeFoursquare(city, category);
         allVenues.push(...foursquareVenues);
-        console.log(`  ✓ Foursquare: ${foursquareVenues.length} venues found`);
+        logger.info(`Foursquare: ${foursquareVenues.length} venues found for ${cityId}`);
       }
 
       if (allVenues.length === 0) {
-        console.warn('⚠️ No API keys configured or no venues found. Please add API keys to .env file.');
+        logger.warn('No API keys configured or no venues found. Please add API keys to .env file.');
+        // Even if no venues found, we return 0 and don't error out
         return 0;
       }
 
       // Deduplicate venues
       const uniqueVenues = this.deduplicateVenues(allVenues);
-      console.log(`  📊 Total unique venues after deduplication: ${uniqueVenues.length}`);
+      logger.info(`Total unique venues after deduplication for ${cityId}: ${uniqueVenues.length}`);
 
       // Save venues to database
       for (const venue of uniqueVenues) {
@@ -193,11 +192,12 @@ export class VenueScraperService {
         if (saved) venuesAdded++;
       }
 
-      console.log(`✅ Added ${venuesAdded} new venues for ${cityId}`);
+      logger.info(`Successfully added ${venuesAdded} new venues for ${cityId}`);
       this.lastRunTime = new Date();
 
     } catch (error) {
-      console.error('❌ Scraper error:', error);
+      logger.error(`Scraper error for ${cityId}:`, error);
+      throw error; // Re-throw to let caller know
     } finally {
       this.isRunning = false;
     }
@@ -210,7 +210,7 @@ export class VenueScraperService {
    */
   private async scrapeGooglePlaces(city: any, category?: string): Promise<ScrapedVenue[]> {
     if (!this.googleApiKey) {
-      console.log('  ⚠️ Google Places API key not configured');
+      logger.warn('Google Places API key not configured');
       return [];
     }
 
@@ -234,7 +234,7 @@ export class VenueScraperService {
     const lng = city.coordinates?.lng || city.longitude;
 
     if (!lat || !lng) {
-      console.warn(`  ⚠️ No coordinates found for ${city.name}`);
+      logger.warn(`No coordinates found for ${city.name}`);
       return venues;
     }
 
@@ -271,7 +271,7 @@ export class VenueScraperService {
         } while (nextPageToken && pageCount < maxPages);
 
       } catch (error: any) {
-        console.error(`  ❌ Google Places API error for type ${type}:`, error.response?.data?.error_message || error.message);
+        logger.error(`Google Places API error for type ${type}: ${error.response?.data?.error_message || error.message}`);
       }
     }
 
@@ -318,7 +318,7 @@ export class VenueScraperService {
         }
       } catch (error) {
         // Details API call failed, continue without additional info
-        console.debug(`Could not fetch details for ${place.name}`);
+        // Just debug log
       }
     }
 
@@ -409,7 +409,7 @@ export class VenueScraperService {
    */
   private async scrapeYelp(city: any, category?: string): Promise<ScrapedVenue[]> {
     if (!this.yelpApiKey) {
-      console.log('  ⚠️ Yelp API key not configured');
+      logger.warn('Yelp API key not configured');
       return [];
     }
 
@@ -433,7 +433,7 @@ export class VenueScraperService {
     const lng = city.coordinates?.lng || city.longitude;
 
     if (!lat || !lng) {
-      console.warn(`  ⚠️ No coordinates found for ${city.name}`);
+      logger.warn(`No coordinates found for ${city.name}`);
       return venues;
     }
 
@@ -477,7 +477,7 @@ export class VenueScraperService {
         await new Promise(resolve => setTimeout(resolve, 1000));
       }
     } catch (error: any) {
-      console.error('  ❌ Yelp API error:', error.response?.data?.error?.description || error.message);
+      logger.error(`Yelp API error: ${error.response?.data?.error?.description || error.message}`);
     }
 
     return venues;
@@ -569,7 +569,7 @@ export class VenueScraperService {
    */
   private async scrapeFoursquare(city: any, category?: string): Promise<ScrapedVenue[]> {
     if (!this.foursquareApiKey) {
-      console.log('  ⚠️ Foursquare API key not configured');
+      logger.warn('Foursquare API key not configured');
       return [];
     }
 
@@ -593,7 +593,7 @@ export class VenueScraperService {
     const lng = city.coordinates?.lng || city.longitude;
 
     if (!lat || !lng) {
-      console.warn(`  ⚠️ No coordinates found for ${city.name}`);
+      logger.warn(`No coordinates found for ${city.name}`);
       return venues;
     }
 
@@ -624,7 +624,7 @@ export class VenueScraperService {
       }
 
     } catch (error: any) {
-      console.error('  ❌ Foursquare API error:', error.response?.data?.message || error.message);
+      logger.error(`Foursquare API error: ${error.response?.data?.message || error.message}`);
     }
 
     return venues;
@@ -651,7 +651,6 @@ export class VenueScraperService {
 
     // Build features list
     const features: string[] = [];
-    // Foursquare doesn't provide as many feature details, so we'd need additional API calls
 
     return {
       name: venue.name,
@@ -1018,7 +1017,7 @@ export class VenueScraperService {
             existing.rows[0].id
           ]
         );
-        console.log(`  ↻ Updated: ${venue.name}`);
+        logger.debug(`Updated venue: ${venue.name}`);
         return false; // Not a new venue
       }
 
@@ -1048,11 +1047,11 @@ export class VenueScraperService {
         ]
       );
 
-      console.log(`  ✓ Added: ${venue.name} (${venue.source})`);
+      logger.info(`Added new venue: ${venue.name} (${venue.source})`);
       return true;
 
     } catch (error) {
-      console.error(`  ✗ Failed to save ${venue.name}:`, error);
+      logger.error(`Failed to save venue ${venue.name}:`, error);
       return false;
     }
   }
@@ -1061,38 +1060,42 @@ export class VenueScraperService {
    * Run scraper for all cities
    */
   async scrapeAllCities(): Promise<void> {
-    console.log('🌍 Starting scraper for all cities...');
+    logger.info('Starting scraper for all cities...');
 
     const cities = await pool.query('SELECT id, name FROM cities');
     let totalVenuesAdded = 0;
 
     for (const city of cities.rows) {
-      console.log(`\n📍 Processing ${city.name}...`);
+      logger.info(`Processing city ${city.name}...`);
       const venuesAdded = await this.scrapeVenues(city.id);
       totalVenuesAdded += venuesAdded;
 
       // Add delay between cities to respect rate limits
       if (city !== cities.rows[cities.rows.length - 1]) {
-        console.log('  ⏳ Waiting before next city...');
+        logger.info('Waiting before next city...');
         await new Promise(resolve => setTimeout(resolve, 5000));
       }
     }
 
-    console.log(`\n✅ Completed scraping all cities. Total venues added: ${totalVenuesAdded}`);
+    logger.info(`Completed scraping all cities. Total venues added: ${totalVenuesAdded}`);
   }
 
   /**
    * Schedule periodic scraping
    */
   startScheduledScraping(intervalHours: number = 24): void {
-    console.log(`⏰ Scheduling venue scraper to run every ${intervalHours} hours`);
+    logger.info(`Scheduling venue scraper to run every ${intervalHours} hours`);
 
-    // Run immediately
-    this.scrapeAllCities();
+    // Run immediately (handle errors to prevent unhandled rejections)
+    this.scrapeAllCities().catch((error) => {
+      logger.error('Error in scheduled scraping:', error);
+    });
 
     // Schedule periodic runs
     setInterval(() => {
-      this.scrapeAllCities();
+      this.scrapeAllCities().catch((error) => {
+        logger.error('Error in scheduled scraping:', error);
+      });
     }, intervalHours * 60 * 60 * 1000);
   }
 
