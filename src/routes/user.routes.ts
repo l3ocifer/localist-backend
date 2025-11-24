@@ -165,21 +165,111 @@ router.put('/lists/:listId', [
 
 router.delete('/lists/:listId', async (req: AuthRequest, res: Response) => {
   const { listId } = req.params;
-  
+
   try {
     const result = await pool.query(
       'DELETE FROM user_lists WHERE id = $1 AND user_id = $2 RETURNING id',
       [listId, req.userId]
     );
-    
+
     if (result.rows.length === 0) {
       return res.status(404).json({ error: 'List not found' });
     }
-    
+
     return res.json({ message: 'List deleted successfully' });
   } catch (error) {
     console.error('Delete user list error:', error);
     return res.status(500).json({ error: 'Failed to delete list' });
+  }
+});
+
+// Add venue to list
+router.post('/lists/:listId/venues', [
+  body('venueId').notEmpty()
+], async (req: AuthRequest, res: Response) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
+
+  const { listId } = req.params;
+  const { venueId } = req.body;
+
+  try {
+    // Verify list belongs to user
+    const list = await pool.query(
+      'SELECT venue_ids FROM user_lists WHERE id = $1 AND user_id = $2',
+      [listId, req.userId]
+    );
+
+    if (list.rows.length === 0) {
+      return res.status(404).json({ error: 'List not found' });
+    }
+
+    // Verify venue exists
+    const venue = await pool.query(
+      'SELECT id FROM venues WHERE id = $1',
+      [venueId]
+    );
+
+    if (venue.rows.length === 0) {
+      return res.status(404).json({ error: 'Venue not found' });
+    }
+
+    // Add venue to list if not already present
+    const currentVenueIds = list.rows[0].venue_ids || [];
+    if (currentVenueIds.includes(venueId)) {
+      return res.status(400).json({ error: 'Venue already in list' });
+    }
+
+    const updatedVenueIds = [...currentVenueIds, venueId];
+
+    await pool.query(
+      'UPDATE user_lists SET venue_ids = $1, updated_at = NOW() WHERE id = $2',
+      [updatedVenueIds, listId]
+    );
+
+    return res.status(201).json({
+      message: 'Venue added to list',
+      venue_ids: updatedVenueIds
+    });
+  } catch (error) {
+    console.error('Add venue to list error:', error);
+    return res.status(500).json({ error: 'Failed to add venue to list' });
+  }
+});
+
+// Remove venue from list
+router.delete('/lists/:listId/venues/:venueId', async (req: AuthRequest, res: Response) => {
+  const { listId, venueId } = req.params;
+
+  try {
+    // Verify list belongs to user
+    const list = await pool.query(
+      'SELECT venue_ids FROM user_lists WHERE id = $1 AND user_id = $2',
+      [listId, req.userId]
+    );
+
+    if (list.rows.length === 0) {
+      return res.status(404).json({ error: 'List not found' });
+    }
+
+    // Remove venue from list
+    const currentVenueIds = list.rows[0].venue_ids || [];
+    const updatedVenueIds = currentVenueIds.filter((id: string) => id !== venueId);
+
+    await pool.query(
+      'UPDATE user_lists SET venue_ids = $1, updated_at = NOW() WHERE id = $2',
+      [updatedVenueIds, listId]
+    );
+
+    return res.json({
+      message: 'Venue removed from list',
+      venue_ids: updatedVenueIds
+    });
+  } catch (error) {
+    console.error('Remove venue from list error:', error);
+    return res.status(500).json({ error: 'Failed to remove venue from list' });
   }
 });
 
