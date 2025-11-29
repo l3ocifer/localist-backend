@@ -39,9 +39,9 @@ interface RecommendationScore {
 
 export class RecommendationService {
   private static instance: RecommendationService;
-  
+
   private constructor() {}
-  
+
   static getInstance(): RecommendationService {
     if (!RecommendationService.instance) {
       RecommendationService.instance = new RecommendationService();
@@ -62,7 +62,7 @@ export class RecommendationService {
       const candidateVenues = await this.getCandidateVenues(cityId, userId);
       const scoredVenues = await this.scoreVenues(candidateVenues, userProfile);
       const topVenues = this.selectTopVenues(scoredVenues, limit);
-      
+
       return this.enrichVenueData(topVenues);
     } catch (error) {
       console.error('Error getting personalized recommendations:', error);
@@ -80,10 +80,10 @@ export class RecommendationService {
   ): Promise<Venue[]> {
     const query = `
       WITH user_similarity AS (
-        SELECT 
+        SELECT
           uf2.user_id as similar_user,
           COUNT(DISTINCT uf2.venue_id) as common_venues,
-          COUNT(DISTINCT uf2.venue_id)::float / 
+          COUNT(DISTINCT uf2.venue_id)::float /
             (SELECT COUNT(*) FROM user_favorites WHERE user_id = $1)::float as similarity
         FROM user_favorites uf1
         JOIN user_favorites uf2 ON uf1.venue_id = uf2.venue_id
@@ -94,8 +94,8 @@ export class RecommendationService {
         LIMIT 20
       ),
       recommended_venues AS (
-        SELECT 
-          v.*, 
+        SELECT
+          v.*,
           COUNT(DISTINCT us.similar_user) as recommender_count,
           AVG(us.similarity) as avg_similarity
         FROM user_similarity us
@@ -128,10 +128,10 @@ export class RecommendationService {
   ): Promise<Venue[]> {
     // const userPreferences = await this.getUserPreferences(userId);
     // TODO: Use userPreferences in recommendation algorithm
-    
+
     const query = `
       WITH user_venue_features AS (
-        SELECT 
+        SELECT
           category,
           cuisine,
           price_range,
@@ -142,14 +142,14 @@ export class RecommendationService {
         GROUP BY category, cuisine, price_range
       ),
       scored_venues AS (
-        SELECT 
+        SELECT
           v.*,
           (
-            CASE WHEN v.category IN (SELECT category FROM user_venue_features) 
+            CASE WHEN v.category IN (SELECT category FROM user_venue_features)
               THEN 0.3 ELSE 0 END +
-            CASE WHEN v.cuisine IN (SELECT cuisine FROM user_venue_features) 
+            CASE WHEN v.cuisine IN (SELECT cuisine FROM user_venue_features)
               THEN 0.3 ELSE 0 END +
-            CASE WHEN v.price_range IN (SELECT price_range FROM user_venue_features) 
+            CASE WHEN v.price_range IN (SELECT price_range FROM user_venue_features)
               THEN 0.2 ELSE 0 END +
             CASE WHEN v.rating >= 4.0 THEN 0.2 ELSE 0 END
           ) as match_score
@@ -183,20 +183,20 @@ export class RecommendationService {
     const [collaborative, contentBased, trending] = await Promise.all([
       this.getCollaborativeRecommendations(userId, cityId, Math.ceil(limit * 0.4)),
       this.getContentBasedRecommendations(userId, cityId, Math.ceil(limit * 0.4)),
-      this.getTrendingVenues(cityId, Math.ceil(limit * 0.2))
+      this.getTrendingVenues(cityId, Math.ceil(limit * 0.2)),
     ]);
 
     const venueMap = new Map<string, { venue: Venue; score: number; sources: string[] }>();
 
-    collaborative.forEach(venue => {
+    collaborative.forEach((venue) => {
       venueMap.set(venue.id, {
         venue,
         score: 0.4,
-        sources: ['collaborative']
+        sources: ['collaborative'],
       });
     });
 
-    contentBased.forEach(venue => {
+    contentBased.forEach((venue) => {
       if (venueMap.has(venue.id)) {
         const existing = venueMap.get(venue.id)!;
         existing.score += 0.4;
@@ -205,12 +205,12 @@ export class RecommendationService {
         venueMap.set(venue.id, {
           venue,
           score: 0.35,
-          sources: ['content']
+          sources: ['content'],
         });
       }
     });
 
-    trending.forEach(venue => {
+    trending.forEach((venue) => {
       if (venueMap.has(venue.id)) {
         const existing = venueMap.get(venue.id)!;
         existing.score += 0.2;
@@ -219,7 +219,7 @@ export class RecommendationService {
         venueMap.set(venue.id, {
           venue,
           score: 0.15,
-          sources: ['trending']
+          sources: ['trending'],
         });
       }
     });
@@ -229,34 +229,61 @@ export class RecommendationService {
       .slice(0, limit);
 
     return {
-      recommendations: sortedRecommendations.map(r => r.venue),
-      methodology: [...new Set(sortedRecommendations.flatMap(r => r.sources))]
+      recommendations: sortedRecommendations.map((r) => r.venue),
+      methodology: [...new Set(sortedRecommendations.flatMap((r) => r.sources))],
     };
   }
 
   /**
    * Get trending venues based on recent activity
+   * If cityId is not provided, returns trending venues across all cities
    */
-  async getTrendingVenues(cityId: string, limit: number = 10): Promise<Venue[]> {
-    const query = `
-      WITH recent_activity AS (
-        SELECT 
-          venue_id,
-          COUNT(*) as activity_count,
-          COUNT(DISTINCT user_id) as unique_users
-        FROM user_favorites
-        WHERE created_at > NOW() - INTERVAL '7 days'
-        GROUP BY venue_id
-      )
-      SELECT v.*
-      FROM venues v
-      JOIN recent_activity ra ON v.id = ra.venue_id
-      WHERE v.city_id = $1
-      ORDER BY ra.activity_count DESC, ra.unique_users DESC, v.rating DESC
-      LIMIT $2;
-    `;
+  async getTrendingVenues(cityId?: string, limit: number = 10): Promise<Venue[]> {
+    // First try to get venues with recent activity
+    let query: string;
+    let params: any[];
 
-    const result = await pool.query(query, [cityId, limit]);
+    if (cityId) {
+      query = `
+        WITH recent_activity AS (
+          SELECT
+            venue_id,
+            COUNT(*) as activity_count,
+            COUNT(DISTINCT user_id) as unique_users
+          FROM user_favorites
+          WHERE created_at > NOW() - INTERVAL '7 days'
+          GROUP BY venue_id
+        )
+        SELECT v.*
+        FROM venues v
+        LEFT JOIN recent_activity ra ON v.id = ra.venue_id
+        WHERE v.city_id = $1
+        ORDER BY COALESCE(ra.activity_count, 0) DESC, v.rating DESC NULLS LAST
+        LIMIT $2;
+      `;
+      params = [cityId, limit];
+    } else {
+      // Global trending - across all cities
+      query = `
+        WITH recent_activity AS (
+          SELECT
+            venue_id,
+            COUNT(*) as activity_count,
+            COUNT(DISTINCT user_id) as unique_users
+          FROM user_favorites
+          WHERE created_at > NOW() - INTERVAL '7 days'
+          GROUP BY venue_id
+        )
+        SELECT v.*
+        FROM venues v
+        LEFT JOIN recent_activity ra ON v.id = ra.venue_id
+        ORDER BY COALESCE(ra.activity_count, 0) DESC, v.rating DESC NULLS LAST
+        LIMIT $1;
+      `;
+      params = [limit];
+    }
+
+    const result = await pool.query(query, params);
     return result.rows;
   }
 
@@ -274,7 +301,7 @@ export class RecommendationService {
       WHERE v.city_id = $1
       AND v.rating >= 4.0
     `;
-    
+
     const params: any[] = [cityId];
     let paramCount = 1;
 
@@ -355,7 +382,7 @@ export class RecommendationService {
       metadata?.listId || null,
       metadata?.cityId || null,
       metadata?.sessionId || null,
-      metadata?.deviceType || null
+      metadata?.deviceType || null,
     ]);
   }
 
@@ -376,20 +403,23 @@ export class RecommendationService {
   private async getUserProfile(userId: string): Promise<UserProfile> {
     const [userResult, interactionsResult] = await Promise.all([
       pool.query('SELECT preferences FROM users WHERE id = $1', [userId]),
-      pool.query(`
+      pool.query(
+        `
         SELECT venue_id, 'favorite' as action, created_at as timestamp
         FROM user_favorites
         WHERE user_id = $1
         ORDER BY created_at DESC
         LIMIT 100
-      `, [userId])
+      `,
+        [userId]
+      ),
     ]);
 
     const preferences = userResult.rows[0]?.preferences || {};
-    const interactions = interactionsResult.rows.map(row => ({
+    const interactions = interactionsResult.rows.map((row) => ({
       venueId: row.venue_id,
       action: row.action as UserProfile['interactions'][0]['action'],
-      timestamp: row.timestamp
+      timestamp: row.timestamp,
     }));
 
     return {
@@ -398,9 +428,9 @@ export class RecommendationService {
         cuisines: preferences.cuisines || [],
         priceRange: preferences.price_range || [],
         categories: preferences.categories || [],
-        dietaryRestrictions: preferences.dietary || []
+        dietaryRestrictions: preferences.dietary || [],
       },
-      interactions
+      interactions,
     };
   }
 
@@ -430,7 +460,7 @@ export class RecommendationService {
     venues: Venue[],
     userProfile: UserProfile
   ): Promise<RecommendationScore[]> {
-    return venues.map(venue => {
+    return venues.map((venue) => {
       let score = 0;
       const reasons: string[] = [];
       let confidence = 0.5;
@@ -458,20 +488,20 @@ export class RecommendationService {
         reasons.push('Highly rated');
       }
 
-      const recentInteractions = userProfile.interactions.filter(i => {
+      const recentInteractions = userProfile.interactions.filter((i) => {
         const daysSince = (Date.now() - new Date(i.timestamp).getTime()) / (1000 * 60 * 60 * 24);
         return daysSince <= 30;
       });
 
       if (recentInteractions.length > 0) {
-        confidence = Math.min(0.9, confidence + (recentInteractions.length * 0.02));
+        confidence = Math.min(0.9, confidence + recentInteractions.length * 0.02);
       }
 
       return {
         venueId: venue.id,
         score,
         reasons,
-        confidence
+        confidence,
       };
     });
   }
@@ -484,7 +514,7 @@ export class RecommendationService {
     limit: number
   ): RecommendationScore[] {
     return scoredVenues
-      .filter(v => v.score > 0)
+      .filter((v) => v.score > 0)
       .sort((a, b) => b.score - a.score)
       .slice(0, limit);
   }
@@ -495,7 +525,7 @@ export class RecommendationService {
   private async enrichVenueData(scoredVenues: RecommendationScore[]): Promise<Venue[]> {
     if (scoredVenues.length === 0) return [];
 
-    const venueIds = scoredVenues.map(v => v.venueId);
+    const venueIds = scoredVenues.map((v) => v.venueId);
     const query = `
       SELECT v.*, c.name as city_name
       FROM venues v
@@ -504,11 +534,9 @@ export class RecommendationService {
     `;
 
     const result = await pool.query(query, [venueIds]);
-    
-    const venueMap = new Map(result.rows.map(v => [v.id, v]));
-    return scoredVenues
-      .map(sv => venueMap.get(sv.venueId))
-      .filter(v => v !== undefined);
+
+    const venueMap = new Map(result.rows.map((v) => [v.id, v]));
+    return scoredVenues.map((sv) => venueMap.get(sv.venueId)).filter((v) => v !== undefined);
   }
 
   /**
