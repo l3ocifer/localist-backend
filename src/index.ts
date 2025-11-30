@@ -1,12 +1,12 @@
-import { createServer } from 'http';
 import { readdir, readFile } from 'fs/promises';
+import { createServer } from 'http';
 import { join } from 'path';
 import app from './app';
-import { WebSocketService } from './services/websocket.service';
-import { VenueScraperService } from './services/venue-scraper.service';
-import GracefulShutdown from './utils/graceful-shutdown';
-import logger from './services/logger.service';
 import pool from './config/database';
+import logger from './services/logger.service';
+import { VenueScraperService } from './services/venue-scraper.service';
+import { WebSocketService } from './services/websocket.service';
+import GracefulShutdown from './utils/graceful-shutdown';
 
 const PORT = process.env.PORT || 3001;
 
@@ -19,22 +19,27 @@ async function runMigrations(): Promise<void> {
 
   try {
     logger.info('📋 Running database migrations...');
-    const migrationsDir = join(__dirname, '../../database/migrations');
+    // Handle both Docker (/app/database/migrations) and local development
+    const dockerPath = '/app/database/migrations';
+    const localPath = join(__dirname, '../../database/migrations');
+    const migrationsDir = require('fs').existsSync(dockerPath) ? dockerPath : localPath;
+    logger.info(`📂 Using migrations from: ${migrationsDir}`);
     const files = await readdir(migrationsDir);
-    const sqlFiles = files
-      .filter(f => f.endsWith('.sql'))
-      .sort();
+    const sqlFiles = files.filter((f) => f.endsWith('.sql')).sort();
 
     for (const file of sqlFiles) {
       const filePath = join(migrationsDir, file);
       const sql = await readFile(filePath, 'utf-8');
-      
+
       try {
         await pool.query(sql);
         logger.info(`✅ Applied migration: ${file}`);
       } catch (error: any) {
         // Ignore "already exists" errors (migrations are idempotent)
-        if (error.message?.includes('already exists') || error.message?.includes('does not exist')) {
+        if (
+          error.message?.includes('already exists') ||
+          error.message?.includes('does not exist')
+        ) {
           logger.debug(`⏭️  Skipped migration ${file} (already applied)`);
         } else {
           logger.error(`❌ Failed to apply migration ${file}:`, error.message);
@@ -42,7 +47,7 @@ async function runMigrations(): Promise<void> {
         }
       }
     }
-    
+
     logger.info('✅ All migrations complete');
   } catch (error: any) {
     logger.error('❌ Migration error:', error);
@@ -65,7 +70,7 @@ async function startServer(): Promise<void> {
         process.exit(1);
       }
       logger.info(`⏳ Waiting for database... (${30 - retries}/30)`);
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      await new Promise((resolve) => setTimeout(resolve, 2000));
     }
   }
 
@@ -96,7 +101,11 @@ async function startServer(): Promise<void> {
     console.log(`🔗 API Health Check: http://localhost:${PORT}/health`);
     console.log(`📊 Metrics Dashboard: http://localhost:${PORT}/metrics`);
     console.log(`🔌 WebSocket Server: ws://localhost:${PORT}`);
-    console.log(`🔍 Venue Scraper: ${process.env.NODE_ENV === 'production' ? 'Active' : 'Inactive (dev mode)'}`);
+    console.log(
+      `🔍 Venue Scraper: ${
+        process.env.NODE_ENV === 'production' ? 'Active' : 'Inactive (dev mode)'
+      }`
+    );
   });
 }
 

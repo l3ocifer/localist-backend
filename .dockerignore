@@ -52,8 +52,9 @@ k8s
 # Scripts (keep only what's needed)
 scripts/seed-production.js
 
-# Data files (too large for image)
-data/*.json
+# Data files (keep basic seed data, exclude large comprehensive file)
+data/comprehensive-seed-data.json
+!data/seed-data.json
 !data/.gitkeep
 
 # Logs

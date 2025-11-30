@@ -1,8 +1,18 @@
-import { Pool } from 'pg';
+import * as bcrypt from 'bcryptjs';
+import * as crypto from 'crypto';
+import * as dotenv from 'dotenv';
 import * as fs from 'fs';
 import * as path from 'path';
-import * as bcrypt from 'bcryptjs';
-import * as dotenv from 'dotenv';
+import { Pool } from 'pg';
+
+// Helper to validate UUID format
+function isValidUUID(str: string): boolean {
+  const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+  return uuidRegex.test(str);
+}
+
+// Map for tracking string ID -> UUID mappings
+const userIdMap: Map<string, string> = new Map();
 
 dotenv.config({ path: '../.env' });
 dotenv.config({ path: '../.env.local', override: true });
@@ -14,6 +24,17 @@ const pool = new Pool({
   user: process.env.DB_USER || 'postgres',
   password: process.env.DB_PASSWORD || 'postgres',
 });
+
+// Resolve data path for both Docker (/app/data) and local development
+function getDataPath(filename: string): string {
+  const dockerPath = `/app/data/${filename}`;
+  const localPath = path.join(__dirname, `../../data/${filename}`);
+
+  if (fs.existsSync(dockerPath)) return dockerPath;
+  if (fs.existsSync(localPath)) return localPath;
+
+  throw new Error(`Seed data not found: tried ${dockerPath} and ${localPath}`);
+}
 
 interface SeedData {
   cities: any[];
@@ -29,12 +50,16 @@ async function seed() {
   console.log('🌱 Starting database seeding...');
 
   try {
-    // Try comprehensive seed data first, fall back to basic if not available
-    let seedDataPath = path.join(__dirname, '../../data/comprehensive-seed-data.json');
-    if (!fs.existsSync(seedDataPath)) {
-      console.log('📝 Comprehensive seed data not found, using basic seed data...');
-      seedDataPath = path.join(__dirname, '../../data/seed-data.json');
+    // Try basic seed data (known good format), fall back to comprehensive
+    let seedDataPath: string;
+    try {
+      seedDataPath = getDataPath('seed-data.json');
+      console.log('📝 Using basic seed data...');
+    } catch {
+      seedDataPath = getDataPath('comprehensive-seed-data.json');
+      console.log('📝 Using comprehensive seed data...');
     }
+    console.log(`📂 Found seed data at: ${seedDataPath}`);
     const seedData: SeedData = JSON.parse(fs.readFileSync(seedDataPath, 'utf-8'));
 
     await pool.query('BEGIN');
@@ -47,7 +72,7 @@ async function seed() {
     await pool.query('DELETE FROM lists');
     await pool.query('DELETE FROM venues');
     await pool.query('DELETE FROM cities');
-    await pool.query('DELETE FROM users WHERE email != \'admin@localist.ai\''); // Keep admin user if exists
+    await pool.query("DELETE FROM users WHERE email != 'admin@localist.ai'"); // Keep admin user if exists
 
     console.log('📍 Inserting cities...');
     for (const city of seedData.cities) {
@@ -66,7 +91,7 @@ async function seed() {
           city.description,
           city.image_url,
           city.timezone,
-          JSON.stringify(city.coordinates)
+          JSON.stringify(city.coordinates),
         ]
       );
     }
@@ -75,7 +100,19 @@ async function seed() {
     console.log('🏪 Inserting venues...');
     for (const venue of seedData.venues) {
       // Map price_level to price_range string
-      const priceRange = '$'.repeat(venue.price_level || 2);
+      const priceRange = venue.price_range || '$'.repeat(venue.price_level || 2);
+
+      // Normalize features: convert object to array of enabled feature names
+      let features: string[] = [];
+      if (venue.features) {
+        if (Array.isArray(venue.features)) {
+          features = venue.features;
+        } else if (typeof venue.features === 'object') {
+          features = Object.entries(venue.features)
+            .filter(([, v]) => v === true)
+            .map(([k]) => k);
+        }
+      }
 
       await pool.query(
         `INSERT INTO venues (id, name, city_id, category, cuisine, price_range, description,
@@ -91,7 +128,7 @@ async function seed() {
           venue.name,
           venue.city_id,
           venue.category,
-          venue.category, // Use category as cuisine for now
+          venue.cuisine || venue.category,
           priceRange,
           venue.description,
           venue.address,
@@ -100,8 +137,8 @@ async function seed() {
           venue.image_url,
           parseFloat(venue.rating) || 4.0,
           JSON.stringify(venue.coordinates),
-          JSON.stringify(venue.hours),
-          venue.features ? JSON.stringify(venue.features) : '[]'
+          JSON.stringify(venue.hours || {}),
+          JSON.stringify(features),
         ]
       );
     }
@@ -111,6 +148,12 @@ async function seed() {
     for (const user of seedData.users) {
       const hashedPassword = await bcrypt.hash('password123', 10); // Default password for seed users
 
+      // Generate UUID if the ID is not a valid UUID (handle legacy string IDs)
+      const userId = isValidUUID(user.id) ? user.id : crypto.randomUUID();
+      userIdMap.set(user.id, userId); // Track mapping for later use
+
+      const fullName = user.full_name || `${user.first_name || ''} ${user.last_name || ''}`.trim();
+
       await pool.query(
         `INSERT INTO users (id, email, password_hash, phone, username, full_name, bio, avatar_url, is_verified, created_at, updated_at)
          VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
@@ -118,17 +161,17 @@ async function seed() {
          username = EXCLUDED.username,
          full_name = EXCLUDED.full_name`,
         [
-          user.id,
+          userId,
           user.email,
           hashedPassword,
           user.phone,
-          user.username,
-          user.full_name,
+          user.username || user.email.split('@')[0],
+          fullName,
           user.bio,
           user.avatar_url,
           user.is_verified || false,
           user.created_at || new Date().toISOString(),
-          user.updated_at || new Date().toISOString()
+          user.updated_at || new Date().toISOString(),
         ]
       );
     }
@@ -137,10 +180,13 @@ async function seed() {
     console.log('📋 Inserting lists...');
     for (const list of seedData.lists) {
       // Determine user_id - if not curated, try to find from user_lists
-      let userId = null;
+      let userId: string | null = null;
       if (!list.is_curated && seedData.user_lists) {
         const userList = seedData.user_lists.find((ul: any) => ul.list_id === list.id);
-        userId = userList ? userList.user_id : null;
+        if (userList) {
+          // Use mapped UUID if we converted the ID
+          userId = userIdMap.get(userList.user_id) || userList.user_id;
+        }
       }
 
       await pool.query(
@@ -162,7 +208,7 @@ async function seed() {
           userId,
           list.is_public !== false, // Default to true
           list.created_at || new Date().toISOString(),
-          list.updated_at || new Date().toISOString()
+          list.updated_at || new Date().toISOString(),
         ]
       );
     }
@@ -182,7 +228,7 @@ async function seed() {
             relation.venue_id,
             relation.position || 0,
             relation.notes,
-            relation.added_at || new Date().toISOString()
+            relation.added_at || new Date().toISOString(),
           ]
         );
       }
@@ -199,29 +245,15 @@ async function seed() {
       }
 
       for (const [listId, venueIds] of Object.entries(listVenueGroups)) {
-        await pool.query(
-          `UPDATE lists SET venue_ids = $1 WHERE id = $2`,
-          [venueIds, listId]
-        );
+        await pool.query(`UPDATE lists SET venue_ids = $1 WHERE id = $2`, [venueIds, listId]);
       }
     }
 
-    // Insert user_lists relationships if available
+    // Note: user_lists in seed data represents user-created lists, not junction table
+    // The seed data format has user_lists as standalone entities, but schema has it as junction
+    // Skip for now - user lists are created through the app flow
     if (seedData.user_lists && seedData.user_lists.length > 0) {
-      console.log('👥 Inserting user-list relationships...');
-      for (const userList of seedData.user_lists) {
-        await pool.query(
-          `INSERT INTO user_lists (user_id, list_id, created_at)
-           VALUES ($1, $2, $3)
-           ON CONFLICT (user_id, list_id) DO NOTHING`,
-          [
-            userList.user_id,
-            userList.list_id,
-            userList.created_at || new Date().toISOString()
-          ]
-        );
-      }
-      console.log(`✅ Inserted ${seedData.user_lists.length} user-list relationships`);
+      console.log('ℹ️  Skipping user_lists (handled via app flow)');
     }
 
     await pool.query('COMMIT');
@@ -240,7 +272,6 @@ async function seed() {
     console.log(`   Lists: ${listCount.rows[0].count}`);
     console.log(`   List-Venue Relations: ${listVenueCount.rows[0].count}`);
     console.log(`   Users: ${userCount.rows[0].count}`);
-
   } catch (error) {
     await pool.query('ROLLBACK');
     console.error('❌ Error seeding database:', error);

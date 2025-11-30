@@ -14,6 +14,9 @@ RUN npm ci
 # Copy source code
 COPY . .
 
+# Ensure data and database directories exist
+RUN mkdir -p /app/data /app/database/migrations
+
 # Build the application
 RUN npm run build
 

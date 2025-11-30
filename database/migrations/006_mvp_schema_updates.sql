@@ -45,7 +45,7 @@ ALTER TABLE user_lists ADD COLUMN IF NOT EXISTS share_token VARCHAR(255) UNIQUE;
 ALTER TABLE user_lists ADD COLUMN IF NOT EXISTS view_count INTEGER DEFAULT 0;
 CREATE TABLE IF NOT EXISTS list_views (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  list_id UUID REFERENCES user_lists(id) ON DELETE CASCADE,
+  list_id VARCHAR(50) REFERENCES lists(id) ON DELETE CASCADE,
   viewer_id UUID REFERENCES users(id), -- Nullable for anonymous views
   viewed_at TIMESTAMP DEFAULT NOW()
 );
