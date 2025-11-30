@@ -1,6 +1,6 @@
 import axios from 'axios';
-import pool from '../config/database';
 import { v4 as uuidv4 } from 'uuid';
+import pool from '../config/database';
 import logger from './logger.service';
 
 interface ScrapedVenue {
@@ -194,7 +194,6 @@ export class VenueScraperService {
 
       logger.info(`Successfully added ${venuesAdded} new venues for ${cityId}`);
       this.lastRunTime = new Date();
-
     } catch (error) {
       logger.error(`Scraper error for ${cityId}:`, error);
       throw error; // Re-throw to let caller know
@@ -219,17 +218,19 @@ export class VenueScraperService {
 
     // Map our categories to Google Places types
     const categoryToTypes: { [key: string]: string[] } = {
-      'restaurant': ['restaurant'],
-      'bar': ['bar', 'night_club'],
-      'cafe': ['cafe', 'bakery'],
-      'nightclub': ['night_club'],
-      'shopping': ['shopping_mall', 'store', 'clothing_store'],
-      'entertainment': ['movie_theater', 'museum', 'art_gallery'],
-      'fitness': ['gym', 'spa'],
-      'hotel': ['lodging', 'hotel']
+      restaurant: ['restaurant'],
+      bar: ['bar', 'night_club'],
+      cafe: ['cafe', 'bakery'],
+      nightclub: ['night_club'],
+      shopping: ['shopping_mall', 'store', 'clothing_store'],
+      entertainment: ['movie_theater', 'museum', 'art_gallery'],
+      fitness: ['gym', 'spa'],
+      hotel: ['lodging', 'hotel'],
     };
 
-    const types = category ? (categoryToTypes[category] || ['establishment']) : ['restaurant', 'bar', 'cafe'];
+    const types = category
+      ? categoryToTypes[category] || ['establishment']
+      : ['restaurant', 'bar', 'cafe'];
     const lat = city.coordinates?.lat || city.latitude;
     const lng = city.coordinates?.lng || city.longitude;
 
@@ -249,13 +250,13 @@ export class VenueScraperService {
             location: `${lat},${lng}`,
             radius: 5000, // 5km radius
             type,
-            key: this.googleApiKey
+            key: this.googleApiKey,
           };
 
           if (nextPageToken) {
             params.pagetoken = nextPageToken;
             // Google requires a short delay before using next page token
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise((resolve) => setTimeout(resolve, 2000));
           }
 
           const response = await axios.get(baseUrl, { params });
@@ -269,9 +270,12 @@ export class VenueScraperService {
           nextPageToken = response.data.next_page_token;
           pageCount++;
         } while (nextPageToken && pageCount < maxPages);
-
       } catch (error: any) {
-        logger.error(`Google Places API error for type ${type}: ${error.response?.data?.error_message || error.message}`);
+        logger.error(
+          `Google Places API error for type ${type}: ${
+            error.response?.data?.error_message || error.message
+          }`
+        );
       }
     }
 
@@ -281,7 +285,10 @@ export class VenueScraperService {
   /**
    * Transform Google Place to our venue format
    */
-  private async transformGooglePlace(place: GooglePlaceResult, category: string): Promise<ScrapedVenue> {
+  private async transformGooglePlace(
+    place: GooglePlaceResult,
+    category: string
+  ): Promise<ScrapedVenue> {
     // Get photo URL if available
     let imageUrl: string | undefined;
     if (place.photos && place.photos.length > 0 && this.googleApiKey) {
@@ -302,8 +309,8 @@ export class VenueScraperService {
           params: {
             place_id: place.place_id,
             fields: 'formatted_phone_number,website,opening_hours',
-            key: this.googleApiKey
-          }
+            key: this.googleApiKey,
+          },
         });
 
         if (detailsResponse.data.result) {
@@ -336,13 +343,13 @@ export class VenueScraperService {
       hours,
       coordinates: {
         lat: place.geometry.location.lat,
-        lng: place.geometry.location.lng
+        lng: place.geometry.location.lng,
       },
       features,
       image_url: imageUrl,
       description: `Popular ${category} in the area`,
       place_id: place.place_id,
-      source: 'Google Places'
+      source: 'Google Places',
     };
   }
 
@@ -352,13 +359,13 @@ export class VenueScraperService {
   private parseGoogleHours(weekdayText: string[]): any {
     const hours: any = {};
     const dayMap: { [key: string]: string } = {
-      'Monday': 'monday',
-      'Tuesday': 'tuesday',
-      'Wednesday': 'wednesday',
-      'Thursday': 'thursday',
-      'Friday': 'friday',
-      'Saturday': 'saturday',
-      'Sunday': 'sunday'
+      Monday: 'monday',
+      Tuesday: 'tuesday',
+      Wednesday: 'wednesday',
+      Thursday: 'thursday',
+      Friday: 'friday',
+      Saturday: 'saturday',
+      Sunday: 'sunday',
     };
 
     for (const text of weekdayText) {
@@ -375,7 +382,7 @@ export class VenueScraperService {
             if (timeParts.length === 2) {
               hours[day] = {
                 open: this.convertTo24Hour(timeParts[0]),
-                close: this.convertTo24Hour(timeParts[1])
+                close: this.convertTo24Hour(timeParts[1]),
               };
             }
           }
@@ -418,14 +425,14 @@ export class VenueScraperService {
 
     // Map our categories to Yelp categories
     const categoryToYelp: { [key: string]: string } = {
-      'restaurant': 'restaurants',
-      'bar': 'bars',
-      'cafe': 'coffee',
-      'nightclub': 'nightlife',
-      'shopping': 'shopping',
-      'entertainment': 'arts',
-      'fitness': 'fitness',
-      'hotel': 'hotels'
+      restaurant: 'restaurants',
+      bar: 'bars',
+      cafe: 'coffee',
+      nightclub: 'nightlife',
+      shopping: 'shopping',
+      entertainment: 'arts',
+      fitness: 'fitness',
+      hotel: 'hotels',
     };
 
     const yelpCategory = category ? categoryToYelp[category] : null;
@@ -448,7 +455,7 @@ export class VenueScraperService {
           longitude: lng,
           radius: 5000, // 5km radius
           limit,
-          offset
+          offset,
         };
 
         if (yelpCategory) {
@@ -457,9 +464,9 @@ export class VenueScraperService {
 
         const response = await axios.get(baseUrl, {
           headers: {
-            'Authorization': `Bearer ${this.yelpApiKey}`
+            Authorization: `Bearer ${this.yelpApiKey}`,
           },
-          params
+          params,
         });
 
         const businesses: YelpBusiness[] = response.data.businesses || [];
@@ -474,7 +481,7 @@ export class VenueScraperService {
         offset += limit;
 
         // Rate limit protection
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        await new Promise((resolve) => setTimeout(resolve, 1000));
       }
     } catch (error: any) {
       logger.error(`Yelp API error: ${error.response?.data?.error?.description || error.message}`);
@@ -491,9 +498,10 @@ export class VenueScraperService {
     const priceLevel = business.price ? business.price.length : undefined;
 
     // Extract main category
-    const category = business.categories.length > 0
-      ? this.normalizeCategory(business.categories[0].alias)
-      : 'restaurant';
+    const category =
+      business.categories.length > 0
+        ? this.normalizeCategory(business.categories[0].alias)
+        : 'restaurant';
 
     // Parse hours if available
     let hours: any = {};
@@ -503,11 +511,13 @@ export class VenueScraperService {
 
     // Extract features based on categories
     const features: string[] = [];
-    if (business.categories.some(c => c.alias.includes('vegan'))) features.push('vegan options');
-    if (business.categories.some(c => c.alias.includes('gluten'))) features.push('gluten free options');
-    if (business.categories.some(c => c.alias.includes('outdoor'))) features.push('outdoor seating');
-    if (business.categories.some(c => c.alias.includes('delivery'))) features.push('delivery');
-    if (business.categories.some(c => c.alias.includes('takeout'))) features.push('takeout');
+    if (business.categories.some((c) => c.alias.includes('vegan'))) features.push('vegan options');
+    if (business.categories.some((c) => c.alias.includes('gluten')))
+      features.push('gluten free options');
+    if (business.categories.some((c) => c.alias.includes('outdoor')))
+      features.push('outdoor seating');
+    if (business.categories.some((c) => c.alias.includes('delivery'))) features.push('delivery');
+    if (business.categories.some((c) => c.alias.includes('takeout'))) features.push('takeout');
 
     return {
       name: business.name,
@@ -520,13 +530,13 @@ export class VenueScraperService {
       hours,
       coordinates: {
         lat: business.coordinates.latitude,
-        lng: business.coordinates.longitude
+        lng: business.coordinates.longitude,
       },
       features,
       image_url: business.image_url,
-      description: `${business.categories.map(c => c.title).join(', ')}`,
+      description: `${business.categories.map((c) => c.title).join(', ')}`,
       place_id: business.id,
-      source: 'Yelp'
+      source: 'Yelp',
     };
   }
 
@@ -535,10 +545,18 @@ export class VenueScraperService {
    */
   private parseYelpHours(yelpHours: any[]): any {
     const hours: any = {};
-    const dayMap: string[] = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
+    const dayMap: string[] = [
+      'monday',
+      'tuesday',
+      'wednesday',
+      'thursday',
+      'friday',
+      'saturday',
+      'sunday',
+    ];
 
     // Initialize all days as closed
-    dayMap.forEach(day => {
+    dayMap.forEach((day) => {
       hours[day] = { open: null, close: null };
     });
 
@@ -548,7 +566,7 @@ export class VenueScraperService {
       if (day) {
         hours[day] = {
           open: this.formatYelpTime(slot.start),
-          close: this.formatYelpTime(slot.end)
+          close: this.formatYelpTime(slot.end),
         };
       }
     }
@@ -578,14 +596,14 @@ export class VenueScraperService {
 
     // Map our categories to Foursquare categories
     const categoryToFoursquare: { [key: string]: string } = {
-      'restaurant': '13065', // Dining and Drinking > Restaurant
-      'bar': '13003', // Dining and Drinking > Bar
-      'cafe': '13032', // Dining and Drinking > Cafe
-      'nightclub': '13039', // Dining and Drinking > Nightclub
-      'shopping': '17000', // Retail
-      'entertainment': '10000', // Arts and Entertainment
-      'fitness': '18021', // Sports and Recreation > Gym
-      'hotel': '19014' // Travel and Transportation > Hotel
+      restaurant: '13065', // Dining and Drinking > Restaurant
+      bar: '13003', // Dining and Drinking > Bar
+      cafe: '13032', // Dining and Drinking > Cafe
+      nightclub: '13039', // Dining and Drinking > Nightclub
+      shopping: '17000', // Retail
+      entertainment: '10000', // Arts and Entertainment
+      fitness: '18021', // Sports and Recreation > Gym
+      hotel: '19014', // Travel and Transportation > Hotel
     };
 
     const fsqCategory = category ? categoryToFoursquare[category] : null;
@@ -601,7 +619,7 @@ export class VenueScraperService {
       const params: any = {
         ll: `${lat},${lng}`,
         radius: 5000, // 5km radius
-        limit: 50 // Foursquare max per request
+        limit: 50, // Foursquare max per request
       };
 
       if (fsqCategory) {
@@ -610,10 +628,10 @@ export class VenueScraperService {
 
       const response = await axios.get(baseUrl, {
         headers: {
-          'Authorization': this.foursquareApiKey,
-          'Accept': 'application/json'
+          Authorization: this.foursquareApiKey,
+          Accept: 'application/json',
         },
-        params
+        params,
       });
 
       const results: FoursquareVenue[] = response.data.results || [];
@@ -622,7 +640,6 @@ export class VenueScraperService {
         const venue = await this.transformFoursquareVenue(place);
         venues.push(venue);
       }
-
     } catch (error: any) {
       logger.error(`Foursquare API error: ${error.response?.data?.message || error.message}`);
     }
@@ -642,9 +659,10 @@ export class VenueScraperService {
     }
 
     // Extract category
-    const category = venue.categories && venue.categories.length > 0
-      ? this.normalizeFoursquareCategory(venue.categories[0].name)
-      : 'restaurant';
+    const category =
+      venue.categories && venue.categories.length > 0
+        ? this.normalizeFoursquareCategory(venue.categories[0].name)
+        : 'restaurant';
 
     // Parse hours if available
     const hours = venue.hours?.regular ? this.parseFoursquareHours(venue.hours.regular) : {};
@@ -661,15 +679,17 @@ export class VenueScraperService {
       phone: venue.tel,
       website: venue.website,
       hours,
-      coordinates: venue.geocodes?.main ? {
-        lat: venue.geocodes.main.latitude,
-        lng: venue.geocodes.main.longitude
-      } : undefined,
+      coordinates: venue.geocodes?.main
+        ? {
+            lat: venue.geocodes.main.latitude,
+            lng: venue.geocodes.main.longitude,
+          }
+        : undefined,
       features,
       image_url: imageUrl,
-      description: venue.categories?.map(c => c.name).join(', '),
+      description: venue.categories?.map((c) => c.name).join(', '),
       place_id: venue.fsq_id,
-      source: 'Foursquare'
+      source: 'Foursquare',
     };
   }
 
@@ -678,10 +698,18 @@ export class VenueScraperService {
    */
   private parseFoursquareHours(fsqHours: any[]): any {
     const hours: any = {};
-    const dayMap: string[] = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
+    const dayMap: string[] = [
+      'monday',
+      'tuesday',
+      'wednesday',
+      'thursday',
+      'friday',
+      'saturday',
+      'sunday',
+    ];
 
     // Initialize all days as closed
-    dayMap.forEach(day => {
+    dayMap.forEach((day) => {
       hours[day] = { open: null, close: null };
     });
 
@@ -691,7 +719,7 @@ export class VenueScraperService {
       if (day) {
         hours[day] = {
           open: this.formatFoursquareTime(slot.open),
-          close: this.formatFoursquareTime(slot.close)
+          close: this.formatFoursquareTime(slot.close),
         };
       }
     }
@@ -728,15 +756,15 @@ export class VenueScraperService {
   private extractFeaturesFromTypes(types: string[]): string[] {
     const features: string[] = [];
     const featureMap: { [key: string]: string } = {
-      'parking': 'parking',
-      'wheelchair_accessible': 'wheelchair accessible',
-      'delivery': 'delivery',
-      'takeout': 'takeout',
-      'dine_in': 'dine in',
-      'outdoor_seating': 'outdoor seating',
-      'wifi': 'wifi',
-      'vegetarian_friendly': 'vegetarian options',
-      'vegan_friendly': 'vegan options'
+      parking: 'parking',
+      wheelchair_accessible: 'wheelchair accessible',
+      delivery: 'delivery',
+      takeout: 'takeout',
+      dine_in: 'dine in',
+      outdoor_seating: 'outdoor seating',
+      wifi: 'wifi',
+      vegetarian_friendly: 'vegetarian options',
+      vegan_friendly: 'vegan options',
     };
 
     for (const type of types) {
@@ -753,27 +781,27 @@ export class VenueScraperService {
    */
   private normalizeCategory(category: string): string {
     const categoryMap: { [key: string]: string } = {
-      'restaurants': 'restaurant',
-      'food': 'restaurant',
-      'dining': 'restaurant',
-      'bars': 'bar',
-      'pubs': 'bar',
-      'drinks': 'bar',
-      'coffee': 'cafe',
-      'coffeehouse': 'cafe',
-      'bakery': 'cafe',
-      'nightlife': 'nightclub',
-      'club': 'nightclub',
-      'shopping': 'shopping',
-      'retail': 'shopping',
-      'entertainment': 'entertainment',
-      'arts': 'entertainment',
-      'fitness': 'fitness',
-      'gym': 'fitness',
-      'sports': 'fitness',
-      'hotels': 'hotel',
-      'lodging': 'hotel',
-      'accommodation': 'hotel'
+      restaurants: 'restaurant',
+      food: 'restaurant',
+      dining: 'restaurant',
+      bars: 'bar',
+      pubs: 'bar',
+      drinks: 'bar',
+      coffee: 'cafe',
+      coffeehouse: 'cafe',
+      bakery: 'cafe',
+      nightlife: 'nightclub',
+      club: 'nightclub',
+      shopping: 'shopping',
+      retail: 'shopping',
+      entertainment: 'entertainment',
+      arts: 'entertainment',
+      fitness: 'fitness',
+      gym: 'fitness',
+      sports: 'fitness',
+      hotels: 'hotel',
+      lodging: 'hotel',
+      accommodation: 'hotel',
     };
 
     return categoryMap[category.toLowerCase()] || category.toLowerCase();
@@ -794,15 +822,11 @@ export class VenueScraperService {
         seen.add(key);
 
         // Check for similar venues already added
-        const isDuplicate = uniqueVenues.some(existing =>
-          this.areSimilarVenues(existing, venue)
-        );
+        const isDuplicate = uniqueVenues.some((existing) => this.areSimilarVenues(existing, venue));
 
         if (!isDuplicate) {
           // Merge data from multiple sources if available
-          const existingIndex = uniqueVenues.findIndex(v =>
-            this.areSameVenue(v, venue)
-          );
+          const existingIndex = uniqueVenues.findIndex((v) => this.areSameVenue(v, venue));
 
           if (existingIndex >= 0) {
             uniqueVenues[existingIndex] = this.mergeVenueData(uniqueVenues[existingIndex], venue);
@@ -821,7 +845,10 @@ export class VenueScraperService {
    */
   private createVenueKey(venue: ScrapedVenue): string {
     const name = venue.name.toLowerCase().replace(/[^a-z0-9]/g, '');
-    const address = venue.address.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 20);
+    const address = venue.address
+      .toLowerCase()
+      .replace(/[^a-z0-9]/g, '')
+      .substring(0, 20);
     return `${name}_${address}`;
   }
 
@@ -861,9 +888,12 @@ export class VenueScraperService {
    */
   private areSameVenue(venue1: ScrapedVenue, venue2: ScrapedVenue): boolean {
     // If they have the same place_id from the same source
-    if (venue1.place_id && venue2.place_id &&
-        venue1.place_id === venue2.place_id &&
-        venue1.source === venue2.source) {
+    if (
+      venue1.place_id &&
+      venue2.place_id &&
+      venue1.place_id === venue2.place_id &&
+      venue1.source === venue2.source
+    ) {
       return true;
     }
 
@@ -883,19 +913,22 @@ export class VenueScraperService {
       image_url: existing.image_url || newVenue.image_url,
       description: existing.description || newVenue.description,
       // Average ratings if both present
-      rating: existing.rating && newVenue.rating
-        ? (existing.rating + newVenue.rating) / 2
-        : existing.rating || newVenue.rating,
+      rating:
+        existing.rating && newVenue.rating
+          ? (existing.rating + newVenue.rating) / 2
+          : existing.rating || newVenue.rating,
       // Merge features
       features: [...new Set([...(existing.features || []), ...(newVenue.features || [])])],
       // Keep the most complete hours
-      hours: Object.keys(existing.hours || {}).length > Object.keys(newVenue.hours || {}).length
-        ? existing.hours
-        : newVenue.hours,
+      hours:
+        Object.keys(existing.hours || {}).length > Object.keys(newVenue.hours || {}).length
+          ? existing.hours
+          : newVenue.hours,
       // Combine sources
-      source: existing.source === newVenue.source
-        ? existing.source
-        : `${existing.source}, ${newVenue.source}`
+      source:
+        existing.source === newVenue.source
+          ? existing.source
+          : `${existing.source}, ${newVenue.source}`,
     };
   }
 
@@ -907,7 +940,7 @@ export class VenueScraperService {
     if (maxLen === 0) return 1;
 
     const distance = this.levenshteinDistance(str1, str2);
-    return 1 - (distance / maxLen);
+    return 1 - distance / maxLen;
   }
 
   /**
@@ -931,8 +964,8 @@ export class VenueScraperService {
           dp[i][j] = dp[i - 1][j - 1];
         } else {
           dp[i][j] = Math.min(
-            dp[i - 1][j] + 1,    // deletion
-            dp[i][j - 1] + 1,    // insertion
+            dp[i - 1][j] + 1, // deletion
+            dp[i][j - 1] + 1, // insertion
             dp[i - 1][j - 1] + 1 // substitution
           );
         }
@@ -952,8 +985,10 @@ export class VenueScraperService {
 
     const a =
       Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-      Math.cos(this.toRad(lat1)) * Math.cos(this.toRad(lat2)) *
-      Math.sin(dLng / 2) * Math.sin(dLng / 2);
+      Math.cos(this.toRad(lat1)) *
+        Math.cos(this.toRad(lat2)) *
+        Math.sin(dLng / 2) *
+        Math.sin(dLng / 2);
 
     const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
     return R * c;
@@ -967,36 +1002,75 @@ export class VenueScraperService {
   }
 
   /**
-   * Save venue to database if it doesn't exist
+   * Save venue to database if it doesn't exist (idempotent)
+   *
+   * Deduplication priority:
+   * 1. google_place_id (most reliable)
+   * 2. coordinates proximity (within ~110m)
+   * 3. name + city_id
    */
   private async saveVenue(venue: ScrapedVenue, cityId: string): Promise<boolean> {
     try {
-      // Check if venue already exists (by name and coordinates)
       let existing;
 
+      // First, check by google_place_id if available (strongest match)
+      if (venue.place_id && venue.source === 'Google Places') {
+        existing = await pool.query(`SELECT id FROM venues WHERE google_place_id = $1`, [
+          venue.place_id,
+        ]);
+        if (existing.rows.length > 0) {
+          // Update existing venue with latest info
+          await pool.query(
+            `UPDATE venues SET
+              rating = COALESCE($1, rating),
+              phone = COALESCE($2, phone),
+              website = COALESCE($3, website),
+              hours = COALESCE($4, hours),
+              features = COALESCE($5, features),
+              image_url = COALESCE($6, image_url),
+              last_verified_at = NOW(),
+              updated_at = NOW()
+            WHERE id = $7`,
+            [
+              venue.rating,
+              venue.phone,
+              venue.website,
+              JSON.stringify(venue.hours),
+              venue.features,
+              venue.image_url,
+              existing.rows[0].id,
+            ]
+          );
+          logger.debug(`Updated venue by place_id: ${venue.name}`);
+          return false;
+        }
+      }
+
+      // Second, check by coordinates + name (fuzzy)
       if (venue.coordinates) {
-        // Check by coordinates proximity and similar name
         existing = await pool.query(
           `SELECT id FROM venues
            WHERE city_id = $1
            AND (
-             (LOWER(name) = LOWER($2)) OR
+             (LOWER(TRIM(name)) = LOWER($2)) OR
              (coordinates IS NOT NULL AND
               ABS((coordinates->>'lat')::float - $3) < 0.001 AND
-              ABS((coordinates->>'lng')::float - $4) < 0.001)
-           )`,
+              ABS((coordinates->>'lng')::float - $4) < 0.001 AND
+              SIMILARITY(LOWER(name), LOWER($2)) > 0.6)
+           )
+           LIMIT 1`,
           [cityId, venue.name, venue.coordinates.lat, venue.coordinates.lng]
         );
       } else {
         // Just check by name if no coordinates
         existing = await pool.query(
-          'SELECT id FROM venues WHERE LOWER(name) = LOWER($1) AND city_id = $2',
+          'SELECT id FROM venues WHERE LOWER(TRIM(name)) = LOWER($1) AND city_id = $2 LIMIT 1',
           [venue.name, cityId]
         );
       }
 
       if (existing.rows.length > 0) {
-        // Update existing venue with new information
+        // Update existing venue with new information (merge, don't overwrite)
         await pool.query(
           `UPDATE venues SET
             rating = COALESCE($1, rating),
@@ -1005,8 +1079,13 @@ export class VenueScraperService {
             hours = COALESCE($4, hours),
             features = COALESCE($5, features),
             image_url = COALESCE($6, image_url),
+            google_place_id = COALESCE($7, google_place_id),
+            source_venue_id = COALESCE($8, source_venue_id),
+            source = COALESCE($9, source),
+            source_confidence = GREATEST(source_confidence, 0.8),
+            last_verified_at = NOW(),
             updated_at = NOW()
-          WHERE id = $7`,
+          WHERE id = $10`,
           [
             venue.rating,
             venue.phone,
@@ -1014,23 +1093,27 @@ export class VenueScraperService {
             JSON.stringify(venue.hours),
             venue.features,
             venue.image_url,
-            existing.rows[0].id
+            venue.source === 'Google Places' ? venue.place_id : null,
+            venue.place_id,
+            venue.source,
+            existing.rows[0].id,
           ]
         );
         logger.debug(`Updated venue: ${venue.name}`);
         return false; // Not a new venue
       }
 
-      // Insert new venue
-      const id = uuidv4();
+      // Insert new venue with consistent ID format
+      const id = `venue_${uuidv4().slice(0, 8)}`;
       await pool.query(
         `INSERT INTO venues (
           id, name, city_id, category, cuisine, price_range, description,
-          address, phone, website, image_url, rating, coordinates, hours, features
-        ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
+          address, phone, website, image_url, rating, coordinates, hours, features,
+          google_place_id, source_venue_id, source, source_confidence
+        ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19)`,
         [
           id,
-          venue.name,
+          venue.name.trim(),
           cityId,
           venue.category,
           venue.category, // Use category as cuisine for now
@@ -1043,14 +1126,22 @@ export class VenueScraperService {
           venue.rating,
           JSON.stringify(venue.coordinates),
           JSON.stringify(venue.hours),
-          venue.features || []
+          venue.features || [],
+          venue.source === 'Google Places' ? venue.place_id : null,
+          venue.place_id,
+          venue.source,
+          0.8, // API-sourced venues have high confidence
         ]
       );
 
       logger.info(`Added new venue: ${venue.name} (${venue.source})`);
       return true;
-
-    } catch (error) {
+    } catch (error: any) {
+      // Handle unique constraint violation (race condition)
+      if (error.code === '23505') {
+        logger.debug(`Venue already exists (race condition): ${venue.name}`);
+        return false;
+      }
       logger.error(`Failed to save venue ${venue.name}:`, error);
       return false;
     }
@@ -1073,7 +1164,7 @@ export class VenueScraperService {
       // Add delay between cities to respect rate limits
       if (city !== cities.rows[cities.rows.length - 1]) {
         logger.info('Waiting before next city...');
-        await new Promise(resolve => setTimeout(resolve, 5000));
+        await new Promise((resolve) => setTimeout(resolve, 5000));
       }
     }
 
@@ -1102,15 +1193,19 @@ export class VenueScraperService {
   /**
    * Get scraper status
    */
-  getStatus(): { isRunning: boolean; lastRunTime: Date | null; apiKeysConfigured: { google: boolean; yelp: boolean; foursquare: boolean } } {
+  getStatus(): {
+    isRunning: boolean;
+    lastRunTime: Date | null;
+    apiKeysConfigured: { google: boolean; yelp: boolean; foursquare: boolean };
+  } {
     return {
       isRunning: this.isRunning,
       lastRunTime: this.lastRunTime,
       apiKeysConfigured: {
         google: !!this.googleApiKey,
         yelp: !!this.yelpApiKey,
-        foursquare: !!this.foursquareApiKey
-      }
+        foursquare: !!this.foursquareApiKey,
+      },
     };
   }
 }

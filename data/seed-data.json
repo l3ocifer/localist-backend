@@ -8,10 +8,7 @@
       "description": "The city that never sleeps - endless dining and nightlife options",
       "image_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800",
       "timezone": "America/New_York",
-      "coordinates": {
-        "lat": 40.7128,
-        "lng": -74.0060
-      }
+      "coordinates": { "lat": 40.7128, "lng": -74.006 }
     },
     {
       "id": "la",
@@ -21,10 +18,7 @@
       "description": "City of Angels - diverse culinary scene from food trucks to Michelin stars",
       "image_url": "https://images.unsplash.com/photo-1544413164-9b4db5ad4e9e?w=800",
       "timezone": "America/Los_Angeles",
-      "coordinates": {
-        "lat": 34.0522,
-        "lng": -118.2437
-      }
+      "coordinates": { "lat": 34.0522, "lng": -118.2437 }
     },
     {
       "id": "chicago",
@@ -34,10 +28,7 @@
       "description": "The Windy City - deep dish pizza and world-class dining",
       "image_url": "https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=800",
       "timezone": "America/Chicago",
-      "coordinates": {
-        "lat": 41.8781,
-        "lng": -87.6298
-      }
+      "coordinates": { "lat": 41.8781, "lng": -87.6298 }
     },
     {
       "id": "miami",
@@ -47,10 +38,7 @@
       "description": "Magic City - vibrant nightlife and Latin-inspired cuisine",
       "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
       "timezone": "America/New_York",
-      "coordinates": {
-        "lat": 25.7617,
-        "lng": -80.1918
-      }
+      "coordinates": { "lat": 25.7617, "lng": -80.1918 }
     },
     {
       "id": "vegas",
@@ -60,266 +48,872 @@
       "description": "Sin City - 24/7 entertainment and celebrity chef restaurants",
       "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
       "timezone": "America/Los_Angeles",
-      "coordinates": {
-        "lat": 36.1699,
-        "lng": -115.1398
-      }
+      "coordinates": { "lat": 36.1699, "lng": -115.1398 }
+    }
+  ],
+  "neighborhoods": [
+    {
+      "id": "manhattan-les",
+      "name": "Lower East Side",
+      "city_id": "nyc",
+      "description": "Trendy neighborhood known for hip bars, art galleries, and diverse food scene",
+      "coordinates": { "lat": 40.715, "lng": -73.9843 }
+    },
+    {
+      "id": "manhattan-soho",
+      "name": "SoHo",
+      "city_id": "nyc",
+      "description": "Upscale shopping and dining with cobblestone streets",
+      "coordinates": { "lat": 40.7233, "lng": -74.003 }
+    },
+    {
+      "id": "manhattan-west-village",
+      "name": "West Village",
+      "city_id": "nyc",
+      "description": "Charming tree-lined streets with cozy restaurants and bars",
+      "coordinates": { "lat": 40.7358, "lng": -74.0036 }
+    },
+    {
+      "id": "manhattan-east-village",
+      "name": "East Village",
+      "city_id": "nyc",
+      "description": "Eclectic neighborhood with diverse cuisine and vibrant nightlife",
+      "coordinates": { "lat": 40.7265, "lng": -73.9815 }
+    },
+    {
+      "id": "manhattan-chelsea",
+      "name": "Chelsea",
+      "city_id": "nyc",
+      "description": "Art galleries, High Line, and upscale dining",
+      "coordinates": { "lat": 40.7465, "lng": -74.0014 }
+    },
+    {
+      "id": "manhattan-midtown",
+      "name": "Midtown",
+      "city_id": "nyc",
+      "description": "Theater district, iconic restaurants, and business dining",
+      "coordinates": { "lat": 40.7549, "lng": -73.984 }
+    },
+    {
+      "id": "manhattan-ues",
+      "name": "Upper East Side",
+      "city_id": "nyc",
+      "description": "Upscale dining and classic New York establishments",
+      "coordinates": { "lat": 40.7736, "lng": -73.9566 }
+    },
+    {
+      "id": "manhattan-uws",
+      "name": "Upper West Side",
+      "city_id": "nyc",
+      "description": "Family-friendly dining near Central Park and Lincoln Center",
+      "coordinates": { "lat": 40.787, "lng": -73.9754 }
+    },
+    {
+      "id": "brooklyn-williamsburg",
+      "name": "Williamsburg",
+      "city_id": "nyc",
+      "description": "Hipster haven with craft cocktails and innovative cuisine",
+      "coordinates": { "lat": 40.7081, "lng": -73.9571 }
+    },
+    {
+      "id": "brooklyn-dumbo",
+      "name": "DUMBO",
+      "city_id": "nyc",
+      "description": "Waterfront dining with Manhattan skyline views",
+      "coordinates": { "lat": 40.7033, "lng": -73.9903 }
     }
   ],
   "venues": [
     {
-      "id": "venue_001",
+      "id": "venue_katz",
+      "name": "Katz's Delicatessen",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-les",
+      "category": "restaurant",
+      "cuisine": "Deli",
+      "price_range": "$$",
+      "description": "Legendary deli serving pastrami sandwiches since 1888",
+      "address": "205 E Houston St, New York, NY 10002",
+      "phone": "(212) 254-2246",
+      "website": "https://katzsdelicatessen.com",
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+      "rating": 4.5,
+      "coordinates": { "lat": 40.7223, "lng": -73.9874 },
+      "features": ["cash only", "counter service", "historic"],
+      "hours": {
+        "monday": { "open": "08:00", "close": "22:45" },
+        "tuesday": { "open": "08:00", "close": "22:45" },
+        "wednesday": { "open": "08:00", "close": "22:45" },
+        "thursday": { "open": "08:00", "close": "02:45" },
+        "friday": { "open": "08:00", "close": "02:45" },
+        "saturday": { "open": "08:00", "close": "02:45" },
+        "sunday": { "open": "08:00", "close": "22:45" }
+      }
+    },
+    {
+      "id": "venue_carbone",
+      "name": "Carbone",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-west-village",
+      "category": "restaurant",
+      "cuisine": "Italian-American",
+      "price_range": "$$$$",
+      "description": "Glamorous Italian-American restaurant with theatrical service",
+      "address": "181 Thompson St, New York, NY 10012",
+      "phone": "(212) 254-3000",
+      "website": "https://carbonenewyork.com",
+      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+      "rating": 4.7,
+      "coordinates": { "lat": 40.7277, "lng": -74.0 },
+      "features": ["reservations required", "full bar", "upscale"],
+      "hours": {
+        "monday": { "open": "17:00", "close": "23:00" },
+        "tuesday": { "open": "17:00", "close": "23:00" },
+        "wednesday": { "open": "17:00", "close": "23:00" },
+        "thursday": { "open": "17:00", "close": "23:00" },
+        "friday": { "open": "17:00", "close": "00:00" },
+        "saturday": { "open": "17:00", "close": "00:00" },
+        "sunday": { "open": "17:00", "close": "22:00" }
+      }
+    },
+    {
+      "id": "venue_joes",
       "name": "Joe's Pizza",
       "city_id": "nyc",
-      "category": "Pizza",
-      "cuisine": "Italian",
+      "neighborhood_id": "manhattan-west-village",
+      "category": "restaurant",
+      "cuisine": "Pizza",
       "price_range": "$",
-      "description": "Classic New York slice since 1975",
+      "description": "Classic NY slice joint, a Village institution since 1975",
       "address": "7 Carmine St, New York, NY 10014",
-      "phone": "+1-212-366-1182",
+      "phone": "(212) 366-1182",
       "website": "https://joespizzanyc.com",
-      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600",
-      "rating": 4.5,
-      "coordinates": {
-        "lat": 40.7301,
-        "lng": -74.0027
-      },
-      "hours": {
-        "monday": "11:00-23:00",
-        "tuesday": "11:00-23:00",
-        "wednesday": "11:00-23:00",
-        "thursday": "11:00-23:00",
-        "friday": "11:00-01:00",
-        "saturday": "11:00-01:00",
-        "sunday": "11:00-23:00"
-      },
-      "features": ["takeout", "delivery", "casual_dining"]
-    },
-    {
-      "id": "venue_002",
-      "name": "The Dead Rabbit",
-      "city_id": "nyc",
-      "category": "Cocktail Bar",
-      "cuisine": "Irish",
-      "price_range": "$$$",
-      "description": "World's best bar with Irish hospitality and craft cocktails",
-      "address": "30 Water St, New York, NY 10004",
-      "phone": "+1-646-422-7906",
-      "website": "https://deadrabbitnyc.com",
-      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600",
-      "rating": 4.8,
-      "coordinates": {
-        "lat": 40.7037,
-        "lng": -74.0118
-      },
-      "hours": {
-        "monday": "17:00-02:00",
-        "tuesday": "17:00-02:00",
-        "wednesday": "17:00-02:00",
-        "thursday": "17:00-02:00",
-        "friday": "17:00-03:00",
-        "saturday": "17:00-03:00",
-        "sunday": "17:00-02:00"
-      },
-      "features": ["craft_cocktails", "historic", "award_winning"]
-    },
-    {
-      "id": "venue_003",
-      "name": "Guelaguetza",
-      "city_id": "la",
-      "category": "Mexican",
-      "cuisine": "Oaxacan",
-      "price_range": "$$",
-      "description": "Authentic Oaxacan cuisine and mezcal in Koreatown",
-      "address": "3014 W Olympic Blvd, Los Angeles, CA 90006",
-      "phone": "+1-213-427-0608",
-      "website": "https://ilovemole.com",
-      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600",
+      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
       "rating": 4.6,
-      "coordinates": {
-        "lat": 34.0370,
-        "lng": -118.2982
-      },
+      "coordinates": { "lat": 40.7303, "lng": -74.0022 },
+      "features": ["cash only", "late night", "counter service"],
       "hours": {
-        "monday": "11:00-21:00",
-        "tuesday": "11:00-21:00",
-        "wednesday": "11:00-21:00",
-        "thursday": "11:00-21:00",
-        "friday": "11:00-22:00",
-        "saturday": "09:00-22:00",
-        "sunday": "09:00-21:00"
-      },
-      "features": ["authentic", "family_owned", "mezcal_bar"]
+        "monday": { "open": "10:00", "close": "05:00" },
+        "tuesday": { "open": "10:00", "close": "05:00" },
+        "wednesday": { "open": "10:00", "close": "05:00" },
+        "thursday": { "open": "10:00", "close": "05:00" },
+        "friday": { "open": "10:00", "close": "05:00" },
+        "saturday": { "open": "10:00", "close": "05:00" },
+        "sunday": { "open": "10:00", "close": "05:00" }
+      }
     },
     {
-      "id": "venue_004",
-      "name": "Girl & Goat",
-      "city_id": "chicago",
-      "category": "New American",
-      "cuisine": "Contemporary",
+      "id": "venue_lucali",
+      "name": "Lucali",
+      "city_id": "nyc",
+      "neighborhood_id": "brooklyn-dumbo",
+      "category": "restaurant",
+      "cuisine": "Pizza",
       "price_range": "$$$",
-      "description": "Stephanie Izard's bold flavors and wood-fired dishes",
-      "address": "809 W Randolph St, Chicago, IL 60607",
-      "phone": "+1-312-492-6262",
-      "website": "https://girlandgoat.com",
-      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600",
-      "rating": 4.7,
-      "coordinates": {
-        "lat": 41.8846,
-        "lng": -87.6477
-      },
+      "description": "BYOB pizzeria with legendary pies in a candlelit setting",
+      "address": "575 Henry St, Brooklyn, NY 11231",
+      "phone": "(718) 858-4086",
+      "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
+      "rating": 4.8,
+      "coordinates": { "lat": 40.6836, "lng": -73.9988 },
+      "features": ["byob", "cash only", "romantic"],
       "hours": {
-        "monday": "17:00-22:00",
-        "tuesday": "17:00-22:00",
-        "wednesday": "17:00-22:00",
-        "thursday": "17:00-22:00",
-        "friday": "17:00-23:00",
-        "saturday": "17:00-23:00",
-        "sunday": "17:00-22:00"
-      },
-      "features": ["celebrity_chef", "reservations_required", "wood_fired"]
+        "wednesday": { "open": "18:00", "close": "23:00" },
+        "thursday": { "open": "18:00", "close": "23:00" },
+        "friday": { "open": "18:00", "close": "23:00" },
+        "saturday": { "open": "18:00", "close": "23:00" },
+        "sunday": { "open": "18:00", "close": "23:00" }
+      }
     },
     {
-      "id": "venue_005",
-      "name": "Joe's Stone Crab",
-      "city_id": "miami",
-      "category": "Seafood",
+      "id": "venue_pdtbar",
+      "name": "Please Don't Tell (PDT)",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-east-village",
+      "category": "bar",
+      "cuisine": "Cocktails",
+      "price_range": "$$$",
+      "description": "Legendary speakeasy accessed through a phone booth in a hot dog shop",
+      "address": "113 St Marks Pl, New York, NY 10009",
+      "phone": "(212) 614-0386",
+      "website": "https://pdtnyc.com",
+      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800",
+      "rating": 4.5,
+      "coordinates": { "lat": 40.7275, "lng": -73.9841 },
+      "features": ["speakeasy", "craft cocktails", "reservations required"],
+      "hours": {
+        "monday": { "open": "18:00", "close": "02:00" },
+        "tuesday": { "open": "18:00", "close": "02:00" },
+        "wednesday": { "open": "18:00", "close": "02:00" },
+        "thursday": { "open": "18:00", "close": "02:00" },
+        "friday": { "open": "18:00", "close": "03:00" },
+        "saturday": { "open": "18:00", "close": "03:00" },
+        "sunday": { "open": "18:00", "close": "02:00" }
+      }
+    },
+    {
+      "id": "venue_deathco",
+      "name": "Death & Co",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-east-village",
+      "category": "bar",
+      "cuisine": "Cocktails",
+      "price_range": "$$$",
+      "description": "Award-winning cocktail bar that helped launch the craft cocktail revolution",
+      "address": "433 E 6th St, New York, NY 10009",
+      "phone": "(212) 388-0882",
+      "website": "https://deathandcompany.com",
+      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800",
+      "rating": 4.6,
+      "coordinates": { "lat": 40.7263, "lng": -73.9867 },
+      "features": ["craft cocktails", "dark ambiance", "no standing"],
+      "hours": {
+        "sunday": { "open": "18:00", "close": "01:00" },
+        "monday": { "open": "18:00", "close": "01:00" },
+        "tuesday": { "open": "18:00", "close": "01:00" },
+        "wednesday": { "open": "18:00", "close": "02:00" },
+        "thursday": { "open": "18:00", "close": "02:00" },
+        "friday": { "open": "18:00", "close": "02:00" },
+        "saturday": { "open": "18:00", "close": "02:00" }
+      }
+    },
+    {
+      "id": "venue_attaboy",
+      "name": "Attaboy",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-les",
+      "category": "bar",
+      "cuisine": "Cocktails",
+      "price_range": "$$$",
+      "description": "No-menu speakeasy where bartenders craft drinks to your taste",
+      "address": "134 Eldridge St, New York, NY 10002",
+      "image_url": "https://images.unsplash.com/photo-1536935338788-846bb9981813?w=800",
+      "rating": 4.7,
+      "coordinates": { "lat": 40.7195, "lng": -73.9923 },
+      "features": ["speakeasy", "no menu", "intimate"],
+      "hours": {
+        "tuesday": { "open": "18:00", "close": "02:00" },
+        "wednesday": { "open": "18:00", "close": "02:00" },
+        "thursday": { "open": "18:00", "close": "02:00" },
+        "friday": { "open": "18:00", "close": "03:00" },
+        "saturday": { "open": "18:00", "close": "03:00" },
+        "sunday": { "open": "18:00", "close": "02:00" }
+      }
+    },
+    {
+      "id": "venue_rubirosa",
+      "name": "Rubirosa",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-soho",
+      "category": "restaurant",
+      "cuisine": "Italian",
+      "price_range": "$$",
+      "description": "Beloved family-run spot famous for thin-crust vodka pizza",
+      "address": "235 Mulberry St, New York, NY 10012",
+      "phone": "(212) 965-0500",
+      "website": "https://rubirosanyc.com",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+      "rating": 4.5,
+      "coordinates": { "lat": 40.7212, "lng": -73.9959 },
+      "features": ["family owned", "outdoor seating", "walk-ins welcome"],
+      "hours": {
+        "monday": { "open": "11:30", "close": "23:00" },
+        "tuesday": { "open": "11:30", "close": "23:00" },
+        "wednesday": { "open": "11:30", "close": "23:00" },
+        "thursday": { "open": "11:30", "close": "23:00" },
+        "friday": { "open": "11:30", "close": "00:00" },
+        "saturday": { "open": "11:30", "close": "00:00" },
+        "sunday": { "open": "11:30", "close": "23:00" }
+      }
+    },
+    {
+      "id": "venue_xian",
+      "name": "Xi'an Famous Foods",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-east-village",
+      "category": "restaurant",
+      "cuisine": "Chinese",
+      "price_range": "$",
+      "description": "Hand-pulled noodles and spicy lamb burgers from Xi'an province",
+      "address": "81 St Marks Pl, New York, NY 10003",
+      "phone": "(212) 786-2068",
+      "website": "https://xianfoods.com",
+      "image_url": "https://images.unsplash.com/photo-1555126634-323283e090fa?w=800",
+      "rating": 4.4,
+      "coordinates": { "lat": 40.7283, "lng": -73.9876 },
+      "features": ["fast casual", "noodles", "spicy"],
+      "hours": {
+        "monday": { "open": "11:00", "close": "22:00" },
+        "tuesday": { "open": "11:00", "close": "22:00" },
+        "wednesday": { "open": "11:00", "close": "22:00" },
+        "thursday": { "open": "11:00", "close": "22:00" },
+        "friday": { "open": "11:00", "close": "23:00" },
+        "saturday": { "open": "11:00", "close": "23:00" },
+        "sunday": { "open": "11:00", "close": "22:00" }
+      }
+    },
+    {
+      "id": "venue_levain",
+      "name": "Levain Bakery",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-uws",
+      "category": "cafe",
+      "cuisine": "Bakery",
+      "price_range": "$",
+      "description": "Famous for massive, gooey chocolate chip cookies",
+      "address": "167 W 74th St, New York, NY 10023",
+      "phone": "(212) 874-6080",
+      "website": "https://levainbakery.com",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800",
+      "rating": 4.7,
+      "coordinates": { "lat": 40.7794, "lng": -73.9772 },
+      "features": ["bakery", "cookies", "casual"],
+      "hours": {
+        "monday": { "open": "08:00", "close": "20:00" },
+        "tuesday": { "open": "08:00", "close": "20:00" },
+        "wednesday": { "open": "08:00", "close": "20:00" },
+        "thursday": { "open": "08:00", "close": "20:00" },
+        "friday": { "open": "08:00", "close": "21:00" },
+        "saturday": { "open": "08:00", "close": "21:00" },
+        "sunday": { "open": "08:00", "close": "20:00" }
+      }
+    },
+    {
+      "id": "venue_peterpan",
+      "name": "Peter Pan Donut & Pastry Shop",
+      "city_id": "nyc",
+      "neighborhood_id": "brooklyn-williamsburg",
+      "category": "cafe",
+      "cuisine": "Bakery",
+      "price_range": "$",
+      "description": "Retro Polish bakery serving donuts since 1953",
+      "address": "727 Manhattan Ave, Brooklyn, NY 11222",
+      "phone": "(718) 389-3676",
+      "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800",
+      "rating": 4.6,
+      "coordinates": { "lat": 40.729, "lng": -73.9516 },
+      "features": ["cash only", "donuts", "vintage"],
+      "hours": {
+        "monday": { "open": "04:30", "close": "19:00" },
+        "tuesday": { "open": "04:30", "close": "19:00" },
+        "wednesday": { "open": "04:30", "close": "19:00" },
+        "thursday": { "open": "04:30", "close": "19:00" },
+        "friday": { "open": "04:30", "close": "19:00" },
+        "saturday": { "open": "04:30", "close": "19:00" },
+        "sunday": { "open": "05:30", "close": "19:00" }
+      }
+    },
+    {
+      "id": "venue_elev",
+      "name": "Eleven Madison Park",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-chelsea",
+      "category": "restaurant",
+      "cuisine": "American",
+      "price_range": "$$$$",
+      "description": "World-renowned plant-based fine dining with stunning views",
+      "address": "11 Madison Ave, New York, NY 10010",
+      "phone": "(212) 889-0905",
+      "website": "https://elevenmadisonpark.com",
+      "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "rating": 4.9,
+      "coordinates": { "lat": 40.7415, "lng": -73.9871 },
+      "features": ["fine dining", "tasting menu", "reservations required"],
+      "hours": {
+        "wednesday": { "open": "17:30", "close": "22:00" },
+        "thursday": { "open": "17:30", "close": "22:00" },
+        "friday": { "open": "17:30", "close": "22:00" },
+        "saturday": { "open": "17:30", "close": "22:00" },
+        "sunday": { "open": "17:30", "close": "22:00" }
+      }
+    },
+    {
+      "id": "venue_gramercy",
+      "name": "Gramercy Tavern",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-chelsea",
+      "category": "restaurant",
       "cuisine": "American",
       "price_range": "$$$",
-      "description": "Miami Beach institution famous for stone crabs since 1913",
-      "address": "11 Washington Ave, Miami Beach, FL 33139",
-      "phone": "+1-305-673-0365",
-      "website": "https://joesstonecrab.com",
-      "image_url": "https://images.unsplash.com/photo-1559737558-2f5a35f4523d?w=600",
-      "rating": 4.4,
-      "coordinates": {
-        "lat": 25.7663,
-        "lng": -80.1320
-      },
+      "description": "Danny Meyer's beloved farm-to-table American restaurant",
+      "address": "42 E 20th St, New York, NY 10003",
+      "phone": "(212) 477-0777",
+      "website": "https://gramercytavern.com",
+      "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "rating": 4.7,
+      "coordinates": { "lat": 40.7387, "lng": -73.9885 },
+      "features": ["farm to table", "tavern room walk-ins", "seasonal menu"],
       "hours": {
-        "monday": "17:00-22:00",
-        "tuesday": "17:00-22:00",
-        "wednesday": "17:00-22:00",
-        "thursday": "17:00-22:00",
-        "friday": "17:00-23:00",
-        "saturday": "17:00-23:00",
-        "sunday": "17:00-22:00"
-      },
-      "features": ["historic", "stone_crab", "no_reservations"]
+        "monday": { "open": "12:00", "close": "22:00" },
+        "tuesday": { "open": "12:00", "close": "22:00" },
+        "wednesday": { "open": "12:00", "close": "22:00" },
+        "thursday": { "open": "12:00", "close": "22:00" },
+        "friday": { "open": "12:00", "close": "23:00" },
+        "saturday": { "open": "12:00", "close": "23:00" },
+        "sunday": { "open": "12:00", "close": "21:00" }
+      }
+    },
+    {
+      "id": "venue_lspada",
+      "name": "L'Artusi",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-west-village",
+      "category": "restaurant",
+      "cuisine": "Italian",
+      "price_range": "$$$",
+      "description": "Modern Italian with excellent pasta and a buzzy atmosphere",
+      "address": "228 W 10th St, New York, NY 10014",
+      "phone": "(212) 255-5757",
+      "website": "https://lartusi.com",
+      "image_url": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?w=800",
+      "rating": 4.6,
+      "coordinates": { "lat": 40.7336, "lng": -74.0033 },
+      "features": ["pasta", "wine bar", "counter seating"],
+      "hours": {
+        "monday": { "open": "17:00", "close": "23:00" },
+        "tuesday": { "open": "17:00", "close": "23:00" },
+        "wednesday": { "open": "17:00", "close": "23:00" },
+        "thursday": { "open": "17:00", "close": "23:00" },
+        "friday": { "open": "17:00", "close": "00:00" },
+        "saturday": { "open": "12:00", "close": "00:00" },
+        "sunday": { "open": "12:00", "close": "22:00" }
+      }
+    },
+    {
+      "id": "venue_lilia",
+      "name": "Lilia",
+      "city_id": "nyc",
+      "neighborhood_id": "brooklyn-williamsburg",
+      "category": "restaurant",
+      "cuisine": "Italian",
+      "price_range": "$$$",
+      "description": "Missy Robbins' stunning Italian with handmade pasta",
+      "address": "567 Union Ave, Brooklyn, NY 11211",
+      "phone": "(718) 576-3095",
+      "website": "https://lilianewyork.com",
+      "image_url": "https://images.unsplash.com/photo-1579684947550-22e945225d9a?w=800",
+      "rating": 4.7,
+      "coordinates": { "lat": 40.7148, "lng": -73.951 },
+      "features": ["pasta", "outdoor seating", "trendy"],
+      "hours": {
+        "monday": { "open": "17:30", "close": "22:30" },
+        "tuesday": { "open": "17:30", "close": "22:30" },
+        "wednesday": { "open": "17:30", "close": "22:30" },
+        "thursday": { "open": "17:30", "close": "22:30" },
+        "friday": { "open": "17:30", "close": "23:00" },
+        "saturday": { "open": "17:00", "close": "23:00" },
+        "sunday": { "open": "17:00", "close": "22:00" }
+      }
+    },
+    {
+      "id": "venue_burger",
+      "name": "J.G. Melon",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-ues",
+      "category": "restaurant",
+      "cuisine": "American",
+      "price_range": "$$",
+      "description": "Classic Upper East Side burger joint since 1972",
+      "address": "1291 Third Ave, New York, NY 10021",
+      "phone": "(212) 744-0585",
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+      "rating": 4.4,
+      "coordinates": { "lat": 40.7695, "lng": -73.9588 },
+      "features": ["burgers", "cash only", "classic"],
+      "hours": {
+        "monday": { "open": "11:30", "close": "02:00" },
+        "tuesday": { "open": "11:30", "close": "02:00" },
+        "wednesday": { "open": "11:30", "close": "02:00" },
+        "thursday": { "open": "11:30", "close": "02:00" },
+        "friday": { "open": "11:30", "close": "03:00" },
+        "saturday": { "open": "11:30", "close": "03:00" },
+        "sunday": { "open": "11:30", "close": "02:00" }
+      }
+    },
+    {
+      "id": "venue_minetta",
+      "name": "Minetta Tavern",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-west-village",
+      "category": "restaurant",
+      "cuisine": "French Bistro",
+      "price_range": "$$$",
+      "description": "Classic French bistro famous for the Black Label Burger",
+      "address": "113 MacDougal St, New York, NY 10012",
+      "phone": "(212) 475-3850",
+      "website": "https://minettatavernny.com",
+      "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "rating": 4.5,
+      "coordinates": { "lat": 40.7303, "lng": -74.0003 },
+      "features": ["burger", "bistro", "late night"],
+      "hours": {
+        "monday": { "open": "17:30", "close": "23:00" },
+        "tuesday": { "open": "17:30", "close": "23:00" },
+        "wednesday": { "open": "17:30", "close": "23:00" },
+        "thursday": { "open": "17:30", "close": "00:00" },
+        "friday": { "open": "17:30", "close": "00:00" },
+        "saturday": { "open": "12:00", "close": "00:00" },
+        "sunday": { "open": "12:00", "close": "22:00" }
+      }
+    },
+    {
+      "id": "venue_shake",
+      "name": "Shake Shack (Madison Square Park)",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-chelsea",
+      "category": "restaurant",
+      "cuisine": "American",
+      "price_range": "$$",
+      "description": "The original Shake Shack - where it all began",
+      "address": "Madison Ave & E 23rd St, New York, NY 10010",
+      "phone": "(212) 889-6600",
+      "website": "https://shakeshack.com",
+      "image_url": "https://images.unsplash.com/photo-1586816001966-79b736744398?w=800",
+      "rating": 4.3,
+      "coordinates": { "lat": 40.7408, "lng": -73.988 },
+      "features": ["burgers", "outdoor seating", "lines"],
+      "hours": {
+        "monday": { "open": "11:00", "close": "23:00" },
+        "tuesday": { "open": "11:00", "close": "23:00" },
+        "wednesday": { "open": "11:00", "close": "23:00" },
+        "thursday": { "open": "11:00", "close": "23:00" },
+        "friday": { "open": "11:00", "close": "23:00" },
+        "saturday": { "open": "11:00", "close": "23:00" },
+        "sunday": { "open": "11:00", "close": "23:00" }
+      }
+    },
+    {
+      "id": "venue_corner",
+      "name": "Corner Bistro",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-west-village",
+      "category": "restaurant",
+      "cuisine": "American",
+      "price_range": "$",
+      "description": "No-frills dive bar with legendary burgers",
+      "address": "331 W 4th St, New York, NY 10014",
+      "phone": "(212) 242-9502",
+      "image_url": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=800",
+      "rating": 4.3,
+      "coordinates": { "lat": 40.7382, "lng": -74.005 },
+      "features": ["dive bar", "cheap", "cash only"],
+      "hours": {
+        "monday": { "open": "11:30", "close": "04:00" },
+        "tuesday": { "open": "11:30", "close": "04:00" },
+        "wednesday": { "open": "11:30", "close": "04:00" },
+        "thursday": { "open": "11:30", "close": "04:00" },
+        "friday": { "open": "11:30", "close": "04:00" },
+        "saturday": { "open": "11:30", "close": "04:00" },
+        "sunday": { "open": "12:00", "close": "04:00" }
+      }
+    },
+    {
+      "id": "venue_employees",
+      "name": "Employees Only",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-west-village",
+      "category": "bar",
+      "cuisine": "Cocktails",
+      "price_range": "$$$",
+      "description": "Award-winning speakeasy with late-night kitchen",
+      "address": "510 Hudson St, New York, NY 10014",
+      "phone": "(212) 242-3021",
+      "website": "https://employeesonlynyc.com",
+      "image_url": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800",
+      "rating": 4.5,
+      "coordinates": { "lat": 40.7329, "lng": -74.0072 },
+      "features": ["speakeasy", "late night food", "craft cocktails"],
+      "hours": {
+        "monday": { "open": "18:00", "close": "04:00" },
+        "tuesday": { "open": "18:00", "close": "04:00" },
+        "wednesday": { "open": "18:00", "close": "04:00" },
+        "thursday": { "open": "18:00", "close": "04:00" },
+        "friday": { "open": "18:00", "close": "04:00" },
+        "saturday": { "open": "18:00", "close": "04:00" },
+        "sunday": { "open": "18:00", "close": "04:00" }
+      }
     }
   ],
   "lists": [
     {
-      "id": "list_001",
+      "id": "list_nyc_pizza",
       "name": "Best Pizza in NYC",
       "city_id": "nyc",
+      "scope": "city",
       "category": "Pizza",
-      "description": "The ultimate guide to New York's finest pizza slices",
-      "curator": "Discover Local Team",
+      "description": "The definitive guide to NYC's best slices and pies",
+      "curator": "Localist Team",
       "is_featured": true,
-      "venue_ids": ["venue_001"],
-      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
-      "created_at": "2024-01-01T00:00:00Z"
+      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800"
     },
     {
-      "id": "list_002",
-      "name": "Top Cocktail Bars NYC",
+      "id": "list_nyc_cocktails",
+      "name": "Best Cocktail Bars in NYC",
       "city_id": "nyc",
+      "scope": "city",
       "category": "Cocktails",
-      "description": "Craft cocktails and speakeasies in the Big Apple",
-      "curator": "Discover Local Team",
+      "description": "Speakeasies, craft cocktail dens, and legendary bars",
+      "curator": "Localist Team",
       "is_featured": true,
-      "venue_ids": ["venue_002"],
-      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800",
-      "created_at": "2024-01-01T00:00:00Z"
+      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800"
     },
     {
-      "id": "list_003",
-      "name": "Authentic Mexican LA",
-      "city_id": "la",
-      "category": "Mexican",
-      "description": "Real deal Mexican food in Los Angeles",
-      "curator": "Discover Local Team",
+      "id": "list_nyc_burgers",
+      "name": "Best Burgers in NYC",
+      "city_id": "nyc",
+      "scope": "city",
+      "category": "Burgers",
+      "description": "From dive bars to fine dining - the city's best patties",
+      "curator": "Localist Team",
       "is_featured": true,
-      "venue_ids": ["venue_003"],
-      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
-      "created_at": "2024-01-01T00:00:00Z"
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
     },
     {
-      "id": "list_004",
-      "name": "Chicago Fine Dining",
-      "city_id": "chicago",
+      "id": "list_nyc_italian",
+      "name": "Best Italian Restaurants in NYC",
+      "city_id": "nyc",
+      "scope": "city",
+      "category": "Italian",
+      "description": "Red sauce joints, modern Italian, and everything in between",
+      "curator": "Localist Team",
+      "is_featured": true,
+      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+    },
+    {
+      "id": "list_nyc_fine_dining",
+      "name": "Fine Dining in NYC",
+      "city_id": "nyc",
+      "scope": "city",
       "category": "Fine Dining",
-      "description": "Chicago's most celebrated restaurants",
-      "curator": "Discover Local Team",
+      "description": "Special occasion restaurants worth the splurge",
+      "curator": "Localist Team",
       "is_featured": true,
-      "venue_ids": ["venue_004"],
-      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
-      "created_at": "2024-01-01T00:00:00Z"
+      "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
     },
     {
-      "id": "list_005",
-      "name": "Miami Seafood Spots",
-      "city_id": "miami",
-      "category": "Seafood",
-      "description": "Fresh seafood with ocean views",
-      "curator": "Discover Local Team",
-      "is_featured": true,
-      "venue_ids": ["venue_005"],
-      "image_url": "https://images.unsplash.com/photo-1559737558-2f5a35f4523d?w=800",
-      "created_at": "2024-01-01T00:00:00Z"
+      "id": "list_wv_date_night",
+      "name": "Best Date Night Spots in West Village",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-west-village",
+      "scope": "neighborhood",
+      "category": "Date Night",
+      "description": "Romantic restaurants perfect for date night in the Village",
+      "curator": "Localist Team",
+      "is_featured": false,
+      "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+    },
+    {
+      "id": "list_ev_bars",
+      "name": "Best Bars in East Village",
+      "city_id": "nyc",
+      "neighborhood_id": "manhattan-east-village",
+      "scope": "neighborhood",
+      "category": "Bars",
+      "description": "The best cocktail bars and dives in the East Village",
+      "curator": "Localist Team",
+      "is_featured": false,
+      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800"
+    },
+    {
+      "id": "list_wburg_eats",
+      "name": "Where to Eat in Williamsburg",
+      "city_id": "nyc",
+      "neighborhood_id": "brooklyn-williamsburg",
+      "scope": "neighborhood",
+      "category": "All",
+      "description": "Essential restaurants in Brooklyn's trendiest neighborhood",
+      "curator": "Localist Team",
+      "is_featured": false,
+      "image_url": "https://images.unsplash.com/photo-1579684947550-22e945225d9a?w=800"
+    }
+  ],
+  "list_venues": [
+    {
+      "list_id": "list_nyc_pizza",
+      "venue_id": "venue_joes",
+      "position": 1,
+      "notes": "The classic NYC slice"
+    },
+    {
+      "list_id": "list_nyc_pizza",
+      "venue_id": "venue_lucali",
+      "position": 2,
+      "notes": "Worth the wait"
+    },
+    {
+      "list_id": "list_nyc_pizza",
+      "venue_id": "venue_rubirosa",
+      "position": 3,
+      "notes": "Vodka pizza is legendary"
+    },
+
+    {
+      "list_id": "list_nyc_cocktails",
+      "venue_id": "venue_pdtbar",
+      "position": 1,
+      "notes": "Enter through the phone booth"
+    },
+    {
+      "list_id": "list_nyc_cocktails",
+      "venue_id": "venue_deathco",
+      "position": 2,
+      "notes": "Where craft cocktails began"
+    },
+    {
+      "list_id": "list_nyc_cocktails",
+      "venue_id": "venue_attaboy",
+      "position": 3,
+      "notes": "No menu, trust the bartenders"
+    },
+    {
+      "list_id": "list_nyc_cocktails",
+      "venue_id": "venue_employees",
+      "position": 4,
+      "notes": "Stay for the late night food"
+    },
+
+    {
+      "list_id": "list_nyc_burgers",
+      "venue_id": "venue_minetta",
+      "position": 1,
+      "notes": "Black Label Burger is legendary"
+    },
+    {
+      "list_id": "list_nyc_burgers",
+      "venue_id": "venue_burger",
+      "position": 2,
+      "notes": "UES classic"
+    },
+    {
+      "list_id": "list_nyc_burgers",
+      "venue_id": "venue_corner",
+      "position": 3,
+      "notes": "Dive bar perfection"
+    },
+    {
+      "list_id": "list_nyc_burgers",
+      "venue_id": "venue_shake",
+      "position": 4,
+      "notes": "The OG location"
+    },
+
+    {
+      "list_id": "list_nyc_italian",
+      "venue_id": "venue_carbone",
+      "position": 1,
+      "notes": "Glamorous Italian-American"
+    },
+    {
+      "list_id": "list_nyc_italian",
+      "venue_id": "venue_lilia",
+      "position": 2,
+      "notes": "Handmade pasta perfection"
+    },
+    {
+      "list_id": "list_nyc_italian",
+      "venue_id": "venue_lspada",
+      "position": 3,
+      "notes": "Modern and buzzy"
+    },
+    {
+      "list_id": "list_nyc_italian",
+      "venue_id": "venue_rubirosa",
+      "position": 4,
+      "notes": "Family-run gem"
+    },
+
+    {
+      "list_id": "list_nyc_fine_dining",
+      "venue_id": "venue_elev",
+      "position": 1,
+      "notes": "World-class plant-based"
+    },
+    {
+      "list_id": "list_nyc_fine_dining",
+      "venue_id": "venue_carbone",
+      "position": 2,
+      "notes": "Italian-American splendor"
+    },
+    {
+      "list_id": "list_nyc_fine_dining",
+      "venue_id": "venue_gramercy",
+      "position": 3,
+      "notes": "Danny Meyer classic"
+    },
+
+    {
+      "list_id": "list_wv_date_night",
+      "venue_id": "venue_carbone",
+      "position": 1,
+      "notes": "Glamorous and romantic"
+    },
+    {
+      "list_id": "list_wv_date_night",
+      "venue_id": "venue_lspada",
+      "position": 2,
+      "notes": "Cozy counter seating"
+    },
+    {
+      "list_id": "list_wv_date_night",
+      "venue_id": "venue_minetta",
+      "position": 3,
+      "notes": "Classic bistro vibes"
+    },
+    {
+      "list_id": "list_wv_date_night",
+      "venue_id": "venue_employees",
+      "position": 4,
+      "notes": "Speakeasy romance"
+    },
+
+    {
+      "list_id": "list_ev_bars",
+      "venue_id": "venue_pdtbar",
+      "position": 1,
+      "notes": "Secret entrance"
+    },
+    {
+      "list_id": "list_ev_bars",
+      "venue_id": "venue_deathco",
+      "position": 2,
+      "notes": "Cocktail mecca"
+    },
+
+    {
+      "list_id": "list_wburg_eats",
+      "venue_id": "venue_lilia",
+      "position": 1,
+      "notes": "Get the pasta"
+    },
+    {
+      "list_id": "list_wburg_eats",
+      "venue_id": "venue_peterpan",
+      "position": 2,
+      "notes": "Legendary donuts"
     }
   ],
   "users": [
     {
-      "id": "demo_user",
-      "email": "demo@discoverlocal.ai",
-      "phone": "+1-555-0123",
-      "first_name": "Demo",
-      "last_name": "User",
-      "is_premium": false,
+      "id": "user_demo",
+      "email": "demo@localist.ai",
+      "password_hash": "$2a$10$rQEY7z0j5jQG1H.TmW6qOeJH7hJkXpK9X2cS6J3L7KvY5C5V5jK5O",
+      "name": "Demo User",
+      "username": "demouser",
+      "role": "user",
       "preferences": {
-        "cuisines": ["Italian", "Mexican", "Contemporary"],
-        "price_range": "$$",
-        "dietary_restrictions": [],
-        "preferred_cities": ["nyc", "la"]
-      },
-      "created_at": "2024-01-01T00:00:00Z"
+        "favorite_cuisines": ["Italian", "Pizza", "Cocktails"],
+        "price_preference": ["$$", "$$$"],
+        "dietary_restrictions": []
+      }
     },
     {
-      "id": "premium_user",
-      "email": "premium@discoverlocal.ai",
-      "phone": "+1-555-0124",
-      "first_name": "Premium",
-      "last_name": "User",
-      "is_premium": true,
-      "preferences": {
-        "cuisines": ["Fine Dining", "Cocktails", "Seafood"],
-        "price_range": "$$$",
-        "dietary_restrictions": ["vegetarian"],
-        "preferred_cities": ["nyc", "chicago", "miami"]
-      },
-      "created_at": "2024-01-01T00:00:00Z"
-    }
-  ],
-  "user_lists": [
-    {
-      "id": "user_list_001",
-      "user_id": "demo_user",
-      "name": "My Favorites",
-      "description": "Places I want to try",
-      "venue_ids": ["venue_001", "venue_003"],
-      "is_public": false,
-      "created_at": "2024-01-01T00:00:00Z"
-    },
-    {
-      "id": "user_list_002",
-      "user_id": "premium_user",
-      "name": "Date Night Spots",
-      "description": "Perfect for romantic evenings",
-      "venue_ids": ["venue_002", "venue_004", "venue_005"],
-      "is_public": true,
-      "created_at": "2024-01-01T00:00:00Z"
+      "id": "user_admin",
+      "email": "admin@localist.ai",
+      "password_hash": "$2a$10$rQEY7z0j5jQG1H.TmW6qOeJH7hJkXpK9X2cS6J3L7KvY5C5V5jK5O",
+      "name": "Admin",
+      "username": "admin",
+      "role": "admin",
+      "preferences": {}
     }
   ]
 }

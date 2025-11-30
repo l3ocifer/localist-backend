@@ -38,6 +38,7 @@ function getDataPath(filename: string): string {
 
 interface SeedData {
   cities: any[];
+  neighborhoods?: any[];
   venues: any[];
   lists: any[];
   list_venues?: any[];
@@ -71,6 +72,7 @@ async function seed() {
     await pool.query('DELETE FROM user_lists');
     await pool.query('DELETE FROM lists');
     await pool.query('DELETE FROM venues');
+    await pool.query('DELETE FROM neighborhoods');
     await pool.query('DELETE FROM cities');
     await pool.query("DELETE FROM users WHERE email != 'admin@localist.ai'"); // Keep admin user if exists
 
@@ -97,6 +99,29 @@ async function seed() {
     }
     console.log(`✅ Inserted ${seedData.cities.length} cities`);
 
+    // Insert neighborhoods if available
+    if (seedData.neighborhoods && seedData.neighborhoods.length > 0) {
+      console.log('🏘️  Inserting neighborhoods...');
+      for (const neighborhood of seedData.neighborhoods) {
+        await pool.query(
+          `INSERT INTO neighborhoods (id, name, city_id, description, coordinates, image_url)
+           VALUES ($1, $2, $3, $4, $5, $6)
+           ON CONFLICT (id) DO UPDATE SET
+           name = EXCLUDED.name,
+           description = EXCLUDED.description`,
+          [
+            neighborhood.id,
+            neighborhood.name,
+            neighborhood.city_id,
+            neighborhood.description,
+            neighborhood.coordinates ? JSON.stringify(neighborhood.coordinates) : null,
+            neighborhood.image_url,
+          ]
+        );
+      }
+      console.log(`✅ Inserted ${seedData.neighborhoods.length} neighborhoods`);
+    }
+
     console.log('🏪 Inserting venues...');
     for (const venue of seedData.venues) {
       // Map price_level to price_range string
@@ -115,18 +140,20 @@ async function seed() {
       }
 
       await pool.query(
-        `INSERT INTO venues (id, name, city_id, category, cuisine, price_range, description,
+        `INSERT INTO venues (id, name, city_id, neighborhood_id, category, cuisine, price_range, description,
          address, phone, website, image_url, rating, coordinates, hours, features)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16)
          ON CONFLICT (id) DO UPDATE SET
          name = EXCLUDED.name,
          description = EXCLUDED.description,
          rating = EXCLUDED.rating,
-         hours = EXCLUDED.hours`,
+         hours = EXCLUDED.hours,
+         neighborhood_id = EXCLUDED.neighborhood_id`,
         [
           venue.id,
           venue.name,
           venue.city_id,
+          venue.neighborhood_id || null,
           venue.category,
           venue.cuisine || venue.category,
           priceRange,
@@ -190,19 +217,23 @@ async function seed() {
       }
 
       await pool.query(
-        `INSERT INTO lists (id, name, city_id, category, description, curator, is_featured, image_url, user_id, is_public, created_at, updated_at)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
+        `INSERT INTO lists (id, name, city_id, neighborhood_id, scope, category, description, curator, is_featured, image_url, user_id, is_public, created_at, updated_at)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14)
          ON CONFLICT (id) DO UPDATE SET
          name = EXCLUDED.name,
          description = EXCLUDED.description,
-         is_featured = EXCLUDED.is_featured`,
+         is_featured = EXCLUDED.is_featured,
+         neighborhood_id = EXCLUDED.neighborhood_id,
+         scope = EXCLUDED.scope`,
         [
           list.id,
           list.name,
           list.city_id,
+          list.neighborhood_id || null,
+          list.scope || 'city',
           list.category,
           list.description,
-          list.is_curated ? 'DiscoverLocal Team' : null,
+          list.curator || (list.is_curated ? 'Localist Team' : null),
           list.is_featured || false,
           list.image_url,
           userId,
@@ -261,6 +292,7 @@ async function seed() {
 
     // Show summary
     const cityCount = await pool.query('SELECT COUNT(*) FROM cities');
+    const neighborhoodCount = await pool.query('SELECT COUNT(*) FROM neighborhoods');
     const venueCount = await pool.query('SELECT COUNT(*) FROM venues');
     const listCount = await pool.query('SELECT COUNT(*) FROM lists');
     const listVenueCount = await pool.query('SELECT COUNT(*) FROM list_venues');
@@ -268,6 +300,7 @@ async function seed() {
 
     console.log('\n📊 Database Summary:');
     console.log(`   Cities: ${cityCount.rows[0].count}`);
+    console.log(`   Neighborhoods: ${neighborhoodCount.rows[0].count}`);
     console.log(`   Venues: ${venueCount.rows[0].count}`);
     console.log(`   Lists: ${listCount.rows[0].count}`);
     console.log(`   List-Venue Relations: ${listVenueCount.rows[0].count}`);
