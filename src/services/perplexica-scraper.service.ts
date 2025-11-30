@@ -38,11 +38,26 @@ interface VenueData {
 export class PerplexicaScraperService {
   private static instance: PerplexicaScraperService;
   private baseUrl: string;
-  private defaultChatModel = { providerId: 'openai', key: 'gpt-4o-mini' };
-  private defaultEmbeddingModel = { providerId: 'openai', key: 'text-embedding-3-small' };
+  // Default to Ollama models (local/homelab) - can override with PERPLEXICA_CHAT_MODEL env var
+  // Ollama models available on homelab: gemma3:27b, qwen2.5-coder:32b, llama3.2:3b
+  private defaultChatModel: { providerId: string; key: string };
+  private defaultEmbeddingModel: { providerId: string; key: string };
 
   private constructor() {
     this.baseUrl = process.env.PERPLEXICA_URL || 'http://localhost:3002';
+
+    // Use Ollama by default, fall back to OpenAI if OPENAI_API_KEY is set
+    const useOpenAI = !!process.env.OPENAI_API_KEY;
+    this.defaultChatModel = {
+      providerId: process.env.PERPLEXICA_CHAT_PROVIDER || (useOpenAI ? 'openai' : 'ollama'),
+      key: process.env.PERPLEXICA_CHAT_MODEL || (useOpenAI ? 'gpt-4o-mini' : 'llama3.2:3b'),
+    };
+    this.defaultEmbeddingModel = {
+      providerId: process.env.PERPLEXICA_EMBED_PROVIDER || (useOpenAI ? 'openai' : 'ollama'),
+      key:
+        process.env.PERPLEXICA_EMBED_MODEL ||
+        (useOpenAI ? 'text-embedding-3-small' : 'nomic-embed-text'),
+    };
   }
 
   static getInstance(): PerplexicaScraperService {
@@ -50,6 +65,149 @@ export class PerplexicaScraperService {
       PerplexicaScraperService.instance = new PerplexicaScraperService();
     }
     return PerplexicaScraperService.instance;
+  }
+
+  /**
+   * Check if Perplexica is configured and available
+   */
+  isConfigured(): boolean {
+    return !!this.baseUrl;
+  }
+
+  /**
+   * Discover venues (wrapper for unified scraper compatibility)
+   */
+  async discoverVenues(
+    cityName: string,
+    options: { focusOn?: string; category?: string; limit?: number } = {}
+  ): Promise<{ venues: VenueData[]; sources: string[] }> {
+    const categories = options.category ? [options.category] : ['restaurants', 'bars', 'cafes'];
+    const venues = await this.discoverVenuesInCity('', cityName, categories);
+    return {
+      venues: venues.slice(0, options.limit || 20),
+      sources: ['perplexica'],
+    };
+  }
+
+  /**
+   * Enrich a venue with AI-generated content (wrapper for unified scraper compatibility)
+   */
+  async enrichVenue(
+    venueName: string,
+    cityName: string,
+    context: { address?: string; cuisine?: string; category?: string } = {}
+  ): Promise<{
+    description: string;
+    signatureDishes: string[];
+    vibe: string[];
+    whyVisit: string;
+    bestFor: string[];
+  }> {
+    const query = `Tell me about ${venueName} in ${cityName}. ${
+      context.cuisine ? `It's a ${context.cuisine} place.` : ''
+    }
+    Provide: a brief description, signature dishes/drinks, the vibe/atmosphere, why someone should visit, and what it's best for.`;
+
+    try {
+      const result = await this.searchVenues(query);
+
+      // Parse the AI response for structured data
+      const response = result.message || '';
+
+      return {
+        description: response.substring(0, 500),
+        signatureDishes: this.extractList(response, [
+          'signature',
+          'famous for',
+          'known for',
+          'must-try',
+        ]),
+        vibe: this.extractList(response, ['vibe', 'atmosphere', 'ambiance', 'feel']),
+        whyVisit: this.extractSentence(response, ['should visit', 'worth visiting', 'go for']),
+        bestFor: this.extractList(response, ['best for', 'perfect for', 'ideal for', 'great for']),
+      };
+    } catch (error: any) {
+      logger.error(`Failed to enrich venue ${venueName}:`, error.message);
+      return {
+        description: '',
+        signatureDishes: [],
+        vibe: [],
+        whyVisit: '',
+        bestFor: [],
+      };
+    }
+  }
+
+  private extractList(text: string, keywords: string[]): string[] {
+    const results: string[] = [];
+    const lines = text.split('\n');
+    for (const line of lines) {
+      const lowerLine = line.toLowerCase();
+      if (keywords.some((k) => lowerLine.includes(k))) {
+        // Extract items after the keyword
+        const items = line
+          .split(/[,;:]/)
+          .slice(1)
+          .map((s) => s.trim())
+          .filter((s) => s.length > 2);
+        results.push(...items);
+      }
+    }
+    return results.slice(0, 5);
+  }
+
+  private extractSentence(text: string, keywords: string[]): string {
+    const sentences = text.split(/[.!?]/);
+    for (const sentence of sentences) {
+      if (keywords.some((k) => sentence.toLowerCase().includes(k))) {
+        return sentence.trim();
+      }
+    }
+    return '';
+  }
+
+  /**
+   * Find "Best Of" lists for a city
+   */
+  async findBestOfLists(
+    cityName: string,
+    year: number = new Date().getFullYear()
+  ): Promise<{
+    lists: Array<{ title: string; url: string; publication: string }>;
+    sources: string[];
+  }> {
+    const query = `Best restaurants ${cityName} ${year} lists from Eater, Infatuation, Thrillist, Time Out`;
+
+    try {
+      const result = await this.searchVenues(query);
+      const lists: Array<{ title: string; url: string; publication: string }> = [];
+
+      // Parse sources for editorial lists
+      if (result.sources) {
+        for (const source of result.sources) {
+          const url = source.url || '';
+          const title = source.title || '';
+          let publication = 'Unknown';
+
+          if (url.includes('eater.com')) publication = 'Eater';
+          else if (url.includes('theinfatuation.com')) publication = 'The Infatuation';
+          else if (url.includes('thrillist.com')) publication = 'Thrillist';
+          else if (url.includes('timeout.com')) publication = 'Time Out';
+
+          if (publication !== 'Unknown') {
+            lists.push({ title, url, publication });
+          }
+        }
+      }
+
+      return {
+        lists,
+        sources: ['perplexica'],
+      };
+    } catch (error: any) {
+      logger.error(`Failed to find best of lists for ${cityName}:`, error.message);
+      return { lists: [], sources: [] };
+    }
   }
 
   /**

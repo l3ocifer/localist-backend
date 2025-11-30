@@ -2,7 +2,6 @@ import { NextFunction, Request, Response, Router } from 'express';
 import pool from '../config/database';
 import logger from '../services/logger.service';
 import { PerplexicaScraperService } from '../services/perplexica-scraper.service';
-import { PerplexityAPIService } from '../services/perplexity-api.service';
 import { ScraperOrchestratorService } from '../services/scraper-orchestrator.service';
 import { SearXNGService } from '../services/searxng.service';
 import { UnifiedScraperService } from '../services/unified-scraper.service';
@@ -10,7 +9,7 @@ import { UnifiedScraperService } from '../services/unified-scraper.service';
 const router = Router();
 const scraperOrchestrator = ScraperOrchestratorService.getInstance();
 const unifiedScraper = UnifiedScraperService.getInstance();
-const perplexityApi = PerplexityAPIService.getInstance();
+const perplexicaService = PerplexicaScraperService.getInstance();
 const searxng = SearXNGService.getInstance();
 
 // =============================================================================
@@ -388,7 +387,7 @@ router.post('/perplexity/discover', async (req: Request, res: Response): Promise
       return;
     }
 
-    if (!perplexityApi.isConfigured()) {
+    if (!perplexicaService.isConfigured()) {
       res.status(503).json({
         error: 'Perplexity API not configured',
         help: 'Set PERPLEXITY_API_KEY environment variable',
@@ -396,7 +395,7 @@ router.post('/perplexity/discover', async (req: Request, res: Response): Promise
       return;
     }
 
-    const result = await perplexityApi.discoverVenues(cityName, {
+    const result = await perplexicaService.discoverVenues(cityName, {
       focusOn,
       category,
       limit,
@@ -428,7 +427,7 @@ router.post('/perplexity/enrich', async (req: Request, res: Response): Promise<v
       return;
     }
 
-    if (!perplexityApi.isConfigured()) {
+    if (!perplexicaService.isConfigured()) {
       res.status(503).json({
         error: 'Perplexity API not configured',
         help: 'Set PERPLEXITY_API_KEY environment variable',
@@ -436,7 +435,7 @@ router.post('/perplexity/enrich', async (req: Request, res: Response): Promise<v
       return;
     }
 
-    const result = await perplexityApi.enrichVenue(venueName, cityName, {
+    const result = await perplexicaService.enrichVenue(venueName, cityName, {
       address,
       cuisine,
       category,
@@ -466,7 +465,7 @@ router.post('/perplexity/lists', async (req: Request, res: Response): Promise<vo
       return;
     }
 
-    if (!perplexityApi.isConfigured()) {
+    if (!perplexicaService.isConfigured()) {
       res.status(503).json({
         error: 'Perplexity API not configured',
         help: 'Set PERPLEXITY_API_KEY environment variable',
@@ -474,7 +473,7 @@ router.post('/perplexity/lists', async (req: Request, res: Response): Promise<vo
       return;
     }
 
-    const result = await perplexityApi.findBestOfLists(cityName, year);
+    const result = await perplexicaService.findBestOfLists(cityName, year);
 
     res.json({
       success: true,

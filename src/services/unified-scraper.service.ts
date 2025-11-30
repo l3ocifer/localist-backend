@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 import pool from '../config/database';
 import logger from './logger.service';
-import { PerplexityAPIService } from './perplexity-api.service';
+import { PerplexicaScraperService } from './perplexica-scraper.service';
 import { SearXNGService } from './searxng.service';
 import { VenueScraperService } from './venue-scraper.service';
 
@@ -63,12 +63,12 @@ interface ScrapingResult {
 export class UnifiedScraperService {
   private static instance: UnifiedScraperService;
   private venueScraperService: VenueScraperService;
-  private perplexityService: PerplexityAPIService;
+  private perplexicaService: PerplexicaScraperService;
   private searxngService: SearXNGService;
 
   private constructor() {
     this.venueScraperService = VenueScraperService.getInstance();
-    this.perplexityService = PerplexityAPIService.getInstance();
+    this.perplexicaService = PerplexicaScraperService.getInstance();
     this.searxngService = SearXNGService.getInstance();
   }
 
@@ -91,7 +91,7 @@ export class UnifiedScraperService {
 
     return {
       google: !!process.env.GOOGLE_PLACES_API_KEY,
-      perplexity: this.perplexityService.isConfigured(),
+      perplexity: this.perplexicaService.isConfigured(),
       searxng: searxngAvailable,
     };
   }
@@ -193,7 +193,7 @@ export class UnifiedScraperService {
       }
 
       // LAYER 3: Perplexity API enrichment for top venues
-      if (usePerplexity && this.perplexityService.isConfigured()) {
+      if (usePerplexity && this.perplexicaService.isConfigured()) {
         logger.info(`Layer 3: Enriching top ${enrichTopN} venues with Perplexity...`);
         try {
           // Get top venues that need enrichment
@@ -210,7 +210,7 @@ export class UnifiedScraperService {
           for (const venue of topVenues.rows) {
             try {
               if (!dryRun) {
-                const enrichment = await this.perplexityService.enrichVenue(venue.name, cityName, {
+                const enrichment = await this.perplexicaService.enrichVenue(venue.name, cityName, {
                   address: venue.address,
                   cuisine: venue.cuisine,
                   category: venue.category,
@@ -233,7 +233,7 @@ export class UnifiedScraperService {
                     JSON.stringify(enrichment.vibe),
                     enrichment.whyVisit,
                     JSON.stringify(enrichment.bestFor),
-                    JSON.stringify(enrichment.sources),
+                    JSON.stringify(['perplexica']),
                     venue.id,
                   ]
                 );
@@ -256,10 +256,10 @@ export class UnifiedScraperService {
       }
 
       // BONUS: Use Perplexity to discover hidden gems
-      if (usePerplexity && this.perplexityService.isConfigured()) {
+      if (usePerplexity && this.perplexicaService.isConfigured()) {
         logger.info(`Discovering hidden gems via Perplexity...`);
         try {
-          const discovery = await this.perplexityService.discoverVenues(cityName, {
+          const discovery = await this.perplexicaService.discoverVenues(cityName, {
             focusOn: 'hidden_gems',
             limit: 20,
           });
@@ -269,7 +269,12 @@ export class UnifiedScraperService {
           // Save discovered venues
           for (const venue of discovery.venues) {
             if (!dryRun) {
-              await this.saveDiscoveredVenue(venue, cityId, cityName, 'perplexity');
+              await this.saveDiscoveredVenue(
+                { ...venue, description: venue.description || '' },
+                cityId,
+                cityName,
+                'perplexica'
+              );
             } else {
               logger.info(`[DRY RUN] Would save discovered venue: ${venue.name}`);
             }
@@ -316,11 +321,11 @@ export class UnifiedScraperService {
 
     const cityName = cityResult.rows[0].name;
 
-    if (!this.perplexityService.isConfigured()) {
+    if (!this.perplexicaService.isConfigured()) {
       throw new Error('Perplexity API not configured. Set PERPLEXITY_API_KEY.');
     }
 
-    const discovery = await this.perplexityService.discoverVenues(cityName, {
+    const discovery = await this.perplexicaService.discoverVenues(cityName, {
       focusOn,
       category,
       limit,
@@ -328,14 +333,19 @@ export class UnifiedScraperService {
 
     let saved = 0;
     for (const venue of discovery.venues) {
-      const result = await this.saveDiscoveredVenue(venue, cityId, cityName, 'perplexity');
+      const result = await this.saveDiscoveredVenue(
+        { ...venue, description: venue.description || '' },
+        cityId,
+        cityName,
+        'perplexica'
+      );
       if (result) saved++;
     }
 
     return {
       discovered: discovery.venues.length,
       saved,
-      venues: discovery.venues.map((v) => ({ name: v.name, description: v.description })),
+      venues: discovery.venues.map((v) => ({ name: v.name, description: v.description || '' })),
     };
   }
 
@@ -353,7 +363,7 @@ export class UnifiedScraperService {
     };
     error?: string;
   }> {
-    if (!this.perplexityService.isConfigured()) {
+    if (!this.perplexicaService.isConfigured()) {
       return { success: false, error: 'Perplexity API not configured' };
     }
 
@@ -373,7 +383,7 @@ export class UnifiedScraperService {
     const venue = venueResult.rows[0];
 
     try {
-      const enrichment = await this.perplexityService.enrichVenue(venue.name, venue.city_name, {
+      const enrichment = await this.perplexicaService.enrichVenue(venue.name, venue.city_name, {
         address: venue.address,
         cuisine: venue.cuisine,
         category: venue.category,
@@ -396,7 +406,7 @@ export class UnifiedScraperService {
           JSON.stringify(enrichment.vibe),
           enrichment.whyVisit,
           JSON.stringify(enrichment.bestFor),
-          JSON.stringify(enrichment.sources),
+          JSON.stringify(['perplexica']),
           venueId,
         ]
       );
