@@ -46,6 +46,7 @@ interface GooglePlace {
     publishTime: string;
   }>;
   googleMapsUri?: string;
+  businessStatus?: 'OPERATIONAL' | 'CLOSED_TEMPORARILY' | 'CLOSED_PERMANENTLY';
 }
 
 export interface VenueFromGoogle {
@@ -67,79 +68,167 @@ export interface VenueFromGoogle {
   google_place_id: string;
   opening_hours?: string[];
   neighborhood?: string;
+  google_maps_url?: string;
 }
 
-// City center coordinates for searches
-const CITY_CENTERS: Record<string, { lat: number; lng: number; name: string }> = {
-  nyc: { lat: 40.7580, lng: -73.9855, name: 'New York City' },
-  la: { lat: 34.0522, lng: -118.2437, name: 'Los Angeles' },
-  chicago: { lat: 41.8827, lng: -87.6233, name: 'Chicago' },
-  miami: { lat: 25.7617, lng: -80.1918, name: 'Miami' },
-  vegas: { lat: 36.1147, lng: -115.1728, name: 'Las Vegas' },
+export interface QualityFilters {
+  minRating: number;
+  minReviews: number;
+  requirePhotos: boolean;
+  requireContact: boolean;
+  excludeClosed: boolean;
+}
+
+// Default quality thresholds for high-quality venues
+export const DEFAULT_QUALITY_FILTERS: QualityFilters = {
+  minRating: 4.2,
+  minReviews: 100,
+  requirePhotos: true,
+  requireContact: true,
+  excludeClosed: true,
 };
 
-// Neighborhoods for more targeted searches
+// Relaxed filters for more coverage
+export const RELAXED_QUALITY_FILTERS: QualityFilters = {
+  minRating: 4.0,
+  minReviews: 50,
+  requirePhotos: true,
+  requireContact: false,
+  excludeClosed: true,
+};
+
+// City center coordinates for searches
+const CITY_INFO: Record<string, { lat: number; lng: number; name: string; state: string }> = {
+  nyc: { lat: 40.7580, lng: -73.9855, name: 'New York City', state: 'NY' },
+  la: { lat: 34.0522, lng: -118.2437, name: 'Los Angeles', state: 'CA' },
+  chicago: { lat: 41.8827, lng: -87.6233, name: 'Chicago', state: 'IL' },
+  miami: { lat: 25.7617, lng: -80.1918, name: 'Miami', state: 'FL' },
+  vegas: { lat: 36.1147, lng: -115.1728, name: 'Las Vegas', state: 'NV' },
+};
+
+// Neighborhoods for targeted searches (top areas per city)
 const NEIGHBORHOODS: Record<string, string[]> = {
   nyc: [
-    'Manhattan', 'Williamsburg', 'SoHo', 'West Village', 'East Village',
-    'Lower East Side', 'Chelsea', 'Tribeca', 'Nolita', 'Greenpoint',
-    'DUMBO Brooklyn', 'Park Slope', 'Bushwick', 'Astoria Queens',
+    'Manhattan', 'Williamsburg Brooklyn', 'SoHo Manhattan', 'West Village Manhattan',
+    'East Village Manhattan', 'Lower East Side Manhattan', 'Chelsea Manhattan',
+    'Tribeca Manhattan', 'Nolita Manhattan', 'Greenpoint Brooklyn',
+    'DUMBO Brooklyn', 'Park Slope Brooklyn', 'Bushwick Brooklyn', 'Astoria Queens',
+    'Long Island City Queens', 'Harlem Manhattan', 'Upper West Side Manhattan',
   ],
   la: [
-    'Silver Lake', 'Los Feliz', 'Echo Park', 'Highland Park', 'Venice',
-    'Santa Monica', 'West Hollywood', 'Downtown LA', 'Koreatown', 'Arts District',
-    'Culver City', 'Pasadena', 'Beverly Hills',
+    'Silver Lake', 'Los Feliz', 'Echo Park', 'Highland Park', 'Venice Beach',
+    'Santa Monica', 'West Hollywood', 'Downtown Los Angeles', 'Koreatown',
+    'Arts District LA', 'Culver City', 'Pasadena', 'Beverly Hills', 'Malibu',
+    'Manhattan Beach', 'Sawtelle', 'Little Tokyo',
   ],
   chicago: [
     'Wicker Park', 'Logan Square', 'Pilsen', 'West Loop', 'River North',
     'Lincoln Park', 'Bucktown', 'Hyde Park', 'Andersonville', 'Ukrainian Village',
+    'Fulton Market', 'Gold Coast', 'Old Town', 'Lakeview', 'Wrigleyville',
   ],
   miami: [
     'Wynwood', 'Design District', 'South Beach', 'Brickell', 'Little Havana',
-    'Coconut Grove', 'Coral Gables', 'Edgewater', 'Midtown', 'Downtown Miami',
+    'Coconut Grove', 'Coral Gables', 'Edgewater', 'Midtown Miami', 'Downtown Miami',
+    'Little Haiti', 'North Beach', 'Key Biscayne', 'Miami Beach',
   ],
   vegas: [
-    'The Strip', 'Downtown Fremont', 'Arts District', 'Summerlin', 'Henderson',
-    'Chinatown', 'Spring Valley',
+    'The Strip Las Vegas', 'Downtown Fremont Street', 'Arts District Las Vegas',
+    'Summerlin', 'Henderson', 'Chinatown Las Vegas', 'Spring Valley',
+    'Green Valley', 'Paradise', 'Enterprise',
   ],
 };
 
-// Search queries for different venue types
-const SEARCH_QUERIES = {
-  restaurant: [
-    'best restaurants',
-    'fine dining restaurant',
-    'trendy new restaurant',
-    'hidden gem restaurant',
-    'best italian restaurant',
-    'best mexican restaurant',
-    'best asian restaurant',
-    'farm to table restaurant',
-    'romantic dinner restaurant',
-    'best brunch restaurant',
-  ],
-  bar: [
-    'best cocktail bar',
-    'speakeasy bar',
-    'rooftop bar',
-    'wine bar',
-    'craft beer bar',
-    'jazz bar',
-    'dive bar',
-    'hotel bar',
-  ],
-  cafe: [
-    'specialty coffee shop',
-    'best coffee roaster',
-    'cafe with wifi',
-    'artisan bakery cafe',
-  ],
+// Tiered search queries for quality results
+const SEARCH_TIERS = {
+  // Tier 1: Award/Recognition-based (highest quality signal)
+  tier1_awards: {
+    restaurant: [
+      'Michelin star restaurant',
+      'Michelin Bib Gourmand restaurant',
+      'James Beard award restaurant',
+      'James Beard nominated restaurant',
+      'best new restaurant 2024',
+      'award winning restaurant',
+    ],
+    bar: [
+      'best cocktail bar award',
+      "World's 50 Best Bars",
+      'James Beard award bar',
+      'award winning speakeasy',
+    ],
+    cafe: [
+      'best coffee roaster award',
+      'specialty coffee award',
+    ],
+  },
+
+  // Tier 2: Curated list references (editorial quality)
+  tier2_curated: {
+    restaurant: [
+      'Eater 38 restaurant',
+      'Eater best restaurants',
+      'Infatuation best restaurant',
+      'TimeOut best restaurant',
+      'New York Times restaurant review',
+      'best restaurant critics choice',
+    ],
+    bar: [
+      'Eater best bars',
+      'best speakeasy',
+      'best rooftop bar',
+      'best hotel bar',
+      'hidden bar',
+    ],
+    cafe: [
+      'best specialty coffee',
+      'best coffee shop',
+    ],
+  },
+
+  // Tier 3: Specific high-quality venue types
+  tier3_types: {
+    restaurant: [
+      'fine dining restaurant',
+      'tasting menu restaurant',
+      'omakase restaurant',
+      'farm to table restaurant',
+      'intimate restaurant',
+      'celebrity chef restaurant',
+      'best Italian restaurant',
+      'best Japanese restaurant',
+      'best Mexican restaurant',
+      'best French restaurant',
+      'best steakhouse',
+      'best seafood restaurant',
+      'best brunch',
+      'best date night restaurant',
+    ],
+    bar: [
+      'craft cocktail bar',
+      'speakeasy bar',
+      'rooftop bar',
+      'wine bar',
+      'natural wine bar',
+      'jazz bar',
+      'whiskey bar',
+      'mezcal bar',
+      'tiki bar',
+    ],
+    cafe: [
+      'specialty coffee roaster',
+      'third wave coffee',
+      'artisan bakery',
+      'cafe with wifi',
+    ],
+  },
 };
 
 class GooglePlacesService {
   private static instance: GooglePlacesService;
   private apiKey: string;
   private baseUrl = 'https://places.googleapis.com/v1';
+  private requestCount = 0;
+  private lastRequestTime = 0;
 
   private constructor() {
     this.apiKey = process.env.GOOGLE_MAPS_API_KEY || '';
@@ -160,17 +249,34 @@ class GooglePlacesService {
   }
 
   /**
+   * Rate limiting - Google allows 600 QPM, we'll be conservative at 300 QPM
+   */
+  private async rateLimit(): Promise<void> {
+    const now = Date.now();
+    const timeSinceLastRequest = now - this.lastRequestTime;
+    const minInterval = 200; // 5 requests per second max
+
+    if (timeSinceLastRequest < minInterval) {
+      await this.delay(minInterval - timeSinceLastRequest);
+    }
+
+    this.lastRequestTime = Date.now();
+    this.requestCount++;
+  }
+
+  /**
    * Search for places using text query (Places API New)
    */
   async textSearch(query: string, options: {
     location?: { lat: number; lng: number };
     radius?: number;
-    type?: string;
     maxResults?: number;
   } = {}): Promise<GooglePlace[]> {
     if (!this.apiKey) {
       throw new Error('Google Maps API key not configured');
     }
+
+    await this.rateLimit();
 
     const fieldMask = [
       'places.id',
@@ -188,6 +294,7 @@ class GooglePlacesService {
       'places.photos',
       'places.editorialSummary',
       'places.googleMapsUri',
+      'places.businessStatus',
     ].join(',');
 
     const body: Record<string, unknown> = {
@@ -203,13 +310,9 @@ class GooglePlacesService {
             latitude: options.location.lat,
             longitude: options.location.lng,
           },
-          radius: options.radius || 10000, // 10km default
+          radius: options.radius || 15000, // 15km default
         },
       };
-    }
-
-    if (options.type) {
-      body.includedType = options.type;
     }
 
     try {
@@ -229,7 +332,7 @@ class GooglePlacesService {
         throw new Error(`Google Places API error: ${response.status}`);
       }
 
-      const data: PlaceSearchResponse = await response.json();
+      const data = await response.json() as PlaceSearchResponse;
       return data.places || [];
     } catch (error) {
       logger.error('Google Places search failed:', error);
@@ -245,9 +348,41 @@ class GooglePlacesService {
   }
 
   /**
+   * Check if a place meets quality thresholds
+   */
+  meetsQualityThreshold(place: GooglePlace, filters: QualityFilters): boolean {
+    // Check rating
+    if (!place.rating || place.rating < filters.minRating) {
+      return false;
+    }
+
+    // Check review count
+    if (!place.userRatingCount || place.userRatingCount < filters.minReviews) {
+      return false;
+    }
+
+    // Check photos
+    if (filters.requirePhotos && (!place.photos || place.photos.length === 0)) {
+      return false;
+    }
+
+    // Check contact info
+    if (filters.requireContact && !place.websiteUri && !place.nationalPhoneNumber) {
+      return false;
+    }
+
+    // Check business status
+    if (filters.excludeClosed && place.businessStatus === 'CLOSED_PERMANENTLY') {
+      return false;
+    }
+
+    return true;
+  }
+
+  /**
    * Convert Google Place to our venue format
    */
-  convertToVenue(place: GooglePlace, cityId: string): VenueFromGoogle {
+  convertToVenue(place: GooglePlace, cityId: string, neighborhood?: string): VenueFromGoogle {
     const priceMap: Record<string, string> = {
       'PRICE_LEVEL_FREE': 'free',
       'PRICE_LEVEL_INEXPENSIVE': '$',
@@ -266,10 +401,10 @@ class GooglePlacesService {
     }
 
     // Extract cuisine from types
-    const cuisineTypes = types.filter(t => 
+    const cuisineTypes = types.filter(t =>
       t.includes('restaurant') && t !== 'restaurant'
     );
-    const cuisine = cuisineTypes.length > 0 
+    const cuisine = cuisineTypes.length > 0
       ? cuisineTypes[0].replace('_restaurant', '').replace(/_/g, ' ')
       : undefined;
 
@@ -299,97 +434,160 @@ class GooglePlacesService {
       source: 'google_places',
       google_place_id: place.id,
       opening_hours: place.regularOpeningHours?.weekdayDescriptions,
+      neighborhood,
+      google_maps_url: place.googleMapsUri,
     };
   }
 
   /**
-   * Discover venues in a city
+   * Discover high-quality venues using tiered search strategy
    */
-  async discoverVenuesInCity(
+  async discoverQualityVenues(
     cityId: string,
     options: {
       category?: 'restaurant' | 'bar' | 'cafe';
-      limit?: number;
+      targetCount?: number;
+      qualityFilters?: QualityFilters;
+      includeTier1?: boolean;
+      includeTier2?: boolean;
+      includeTier3?: boolean;
       includeNeighborhoods?: boolean;
+      onProgress?: (msg: string) => void;
     } = {}
   ): Promise<VenueFromGoogle[]> {
-    const cityInfo = CITY_CENTERS[cityId];
+    const cityInfo = CITY_INFO[cityId];
     if (!cityInfo) {
       throw new Error(`Unknown city: ${cityId}`);
     }
 
     const category = options.category || 'restaurant';
-    const queries = SEARCH_QUERIES[category] || SEARCH_QUERIES.restaurant;
+    const targetCount = options.targetCount || 200;
+    const filters = options.qualityFilters || DEFAULT_QUALITY_FILTERS;
     const allVenues: VenueFromGoogle[] = [];
     const seenPlaceIds = new Set<string>();
+    const log = options.onProgress || ((msg: string) => logger.info(msg));
 
-    // Search using main city queries
-    for (const query of queries) {
-      const fullQuery = `${query} ${cityInfo.name}`;
-      logger.info(`Searching: ${fullQuery}`);
+    const addVenues = (places: GooglePlace[], neighborhood?: string) => {
+      for (const place of places) {
+        if (seenPlaceIds.has(place.id)) continue;
+        if (!this.meetsQualityThreshold(place, filters)) continue;
 
-      try {
-        const places = await this.textSearch(fullQuery, {
-          location: cityInfo,
-          radius: 15000, // 15km
-          maxResults: 20,
-        });
+        seenPlaceIds.add(place.id);
+        allVenues.push(this.convertToVenue(place, cityId, neighborhood));
+      }
+    };
 
-        for (const place of places) {
-          if (!seenPlaceIds.has(place.id)) {
-            seenPlaceIds.add(place.id);
-            allVenues.push(this.convertToVenue(place, cityId));
-          }
+    // Tier 1: Award-based searches (highest quality)
+    if (options.includeTier1 !== false) {
+      const tier1Queries = SEARCH_TIERS.tier1_awards[category] || [];
+      log(`\n📍 Tier 1: Award-based searches (${tier1Queries.length} queries)`);
+
+      for (const query of tier1Queries) {
+        const fullQuery = `${query} ${cityInfo.name}`;
+        log(`  🔍 "${fullQuery}"`);
+
+        try {
+          const places = await this.textSearch(fullQuery, {
+            location: cityInfo,
+            radius: 25000,
+          });
+          const before = allVenues.length;
+          addVenues(places);
+          log(`     Found ${places.length}, kept ${allVenues.length - before} (total: ${allVenues.length})`);
+        } catch (error) {
+          log(`     ⚠️ Error: ${error}`);
         }
 
-        // Rate limit - Google allows 600 QPM but be conservative
-        await this.delay(200);
-      } catch (error) {
-        logger.warn(`Search failed for "${fullQuery}": ${error}`);
-      }
-
-      if (options.limit && allVenues.length >= options.limit) {
-        break;
+        if (allVenues.length >= targetCount) break;
       }
     }
 
-    // Optionally search by neighborhood
-    if (options.includeNeighborhoods && allVenues.length < (options.limit || 500)) {
+    // Tier 2: Curated list searches
+    if (options.includeTier2 !== false && allVenues.length < targetCount) {
+      const tier2Queries = SEARCH_TIERS.tier2_curated[category] || [];
+      log(`\n📍 Tier 2: Curated list searches (${tier2Queries.length} queries)`);
+
+      for (const query of tier2Queries) {
+        const fullQuery = `${query} ${cityInfo.name}`;
+        log(`  🔍 "${fullQuery}"`);
+
+        try {
+          const places = await this.textSearch(fullQuery, {
+            location: cityInfo,
+            radius: 25000,
+          });
+          const before = allVenues.length;
+          addVenues(places);
+          log(`     Found ${places.length}, kept ${allVenues.length - before} (total: ${allVenues.length})`);
+        } catch (error) {
+          log(`     ⚠️ Error: ${error}`);
+        }
+
+        if (allVenues.length >= targetCount) break;
+      }
+    }
+
+    // Tier 3: Specific venue type searches
+    if (options.includeTier3 !== false && allVenues.length < targetCount) {
+      const tier3Queries = SEARCH_TIERS.tier3_types[category] || [];
+      log(`\n📍 Tier 3: Venue type searches (${tier3Queries.length} queries)`);
+
+      for (const query of tier3Queries) {
+        const fullQuery = `${query} ${cityInfo.name}`;
+        log(`  🔍 "${fullQuery}"`);
+
+        try {
+          const places = await this.textSearch(fullQuery, {
+            location: cityInfo,
+            radius: 25000,
+          });
+          const before = allVenues.length;
+          addVenues(places);
+          log(`     Found ${places.length}, kept ${allVenues.length - before} (total: ${allVenues.length})`);
+        } catch (error) {
+          log(`     ⚠️ Error: ${error}`);
+        }
+
+        if (allVenues.length >= targetCount) break;
+      }
+    }
+
+    // Tier 4: Neighborhood-based searches for coverage
+    if (options.includeNeighborhoods !== false && allVenues.length < targetCount) {
       const neighborhoods = NEIGHBORHOODS[cityId] || [];
-      
-      for (const hood of neighborhoods.slice(0, 5)) {
-        const query = `best ${category} ${hood} ${cityInfo.name}`;
-        logger.info(`Searching neighborhood: ${query}`);
+      log(`\n📍 Tier 4: Neighborhood searches (${neighborhoods.length} neighborhoods)`);
+
+      for (const hood of neighborhoods) {
+        const query = `best ${category} ${hood}`;
+        log(`  🔍 "${query}"`);
 
         try {
           const places = await this.textSearch(query, {
             location: cityInfo,
-            radius: 20000,
-            maxResults: 10,
+            radius: 30000,
           });
-
-          for (const place of places) {
-            if (!seenPlaceIds.has(place.id)) {
-              seenPlaceIds.add(place.id);
-              const venue = this.convertToVenue(place, cityId);
-              venue.neighborhood = hood;
-              allVenues.push(venue);
-            }
-          }
-
-          await this.delay(200);
+          const before = allVenues.length;
+          addVenues(places, hood);
+          log(`     Found ${places.length}, kept ${allVenues.length - before} (total: ${allVenues.length})`);
         } catch (error) {
-          logger.warn(`Neighborhood search failed: ${error}`);
+          log(`     ⚠️ Error: ${error}`);
         }
 
-        if (options.limit && allVenues.length >= options.limit) {
-          break;
-        }
+        if (allVenues.length >= targetCount) break;
       }
     }
 
-    logger.info(`Discovered ${allVenues.length} unique venues in ${cityInfo.name}`);
-    return allVenues.slice(0, options.limit);
+    log(`\n✅ Discovered ${allVenues.length} quality venues in ${cityInfo.name}`);
+    log(`   Quality threshold: ≥${filters.minRating}⭐, ≥${filters.minReviews} reviews`);
+
+    return allVenues.slice(0, targetCount);
+  }
+
+  /**
+   * Get statistics about API usage
+   */
+  getStats(): { requestCount: number } {
+    return { requestCount: this.requestCount };
   }
 
   private delay(ms: number): Promise<void> {
@@ -399,4 +597,3 @@ class GooglePlacesService {
 
 export const googlePlacesService = GooglePlacesService.getInstance();
 export default googlePlacesService;
-
