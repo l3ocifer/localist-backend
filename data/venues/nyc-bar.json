@@ -1,0 +1,3378 @@
+[
+  {
+    "name": "Madame George",
+    "address": "45 W 45th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.madamegeorgenyc.com/",
+    "phone": "(646) 423-9081",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHXg8BINZwokRpUSDvY8f-3I/photos/AWn5SU747ySIgRFEDxUXv7k6Myrh5OZ1xSnAXMG4N8HgIBpjkTBIfjS8-RsU7iuFvSdZgfv_r4p-Hwjrc5Fo_fqOrEof-vL-drybg4GrXNx0Ul01BxPQ-aLQMu1J5rRWbVQMDiWlJZlEzqlRzDS-gQb-3QyxEHivirNTefFQTob5BbvJdKyUAA6JP84tvGR4xNRQkvS3wDTthF-mzts-cUzVkgKHh_mUShjwhTdSJWiWlIb4V3kEPd5KM6-ggxfPEQNG0qAYBu7c5Bd2RFc9kVW6-jeHZWdJK0izn7ydQHDCbCurgg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 454,
+    "coordinates": {
+      "lat": 40.756338299999996,
+      "lng": -73.98114269999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJHXg8BINZwokRpUSDvY8f-3I",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8285250641698440357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sir Henry’s",
+    "address": "795 8th Ave 1st Fl, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://sirhenrysnyc.com/",
+    "phone": "(646) 398-8886",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfWVsl1ZYwokR9qnmtWV2pEg/photos/AWn5SU4vCtqpdWwIQlf5ZUu5TggwYp7i0dC_v3t0MK5z3t9Q7Hwhu48EsgUgiBmV7tLNoNfGCBDNTScjjc6e5ibKMaNHGl2vXJk0WKwLLvZWyqH5adCO4FAEm-x8XJivE0nzsoKv06cvyHhIZU7w2mgTfN_bHpssNAB8EqQ9HZAK0DZGp00kER9fObwzOo2hxPjyibRqYFzp2oMMZ1r-jjsSHIR3bXYMxtQsOOf6rtqC0eZMg657W94rP3d1C-wVPXlXNkI4R8zd_iUtZbJAN78N07qBg0mlqEakmyZRvWWflLxjaA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1088,
+    "coordinates": {
+      "lat": 40.7613102,
+      "lng": -73.9871615
+    },
+    "features": [
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfWVsl1ZYwokR9qnmtWV2pEg",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 3:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5234438846126926326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Dead Rabbit",
+    "address": "30 Water St, New York, NY 10004, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "This 2-story spot combines a lunch taproom with a parlor serving small plates & vintage cocktails.",
+    "website": "https://thedeadrabbit.com/?utm_source=google_business_profile&utm_medium=gbp_view_website&utm_campaign=google_business_profile",
+    "phone": "(917) 540-5228",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIRiJaRRawokR2KyQ984qa-o/photos/AWn5SU4abuJom4osnzwyBSzq9rMcoD70J9NyCBWxGVSNJmr7ZBG5BwvXYMF4EynRSeT0sv2QgtMIpmQM6hspWXqVxr-9t9YjPBXmqAUn-ooosIgNLdvC6Eg-1-riF1UVCxzE3G0tNtBdqVmEs8TG_u-19cJ1XtvAkF7-VkXDhsFa9rLj2Gdlun9IzKCUJ5OrjKTmLmH2gIkbE8S52Yzz2bZ7KOc2lJU-GK5QwUwp7RyNpvGPOE2l2LmAl6iTJBGHZinTS8KyCXAKPsZj0Dl5yuIZEIjjNjxDD1itocPLsO2rA1p9mA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 8074,
+    "coordinates": {
+      "lat": 40.7032685,
+      "lng": -74.0110218
+    },
+    "features": [
+      "bar",
+      "brunch_restaurant",
+      "pub",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIRiJaRRawokR2KyQ984qa-o",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16891641895788260568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "NOTHING REALLY MATTERS",
+    "address": "IN THE SUBWAY, 210 W 50th St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://nothingreallymatters.party/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzYGZaYVZwokReGxLxgK2oNw/photos/AWn5SU5Vu1KIr5phr3djM3LgWxQ1U4q-y5SQSehp15R8crECvIu9AIaMh_SBUx8KTzQsPm6LsGshNAtsnI2b_4SkOIUK-t1DuslTnZW_JPszOyfsqKZyMeWpidMlr2t16k30M_L1ssmS05T9VYl8dpI3Z8M2oF5c103AnttimF3pzVHfDkad7r5rAnCDXoOgAemXeLBKbgf6fRvu8cMszEZn-Gdigh2wqV7u9R_91GEel0mpk3njGD71FB0ZPqNBz12DVAZF5Ms_r6Xy-ERbMRL6We1YiAO0BO9JZhlnWFxVsmR2xw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 420,
+    "coordinates": {
+      "lat": 40.7614519,
+      "lng": -73.98452309999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzYGZaYVZwokReGxLxgK2oNw",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15897906807650872440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Please Don't Tell",
+    "address": "113 St Marks Pl, New York, NY 10009, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Patrons who enter through a phone booth in Crif Dogs next door sip novel cocktails in a dark space.",
+    "website": "http://www.pdtnyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJb67-ZZ1ZwokRRxBYr3GlFp0/photos/AWn5SU510EfTD0oiJGsnwQ3koKwBxrGZqQVL84U3sJO7CDZSHGabOFzXMENMNPePSLun2yXEvuZmmV2CmHl0Ng8A3e6m1WFzuKGQFNY-G2JSj52C-JTmFyxoUA_ExMVfg66Jj5RIeJ3xI6HgG3rYf3lJfBtelIyr3PzeC-uBWiN9zpKH2N9oNBzCNNRSsNLwitcVfE62--rX7j916d7BY_DPP2MIOlGqDiIHRHG6A0qsA_dKiuoiy9dQn8D6iz3fRFQDAJAtmHJ3sw1uLyhARYjMbnABqcWQsapIVdjSLXuCIyrw4A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2361,
+    "coordinates": {
+      "lat": 40.7271371,
+      "lng": -73.98374110000002
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJb67-ZZ1ZwokRRxBYr3GlFp0",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11319416621133992007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lady Blue",
+    "address": "363 W 46th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.ladybluenyc.com/",
+    "phone": "(212) 245-0551",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ__904VNYwokRWVjkJ3KCJqE/photos/AWn5SU5CbVVv849aaimfCmA0b6mBEYdmQ2oA78ZjrjyJGCyJHHzv0EJIH8SQcg3_TN6hwcmO0SkwhocqCM8NIUTpisoRNxT7VdPTEGXvkPOV4uXbndfnKechIENNYnX6juUCtqimLB1qYCr1xW7DolKVuKmm-ZwoR6E2S_Yvo1lwj2Tr-AbAtXToh4blyyXJhZyncolOd6NY6l-aFc4kcExSju9M9fIysJSE4-E3b45w10jNtzlsme9_vIXezzIp-0xHs1wJ92lae_dytyec0bSSMMMuZJDidindUXWDBu2oouYR6w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 251,
+    "coordinates": {
+      "lat": 40.7608752,
+      "lng": -73.990062
+    },
+    "features": [
+      "brunch_restaurant",
+      "bar",
+      "event_venue",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ__904VNYwokRWVjkJ3KCJqE",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 3:00 PM – 2:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:30 AM",
+      "Saturday: 10:00 AM – 2:30 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11612112116028561497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Portrait Bar",
+    "address": "1 W 28th St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://theportraitbar.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo-4H-GJZwokR6zOIA9JH7Kc/photos/AWn5SU6s8EatfNGAqfevItDY8NZnAu49UxjCqu2KUerCjbKgHAZ4tkK6DPDw5A9LnmqTQct2LQO9SJK3D_0Qs2847MBNwV1C0b_7rka0yy5WVRhB-8YvRjmnbxCTJMHzY3-DMqhxH8SYAcKat6dzluGFZ930mxL9J4_ZBvkmG9IYDzXKdlZxaDWbjCBQhJFxdpvufzD1AhcKtAd6FWtAQZUmPQ3M9lvXTMSLGXf6geUW1weH_k7i7g1HKa1AaB5HBs3z158U1ghfg6BYH6YjFzmlr3vazhHUdSTfHcS9iZQoOe26Bg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 214,
+    "coordinates": {
+      "lat": 40.7450774,
+      "lng": -73.9877319
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJo-4H-GJZwokR6zOIA9JH7Kc",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12100125266165642219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Ivory Peacock",
+    "address": "38 W 26th St, New York, NY 10010, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.theivorypeacock.com/",
+    "phone": "(332) 333-3250",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx4mRX0RZwokR2MzGQveMqzs/photos/AWn5SU78v5FaBNikKA9gn3j0TWXOmK5Z5tRcu2CmoulEqKK207gwwEnRMjoZS-8z5p8fE0fPYIvj_KqX0ImoncyNhIE7UrbU4t7gLGsDSEy6ryMlt6upbUPegp7QVJWjZlg-BnT6W4qCInIU83uiwHf08r_7AzPpCZEVyP0LyhAka2iWdhgq_ZkKbj7SYbByYQyxeDIzmlcb16z6JHV2AMugBguzKNrNdDopncfcoIALNyqe8tNS8QJnjuf4cAqoTzD-KJ7DmSNdhgo3yJNvUfs5gEShUHBTaHNz5o3tYU_V0D4Oow/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1249,
+    "coordinates": {
+      "lat": 40.744272099999996,
+      "lng": -73.9907621
+    },
+    "features": [
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJx4mRX0RZwokR2MzGQveMqzs",
+    "opening_hours": [
+      "Monday: 2:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4299685262860405976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Rum House",
+    "address": "228 W 47th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "This swanky, candlelit, wood-paneled piano bar draws the well-heeled for classic cocktails.",
+    "website": "http://www.therumhousenyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq38lzVVYwokRSQFHWasfeqc/photos/AWn5SU7FCw5Dd2qAHmE3UY3evUe3-mWld0gIoM4BYxYIsC4UDSYAvsSOcknqbGKhsXOzd7g7q8tHkYI-b7s8etBiDzjRxQNcr_tM3Au2iw0REWQS8X8KwCfd5Ox00hkE7mxbIydFBG9P7UBSbV_VDYcxnBwVlH7VFfHTwX-8JGVSUhdlLUmtxGtdB3oYDO-ozOiqiuiR1clzcgTxbvGo7lEbszGdXuOzycJk_H7kdZJ7TTZutQaKvGZg3RGvQkiHqmJgX_6xM5fJwvcTLz3ACJsA8Yk_YZAr99f1PodxykVJI7UQJQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2049,
+    "coordinates": {
+      "lat": 40.759710999999996,
+      "lng": -73.986307
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq38lzVVYwokRSQFHWasfeqc",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12067992972290359625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Raines Law Room Chelsea",
+    "address": "48 W 17th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "A semi-secret entrance (ring bell) leads to this plush lounge crafting Prohibition-era cocktails.",
+    "website": "http://www.raineslawroom.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp-sFzaJZwokRdyaZMsu_DkU/photos/AWn5SU5B7i2NNx7uezZHZeDG13DkxMbEr8SsmJs5uIeYyfgGqpFdCyNFXiI5LgbTxRSdMY1Yi5ULLKwHrQJFOkTm95RhOlcI5_51FH9bXuWhFRwiWeHDgM7b6lhDQQBsrxyuml-pylSlHgl9tFuH9DKMBK0BRAObQKDaWHuj_H3ZnM1pAZ4lJYuBfCDZ70o71kQsmMjMYWfmIgyuoWjNLNIQiXljj2FussjzQQVxXj9nnTN25IrpL3gX-azinffZqoVEPsjA2UB2SLxU37GG1NwiExvfL6eMe4wX8ChO6xLlwqVxkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1355,
+    "coordinates": {
+      "lat": 40.7387132,
+      "lng": -73.9946006
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp-sFzaJZwokRdyaZMsu_DkU",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4976125517739140727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Death & Co East Village",
+    "address": "433 E 6th St, New York, NY 10009, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Bartenders in bow ties & suspenders recall the speakeasy era at this dark, moody cocktail lounge.",
+    "website": "http://www.deathandcompany.com/",
+    "phone": "(212) 388-0882",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKU1MNJ1ZwokRQ7eiWK511vI/photos/AWn5SU4UaD0uxkIkP-IOSvTgS0Cq-Vjpcv5PHGhmViDYjYm5oZU_Z6wBqjrniDOhqvjkflAP4MeDT0xwuLtJSs5KponJ_7ULRHvx_qvOHbx_qot1GM8wh6twptaPm2dA6OMrhQiMttQVPUhxzNRK96MQfifo4GTDMwNsomRlUTVny_xAs58wq70H3rDb-M8xVjPXX_F5F5_9Tpk6gbK7y_JONUs6iKIBAqtohT_Dr2keNFjrpf4Ublwt89arJ3j5jA5mMMlpz0Kp8sK1tO8NRn0v7kA3OY_J2ZEMx7fsnmZTj6Saww/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2050,
+    "coordinates": {
+      "lat": 40.725919999999995,
+      "lng": -73.9846452
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKU1MNJ1ZwokRQ7eiWK511vI",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17498302793866458947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "bar/code NYC",
+    "address": "43 W 32nd St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.barcodenewyork.com/",
+    "phone": "(917) 261-7433",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9cZnC5lZwokRmN7VzAoFHxA/photos/AWn5SU4pENEuG4NCkC8LPAmK_qHZLXvINTXqNrMl6FsiR7_U8niqm6HBOfKqg7soLfVGs82fPDhSifDpIlPCVtaDtBMmaWx8SE6rRy7xNFRvLKfWB9sIg67sj6r5MmYumwKXgtU-byTYLxKv4tc-65fm_jCrwGR2aV-If6SfsTXVU9feWklt6461S-fS545fzs-E8_Qsq0C0fnFakQcdKkmv5nuxf-7_isOmIYJFl1Uch2AGV85z1UlE-m9nODwh6cLKQNbmsCTnFGEqkA1LdJj2pBKgIkPhCOePgIaU59Tlb4kyug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 154,
+    "coordinates": {
+      "lat": 40.7482035,
+      "lng": -73.9874565
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9cZnC5lZwokRmN7VzAoFHxA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1161652772829257368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Accidental Bar",
+    "address": "98 Loisaida Ave, New York, NY 10009, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.accidentalbar.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUeg8neFZwokRjTD4oCwTPGk/photos/AWn5SU6Pq86JJcdXTXAQu-VWRmF0sStrJwFed4sIx0IJJg6Uy0gSf5_LSvWsLvzWbjMlwUsdIekNI3Mq__k3hLYXVM2ro-h1XPN5yEHI3ZFXYVnsDPDAc4UEqrnzuCexXAwQHnWzRj1tSJlJs0LoQxUYzvfYtmGyFuOocFTferbRE5Vw3TlMZYBaEUM5i1_1lidon95aCTdRWP5ceGbJKJXhZTgo6pN_JAlqh2ilM3fPvk8ePQjRf9dTTb7BFTW17Lh-NGSiiUYtOL_BMMgI6yY9sdKlb5KfDtpsJzGzWXIdm70i1_YUz4b3yYOJpn77lScbhQlqbli6NLRbw3KRQjQMdBV_Ql6OJPEUGAEQw51Nb9lV2mD3MKsL-XJV534-DAw0eLsy-N3gWLOjGpwzgVbysTP3GC3XxrXGFHcAQzbyzpX1aNoN/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 142,
+    "coordinates": {
+      "lat": 40.7237441,
+      "lng": -73.9788339
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUeg8neFZwokRjTD4oCwTPGk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7582956954985181325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dear Irving on Hudson Rooftop Bar",
+    "address": "310 W 40th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Cocktail parlor at Aliz Hotel serving fancy drinks & bites in a swanky space with Midtown views.",
+    "website": "http://www.dearirving.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmyM5dF1ZwokRD9lUmRAzQOI/photos/AWn5SU5Ua4mU1h4wTtbFsgGzVxuhJ5YYJDSp9YaJPqVn01mPdzR2O9IMOdFDS07aMiGJZ6okiwaJrxnADtYF1GWEQMQ5e58UxrVAjTGkYfiUvNK4odH5ighad7Fy2UZTTXvOkVTccObJtmegu9LLv2sQkH9lAUDzHsjjlcuPtusr6dpyD10LsAVRtUae1RJPyAJLgCVH2pnMHSPgTRYaOxgizVpy8mq4QsV_CvR8EofGwH3JBzj-TnfxnUHLJetZjQI_R72ym83DpNfaCWCdro5M_p2c3M8NIS78P2lea-MgnW803A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1422,
+    "coordinates": {
+      "lat": 40.756162599999996,
+      "lng": -73.991717
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmyM5dF1ZwokRD9lUmRAzQOI",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16303086797466163471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sunken Harbor Club",
+    "address": "372 Fulton St 2nd Floor, Brooklyn, NY 11201, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.sunkenharbor.club/",
+    "phone": "(347) 689-3677",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ___iQYlawokR1pE_9rihJ7A/photos/AWn5SU4RXQgOOxUqfNhaED3D78wlVDPS_UYK3DHnpRyBad8ZYDErcxumNLSR6W8EcXyfrUxTGhYc2quDdwtRdG7OnPuj_upsykhkcREhrIFgGfd7EI3TXtPOLyNGWu6hlfQC6PA4kodMXg_i3_1OwEQsYwAt2an4az12OqAkZsqGMk1pdORZ1UAKuI-nc8R6xJP0ZIhB9K4vCLUMEDewuZvbievQhO4R8EStjN66okcYmw__mL6nScAvu5Ai-4usHcPgpMBaKRkAakjpQqV2KFGWZSgKcgT_wIaSvWfnx_PWyiPjuA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 312,
+    "coordinates": {
+      "lat": 40.691317,
+      "lng": -73.987861
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ___iQYlawokR1pE_9rihJ7A",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12693291890544447958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Angel’s Share",
+    "address": "45 Grove St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Speakeasy-style bar in the East Village offering exotic cocktails in a cool, hard-to-find space.",
+    "website": "http://www.angelssharenyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiyiwQFdZwokR7rsRrrchLJk/photos/AWn5SU4cNPlDGWFfteeby-3EJjKe2o4fvQmgyWxvKRZUqBxcuOzpnWwhob6Dmo6IZfXwty7EGH8Cw1oB3rr0EKNnf9hpXDZuLkth9b4XOW0OJFPOSJ-FXfXB3E-sqpj8lMuDFe6l_NGwLU93vZsrc6CExkB1vxgc5-LJubx9m5GBRL_smBUg5Q5W3NheIvH8g80hT8lumgKpbl2e4ocqLEpfW6AGwz1mPdo0qI4teLn_vtwvPCNu8CHwif0VNJNr9_cmr3J6S_xGzj66UUERtT3Jz1a0VtRJ903BKiReOWwbbKK7Mjgc9dLiM8Da-owt0MqunsW1WttOSnMSwJBywhWjR9QW41U4rAmSWFU9RDBpSJJeNyu9V4znAqYtrSqBkn94N8bRwdhnAoOm1sYb5LBqC08J6IZz0oI68sicpQX7HfQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1755,
+    "coordinates": {
+      "lat": 40.7329799,
+      "lng": -74.00425940000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiyiwQFdZwokR7rsRrrchLJk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11037233859561372654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bateman's",
+    "address": "308 E 6th St, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://batemansnyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgd-6UABZwokRNjlNh8FpSbA/photos/AWn5SU4EWuAVLUtfFU0Q45i2ulNtzx6sDA15OpdCamj1-I8rEg10Xq-3yS8JolKgFZxcWzcN6XL1L5rXmXMf-QeR0e9cVEpjZQs-bhTW3Q8CHLh9GFBAsj6KAgF3Hml3uPPmmukIBgWot1NZOECiHtbvGRBotcGT-laztnkePjHcWT3NXV5UiCC7l11HSepgl6xUMWAxb4ZygsQgK4Ul_7822gFi7rjnBvMPPY2pAguVY_uyDcpfnHPe3de-SU3qGUdtZn0FMMCZetnxauCtKMvGyVRxQ0sbSsAxuEqMxvmBcpdyXg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 105,
+    "coordinates": {
+      "lat": 40.7269931,
+      "lng": -73.98807790000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgd-6UABZwokRNjlNh8FpSbA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12702800503894784310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Campbell",
+    "address": "15 Vanderbilt Ave, New York, NY 10017, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$$",
+    "description": "Classic cocktails & light fare in the ornate Grand Central offices of a 1920's mogul.",
+    "website": "http://www.thecampbellnyc.com/",
+    "phone": "(917) 209-3440",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvQwwiQFZwokRQDZSQpZrTrk/photos/AWn5SU5E0CUHFinZmjxrHvkIpsTVFeLR8WJ6vVi3IdAoKfPqFXPZ6wUfcv5MHYkF94nVhQ1yRztDczVTjOQGT7A33pjXZbE0JIs50x_1viYF2v-nvmbrJGnwtuWOsGHIDI0lmGa1KpybZsw4DOI_NJQi6BEMd4Bz3fLfPkvWn0Vvt4V7tugpvTrcGVmsapqdW1MKCnqplYp-YmhDLs3edPKtRjFrfz6QI5AgdQqlBpIXh-CBvxOFGQunWvApjzSPXQ5X-M3OrEYjr53XP3zJcMlw9DK5PSmA8u2VtVRBY9bGB3znWA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2501,
+    "coordinates": {
+      "lat": 40.752606,
+      "lng": -73.97781499999999
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvQwwiQFZwokRQDZSQpZrTrk",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13352728238302049856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jimmy's Corner",
+    "address": "140 W 44th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Narrow, old-school Times Square bar with boxing memorabilia covering the walls.",
+    "website": "https://m.facebook.com/jimmyscornernyc",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqz-3FVVYwokRo_z9ZJDCM3g/photos/AWn5SU7frxEU4Ie5G8P626gyShqJ5yO3Se2GH7AYW83HmyPBTeodsBRbh00aijvx0Sc4dDvdIabiXyBERGXTppMycVsiMBGpUZ1nYuOU7r7JIipzDNSRraTduos40xUus7Fh7oRaFIib0NUPhPSFktKAKDEzXUWIftNwxYQWAotOKJGTZVg-fEwJLP56-HXxaW-57GGPeRBnpSux5zd2m1wcFsrFcf-XJ9dcmZpdBVFnmFOjqO9B81QEd53cTUfuTdYCTpTq0bFCdTlRTJbcdyNQKU_zLo2iQoI4Fu9N8tsBH9pSWhKHp4noMwXCRyRGzrvC-A5vRt6sUlhslQm4YSa7r9MSmxAYp70oyGHcvsmrivwxpDEKnsk5PH7ZSs_nRte-Rwk4NQeD-7Wo5AlV5OwYZ59dpS4K0uSj7sPqT4I3-OUbMmv5/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2113,
+    "coordinates": {
+      "lat": 40.756729899999996,
+      "lng": -73.9847643
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqz-3FVVYwokRo_z9ZJDCM3g",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:00 AM",
+      "Tuesday: 11:30 AM – 2:00 AM",
+      "Wednesday: 11:30 AM – 2:00 AM",
+      "Thursday: 11:30 AM – 4:00 AM",
+      "Friday: 11:30 AM – 4:00 AM",
+      "Saturday: 12:30 PM – 4:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8661480433789041827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Penrose Bar",
+    "address": "1590 2nd Ave 2nd floor, New York, NY 10028, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Old-fashioned cocktails & a hefty beer & whiskey list, set amid reclaimed wood & vintage wallpaper.",
+    "website": "http://www.penrosebar.com/",
+    "phone": "(212) 203-2751",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE1SK5LtYwokRH1APiOrZNq0/photos/AWn5SU7irfG5LZl11s4eYaBsKRxZ477CBy9KcJJ8JJloO0JGFRmdQdPxNstzIegEtXQZUnT71xJqmu3ppm-56ZoEPGxilgL7WTlVbDgc62g3ar6FB0Z1hTpUfECMCnZqy_McuFU4UNDki3vcG8IeFM983ZpvBNG8gxyU7LN5op3tEpnsyYYvt7c8I1qszVX9czk-MlPw9n-5MfQdi4y1DHhz-PcbJptmlyxD66_rY_hywPqGSRrCAqqpAoygpf8wjgRLGPd43CpDp0lYLm2Wp7DirMMVt-nO1MZQ0gaTd_AwCYvlYw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2375,
+    "coordinates": {
+      "lat": 40.7754985,
+      "lng": -73.9532816
+    },
+    "features": [
+      "bar",
+      "brunch_restaurant",
+      "bar_and_grill",
+      "pub",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE1SK5LtYwokRH1APiOrZNq0",
+    "opening_hours": [
+      "Monday: 11:30 AM – 4:00 AM",
+      "Tuesday: 11:30 AM – 4:00 AM",
+      "Wednesday: 11:30 AM – 4:00 AM",
+      "Thursday: 11:30 AM – 4:00 AM",
+      "Friday: 11:30 AM – 4:00 AM",
+      "Saturday: 9:30 AM – 4:00 AM",
+      "Sunday: 9:30 AM – 4:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12481403018632187935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Whiskey Trader",
+    "address": "71 W 55th St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Dimly lit triplex sports bar/lounge drawing a crowd with drink specials & free popcorn.",
+    "website": "http://whiskeytradernyc.com/",
+    "phone": "(212) 582-2223",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1Qxsi_lYwokR2dfUGgl2d6g/photos/AWn5SU6bRhJhHLaqVS31djZJr9ggUA5-r4CXihb4OzBHPUAJ-DgcdDjfJjE2am17Ig1H65jS4jBWF4erV5PuePWxXUN5D1FTY_bHnHU2SRhLqXMlUwGxX57LSn02j5qFCMVMYL77cM4NmOl05T_eF4THURJZIQaVfbRWS30s_JXnjDLuhM3rh0kumm-Ni9UFunKQAi1yiXXgezQaaAYAaO2NsjH10hE5_r8leGqv0eIxA2roZIcecHVyhbKwy484W-7-XjISv58bVO_ORt-MfaJJFgbB5qYwuFXLwKGT3RyltQlPmAhCn0_fmoehbLAADJ-bzLnjqpkw1Coozg03CAYjDEA-s2MOdZU7zca27xy7S_BtktRtDNQ59k0SztAcueTYzSF-LLwR1ymvELD2vdHEPEYgh7DoedC4IrJjy7LGKX1EdXzS/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 901,
+    "coordinates": {
+      "lat": 40.7629501,
+      "lng": -73.9774876
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1Qxsi_lYwokR2dfUGgl2d6g",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 3:00 AM",
+      "Thursday: 11:00 AM – 3:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12139301102077401049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Raven Pub NYC",
+    "address": "1471 1st Ave, New York, NY 10075, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "phone": "(646) 707-3030",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_2s_3mtZwokRSCyHnhY0J6s/photos/AWn5SU6gqs6Jgsj6uJZ5mJnW_ROTPFnKfYBGbiEOIlxN1l5AC5I01p16KIAdg6YgemaK2zjgGtkss9xnywpvW9wst-brSUed5xTmQF0o2NKgnhsmmF1M3NBhrJ8ptLcT7XF4R6kLzUbuBPWRgMAs6zM7I__eRhK2LVLhiEO24cNFBXanJ8jkyu_pkk2BG0hVDt1bgPJkAQMHK_1byFoOLNFCjVumC9UtXxyFVi_RDl7nIyg9UyHStmw_YhJp7oB0xQ6FckeAGkI1EigCBfvScIHf6TUNrt780-V65O2lQsgrBNwfHA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 213,
+    "coordinates": {
+      "lat": 40.7709201,
+      "lng": -73.95409839999999
+    },
+    "features": [
+      "pub",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_2s_3mtZwokRSCyHnhY0J6s",
+    "opening_hours": [
+      "Monday: 2:00 PM – 4:00 AM",
+      "Tuesday: 2:00 PM – 4:00 AM",
+      "Wednesday: 2:00 PM – 4:00 AM",
+      "Thursday: 2:00 PM – 4:00 AM",
+      "Friday: 2:00 PM – 4:00 AM",
+      "Saturday: 11:00 AM – 4:00 AM",
+      "Sunday: 11:00 AM – 4:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12332883376330976328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Attaboy",
+    "address": "134 Eldridge St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Innovative, creative cocktails & classic concoctions mixed up in a trendy industrial-style space.",
+    "website": "http://attaboy.us/nyc",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDbQMBIdZwokRVS4L8B8V5SA/photos/AWn5SU4uWpgu5PFiedjrM9hQNorcxaFQLZZnfs-7inZFPKEtl7cedHMWvG4MOFE0dx2_i7NQlZjk-_7aD9kkFT3mKYo2AczyR9-n27iOxE_L6_Xc6ci1McBTbiZrDMgxgaxduJfork85yqbnKK77GOAe9U_piigin084mjMGw2uHgUg99KUfncAPT_51iDcSj4YmhX0TlbWoEG0ARWXsWFJViH5vF4vtAsEa0FRAc-d_cS97knz3ZgvSLXla2rJgS-ui4gR_0Ek-5PWYi38ABh9UIz8cpMlilG_EUII9QGkvSzXLRGpeyXUeFTGt-QACNJMDQdp-29aByqCmzG5ubQyljgKSk1BivMo0Lw8DVfnA5WVm3fHJzCbe26Raxao5OzFDCur5qtA7tDxM3ZGK3gX6o9E4bvN5EYkv4DVDbaGaz0Qd1w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1864,
+    "coordinates": {
+      "lat": 40.718882,
+      "lng": -73.99137999999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJDbQMBIdZwokRVS4L8B8V5SA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 3:00 AM",
+      "Tuesday: 5:00 PM – 3:00 AM",
+      "Wednesday: 5:00 PM – 3:00 AM",
+      "Thursday: 5:00 PM – 3:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 5:00 PM – 3:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2370324005795868245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Superbueno",
+    "address": "13 1st Ave, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.superbuenonyc.com/",
+    "phone": "(347) 866-7739",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbXN71WhZwokRNTk55-ScVWY/photos/AWn5SU54XtKoi45knYvkQ4d77erOtmnLd29oovMsrovKS4wJ7k0QTOkPkX97TRiPu6paRs2e0Y4TOfcrfwN7K6hjz1vwcP8EdkmG1Tf-1FIiDh9S7Fs18EMLjVg3I5vCv7r2uYqEehzfs08a6IsgEn1R7BfRo-yKmoudshbL0dzt4f0OOfXcL9WcGuNBuWkGleT18AIcVDZWQExIIL0HK_36eP4C5xc1WccLR0GQqmfWXaqxvP4ANAlAHrJAQA4CyTVUXRKNWX0xCUyEWs2r3SQfCO0gjHEApSK-GrzXI2DyB9vyOw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 582,
+    "coordinates": {
+      "lat": 40.7234473,
+      "lng": -73.9885737
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbXN71WhZwokRNTk55-ScVWY",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 2:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7373972471834818869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Katana Kitten",
+    "address": "531 Hudson St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cool, bi-level bar serving izakaya fare & traditional American bites, plus whimsical cocktails.",
+    "website": "http://www.katanakitten.com/",
+    "phone": "(347) 866-7739",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp7-d8P9ZwokRtQtbCsCOCBA/photos/AWn5SU6kVAv7RZv0L8kytWpnhucp7tRc97XmTkRDCYmp-V9umZo5tIybjLE5mBEZgVr6rc_HBD_eV812PgsPClIDDJRx7iz3mgNM4-wHl79te8p3JIwip1vlOlZvCwFo0uR-UnthPTY7pWr2nzmlxarZa256rZzckwgenVWZh3L4gIGeXJ51_qOzbBJdL7uZUTAg1l0Fv7WHH5i8CsKF-K-qM_UPV373EC5kC_9evu8eHSuBVnYFSWFKpbYynEl7lg73WXj2Bb_Poy_ZrvL7E7uLwHCFGzKskWnN4jrzjHYAwdkGUjKFGyNArqaRLdDKsKZnGcCklt0pOmbX8EhDSMU9VCvRlYotJfcqr4nS4jf8rS2et-lH3DDboM3DcAhH9JCgGpPWIiZ035SKmJqD6XGYWk2pH1mT_bsOOCjDNNrkkZcGJg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1143,
+    "coordinates": {
+      "lat": 40.7342547,
+      "lng": -74.0064852
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp7-d8P9ZwokRtQtbCsCOCBA",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1155330259879136181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MAD Bar and Lounge",
+    "address": "22 E 38th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.madbar-nyc.com/",
+    "phone": "(212) 802-0600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf2n5I6pZwokRwxotRRdpZ1g/photos/AWn5SU6Tj8gfBVA_iQR1_f2-IB_faQHQNmDiasZ59EytaDjgQnW7_gT_hVFVcH4cie6CRyjFaXjOs1DNzWum30OcUpirG3fdTPsVJhsMXt1v9Ad6kBe1j05QZxKsKyB40_iLBwAL2lTBAELsGM7UgLxH99tYwkEYG7UbyzemytOxqqzzBf31ZygWllDhOuAM7EsSKWt_DhoCCI-lxfl0EosYCIrdPpiVC-Y07hUojzLC_40NUVlRbTUnT0XG8YUQkw0gqcCg0hNqdlWjop9BSCZA12GTy5v6xFQydkvsCIksO-RI8w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 110,
+    "coordinates": {
+      "lat": 40.7500942,
+      "lng": -73.9809515
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf2n5I6pZwokRwxotRRdpZ1g",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6370175746604604099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tara Mor | NYC",
+    "address": "150 W 30th St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.taramornyc.com/",
+    "phone": "(646) 868-7884",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ20Lo8cdZwokRyW0EGwA-wwk/photos/AWn5SU6dzpUBCyK0x1a3wImRXxpTZbmL-z7Y3y4AUdrXJiKYMRBKCnjv6SNsbUDQ9CUHTi73ilYn8e9bxphOyKrLX_cIWt0P4_Eq8k8milS6cnNW8zxdY-9xqXv-egLoLX6CYg7EsZs6pYsCwmVxvDS8NdCYwkNpMsCvx3-RzFDXl4j93QyImM14_mjvQWMMfynILMCMsmPIZ25zLgL8K0dexwghwPD3F4NLBLzwuOSEVFZCx3nmsVj9Z09xova7rr1wFh8Tc7EK9Fg5eWHsXK0Jbzp-0EMehPSoMGbXpit4uvR5qQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 391,
+    "coordinates": {
+      "lat": 40.7482331,
+      "lng": -73.9921101
+    },
+    "features": [
+      "bar",
+      "brunch_restaurant",
+      "event_venue",
+      "pub",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ20Lo8cdZwokRyW0EGwA-wwk",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=703474136974126537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dear Irving Gramercy",
+    "address": "55 Irving Pl, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Cocktail parlor with fancy drinks & elevated bites in an upscale space with a time-traveling theme.",
+    "website": "http://www.dearirving.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJN40c3qFZwokRXMy2Eb1vKj8/photos/AWn5SU67HThZgYr5dfCb_-VWV_IeGvULQb8x8_E2-MdAHXKe5HyA1yb5e0K1BnUnGT01V7bm_ViPRVBTOeN1nTbLlhQTxLiwtf_JDpYKrOEFvpKp0wekxd6QeJNA-lqcA6ZVi4dk9s4VKqgR3phOQaIO4tvZL9dbjdM0spirEVJYaS-4OVIDf_ix1zAz4MWSZ-XSbsYoqgqk8dHfAo32Yn6RWTF_dTitCfIjUeylVywCaU44yZyq0skNbkY2ntBSRdujhhMk-JW-2t5fxCqmz85XnXffSVW4dZP07bFqfqT0vYZKrg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1031,
+    "coordinates": {
+      "lat": 40.7362117,
+      "lng": -73.98745439999999
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJN40c3qFZwokRXMy2Eb1vKj8",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4551573231248002140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dante NYC",
+    "address": "79-81 MacDougal St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Legendary circa-1915 cafe serving small plates & cocktails in an updated historic setting.",
+    "website": "http://www.dante-nyc.com/",
+    "phone": "(212) 982-5275",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUw68EZJZwokRJ15RD_T4OTw/photos/AWn5SU6W-X3yqlE7R6Rsrk8KAcSwu8rOZparMUtMpRbpVLjxNANEONN0nz9B0yqbnYnVHWk_dFhAh-TmmvEJrhdCgGOo7NJ97ImT_89HTjOu0pq9Ss8waP0gx4GrBFNbcraamndQEYIwTg5rcxTU6WfPVZCMmwMJayDJwhgbnJW5RqhGO5JlROqpjlU46wMQB08KMjbvOw2r_30T7knD5xAC_VRNFxMRARm_kBXO-Wotjspr2qeDMT07lMW9YUAJ8rUH5RFUpAFtjRi2Je-3gSkds1tFQaY13kKpuDSfzY7lvZ3xYg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2655,
+    "coordinates": {
+      "lat": 40.7288417,
+      "lng": -74.0016444
+    },
+    "features": [
+      "italian_restaurant",
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUw68EZJZwokRJ15RD_T4OTw",
+    "opening_hours": [
+      "Monday: 12:00 PM – 1:00 AM",
+      "Tuesday: 12:00 PM – 1:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4339773443060882983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Raines Law Room at The William",
+    "address": "24 E 39th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Bespoke & craft cocktail bar with a chic retro library vibe within The William hotel.",
+    "website": "http://www.raineslawroom.com/",
+    "phone": "(646) 837-6779",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvaxS2ABZwokRy9vvtFcAbSo/photos/AWn5SU5ZtVhiYYTA6J7wDYPWA5rmUB8r-VeuLKvLg0DHeSW8Ic7aFFgY6IRdplyelDfz5EDT6l3worscD1K2Muv5zZCwvWT8xBzYfxeb-Gxb1-buLIBzc8wwqa6J8QjZWRN7A5b8sXQuEyCAMz-JVyrm8D9fsjRqxH53tiDwsrOBjebY84Ngb7p1YbG6O7KmbunXwwCfeEiq7xhrnBrt8LPXeTNPTX8c7SvFCJak5eRgKWzORR6DE7LjAAeHVc4M-3fnoW3XXARAaipokAShMMrNzu_a_a7MVyfyqPGbyp_RP6I/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 707,
+    "coordinates": {
+      "lat": 40.7504774,
+      "lng": -73.9802649
+    },
+    "features": [
+      "wedding_venue",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvaxS2ABZwokRy9vvtFcAbSo",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3057100098752207819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Martiny’s",
+    "address": "121 E 17th St, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Stylish destination with exposed-brick walls dispensing fancy mixed drinks & refined light bites.",
+    "website": "http://www.martinys.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_xzMHNtZwokRdVig2X11Rvk/photos/AWn5SU7QJkyychcvWBRj5fMUNjdyHbph6-mJXYEm5lQRKS1h6gax_gPHIHZIKkkAVjyN5tdVqH4vrOiNc1pCiPHJJIrBeo6-cz3CT_jEPPpdbcn5qzawL12UfVcZUchwTYg8fSWI5dILkyUJUbobG0zWN-XMv7F8GTL7uKwOyKcat0lpTB0hHN3juyDH9HChuJm0J8_eRUyqdhNLIW74h5T8h_IeqrrstSetNZiBo-dHtOP6Yg7aRmo5jWHnjg1aIDLl6zsOMPNjM2IZLZz4PttDSRCnFL-We_5s7ua8q8zqxPMvfQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 404,
+    "coordinates": {
+      "lat": 40.7361286,
+      "lng": -73.9876467
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_xzMHNtZwokRdVig2X11Rvk",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 1:00 AM",
+      "Saturday: 6:00 PM – 1:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17962173347196328053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Whiskey Tavern",
+    "address": "79 Baxter St A, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Local saloon chasing whiskies with pickle juice & other drinks in a laid-back space.",
+    "website": "http://whiskeytavernnyc.com/",
+    "phone": "(212) 374-9119",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPezLOSdawokROjWJSsqLdZg/photos/AWn5SU74iCvqgSMh66dpOljVP3sNLHfDYhY5bJNqjG_9r-4T5C5oDor24Ng_7db8yx4f7qyuxfiKLAJhgxczqNwkK4cZYZWVViDKH0CcYc8DJ0wHLXgvOl_Gny4XO_qeLbsZ6e2KKh8IkNcgfps11Akx0PZtuwKYlJAHXhZSAHiinSTR0kktTU5QgwioMI4JU8sD1pb4yPiPXelYF5cKJL_pfPpwfc__FAZaXRKhq2XzyI9majaTo2oA3C8ozzc8PknHxkhhLy7v6u1Rx0UFlfZuBu8IG8oVmE1TPdFn6S9ubECjtg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2148,
+    "coordinates": {
+      "lat": 40.716477999999995,
+      "lng": -73.999749
+    },
+    "features": [
+      "bar",
+      "bar_and_grill",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJPezLOSdawokROjWJSsqLdZg",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 12:00 PM – 4:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10985840566990353722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "George Bang Bang",
+    "address": "13 E 30th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.gbbnyc.com/",
+    "phone": "(646) 707-0420",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9_y2Cq9ZwokRuq4EQnlD98o/photos/AWn5SU7b-I07tRTLFFxY7SPRVddCvLBh2Jj3bIz_ks7Z0Jh2j8gciKZBBXenTJ1ihNzeJSc-AjlpJWjqZdY6I12FJyjlUyh_z1jlWgaV2yv3UVKyJ5Wxr7OyQH2Odt0sZ4jXO4YMq_RrqO59ejZDxlOWi2XfvoOCM0pjqnR9UXOYj4J3DehA9yyoVbY8LatavVJ_Sp3_HYAHYvQzcI66iJC329QKDvbpr3QOGTvSk2SwtsInEKG_wUqqxupZ_C5VploS82YA1nBCqkgv3m1_QlODgnRLnZInHFLsEmxRzXWeSuSq3Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 296,
+    "coordinates": {
+      "lat": 40.7456944,
+      "lng": -73.9853743
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9_y2Cq9ZwokRuq4EQnlD98o",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14625232502986682042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Woo Woo",
+    "address": "266 W 47th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://thewoowoonyc.com/",
+    "phone": "(646) 866-7234",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeVjv6rRZwokRItsQl_bPZ7Q/photos/AWn5SU4QOPJpggK6TbPrOnoX7ofOWNR2BI4sBbTNkfmGdyeVzNfFwnhcjSlj4mOFme_iU_TdywRirjl9b8RdG6_dboWEDCbzTBxGHImfd0TMrDx9AMOnvHzDEoGpqoxMwsPFZCtwDGQwv52xKjwgs_MRMrBr0IFHsJZ7raJ5kRTA7ZGRw2-YVNBO3kJNjKQsMSWWeGIXpXqNLLciTDUo4BvAv8CASORylRKpUDWMqN-1NL8T-QZc5cfy_Klmp2CrIJVjbhyF5imVDMZ4CpvMgPas7YewA-zZ1VgeOs5Z4-hC_vFFtg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1432,
+    "coordinates": {
+      "lat": 40.7600765,
+      "lng": -73.9872658
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJeVjv6rRZwokRItsQl_bPZ7Q",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12999587507431594786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Back Room",
+    "address": "102 Norfolk St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hideaway with a Prohibition-esque vibe, offering cocktails in teacups and beer in paper bags.",
+    "website": "http://www.backroomnyc.com/",
+    "phone": "(212) 228-5098",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnY19HoFZwokRfs9FwDLVRKw/photos/AWn5SU7j-DnLoXLYEXtOgIUSqrDKXzW0lP0LbMIe-ZKasgm02B7usT5eNXgkofD4zU3dI_zUYfMlKSdm_9ToFH0M-J7_itHDgHZH0dt4h6LPb8KRKXp3SBaWFRZNE5iEFodIDwmi6YQ8y3PmyRHKc6xIH1p_irghBq26IEgF-61N9VmvGekvpG13WtFZ_eh0xrsiySSy6lSHsH6Xp0ifBxru1m_FzU0gW0kJoko6p5hqSiO3RTZorYtkYbJ0DS8e2enqmuevA-EaHPvxOYmNYjwh0LmpwLHgMZdSpMAxhLphfqreLA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1954,
+    "coordinates": {
+      "lat": 40.718762600000005,
+      "lng": -73.9870042
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJnY19HoFZwokRfs9FwDLVRKw",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12413280886890811262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Little Branch",
+    "address": "20 7th Ave S, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Underground den of mixology featuring a vast menu of handcrafted cocktails in a snug space.",
+    "phone": "(212) 929-4360",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjY7y6ZJZwokRXF5CA_X4l-I/photos/AWn5SU6RE5mdo2_TSYKT7Mq_TXsZiZZcDabHkA1cL_fUDfehLTu3ZThFHVrRLs4vBgKoxo1WMyfpQgyKsoKjYPLNVd4p18Bi0CFnXgzdXhZT-o7UqAIPMT8cNdYVEo3xE78GsxgXxyuR7701o1hGd7ru00_5JX4kA9WK8VqWx8AhdAZfL29SUmH3oMA3MnwgeJKX1uHS4HexI1t1rgpRxftGM5J4GLQKhDl93bBskUHzAvfwa2C9OKSmkw55MWCmwGqBGS5ZHpc1JwygYpbKwjSGDENTjSORMF_jkgMtd5FkoO_iIMmhlO15eaqWOh5_qr637l-X7sGBh83TallJQrkKHcfkBTjsIgWM9pI2xj-zpzwYDh42ZskoVVQYoRWzLF0mfeTiFcND90kePQof_iz_sG4Wo7yYML5gD2vuvlJMTymflpP_/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 890,
+    "coordinates": {
+      "lat": 40.730118,
+      "lng": -74.0050449
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjY7y6ZJZwokRXF5CA_X4l-I",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 3:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16327792705260379740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Patent Pending",
+    "address": "49 W 27th St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Low-lit bar behind a hidden door in Patent Coffee, serving cocktails with an electric theme.",
+    "website": "https://www.patentpendingnyc.com/",
+    "phone": "(917) 374-1682",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo7aE7KVZwokROU0QFO30FLA/photos/AWn5SU5ngnbto4qLi3Q-mK-uTx1Pph7VaiwSRFUFPR_7E_56nj1smcas8jxBwvmGJqM1FL70M4UBk2Tc81SGMZq0nYOXKpmK2oZrE6ZZbMt2q5KkEjZ6f9kSZRZROEOYizsdZJGeS4LE_KRzYW5Dj3FYrVSUEjfZwdQnbfvmT4-YiVfmGBGpnRf-7JVsPXF8uqgEonyriXiq8z0xkxbXryUIMIMc7KE2PrarYQM63rBVLxyXx5au93l_EVwLM_pgG32aFoLnIb6fwn8HSySjK_IN644uLykR-ecrxrgcvv4fz1J2nw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1043,
+    "coordinates": {
+      "lat": 40.7453222,
+      "lng": -73.9902716
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJo7aE7KVZwokROU0QFO30FLA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12688035349290569017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bathtub Gin",
+    "address": "132 9th Ave, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Small plates are paired with gin-based cocktails at this speakeasy-style bar.",
+    "website": "http://www.bathtubginnyc.com/",
+    "phone": "(646) 559-1671",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcTnRKLlZwokRT8ZXt9W9cgw/photos/AWn5SU4TkBmUEZxAhMmklCotfXqtH_YFp6cErzXnarzQPQDA9bYdBMhhpypFgIJ1Y1PDN1hL5RI6vpVvBgOznX0AyZ5IodnNEMfx3PP-itkK59TtSDfRoN81-xaPMknhu2O8SVuSDohA2QufCw-LYWqoll9Dh-r8vUeDukzChZ7UkePRBd0cRwyIGBf9UIvp-DiHrr2yz_dx8350B7QebvK0fvXym-WtYYCvpSmNQh4g6jb50w0haTQk1wDQ1kKblYL-Hom2RkEAHy589DgcG3dDIc57SHZWTcKaRhD_ewKhEFxwVA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2204,
+    "coordinates": {
+      "lat": 40.7435711,
+      "lng": -74.0031575
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJcTnRKLlZwokRT8ZXt9W9cgw",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=896988001401816655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Little Shop",
+    "address": "252 Front St, New York, NY 10038, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Intimate, narrow eatery serving breakfast by day, plus spirits & innovative cocktails by night.",
+    "website": "http://thelittleshopny.com/",
+    "phone": "(646) 360-4650",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpZd5uFtbwokROm9FtRhLhyQ/photos/AWn5SU5AXz7mV4NlPHux1eoplOE64pDwdAHdp3fW6pH3tDqWQ-0NmWl9A9IuDC2uN3Ka3Bj0wtxSFQSLLK9_DRpvM1mpa22juyHEOWZpWOuZ-CGM-S3hgFfHAkkg8pFBGFln1q8mR1SYQOXfw2FZlpLbJOAOkNWeqs_vnj43TsfoXZu669SUaRk4bQLkugXjAH9OlKETt0LIpXwM0smE3yE0sKcufYlGVeCwEKQ9oPA-1J_L39WusP6iIBI1B_3WtyiNf-dKKSUxNMzyuytYQU_Z0CHzwpYsoKp-h1eUk-WT3ujTZw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 257,
+    "coordinates": {
+      "lat": 40.7083747,
+      "lng": -74.00095519999999
+    },
+    "features": [
+      "bar",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpZd5uFtbwokROm9FtRhLhyQ",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:30 PM",
+      "Tuesday: 9:00 AM – 12:00 AM",
+      "Wednesday: 9:00 AM – 12:00 AM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2632155076713869114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Garret",
+    "address": "296 Bleecker St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Handsome second-floor bar with exposed brick, serving cocktails & Five Guys burgers from downstairs.",
+    "website": "http://www.thegarretbars.com/",
+    "phone": "(917) 398-2354",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkdFGdJNZwokRY_FA1UjcHGI/photos/AWn5SU4eKRAzymW1PseXuiaQIn0pXd6DffdhIwMjcjkawCtka057VixAb4B3QEdgZM1MH5jOU4u7VcT2fUEKBGr6nF6NYPDi09AKPiE0UscX_NnW7LM_-uVFJMIx1vjZbxVdfMVVFukGYkBTKcRB5ID-Nl7Y7NfHFOF5-mMTIpJ1rRFzSRkzewYdgwiCvxZJoJzApCoDACCbslih3yifF8EoWqdoJFAmEXYA1jxpRibl4JORmUA07UwDKwr9xmYhhxH0gSXEkGcN-J67MMP_zsWYiKMrUH4F-X-OfX_TUV_R1EXi5umGcdxfvGvIuCxTxuVCFCUbqNffd8jXt7vhxL14_nRs5CdUziRbinImlwPIOiuz9fH8b-BVSocVuFxO0U3GRBvt2LHkyOduCJUcfohzGHLVOCIt1HZrXn7wAz69VyyovAek/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 819,
+    "coordinates": {
+      "lat": 40.7323715,
+      "lng": -74.003783
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJkdFGdJNZwokRY_FA1UjcHGI",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7069767720438395235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pebble Bar",
+    "address": "67 W 49th St, New York, NY 10112, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://pebblebarnyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJr0kSUeFZwokR8MFNi3Al19U/photos/AWn5SU7z2GwTaJt3RloyligS76z4zNOj0QNSbn3D0ECGo3V2iZ1tN3e4Ggz2npTghSk_V0SISGTzxHMweO2t2CrwT01K6-7VGhI-ls3p8V8yZWot42orR-JafBFaYeij6IdrnLc2Zsf8vq6ikRw-NPopAJxEVUGEXYrYdDyg9bl7-nwXoMUZjdRXgpHVJ5PGSHZInbeQ7uQ0fJTzJBouRNaKe8rgQkUnrW6KYF2iTVD4RdzXvCmGgHsQM6qfj3LlAAasMQsPsd9RpSrySy4q8rMxdHmHvbhrlrM5bV8zZnHMvRMbgA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 329,
+    "coordinates": {
+      "lat": 40.7592338,
+      "lng": -73.98055440000002
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJr0kSUeFZwokR8MFNi3Al19U",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 4:00 PM – 1:00 AM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15408825815375135216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tanner Smith's",
+    "address": "204 W 55th St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Watering hole with a Prohibition theme serving craft cocktails, beer, wine & bar bites.",
+    "website": "http://www.tannersmiths.com/",
+    "phone": "(646) 590-2034",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY4scGfhYwokRDUJKI7qavAA/photos/AWn5SU6ZaivNuCFJvlHxt0AVAraj5vOPeGzbzj2WiStFcD1eAfKUOaZB94Al4nYsyNYcwhQnJFhsHzB_YfbEhxc8VL03DUYYqmbpsnTXjXkZaMCECSdDXQn61dy_rSAcA7qVun1k5_1RQCEIZHf-gtRUeSxQBY-BaHaZ4uTTLe6fkZrhGRH4gBgBTJtGUBIlyKIpkxWv-8tvn6axXUTQFVUnRdyuKfZoi8oryI_smBw_5qcWhKhvs1FNkA56_iAQaix2897h0pb7PAzmpJ4lnNqoSNSZ59soahEONkZV3cDapwcddg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3245,
+    "coordinates": {
+      "lat": 40.7643361,
+      "lng": -73.9815917
+    },
+    "features": [
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY4scGfhYwokRDUJKI7qavAA",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 3:00 AM",
+      "Thursday: 12:00 PM – 3:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 10:30 AM – 4:00 AM",
+      "Sunday: 10:30 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=53087419868267021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Up & Up",
+    "address": "116 MacDougal St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Dimly lit cocktail lounge offering sophisticated drinks plus snacks in a space with banquettes.",
+    "website": "https://www.upandupnyc.com/",
+    "phone": "(212) 260-3000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJN0f2iJFZwokRt53h0ISm3eE/photos/AWn5SU5ASlZN5r2G2zfwv2Ki7m0bm7v_dRQNelNDRVt6YzimBQ9aLNt2ihvt3yMa-wxrS9Te3ghPaqvsriaU9fuXzvMQzySO6T38HSN55ygXdSmk9KmYt8fIh1EqpCDAA4iJS0Is_fOIRJIBTKJ7fVgdXmtDBIgYUO0ZHoYG8AxHSedyV_MiB_rAGfXiWUIJMM49penPvP1Jg7S6RTn-nK9RWOfYLyVR5XuQ-DSzl9ywVtD4dNHFC5mxF5x-uZoJCCF8sxsFCdpF_X6_ncn68XH7KJ99GyJt-pZ6kvH4ijb1PxO_cQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1074,
+    "coordinates": {
+      "lat": 40.729694099999996,
+      "lng": -74.0004701
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJN0f2iJFZwokRt53h0ISm3eE",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16275347717757181367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pocket Bar NYC",
+    "address": "455 W 48th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy hangout offering beer & wine by the glass or carafe in an intimate setting, plus sangria.",
+    "website": "https://www.pocketbarnyc.com/",
+    "phone": "(646) 682-9062",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJswsgr1FYwokRwkvNT9-_H8c/photos/AWn5SU688MkHZXvi4HsG8KW6SrArAsHeSpDsV6lvyT1gsihgWEFNYotDI5YpCPAiYSIJWJmZgIEBH51M0kO2qwHLc0ebmdvuYo_zQyy380P-5nFfhUKSH7IOySGv-YMGkrSUN9OZOdbwQYezetC3btYpzXVj62dknH6VGV_McEzXEtsjgE1fLG4pdesxgDtTFwVfloH-g3Y2nMRadEmW5EDwrSAmELuTlhkdy15b1RVlj4lW4p9XhNfkiuVzfCdeErP14MIcoCh_LQBewNcpR8d3SBApirXcqAicay7z0ymPDOSeq0xaWknR5hpvWgTF0YIZTQIFzVfeEFZh-wnzIhok81PG6IBGmRM1ed9A11P2sOrH0rK5NwZa3veVMCNL9A4UPSC5u7I9Hm455X-way-7zQo8jq0wWAiaJyHOa-KuUB4Lcw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 478,
+    "coordinates": {
+      "lat": 40.7633732,
+      "lng": -73.992283
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJswsgr1FYwokRwkvNT9-_H8c",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 4:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14348397903663156162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tara Rose| NYC",
+    "address": "384 3rd Ave, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Hip hangout serving creative cocktails & American fare, with a private speakeasy.",
+    "website": "https://www.tararosenyc.com/",
+    "phone": "(929) 602-5983",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpx_u6NZZwokR0gixoJrE5Ww/photos/AWn5SU7IQc9F9NRi_ga-SsMNmAQeut_NC0Geyr_IDynyRX1HmNbl67BtZFf3JrujpuZfP4KmmRHfz_ecLTZPGwtp_rvQcRJxCMiMkWu9QM3IoXMe2aPAGq4M3k-NQBEv5mF1CtXpnGk8jT_WeHIhgD-mvm1ZLDQ_6sEwKe5AdMm9MMjh4LGnXLHtsOXDRtqggPpWRUvO1Ff_a3KtVLn-aU8OXW90-yI2kZlhLvtbffgv3n9qvHEikXiCPEwjClY4uEAuA0kpRo00gJPCN8TpgTGpt3LU9nT6exXrk2DWCFiRfwl19Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1080,
+    "coordinates": {
+      "lat": 40.7417855,
+      "lng": -73.9812353
+    },
+    "features": [
+      "brunch_restaurant",
+      "pub",
+      "american_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJpx_u6NZZwokR0gixoJrE5Ww",
+    "opening_hours": [
+      "Monday: 12:00 PM – 1:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 10:00 AM – 3:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7846894094162921682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Paradise Lost",
+    "address": "100 2nd Ave, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://paradiselost.nyc/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJr_CugNxZwokRYRqcXtzJ8sQ/photos/AWn5SU7q1j-xYrBWhn2DPxHgLMz3MqNgsBh9dtvquMBlQrVJUqLoAP2YiVBc4TuKXz5cdMp8Gf4t8e520SDlpCed0ZO1pb0m86sh6dScQ0mGnu-HA_A3VUyGEVttOo3qG2LjsnUruyt-Yc-9iuBiRFUnY-NoyLHJDrfU5chdOrJwgoCXKJKGoslD3aHGgFM2TYUi2Wzw6UdW419SW_egPAcSUyfmbSe-8yqW7eCZIjPZCD9H59KSrXMzmUZRp733GKlTNn4CM1y7MUHPvRQCi8SewUMQvy0Yxf0bDAWeV-r7TcNcJbRvRXCXm-2I3bVch6taMWn2DERAvqPFbjg-pJRALObmP4gd3yJOpMcvaIq9yn3NL_mz5Y_Ps-PAY8vrZcgTzayzHB0ZIgb8a2gzY-uvhPnD_TcnGkAABCj7RhAdREzC6vwzo-eQ3zymvVijYlHE/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 408,
+    "coordinates": {
+      "lat": 40.727116699999996,
+      "lng": -73.9883517
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJr_CugNxZwokRYRqcXtzJ8sQ",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14191627324115130977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Backstage",
+    "address": "105 W 55th St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://thebackstagenyc.com/",
+    "phone": "(212) 541-4650",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-VYrgo1ZwokRP0Cg6qdNZ8o/photos/AWn5SU5BywfRyX64YBPsGKe8at00sDlCc3byR6ePxOJsfVEdwmoISytxVNy6f0qCuKKvAzYpFe76wripZf8xYvpu_elhDxN85f-SajCbNFgBtSeRGa9_4ECcDi0dcodNzj6Rut7zlLouKSR7uL_sdk3bNIElAeBGaU3Qikco-R653WsGUOPNtqtGmh6Euv9qdFCjiwl8M5ZLxK4vX30HaNzDKJBqQ2Q10O9eIkM0KfwBB6LC00THkg6d1kuyLOMqCBZelvzIpQgRc2Q6CRMS_P0hCbAynlsOCsN3ZT-zmFcHHB4HPA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 131,
+    "coordinates": {
+      "lat": 40.7634757,
+      "lng": -73.9785959
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-VYrgo1ZwokRP0Cg6qdNZ8o",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 10:00 AM – 3:00 PM, 4:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14584711301853888575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vintage Green Rooftop",
+    "address": "303 Lexington Ave 16th Floor, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://vintagegreen.nyc/",
+    "phone": "(646) 349-0955",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFe-bxtFZwokRC2C8_1R3r2g/photos/AWn5SU5bBv5ilRYi1gqa6i7MktxgZbGZGGe6IAZTo4Pirf4CnQOyJll688AYq9tITNNE6M0EimLguFvOMf9ya6t0ASLT10tDt89qul11ndGxBxzdPQZzZ0aprp4jnOGAdF8GwasUYN0btkICAHxeBzSQOyGmLjIYmaggFv_kGMX7tbxTOkOn5UErw01TqXZPlWp_AvRGmeZJmYyevkAdv8XJgXyEy6kOLLUMoUl2KUeHHfIwUDJNeDk-gqGmZDXXvo5oP6Thz4aqF_f6ibCEdolwXe4aSEqFee66iBv53J2PFIj2Xw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1664,
+    "coordinates": {
+      "lat": 40.7484439,
+      "lng": -73.9780391
+    },
+    "features": [
+      "restaurant",
+      "performing_arts_theater",
+      "event_venue",
+      "american_restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJFe-bxtFZwokRC2C8_1R3r2g",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7543379107820363787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Refinery Rooftop",
+    "address": "63 W 38th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Industrial-chic rooftop spot in the Refinery Hotel featuring cocktails, light fare, and dramatic views.",
+    "website": "https://refineryrooftop.com/",
+    "phone": "(646) 663-5951",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEemrT6pZwokRBdHb4BXiHJQ/photos/AWn5SU4uWweoYixQnbb06lgb1hP-U224EEDOckt2OV0blcepxJhtasedQ7Me12hXVBBKXVkZ8Q-Howb1OspFtssEZgzzGcmEmCpgiJB91N6Uy-DjdH2OVlMbpCTr84rt7l0veRvmBbg3DC78mf_48MZcUg3o9DS0mSVqvGisMk5p8JFgl_I9rXUk3BUNF5Asz-7XQnz1BpShGedbefPXnKglRG43Gk1fd-7tSJGBcUg2vSoOvjKUnyN0WZvBx39xt-nw4bLXTWqOREcJYjedBYZHBXhO37sJ1095guNrGGrPbZs1Bw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3965,
+    "coordinates": {
+      "lat": 40.7526164,
+      "lng": -73.9852828
+    },
+    "features": [
+      "american_restaurant",
+      "wine_bar",
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJEemrT6pZwokRBdHb4BXiHJQ",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 12:00 AM",
+      "Wednesday: 11:30 AM – 12:00 AM",
+      "Thursday: 11:30 AM – 1:00 AM",
+      "Friday: 11:30 AM – 1:00 AM",
+      "Saturday: 10:30 AM – 2:00 AM",
+      "Sunday: 10:30 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10672653800555925765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "230 Fifth Rooftop Bar",
+    "address": "1150 Broadway, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Chic penthouse bar & lounge featuring a rooftop garden & live music, plus global bites & brunch.",
+    "website": "http://www.230-fifth.com/",
+    "phone": "(212) 725-4300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_1oyZaZZwokR1c-HIVJ3xzo/photos/AWn5SU69PEDpu_XpSRMBrGPeINhzvPhjt_9O-ZF2QfHHZD3lj43aAdTGgIPtRjDsw0eUfBhYLlaMIf6lxQLR_bq99eHe3hd-i_q1pQA9b-6mxw8n5y51D_atgjrLGkmASYjx5YrGdTUz_qC6XZh2lMME01_ptEw0Gr6ZUw-O1zgb2lRcKvV5KsEiBIB5k8IMWBIQhDGaQ3hIObMhiJontEFGi8TiwMi8gi07OUL3IzH2ruFlgG4fKB6batRBCbn3PJiEfXeyrR8ri28B6ci7CjexFE6Mf7S9MPEVZWhTnqypfQcOGw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 24272,
+    "coordinates": {
+      "lat": 40.7441081,
+      "lng": -73.9888201
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_1oyZaZZwokR1c-HIVJ3xzo",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 11:00 AM – 4:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4235485169198813141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Spyglass Rooftop Bar",
+    "address": "47 W 38th St 22nd Floor, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$$",
+    "description": "This luxe rooftop bar atop the Archer Hotel has Empire State Building views & craft cocktails.",
+    "website": "http://www.spyglassnyc.com/",
+    "phone": "(212) 730-0538",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG6SkQ6pZwokRJTptT727h1c/photos/AWn5SU60L9iTpZBQ_5a6Hj8CmFzsvGcf7sYZty19Qg70SUovdWhdeTrhFFSBA2lF0xdYMvTatravT7sUaYIRl70kxY2ayCQgFYgl695k5YX9x_2XaR0NuWaEhRyZMr0yQWwnqy82XZEDItmZEas-axQvzpStG0BZmwskDuzYbdHlC-02hC1IiR7pZuPGVlFfAs4eIA3gAUly5yOsdHAlMeDjGcVk1URV7ljcxqGel6Sm75_5bkYbBJWXDXzyH-tl35oUPWQoXFNDp5RKsttPpysL2defCtkToIJ798xg_ZMIRejpWA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 851,
+    "coordinates": {
+      "lat": 40.7519694,
+      "lng": -73.9848404
+    },
+    "features": [
+      "bar",
+      "brunch_restaurant",
+      "wine_bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJG6SkQ6pZwokRJTptT727h1c",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6307216224911440421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Skylark - Rooftop Bar",
+    "address": "200 W 39th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Glamorous 30th-floor cocktail lounge & Abigail Kirsch event spaces, with views, a deck & bar bites.",
+    "website": "https://theskylarknyc.com/",
+    "phone": "(212) 257-4577",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtcPJYqtZwokRiiFBAJz8krQ/photos/AWn5SU6tYcpo-vMBzmn27lbKpsa89gXsgL55s0uKTpjnSQw3ecke8oBlkMfPbM3y4sDY30nIWmN2UMZ-IlASriZf_mlIXplKAYB4Hajl7VBgHRkyFX52cMSw4tPuytkPv32ym1rMNfKVxuSfP3W53EhECPKp_nqJYDQvyeWhkkWW2mP9LPVNlI7SnMYipdkyFyf7LuvjvuaBIDxGcKHkBT6X0vrnWsFIRXPYoEAVkQ2Tjy6aoSIboTIZ2PJctB1X5lzMTNooq6UdCx5Ik_j0GEfWP4n7AZ5-296DzP_LB9Z2gTOECQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1988,
+    "coordinates": {
+      "lat": 40.754188899999995,
+      "lng": -73.9888567
+    },
+    "features": [
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtcPJYqtZwokRiiFBAJz8krQ",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13011740020376150410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blu33 NYC Rooftop Bar",
+    "address": "325 W 33rd St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.blu33.com/",
+    "phone": "(212) 563-0900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJA9SAk0xZwokRnoHo3frTuTs/photos/AWn5SU5S1j-Us4rB-kLI9CqLl4edmMRXqqXwxTUVX-Re58RCB98PpUAFxuNla5fkxokAyLurUpG--Xa4So-5RlV6u9Fy1j6btt5kbEA_UWKUF-wWpFn-lyCPsPQGNGM7CVCPJSEPMI5mZ4A3dVmMspL2aM5wH3OVhMNVXiyPhP_8inYlk0MGPOySuraxiFJGfYuLrkGSBQytiK0fZs9fc2_8rBKggdPArXFp6teS7_uHuum2FP0GbKtXdkKbNWGjiWhZBCXgLZqMQSFry1on4a3xmemBMJcI-Q-6hGsYxCeaTH19qA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 130,
+    "coordinates": {
+      "lat": 40.752192799999996,
+      "lng": -73.9950922
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJA9SAk0xZwokRnoHo3frTuTs",
+    "opening_hours": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 3:00 PM – 1:00 AM",
+      "Friday: 3:00 PM – 1:00 AM",
+      "Saturday: 3:00 PM – 1:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4303703993347506590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Creature's Rooftop",
+    "address": "518 W 27th St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Cool watering hole featuring tapas & cocktails, plus views of the city & Empire State Building.",
+    "website": "https://www.creaturesrooftop.com/",
+    "phone": "(917) 920-5536",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHbDNDHxZwokRxYe2RtH9WEI/photos/AWn5SU7r7L8MoLC-SNveOmSwKKGapxlhsaJqaYFpDMpJu99DtTgHPyzVgq9lRrtnu_lNUCl-K3WzaMePWyyTCHee98saeeTbwxc0rjlvP86JCslZDMEJriJDLQ7RqnQfMj5ETM2xIrMnMdqIE3r5nRpwYg5BMN4HU7Lt1qSNEdevtLkq_Ag-t7e1Xa_-EVpdNvf1av2Bg6SN0Pfvcj21QLb8WJ-KA88VdGaqSIy0n2gxCLbjMpxWtuRWV5aNG7-zDfagk-AwJeNVtEYKNAYvkfK1TkkNfl0tS3e_5eNFrX6_KJTG_13Zhr06-qw2lMVtlOXmG9_aDFe09753YPXB5xTZXUabR6WwucXEaQNq4FJiG5KITqXdFQkSgE33B7E1ljElgFzt7k3GtNI08IHcwcjLuAZ1vu962gHFh86EvWVvJSutAZSF/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 226,
+    "coordinates": {
+      "lat": 40.7504133,
+      "lng": -74.0034186
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJHbDNDHxZwokRxYe2RtH9WEI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 10:30 AM – 12:00 AM",
+      "Sunday: 10:30 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4780850079730141125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rooftop Bars NYC",
+    "address": "1150 Broadway Entrance, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://rooftopbarsnyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1YtnRfxZwokRH4n4Au99SSY/photos/AWn5SU57bXZvupUo7LAMB9imK0vjRLfBMEzl5Lm3I_Ms5WcKvZb8jaTE_mTuiCvC9lmA0Kz_9hh1kgpe1LGn5jfoXKyi8HiioOJTIgB5-Pd9hZwm6M8iLqoIW3NnM0OYXEPBpIv66kzKfcAMYKD7_PFOz7lx9H2_22mFujllodj9QhlMRb_xiDJQvQHS1dNqp-ofzkzUScwI_d2XaRdpdS0aY1bXrz8mjcDG1ELjmRZSrBXXYOpehYeF2GwtxIGhoOS0ZrouOcEveIfaMnQIaBQLYvH_DF9LFgKmTLsRHBSlr2EsIs-ND1BFUx7jh4rqRJwmIjtz7CmAtcEzIRKdBv_G6bae4Z3jVby-bahPXtYwhoZEK45af5fqa1GUsnaV0UoNlG4AfqkajQZHR3gNv6lSVOPHdUVNDpMkimXtPNRXcSveeg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 154,
+    "coordinates": {
+      "lat": 40.7442419,
+      "lng": -73.9886085
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1YtnRfxZwokRH4n4Au99SSY",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 11:30 AM – 4:00 AM",
+      "Sunday: 11:30 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2758874712241637663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Daintree",
+    "address": "25 W 38th St 29th Floor, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Swanky hot spot serving craft cocktails & elevated small plates, plus a terrace with skyline views.",
+    "website": "https://www.daintreenyc.com/",
+    "phone": "(332) 333-3181",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmVHFI3lZwokRwUUBEStdzF4/photos/AWn5SU5mZi3FdyIdaL46j8HkYKGzf8m5UeX3qLRHpqbzpmwy-LqO-6DfQY8xNDp0rcVHQNyAfaMpl7MDIydrSQsZVu-1DFvVkVhP7nZpiZXgVHZZaeTcgab9IozkNi6cCAnr8HzKmijDVr8tohOTxZTl0hku18LllSmpxV9lefhc_ORhpfPnjsUCFvYCWKOz2U74zZVQyveSKeSvZVY2O_tCMvXX9fkJsBqdvT-o0joBtjj8jUbl0-5zO_FBUviJ38iedLBTY1-M3IAhaszcVWjTeipAQE3Vxh-EoDYEX_yRiyoUJA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 981,
+    "coordinates": {
+      "lat": 40.7518932,
+      "lng": -73.9840991
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "restaurant",
+      "night_club",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJmVHFI3lZwokRwUUBEStdzF4",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6830937174364472769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RT60 Rooftop Bar & Lounge",
+    "address": "159 W 48th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sleek, music-themed bar offering craft cocktails, beer & small plates, plus terraces & live DJs.",
+    "website": "https://hotel.hardrock.com/new-york/rt60-rooftop-bar.aspx?utm_campaign=hri%20%7C%20hotel%20%7C%20new-york%20%7C%20websitelisting&utm_medium=referral&utm_source=gmb",
+    "phone": "(212) 970-1200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfdxm5rxZwokRxNw9OPRsQbU/photos/AWn5SU7KxiiP4TbClkC264qfk5opL2yfY-ULSEDJvgs6Xag8RZVp_LDImhO5du-b1gy83RCy3-E_z0y1jPi7JTneE0Pm0XVKXBszue72LFAAiAizH_qEhJZ9DQImdWA4bk4W5PBtUdMHCAKESPVqLUsiDMNAe6SNAY2_rXsbHOEAgPJ_adraHXDdQ1T-J-sgzMJSmom8b1dZHEPrhHYbjrGRAAkQTpxGkUBviyT_quwyxUrsnlRNrYlZXeG8o1VUkTz60TyL2fqhX5-VIX9Q34TTTKbFRMkYeiRIX_zU9xxkbOqwwQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 780,
+    "coordinates": {
+      "lat": 40.759651,
+      "lng": -73.98345499999999
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "night_club",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJfdxm5rxZwokRxNw9OPRsQbU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13060840190522547396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "A to Z Rooftop on Fifth",
+    "address": "16 E 39th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.atozrooftoponthefifth.com/",
+    "phone": "(646) 599-4235",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOUC8wABZwokRLx8PqGcPmzY/photos/AWn5SU44LG1olCEb2sYbtAZsdsDx_ey91wPWO7yRrGzsSaiOcQHdn-b6fJXGcos-I87ZXpiNmym_PDnptfHAfjbt9YTzFFi8q6GGD5Po_TiS98DQGXaZUz-ZZJrhTpm5PDauDkKqapa4SoWojJF-37WxSk081Ntwvdjf5MptB3gwdbsuBDAh2B-4OTfZjxmI3kae9DXyU-Qf9GkPNGzoZmBrct5xM-1WK_fKG88SJJbahg1Faeb_FW8qrdWXVZw2iuYGMi_iGsi5SSoqvSe53bvk3hmiVgqbEefdvQZL_DophXsNtw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 40.7509292,
+      "lng": -73.9814711
+    },
+    "features": [
+      "restaurant",
+      "italian_restaurant",
+      "american_restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJOUC8wABZwokRLx8PqGcPmzY",
+    "opening_hours": [
+      "Monday: 4:30 – 11:30 PM",
+      "Tuesday: 4:30 – 11:00 PM",
+      "Wednesday: 4:30 – 11:30 PM",
+      "Thursday: 4:30 – 11:30 PM",
+      "Friday: 4:30 – 11:30 PM",
+      "Saturday: 4:30 PM – 12:00 AM",
+      "Sunday: 4:30 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3934755637313871663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Top of the Strand Rooftop Bar",
+    "address": "33 W 37th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Intimate rooftop lounge at the Strand Hotel featuring dramatic views, cocktails & retractable roof.",
+    "website": "https://www.marriott.com/en-us/hotels/nycvc-marriott-vacation-club-new-york-city/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "phone": "(646) 368-6385",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRXHwO6pZwokRpckWjQ7e5o0/photos/AWn5SU5FGTFuXcTX_HMeANxOLYlvtO1WiE7YtQCRdf0vVXm5AZ7HN_7O1vJlT2gODvgq-qCY7B5CHAZSZ7Ho-c86Vfc1wpAVJD5s1eQARXY20TMyKZa6QxL286NbrYEzb6umVDbscZbVER3wyPdmuHBtPOk3LHDYpSmSKrt-ZmxwrlnVUHDvqpoh5XSLNp4Zom4edFVGfRCyVHzG9lmQA5Rj7kz2R9xxmAYa6iEtCjM1uPuifS57DVJDpi_RBPpK-bT9Jdu9fuPuUYht9GlApUH7nOpH_58BTMVcN4CX1kR0Y4wM-V9Xn-lPF0Xvr8vHx2Ilx-OnodfSxfEzyqkAdng0GPaWn5CuwRQPEnxDEcldAUSwkx5mTMuPhLB6OU0F0eDEzgKQnj7wuvXNXT8JNok_turypgrX6VdS6G6j4YLUSSxfgbVXP3UVAQaGsQ5WBp2q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 709,
+    "coordinates": {
+      "lat": 40.751248,
+      "lng": -73.984873
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRXHwO6pZwokRpckWjQ7e5o0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10225104158069279141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vue 180 Rooftop Bar & Lounge",
+    "address": "525 8th Ave, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.vue180nyc.com/",
+    "phone": "(212) 255-9000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl7e_7tFZwokRzj7bvfx6Fgs/photos/AWn5SU4RvcYJrKxgmLG0ARDxvhWSwJ9yoaNHVGBdmtisICXTz2nQCEG4IthxwAp_cvgQ68aLBKPNTs3C5wLXRd9cBu2kKNeRjAz38aBRbqNCZfr0Afocv1iTPol6obqZW0LHprAtuXeLAEk4UfeguOrFRfg8d4BcQGZ7uVYm7Hd5mih-BqxOUuShJDoJ4AU8v8ydKVPhWym9TJFMtQYoN60XTA-GlhKZPb5iTwDW4J-S3AWalzcRA2Gh7t-3FeUeBX0QKJclEr7RIjVD4Amay5VpNvZFsej25_APUMiyEo6p5AdVyA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 239,
+    "coordinates": {
+      "lat": 40.7537853,
+      "lng": -73.9926031
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl7e_7tFZwokRzj7bvfx6Fgs",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 – 11:00 PM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 3:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=798961209840451278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hide Rooftop",
+    "address": "Artezen Hotel Lobby Entrance, 24 John St 20th Floor, New York, NY 10038, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.hiderooftop.com/",
+    "phone": "(646) 928-9800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0QUBXPNbwokRGC3ihVh2NP4/photos/AWn5SU6cqNNAMDjbAN4aFWaBD1sJlVFh4CNDTPAEU1mxr--hBjeiVeOtHb2lb6IQob7BLZTtQnyUa2JtWh4ENhehMhVvtnHifiHyFCqo1Nq2O8m2Xzdg-WXexiBb_U1I-j6ot6b2v5EdxD9Pa_TdCjDGYXLOpu59_EcLWsgmsxit98ZEf4ZJMWf4x-_8PIfHbiPuR4aGJfOgBJbiSLKaMjdEI8lQ-xZ7GLxt0sw_xMQFIvxeVNbRAZIMPXtOZXYIjbWI8JC2cb37q2-xn0F4eT-yEJoo4uGOZZH1EFxnYFTcIJQkKg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 189,
+    "coordinates": {
+      "lat": 40.7095847,
+      "lng": -74.0087404
+    },
+    "features": [
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0QUBXPNbwokRGC3ihVh2NP4",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18317395706998041880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "St. Cloud Rooftop",
+    "address": "6 Times Sq 17th Floor, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Rooftop bar & lounge offering cocktails, craft beer & global tapas in a glamorous, scenic setting.",
+    "website": "https://theknickerbocker.com/dine/st-cloud/",
+    "phone": "(212) 204-5787",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0RgRK6tZwokRCLFUDGW-JqI/photos/AWn5SU7PokW47pc5IuLEsEvGYufNJ1vej6UYerNqnSah8Bcis6Fcu-gFBnk0XjHr5dRdMD5b6h5DglWkMIJH2W6QcK_9m4sF4SP_rxhGQGinu29cIv__Jnd4SBq_7tTdPNZvAtbUPLA4IyLVOJA1n2cMrphTI9n7P2Px1xv8pGRuk-FiMuu9MZHyXKveoqQ_Z5PypTKx2G9cDsF69KDmWXmjkFNVgoQXeMSGyENtjHSFSwwgYMpF5b-NAVqGfYEn2ednzQfXFbBbaDdfS1_5si4sIoPxdv_K2uEsDp_0SZ97O8w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1420,
+    "coordinates": {
+      "lat": 40.7554473,
+      "lng": -73.986184
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0RgRK6tZwokRCLFUDGW-JqI",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11684235624467181832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ophelia Lounge NYC",
+    "address": "3 Mitchell Pl 26th floor, New York, NY 10017, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Rooftop lounge at the Beekman Tower sporting plush banquettes, cocktails & East River views.",
+    "website": "https://opheliany.com/",
+    "phone": "(212) 980-4796",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc1QTEOJYwokRLAvuSgkm6rA/photos/AWn5SU4M3p5j8u8ucv2o0Xa9Q5f4PPVQXKN9b5dSYuPOSwxYa06uAeZTYtkcUKp1HCZyfpsOPAPVgstj5yy7oVUwOE4ceVlqmvasuW3YXsZplPD0yoFZuhkmrECAy6_XJwL3UMNojRMv4qlEUo0pcpPUWL1gcsdLvSzhkTQ9tz-oFdBRY_uUD392movTaMTAzrUIjML-t4mFXPKw8us1shUK71wocXgQe1_gB11yyJST5kW0PQAaXTMBLFJS1n1ijUXwPxtqy7bzwnwsCBqjrz7sQ7vW7KYkKI3cr01_yeqDk_oJvA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1992,
+    "coordinates": {
+      "lat": 40.753401,
+      "lng": -73.96617359999999
+    },
+    "features": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJc1QTEOJYwokRLAvuSgkm6rA",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12748043516579285804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Empire Rooftop",
+    "address": "44 W 63rd St, New York, NY 10023, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Views of Lincoln Center enliven this swanky bar sporting a retractable roof for year-round imbibing.",
+    "website": "http://www.theempirerooftop.com/",
+    "phone": "(212) 265-2600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuXQtkvVYwokRRboH64ZuddM/photos/AWn5SU6o7-oqYPZrJMistBofBg0V2uyIGx9xtSMwCaJG1CSsay7k_X6Lc5BZcLX3Kt6ZsI8P6HgHa9YsMrmPntK7eRqoCauCAo5GmnO8ODHsFSW995WKTUTDj9eD4MWVkPh9xpyneqZzQOCRJZaxMutp1lSHU1iCQt_IFFVdzQGnu5js1dC-H39OcrO5oCX4kBcoyEhxhiIHCel8osqKAhO-4AR8fglq7OV9IvqfTtRAcxXVJWRSpt_H5yAKlZNThZf76Q57w6KEGgZS1dLzOjPf5BYReyA9vXf7n2miN_1TCCNyWW-763OVut9b3aLvghE_KyDX5Q7ZesM3wHQrnf8hd6sMd5r4U4LrknVT0oW-3XGVot41hX1JbIgTh8LfSfWG5HiCxcBDSx0xkQcpWr1QLRkjleY3n0-wvsTny6C5DL0oe9A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 883,
+    "coordinates": {
+      "lat": 40.7713523,
+      "lng": -73.9826783
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuXQtkvVYwokRRboH64ZuddM",
+    "opening_hours": [
+      "Monday: 2:00 PM – 12:00 AM",
+      "Tuesday: 2:30 PM – 12:00 AM",
+      "Wednesday: 2:00 PM – 1:00 AM",
+      "Thursday: 2:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 1:30 AM",
+      "Saturday: 11:00 AM – 1:30 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15237206440025766469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Dickens",
+    "address": "783 8th Ave, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.thedickensnyc.com/",
+    "phone": "(917) 472-7927",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXz1QXE5ZwokRLwJIVmQhyEc/photos/AWn5SU7YOeHDPfEqwUQJ94IMwXYxHFNoSJhpRKy8qfIiLqtQAzz671xblDHMPcGuuwcf8C3ed87GdWmBohnp2lOwZCeiwscU2hnKqKoDlzfyqCLLHjVSBURHTRxLWgKIWm29j3kcAgq3bXg2uLxl3jdUCg-g1djdZ-P_wyiIX-4jEoddmvce0H-4TdLITNtsPdf_0tfNqkiq9CT0awlZP1CoKl-PiTK74_vel-1EZahcwXv6M9kBO-9-rZPAuiWsVHP7OtuNhFOoh7rziS8r2YDYPzHCZJpm8np7zLoaymSjj2-h4w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1952,
+    "coordinates": {
+      "lat": 40.760937,
+      "lng": -73.9875069
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXz1QXE5ZwokRLwJIVmQhyEc",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5172420886863020591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Shaken Not Stirred",
+    "address": "1113 1st Ave, New York, NY 10065, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "website": "http://shakennotstirrednyc.com/",
+    "phone": "(646) 370-5825",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkaIm1slZwokRBXefA_48C1s/photos/AWn5SU6lG-MuLjzS3NGdm0MhzTmxjE4hS_lqRHk4p4_H-K3D7gEBoPfc7dkUjZ5v6bGET4rqNAwkPNKW0ZjSbtL48FMwzinDRycMuui4tRB6qMx0RfzgLFxJB4x46y-JhAw2bDy0crMkvJTsDysoeYX7ClJcqITBcJARWsRRbRykbRGEsFxfrdA2r7jXwWFigdlkoOsDYmpCarqZR1OahByNphnYFKBbmxXGnzfVDFHB_SppgwZQ9iwUH15L-NeXI1ZlQcT5Rz7TzPAnIjgTFkJ6HMmeQFJadMqldWRFOJg1xYNPPQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 476,
+    "coordinates": {
+      "lat": 40.761059499999995,
+      "lng": -73.96122199999999
+    },
+    "features": [
+      "asian_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJkaIm1slZwokRBXefA_48C1s",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 1:00 PM – 2:00 AM",
+      "Saturday: 1:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6560404343875401477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jade & Clover",
+    "address": "139 Chrystie St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://jadeandclovernyc.com/menu",
+    "phone": "(646) 370-3906",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ40x5Ny9ZwokRxfBjjnRctug/photos/AWn5SU4b_w0HKUyfKI5vadNOgcDr3R-6-Qir3FI6g70s9bGOkqAqmJyz3bOr3ebthm_lSlqT_e1PmlLmbcN9n0lScdgKZ5YVMRPD1-e-Z7Q4EblrZ68EHMbsZRpjL_UlHGPUwd6MFAHsMeL-nnr_kbEqhje3_WZu3Y7TvTDb_9-sNMigASCgVTDrJ8NMZQMsOsAhAEeQvnQyUajGa4_DY0-_139wO7y-eLsN5_ijVTb6ELFcjU4wQaMNxQK6CTsBcc45m6YuUzJ_uZZ2ant_PvlDxYrvpBfBhl9x5O3vsK0nIAPfew/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 254,
+    "coordinates": {
+      "lat": 40.7197755,
+      "lng": -73.9934542
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ40x5Ny9ZwokRxfBjjnRctug",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 11:30 PM",
+      "Wednesday: 6:00 PM – 12:30 AM",
+      "Thursday: 6:00 PM – 12:30 AM",
+      "Friday: 6:00 PM – 2:30 AM",
+      "Saturday: 6:00 PM – 2:30 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16768691918235496645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "StEight(behind KUNIYA HAIR)",
+    "address": "116 Eldridge St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://steightnyc.com/",
+    "phone": "(917) 891-7372",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJldB8qZNZwokRYwDAq_cgDro/photos/AWn5SU5KFCdA0JOiZkOmGOfXEyOpZMwCO62QhIDCpYEjSFKfx2KPkPKbhfb-szKh6UNEKQTXnIzUuc7iysY9dXvEv0QK9ezFKOl8Klqk1PniF0PhkPFGh_XiWEqY1qlwjHD5AEm0BH9CIWJzC0jz8yZL8P9gOfyv4diuPoEp6qH2KSk_-tekDIF1Fuj88O0NQckHJmbMdf-AxJ-_c8kuWZn7Qv1ndMAsRERyt1HtqjiziXqdx7qyDdvpDJmzwceCGINrspqiwzOsT5k1YFuIgcRRA15LaVTAdDemKOjZA6135rGOCw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 122,
+    "coordinates": {
+      "lat": 40.7182225,
+      "lng": -73.9917547
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJldB8qZNZwokRYwDAq_cgDro",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13406689388839043171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Little Ned",
+    "address": "10 W 28th St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.thened.com/nomad/restaurants/little-ned?utm_source=google&utm_medium=local&utm_campaign=bar-little-ned",
+    "phone": "(212) 722-0555",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuxxChutZwokRbfsZA43EGCE/photos/AWn5SU4pVVzRBmdNVPTKHBOkJsNsUdX9KpI3vHoz_1OJfKCrvSVqbeuLOJhjmVH0M8ujS-Cv7qFyFYnRoALLMEK8P4djO3Rq2srhfUFtHl_30hmKvCjxyb6N_HwqT-OO0XYUGVjDiSX4gpIJUDvjZHE3lyei--nd3Xo1NdIm8ysx-FfctXSQPfvTGi6ZuB7WBdrKL5ho3rfinijrmILeSJow50zcp00tZPdtaHAFxsWmBS7R_J6HdhJB0_e4PC_g-JOcyUgYMfbv6EKvI6Vd8U2A6EUNF9FZ-4imefQ8OztX-Yz4vA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 173,
+    "coordinates": {
+      "lat": 40.7449252,
+      "lng": -73.988235
+    },
+    "features": [
+      "meal_takeaway",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuxxChutZwokRbfsZA43EGCE",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2384872112614144877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Employees Only",
+    "address": "510 Hudson St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Inventive drinks are poured at this retro-looking, Prohibition-style bar.",
+    "website": "http://www.employeesonlynyc.com/",
+    "phone": "(212) 242-3021",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLztrVJNZwokRTmcQJheGNR4/photos/AWn5SU4cphwyE4cwAkDSWuVBE-S2d9_1bUalP1rtJKBg6XjhzBSr7ro6TUQJIkUAU5zEhoIjDHtYWAhqKAhL7WD3liYwwVe1sbCmCN8nu0_uYftSQGXO_V_qh6ZgBTiDpKppJ3dG1x8wI8iIWbpKqABT_cvEIo-4aQWUhG2wqOXdXl6M1JpW4hC2S4fOCIL43yWssOhrLYE9RM-umpAocfh1FOCRefxtLT6Xvl2Bby2cf1_PB12tjg-xtcEj7c_TZngrNUROJ3djL-cTTcnsIsUsZW-9lAd9lpFeDCpIN19lWDSlfA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 3036,
+    "coordinates": {
+      "lat": 40.733434599999995,
+      "lng": -74.0061109
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLztrVJNZwokRTmcQJheGNR4",
+    "opening_hours": [
+      "Monday: 6:00 PM – 4:00 AM",
+      "Tuesday: 6:00 PM – 4:00 AM",
+      "Wednesday: 6:00 PM – 4:00 AM",
+      "Thursday: 6:00 PM – 4:00 AM",
+      "Friday: 6:00 PM – 4:00 AM",
+      "Saturday: 6:00 PM – 4:00 AM",
+      "Sunday: 6:00 PM – 4:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2176793428884481870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "929",
+    "address": "56 E 41st St 2nd Floor, New York, NY 10017, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.929nyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2Z1b4BtZwokRbAZmwR67Dyc/photos/AWn5SU6gX7p79Dr2m0g-8MMz1EAAkNeyKCFu3XcYwRAMRkvcXYtN0Lq52UYgRrHsfhGF9X8_GTlUM87Ba6Lx4T4YBd3WNJ3fLdfTt-O3Bc7fM4WrV2UhDyO0XK9nWoTa6N9esE7_xgPCs3KOcVGYqU40OZ4MGhyQAv75m-in4s0GgG6VMXHTQ2X6cg9eGHxiWdvWGRTOwwlv7nV38c5uEjAd5z8hVS1LAdWdHaMAaBogW-7Mgw5gpvu0jfPAxnNMbUEIpoj-yrf3uPAYS-iNWEVtcEK9QT7VWB16qn0fvUcIqv0i2g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 355,
+    "coordinates": {
+      "lat": 40.7516756,
+      "lng": -73.97893499999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2Z1b4BtZwokRbAZmwR67Dyc",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2814674032897951340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Saint Tuesday",
+    "address": "77 Walker St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Craft cocktails & diverse nightly live music in a subterranean, industrial-chic speakeasy.",
+    "website": "https://www.sainttuesdaynyc.com/",
+    "phone": "(212) 735-8000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJacUcvQZbwokRUS4kvIlIz4o/photos/AWn5SU5XYGX7LZvAVuxfK2fDUhNg_u2VmpG33nCm8wfDKVNrNm0OHAU7Il_9XRcQVTIbdRzvW3FJDVCZxDO_1agUuxGkxSpeDWhG0hDXZbbsn75syjVl7GCUlICFsaIcnD2QD8SqYDDGmi02-QLQUnUkjrTRrnYDz3BaHaxaDwJgAyHJbAaSeMycDIWHdOmr6EYUEqsTTo5_Hu0Mcdp-D7kkadSl8wbAWAWra77cNRJYmw49Dv0HqtavjChCEjlx-WTE24-TK0EEAhdPSzAwP9oRAj_5tRTn9YXduG8JBoOR5er84Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 219,
+    "coordinates": {
+      "lat": 40.7183531,
+      "lng": -74.0022231
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJacUcvQZbwokRUS4kvIlIz4o",
+    "opening_hours": [
+      "Monday: 6:00 PM – 12:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10002293053817368145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Highwater Rooftop",
+    "address": "120 Water St, New York, NY 10005, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.highwaterrooftop.com/",
+    "phone": "(646) 869-6710",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB7hsPRZawokRT_0UkYOFFMk/photos/AWn5SU5K930VGnbVBhrTRsNcOs_Vrhk4I9rgZ2sv0PTcw6_55_HVfiZqyFbwm5exD8uxGsUEw_pZGz1nCvKMKUyndHWPK9Z1wvocPQkfRUJayMYQdBHr3QK_biSStx9pIlgsZQUkzZ31bu9QKU2pTxrnnMQdaVT-gYU-AuABZ0kGBG9bpFUiA-Iu0pEK71EKqVLYnMIO3nlwcHd4i-v3VcoXMakQaaPVyxO6NCdntvVvkcjp7Orf087gc1G4mf_IAKNkuWiv4NJ9vhIhzYQWuo-6kJSUXBlYkV5Fn3U37Ldiegk/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 277,
+    "coordinates": {
+      "lat": 40.705498,
+      "lng": -74.007364
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJB7hsPRZawokRT_0UkYOFFMk",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14489352701279010127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Elsie Rooftop",
+    "address": "1412 Broadway, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Fashionable rooftop lounge for seasonal light bites & craft cocktails in an indoor/outdoor space.",
+    "website": "https://www.elsierooftop.com/",
+    "phone": "(646) 834-2291",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0Q7xqoBZwokRkrPoL2Es1X0/photos/AWn5SU7SVCP3aOuEwG8Bbue_8nunIQD_c0MP2ivlwB9ftsVloAZhy9XggJw4lkEC-zLUxWf84-v5UdiLV_55d_zYVjBTVPs7gZQqFBnx_KNED341o6ntSwJxK9ykfESrO0c6ZHfH6IclWZIR7Jl2R577iOh7a2vgeGqbrjZC5YlvfyvxnoAYwe3fC1PJV1kBIwnu_p9XMf2SaFZB70oDJBVJLPsMRNbgPkNlLny5IagzPZlYaeJPfcsRMTLvqnl4ny40fTdW_nnzwOj1cSDTe4RcKZ9wKpcmSfvrkAofJTq-75T6wg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1584,
+    "coordinates": {
+      "lat": 40.7537642,
+      "lng": -73.986739
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0Q7xqoBZwokRkrPoL2Es1X0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 4:00 AM",
+      "Saturday: 11:00 AM – 4:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9067202220707591058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RH Rooftop Restaurant at RH New York",
+    "address": "9 9th Ave, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Glamorous rooftop restaurant offering American fare amid chandeliers, greenery, and skyline views.",
+    "website": "http://www.rh.com/newyork/restaurant",
+    "phone": "(212) 217-2210",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlSsnN_NZwokRD4CVvN0DPYE/photos/AWn5SU7tsQsZrWkfWbJN5xXtGQOaSpC2oNXOkgg7Jkh1ozilA7-bkSRlt44tkAfIDrax3AmRBmiOPyW59z3mIMW-9gRioPZgTNf2w68wu_fbb05rGMdajERFLt2oHzHssn1CVs3DypKz7fDMX0MdJNSWwC8QKi3JZmX5r8dxagGggDCok7DOCPBlsdcjzdNDOYsMbKh7h-ksDU-oY4Ovy22s-n-naWlMV6ZJnVMdnyjLdnsjvFiSkPZO_PCZYl3-bKQ9IoFsJcEUpMwLixyJzRlUijWkQPtE_bi40LuK_CyI4XLVkqaDqg5KeUzdv8XrOUTflSo_g5KHe2hc4oLW6X13fxRhLOOwAzZDV-QIJ7Hb3rxVVK8E24hNJm8V6EQmNNTp1KMela6y_1Um18GyZeyPphlpAz8ltk1FsqNHSg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2501,
+    "coordinates": {
+      "lat": 40.73985,
+      "lng": -74.00639
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlSsnN_NZwokRD4CVvN0DPYE",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9312603855358623759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aldo Sohm Wine Bar",
+    "address": "151 W 51st St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Casually chic wine bar from Le Bernardin's master sommelier with charcuterie, French fare & lunch.",
+    "website": "http://www.aldosohmwinebar.com/",
+    "phone": "(212) 554-1143",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFbIdkvhYwokRAicwcVjJ2io/photos/AWn5SU59SXNgnTUmUezGKQDRviaAxUIqJVdSJolcj1VDJctWt0LJJb5RhpmOke7pyG5u6GG3517CS7nPkk94Q3vFr8d7o-yCKYgwzHsXtQM5_E0odcM8QVLXIioLr5dfs3_pR3wuicbqtOzczPZu5xbwmayD_hn-U6z-zbUfTqkX_i5aOu8XhlEE2VFw-MxlJG1AjLQlymw0_vKwF0E2OKiLQ9E_gcUPU_drJarWtieJNcHOq3GEc16RQfx_qYoTxYSNVrmfWCKwR7xd_6E4AVdCcxsgSCaoG8JrZ6-EXOCabqcb0z43hoWll54SdU0y0xGwvW-bvxhLnpwTW0HuSmB9qiCPropihLF9iSUykg6dlsEth6DMP61knMKD2rjM6xAyZJmfswXzh43QUo11UeOkUVCkwh1CjVsuq2J5uF1rUpsqGA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 574,
+    "coordinates": {
+      "lat": 40.7616018,
+      "lng": -73.9813963
+    },
+    "features": [
+      "wine_bar",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJFbIdkvhYwokRAicwcVjJ2io",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 4:00 – 11:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3088001876209182466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Purple Tongue Wine Bar",
+    "address": "410 W 43rd St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.thepurpletonguenyc.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13463022309066593556",
+    "phone": "(646) 429-8277",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw4INJQBZwokRQDsl00Ujaig/photos/AWn5SU7lAV8AovzbLYGv_G5pJKnX8YwbErJe6vHL_bSeHCVqAu-Oa7Uu_rYSfxBVXgU1JnNX3YV2id0ML-ofDEQJthahnpQaxCWxs2ju5o9u1r79EjLM-LOKqdXaFjMQ8LtziI8PXSjTDkBzOyr5bPQgpz4dsQNNaiTyD0kM5UpDqz2N2sHZC28V3FVocXIZFpXcTfA5__UpIHhfznozHN0NC92zC4pWMoAH7xXx7WZQBqXWM50RxkLYilSeyzUrwKFFBJeCa5kfhXwKxIxaMtSjvQMCkrH1GsB5zfD-kVl6jc-AEA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 222,
+    "coordinates": {
+      "lat": 40.7593177,
+      "lng": -73.9930095
+    },
+    "features": [
+      "wine_bar",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJw4INJQBZwokRQDsl00Ujaig",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 2:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2912178891850595136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brick Wine Bar",
+    "address": "21 Clinton St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.brickwinebar.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ3m5L6xZwokRq3Gyu3EDuuE/photos/AWn5SU5mLGf-V1PvoABlpM43wLs4u2In4-2QcfNeJkuGoBTQfK0oCR14HkUYvTLsMkGsrcpl9I8B1fKvlbGkHSsz4UJHc3rm3qzBYk4Adw84S1BCsWXTFVStOUZ3sDp9_c5t7EaMNd_BxW5q9NoNLnTxPY4UkVwE11O9N8OGmsowuTgD_vJwEgMQpPS4aj08xJ8nIIoW08vbMsmiXzigplo624yp-_MkYguD4eBcaLxu3y2uL2TAFx4-k88A7ELyQwDrly_9rrBNQPbOxwtDWxNdq2HY3QHaHtsj_owGyDpOoEAH2g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 115,
+    "coordinates": {
+      "lat": 40.7206541,
+      "lng": -73.98450179999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJZ3m5L6xZwokRq3Gyu3EDuuE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 1:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16265316791217189291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sorso'",
+    "address": "56 University Pl, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.sorsonyc.com/",
+    "phone": "(212) 777-1726",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJL_NcKb1ZwokR1DgbX3uNjDc/photos/AWn5SU6Nsdkx671uV6Pbwhb6xEpYI1L0ON52FyOZ28ThSwMOgYlhJNP1BK0CiJ0ihbyg8bvkFiYzvmGM6AQV1r1Kz0WON0PAjy9tL5BpYFt5wG7U8w2cXs4fQ-4m013bWwUAB2mUg-TjfexF8HsVYdv3ybH_MinZSY__2E9bdXDPJo6-JBgmPDRgHcpRYKIgf108bw1pZ4h9NbOY-zTInfjUFclXnaahVHaXo7rBUOiRvxdguKJ15cIk6LsA737WwCdkwSLpeyey5uYXEzer8GpzQ7WMmiK98ZeZX5KiYBmv9gTDng/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 669,
+    "coordinates": {
+      "lat": 40.7327106,
+      "lng": -73.99404609999999
+    },
+    "features": [
+      "wine_bar",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJL_NcKb1ZwokR1DgbX3uNjDc",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4002729729841641684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ayza Wine & Chocolate Bar",
+    "address": "11 W 31st St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "dessert",
+    "price_range": "$$",
+    "website": "https://ayzanyc.com/",
+    "phone": "(212) 714-2992",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNw7LkqhZwokRwNMxjPkQ8Ts/photos/AWn5SU495s8tXX1Z-GKxfQOM97iW1zJz5iexVwCF9RzXa0bbOW2lMTvwelCKelVOB0N1vCI1j9hIngT3FzPcCJFO7JqkuE9W3XAZ6YRRx_UMxoyScgrwbO_2AvXYn8wXRJjjSgkkbnyg9uZWBGrNJdPdX_In2mVgGlJ5souObLls90gHGSsYaatd0Zgg2xIWx81t-ehNcq9jUxtskpjh2j76EeQdHNH_WLCbc4YZf0jrLtAfLE1Ewv8APxRmXoOU4HZI0xMJyCMVbye1JqX5xTXEADCZsPaNRggcgEE_J6cbbMcEnw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2134,
+    "coordinates": {
+      "lat": 40.7470962,
+      "lng": -73.9869045
+    },
+    "features": [
+      "wine_bar",
+      "dessert_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJNw7LkqhZwokRwNMxjPkQ8Ts",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 2:00 PM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4319252181609993152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ardesia Wine Bar",
+    "address": "510 W 52nd St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Over 30 wines by the glass are available along with homemade NY pretzels & hand-crafted cheeses.",
+    "website": "http://www.ardesia-ny.com/",
+    "phone": "(212) 247-9191",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMx5oglBYwokRiHVYNJ_6t9w/photos/AWn5SU793c7eBIiZB_VkIYg-tW2fu5yYPQ1N4u_vVaisyBgkW_ULxswc_OHp2Eq8XpVC2ofZX54qG-f5fPWTbEj2JyZE6DMBhRr3QH_hE8HORi4K6jhWMPIu0VC5rC3PN1oamfv__QnsOti4t06Zi0DgQTv-Z3-FW4kdGKYxCXRTmybL-aAUyczg5fmCV7vik7e7xw6IxEEimFNeXyzQ8_d6DTZVEoHHU7SI6vD64KXauQ637oqyaFZzJ90747xYXm-S77nBXQDJDP4CeYVC5-emoeJ-daKWhqHae5-CWcqDt19yqA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 476,
+    "coordinates": {
+      "lat": 40.7661722,
+      "lng": -73.9918668
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJMx5oglBYwokRiHVYNJ_6t9w",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 1:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15904456170767152520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cork Wine Bar",
+    "address": "69 Thompson St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://corksoho.com/",
+    "phone": "(646) 669-8169",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd-JJsaFZwokRcv9CCDEcP0g/photos/AWn5SU67PCqjUlwEm1dTFEsFH_Mgd1EYkKWjBYmaY8l5zztpkEOEENcGPpuuRcwGin5VnffHOOv70rqJxNKRRAdIWOn0n8ygJnR4xOeZA-QlUVqLHUD0z-2PYTsbn0tzB5L59mss03OMOm7GEUhobcq9u2092RA26YVkMTg3_9fqOU8L_iijxR-F0P64rZS3G5nkTQZ4CK4v47o2mQQ-8M3c1IBeJnZNj9GZM51JLBft5jOffpMJEmt8I9AX-Q0M6f16TcZlTQGdaW-5p2qJEApSAWOsRgyG9eMO4jH844tBMf3tNg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 208,
+    "coordinates": {
+      "lat": 40.7244902,
+      "lng": -74.0032774
+    },
+    "features": [
+      "wine_bar",
+      "cafe",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJd-JJsaFZwokRcv9CCDEcP0g",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 2:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 2:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5205910691181166450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ruffian",
+    "address": "125 E 7th St, New York, NY 10009, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Intimate setting for premium wines with a menu of locally & seasonally inspired plates.",
+    "website": "http://www.ruffiannyc.com/",
+    "phone": "(347) 674-1618",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHfvtRp1ZwokREpFE8Z1BEKs/photos/AWn5SU4cWvmVvWdnXlijFlpEzOv225RysLdIEDKL-89UMIgk4VhluqQ1M6uSPkinC7FEMQB4GPFnzjD_MHZTFERu2xkn__yZPpVd1G5lWeZXbHU19UuuEFeeKhhAnr_OWV6gMmE0kDLTTIxOfMgkdyyhktq1G5tbnYOM5JpqGW5rOOXKihIrH2krWhPxEUER4RhuVrZRm2bPGihemPWC0S6Fr-x0XiHdVd7VIhrJB4jvWGokOMOsGN9kzsfBDAqQjVsOTOp7a0H-ps5AVr80LMN_rIM8GlzrSA90tRrFGWZT0yGFog/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 406,
+    "coordinates": {
+      "lat": 40.7264264,
+      "lng": -73.9841019
+    },
+    "features": [
+      "wine_bar",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJHfvtRp1ZwokREpFE8Z1BEKs",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 3:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12326424326726521106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Terroir",
+    "address": "24 Harrison St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Relaxed, brick-lined wine bar with community tables, a large by-the-glass menu & Italian tapas.",
+    "website": "http://www.wineisterroir.com/",
+    "phone": "(212) 625-9463",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1Z3-Oh5awokR6ReR4JZHAfA/photos/AWn5SU6-3lJx1gRAtwCcx_eI9sNSZlD8hNRHF19xP9aoDlUgarhgSgddWyvHKMbX-_yBKvFRBehwZ_mie5oUk_mz8BT5ceU__dJqlOZwEj4OuKI17TcNG4pt3jV9Gd8AmoZ8ICZjYQ3T1y_PREk4COrCLXNfYIAC3PRZhzascIQ5fgSip4zyw9NdVUSwzpmx1Un7jwhnRLX2qj7OzHdXtjd47h0G-N1WQQyMfTwv9G7nPUMJbj_QOVUxSlOd9vxvLjaSn6KT9l1MFied-Ial1oUz4Wf77nt_b1QzP3T-_zvxLsGt_w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 537,
+    "coordinates": {
+      "lat": 40.7188908,
+      "lng": -74.0099829
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ1Z3-Oh5awokR6ReR4JZHAfA",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17294182757417687017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sofia Wine Bar",
+    "address": "242 E 50th St, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Pizzas, pastas & small plates with dozens of Old & New World wines by the bottle or glass.",
+    "website": "http://sofiawinebar.com/",
+    "phone": "(212) 888-8660",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGT7K5OJYwokRaqeIi5mhiic/photos/AWn5SU7PvqAezV6nwAmdue1EVaEa6xcrKfdZv1VGVefk8OmEcljwJKvZFbZIsdKqAzVyhY9qOMDqelxgMOYpIW7gIAoKw3JuBnmM5_BC217k2N14SX9rIodAM5pJs8yw-DrsM7g-vTzXN682fV-oysoGvDuupuDP0bzqNQukAPoKkkgQmP0yQeRolUPLfaOMJ0uFQagyiCzm-EgxvTDq2gUFlwNlF97CmCuMV9oC4s0m4LXiofPVkogQkr3nCR8JUlxEySHbQuRv_CtgNx0bSaiDK6-MigAaqIU3-nyzlxOyPv-TOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 607,
+    "coordinates": {
+      "lat": 40.7550373,
+      "lng": -73.9691842
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJGT7K5OJYwokRaqeIi5mhiic",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2849267395108317034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wine Escape",
+    "address": "405 W 44th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "description": "This brick-walled wine bar with a menu of charcuterie, cheese & tapas offers an intimate atmosphere.",
+    "website": "https://www.wineescapenyc44.com/",
+    "phone": "(212) 262-7000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI8QzSVJYwokR6whAOGzrA0w/photos/AWn5SU60cogNyVednzhuCXQVY77eMt7VHhYHv_QjkHn4L9p7etYoqsFkciJ0JGpDDwIavClZk79lQ9j5uRQpuKQW1DByRWVvXbIMpIxTR0E2ersDtEkRvt0fpQ-bzjL30BuuW9SD4TPY5UGXxIUjunWwc08tELd5mYTEuQlf_sT3VQKQ47lVZqI6fDHNkESao_hJ-rWGvYKkmmE33wsLqP7IIZE_QEuoT3fGIt7iVuhRloXMMVW6pSIdx4xeeEroE_2vTfcvGFpE1rwdm56cm1TUDR4fbPD7B66vNT9a7ZSpGK478w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 287,
+    "coordinates": {
+      "lat": 40.7600883,
+      "lng": -73.99211319999999
+    },
+    "features": [
+      "wine_bar",
+      "mediterranean_restaurant",
+      "performing_arts_theater",
+      "event_venue",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJI8QzSVJYwokR6whAOGzrA0w",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 – 11:00 PM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 3:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5477480421845371115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Somm Time",
+    "address": "254 Broome St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://sommtimenyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSeHeZ6ZZwokRMWhy805YXs8/photos/AWn5SU6ohgexPBxS3p_poFbPGqLZHROeA_F7tWwfj_YWY2PR0W5E4Y6EI-6dPVECYdV7dBS75lRPHxVkn-h8wLeUx5z01TzkgNmYiUC37ky-qE2muvbiVr_GZdUb1GfNvoDXhfxjr_xXEU-iLM4YvxJ4FRy5FLWFvruE36z3JIiO5-0jHuxt4hnaNb5-Zzix3dTAWYLfbzOk0lIVn_JO86uj4KrHyz8ew2p4zpHpn1BFIOJG1GBZWPKGSV2VLcJW2rOPoGxtpxWlzVBejXR_fF89IQvOtFLMeUApTLTFG7wVszCl50IZh1K2zQ8Em1lG3LsRYUfhTqk4TZeKntA9KubmONoiIH-szZrS0RaMSOkCteaGO4CQbZ1kRe8CzCi2nP6-qAQN_8ItW-y1aV94G22vmnmkmk-_CrJ8V0OWety0_1nUHfe9/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 106,
+    "coordinates": {
+      "lat": 40.718227299999995,
+      "lng": -73.98992009999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJSeHeZ6ZZwokRMWhy805YXs8",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14942477709776939057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bisou",
+    "address": "112 6th Ave, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://bisoubarnyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBS2a7ehZwokR1Gj4ELBwN5Y/photos/AWn5SU6SusDRiZYX5_6OdPnU81hkp7Gmv5jNo-H87halRzBNs8omnYKmAyQeAg5k8fxaJIevst3GuRpaol8WbRiP2SBqrel943MU493PhEuWM-PBDceOpe05TseAHweU4-TjZgphY6BoVZR5DvfMhtFyExLPpmspk6NP3TQYPTWsJQc_rE4axXVzEJW75pSTUNjAILoLXq6pVXXEGpF-g3pCDdVAdZsC8p9okXo-hzCJrL4fWbW3chONcS0jLMqMnmhGnfxYW7e-s9WIIOj84OwZHtVE4XeXPefHXbSxNj3eb69i4Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 182,
+    "coordinates": {
+      "lat": 40.723799,
+      "lng": -74.00451989999999
+    },
+    "features": [
+      "wine_bar",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJBS2a7ehZwokR1Gj4ELBwN5Y",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10824244130909546708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vanguard Wine Bar (Midtown West)",
+    "address": "252 W 51st St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://vanguard-nyc.com/",
+    "phone": "(212) 399-9463",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrSqq6fZZwokRVGXi_iHUnhY/photos/AWn5SU6ot5pGyNzHhX3881lO8GPR3fwmds7Mg-dpr0_UNmduDxQ9ccgQtTSt_hM36Lsyb8zu_v0u5yQGsrMr-_urMyxuGx3VOkfCyFtTC9m_4hJmKEv5WrF5UPyJOMByyRugvKO4U2FuvbPUmE3QOjNbwS2Tm3FFt3ZSDgyp_K8oIPbvu_WIiORgKzxH9GFGQfIzKINxaTCt-0pjwTh5rnkIEGpJgBkxB2MUSDl5um2vjtxkrBPhIQmQ2KuQDetw91aMe-1WcX8zqq5E6PaJuH7k0xDX9wdoZOaxebsZYiPPwLpr8g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 156,
+    "coordinates": {
+      "lat": 40.7626094,
+      "lng": -73.9853275
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJrSqq6fZZwokRVGXi_iHUnhY",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1629973357629957460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "St Jardim",
+    "address": "183 W 10th St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.stjardimnyc.com/",
+    "phone": "(917) 938-5829",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQT7u80BZwokR5MLuGvTsBiY/photos/AWn5SU542JLIU8hEiEFPsc5SqeOThpRrLrpI06Mk357-j0UtgQbTEMWkjIo7yr7wt9LnDj7xIecZ5G8m1Tz72IzUJpXiGpfHWDfUBKc0j_sDzgw1IpvhcVzqLDjdWEFp0pBQL0vUo0Xeh8KkUqgo6pBANFaY-m9pL89F3byTdsv27kGgUTzn5LrockoT95eMTWodEepUZgJthGP8kv8QR-2iFP0loHXjcsAhoOD9_3T1eEFrvUAqSih2pzksBLgAER6vX1QmngvEVXB2x7Vk_WXrHhQPtz9q81jZqT2-HRgGeipkVg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 337,
+    "coordinates": {
+      "lat": 40.7343755,
+      "lng": -74.00284789999999
+    },
+    "features": [
+      "wine_bar",
+      "coffee_shop",
+      "cafe",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJQT7u80BZwokR5MLuGvTsBiY",
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 11:00 PM",
+      "Wednesday: 7:30 AM – 11:00 PM",
+      "Thursday: 7:30 AM – 11:00 PM",
+      "Friday: 7:30 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2740137956469555940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Birdland Jazz Club",
+    "address": "315 W 44th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Classic Theater District jazz club with roomy red environs, a large bar & Cajun-influenced food.",
+    "website": "https://www.birdlandjazz.com/",
+    "phone": "(212) 581-3080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdc9EhVNYwokR-naSYfm_Urc/photos/AWn5SU5DT5c0uOs0DMfB2ghPJQ0ldQrbUqoCYgoDjSqw_M6E4f3xWTCw8YkmauF-U2cy2d3TY-wnXUi7tKadqhU8Rsy-tWXSZWWzICmM8bnJAgcfUoaE8B2clzKR8gmZYs-oRIb0XqkpIjPgxMAjOKvZC_--GplTVLyiZlh5RfeVSaZluhlsRqIel7ArlsLCqMRAAmotqwU3fzvx5v7q7ojqXPhSa6EU-1d6ca4rlAKuG3B5ePn_dk8umIuBCixZHxlNNoeTSWMWlNwvREEQu08uH2rNW43_Zemh8qC77QbOzvWmAqoOeVQpAJOkkd0fzoQUvb2D_xME88F45gNctIYRwonBZzsHtgXZqbrCZoutAcmbI4s1qb5HfwsPRwjL5_eHlVjWWFoK78NUsW4PTGIXI0TmUGQ0fQ-_aCr6-5KS9jN7fYNlrcz1LMv0_SoGZqeS/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 4666,
+    "coordinates": {
+      "lat": 40.759004399999995,
+      "lng": -73.98970899999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdc9EhVNYwokR-naSYfm_Urc",
+    "opening_hours": [
+      "Monday: 4:30 PM – 12:00 AM",
+      "Tuesday: 4:30 – 11:30 PM",
+      "Wednesday: 4:30 – 11:30 PM",
+      "Thursday: 4:30 – 11:30 PM",
+      "Friday: 4:30 PM – 12:00 AM",
+      "Saturday: 4:30 PM – 12:00 AM",
+      "Sunday: 4:30 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13209831734835836666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tomi Jazz",
+    "address": "239 E 53rd St, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "description": "Low-key bar & grill featuring Japanese bites & live jazz in a cozy setting with a speakeasy vibe.",
+    "website": "http://www.tomijazz.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVcSnm-NYwokRnGivcMPc81Q/photos/AWn5SU76IqAsptp0SXbMaw5rxbsIydPd4uKfp5u-MBXtAbEtvqPHLj03vFrGAmRPs6tKajzLAee85wGXL6DvglcKiGwDf6S7Di632CktQYCXyJIzbfrpjckjXaXbn_OkIQK1kpQt7aTS_DmZQKdJ4YZsH-34RMV-TdCEb04NQuK-LyBGZ9Ykw-jpwwcX_1Eb1vI5tIwLrmRQ-_wbGe7vvvBujIJKaYz6sDPrJF70_q8sFphJOMVkNsNYStGcgw3J9Kqg76culU3WWudyElTljpjhbyGvmJm3HIpYGckK9doujMyBkyspRz1-reaRIaf_GXcmy-9WeCiHoJbLsousfLJq5QzxNOTXMN7nYb1jGcCTpLyl2HoosYYo2WKncmGAjhsV3Hdx4VKNNez6wU7DHVWgbbvHr_DVSTWvXtGtkHnQgxxHzw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2050,
+    "coordinates": {
+      "lat": 40.757174899999995,
+      "lng": -73.9678057
+    },
+    "features": [
+      "night_club",
+      "bar_and_grill",
+      "bar",
+      "event_venue",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVcSnm-NYwokRnGivcMPc81Q",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 5:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6121479050493913244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Smoke Jazz & Supper Club",
+    "address": "2751 Broadway, New York, NY 10025, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A cozy venue with clean sight lines & good sound  featuring jazz, blues & Latin acts, plus eats.",
+    "website": "http://www.smokejazz.com/",
+    "phone": "(212) 864-6662",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJS_7f3yT2wokR4dsAb0bTwDo/photos/AWn5SU6tQVY-7OHlccYb3uJBwzRCIQ6_Haih4Xyu3VMtv7z6QqJLwe0Y2qmrWOrAm-skfQpyYIH4jHsa_C_JsBGHlSO-IDrVDjpl5OWlw9iTRCNbL1Xqy-fzz2JWOQEbu1CioxcD4kDzLuy-VWgwMUbOP8GlPcbuAHz3ioOHDbw9CHKUAlpe2qSlv8rWJVQXLKzCTRoHyHa7YlOG4rJ1N4qsIjm92_Qj1OurweN-4mpVDiSqM0uQirL3V8Kub7XAb9YVAhit_0h9IyX144gqREk15FjoRGEkxOEjUTpsxHy1Jpj5f4b4ieCVSnJ0gy2WiLrx-1z1QF07FgSgkrino0ebTFQ8gAp3gMvlxuHMgCat2eXetKPMKsZhMHvMSrzVe1swkqaRUu9c_cpvsQ_6e-JmJ_rUSvmBiPl-CEZ-jpyMJ9K1McqE/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1357,
+    "coordinates": {
+      "lat": 40.801110099999995,
+      "lng": -73.9682369
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJS_7f3yT2wokR4dsAb0bTwDo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4233615949191764961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Smalls Jazz Club",
+    "address": "183 W 10th St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Tiny no-frills space delivers live jazz bands & jam sessions at modest prices.",
+    "website": "http://www.smallslive.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu55raJRZwokReRL9b1tLmQo/photos/AWn5SU7cTmss2C13YzxbmfP4wyKjm2QeXmVz3MSJJ_X6JDCX1lnHTveutC-la5qLppTGo9Dtl6EhsSNuMFpsi6VU6s1GcnL9QqGgN10raOgSecKzwdgKkaqqeeRzuSyKWlnDtVWnOBNqj5mugp-Ex0HktbPe1GXHAr0JYHpuCPt2qMRya5MxU6WOQy9Iqh6UiaHUaIo1j7POBbE4JlqbS4IHqeG5kiz2XfSlCrePtNMTSoFGdDdNX42ctfssxMBsuJWNKaW5DkYf3GJSoYeMpmilzm5_BNDN0qB8AUhVAJ73GikCdA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3517,
+    "coordinates": {
+      "lat": 40.7343873,
+      "lng": -74.002765
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJu55raJRZwokReRL9b1tLmQo",
+    "opening_hours": [
+      "Monday: 7:00 PM – 3:30 AM",
+      "Tuesday: 7:00 PM – 3:30 AM",
+      "Wednesday: 7:00 PM – 3:30 AM",
+      "Thursday: 7:00 PM – 3:30 AM",
+      "Friday: 2:00 PM – 3:30 AM",
+      "Saturday: 2:00 PM – 3:30 AM",
+      "Sunday: 2:00 PM – 3:30 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=763724467908973177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Village Vanguard",
+    "address": "178 7th Ave S, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "From iconic 1960s gigs by John Coltrane to who's playing here now, this club lives up to its name.",
+    "website": "http://www.villagevanguard.com/",
+    "phone": "(212) 255-4037",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1Y0Fz5VZwokRia-gnWy02iE/photos/AWn5SU6e06psYlQu8L3V71tm17xXxWvmsftb0C8vNTmEOV5nnYah1n1AoRaUPdMef2zatFk9kE_Ewez71OZGnQisBmNSqzLRWsaxo6nbeuAnfilegsykp8A3_8sbA7SCbe1PQe9kUNA85UNTHj_vVvB1T59n5INZCDhyLQK16tFqjg4xssgJQJITe2WQbf7chM4Vj7w4WuYBpO8O8PiOFFbavOA2mTEa0_VqrPx5iABlh8dkDk9le-3j6SodNkT_Jt-fkDLAxTSwnCXK55HRsfkxN6oLOxHQrpD8jZZEryn82rDUGUaG1MAgJgtMKxG9XQjCTaCyx7Seej8pZbl5jIt_mvdphWmEAQlsQ8ism4r3_Kgj6oZJTS4gYSppnM20DuZ4q-OoiMAIl_TQbZRaUg2TCADHaZDKdudI-7pfoqG1S9J0felMoCy7KvcYFi5FPw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1971,
+    "coordinates": {
+      "lat": 40.7360334,
+      "lng": -74.0016548
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1Y0Fz5VZwokRia-gnWy02iE",
+    "opening_hours": [
+      "Monday: 7:00 PM – 12:00 AM",
+      "Tuesday: 7:00 PM – 12:00 AM",
+      "Wednesday: 7:00 PM – 12:00 AM",
+      "Thursday: 7:00 PM – 12:00 AM",
+      "Friday: 7:00 PM – 12:00 AM",
+      "Saturday: 7:00 PM – 12:00 AM",
+      "Sunday: 7:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2439460526768566153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dizzy's Club",
+    "address": "10 Columbus Cir, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Upscale, intimate jazz club in Lincoln Center serving Southern-accented fare & themed cocktails.",
+    "website": "http://jazz.org/dizzys",
+    "phone": "(212) 258-9595",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp3PsL_ZYwokRUH1k95teGuM/photos/AWn5SU6LzVR1nfzwlhWqb6zodT9fFQeJoc9S85IQc94fnLJfDGl5A1pUR3t81FbopM9b2yEU1dW8jw4b4QhIlo_BPsx8wfPD5LFLf0tzvW1dCJWlR5Gx01_JayQ5zUSapxboUXMfTwuv1vp_poBXqPdfLkD-nVWulrWmlao-Ag3WWZBdKuncSUNRlk_FC9gCmVqbfHenMmItj5HQZkm1eVaAEEls8xfVAe9QoMYJDIXgoYhez2Qxo9-19nksFTTeCvTtWHShCoY07ZSsjXEVrCQBZESq_imjyW89VAqvdrZJ3vw37V_N3U_KWfwFaeMj5GsWV6QpWZNxFO_X-6VsbByKX9oma1JKyMGiFANtCVb9rUSh68097xALj-H7rIVoT6Bsjm9irrjWl0XcPe3jALf1aW41l0_d4Dzj1x_SQVqdRUs/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1247,
+    "coordinates": {
+      "lat": 40.7685594,
+      "lng": -73.9830762
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp3PsL_ZYwokRUH1k95teGuM",
+    "opening_hours": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16364496219967618384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blue Note",
+    "address": "131 W 3rd St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Legendary jazz musicians take the stage at this intimate club that also serves American eats.",
+    "website": "https://www.bluenotejazz.com/nyc/",
+    "phone": "(212) 475-8592",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbfTV15NZwokRSeNM676BEZI/photos/AWn5SU7sLR_RRI0H2kYgyQd_5TmfCkaMirpR5Ide1OaFd8VSG3A2PV4DyBFWiDjbL5Hiry4CVLlWG9wHEfyo17HuqPORwI8FEkfZs6oXhp-sEX-6kV1vZmB20Uk4nNXfL2dcYsbn7zBDbzJe2Rt7avE98crkcyBgmkiDsKPY-DfQ0-e50xF1o8BnRiPLFl6LT07_N0rm3IHNIlhO7Ug93PCWu3Wp4_dWN6GEorV5HeKideFL1pZZtPSNigY4DzEFibj-8mkuDs4grJxNmbidv9fwSMEp-HNRTbBrjJberXnZj0jSEg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 5378,
+    "coordinates": {
+      "lat": 40.730908299999996,
+      "lng": -74.0006557
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbfTV15NZwokRSeNM676BEZI",
+    "opening_hours": [
+      "Monday: 6:00 PM – 12:00 AM",
+      "Tuesday: 6:00 PM – 12:00 AM",
+      "Wednesday: 6:00 PM – 12:00 AM",
+      "Thursday: 6:00 PM – 12:00 AM",
+      "Friday: 6:00 PM – 12:00 AM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10525336461133013833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Winnie's Jazz Bar",
+    "address": "63 W 38th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Posh, wood-lined lobby bar inside the Refinery Hotel featuring classic cocktails & live jazz.",
+    "website": "https://winniesnyc.com/",
+    "phone": "(646) 846-9063",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl6r9TqpZwokRYemwGgmWnek/photos/AWn5SU6NQU159ATXElP2r7q-3LT_HIlWr3HduwkGSGSAc2aBeNxDmkKs6eYsz4pFvJIPEEggttwkbgkbaZ7-oA42lbSKckh65b74y2GKN_F18MscUC4RIG8Ev1UE32_OrWX6m3ia0HkJkmpNYnouvj5WNKc4gjqVUUT-pguGPZOC9kpVBn-n3qVtQByYCJ3-KpuEQgXEZNI_RSuMcU7h4tdfyIEoT3E8PSdVFyv8de2s2FfMW1FNjGzm1c39SOV-y_2tRDMlx7QZXVcwtjzT1SzUCqu73GoxAzPzI1pu1L6SBWJcbQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 414,
+    "coordinates": {
+      "lat": 40.7521833,
+      "lng": -73.9853073
+    },
+    "features": [
+      "night_club",
+      "american_restaurant",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl6r9TqpZwokRYemwGgmWnek",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 2:00 – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16833775948027455841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Flatiron Room NoMad",
+    "address": "37 W 26th St, New York, NY 10010, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Classy nightspot with a vintage vibe housing a collection of 750+ brown spirits, plus live jazz shows.",
+    "website": "http://www.theflatironroom.com/",
+    "phone": "(212) 725-3860",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiXS6uaVZwokRqjgLG65i9Gk/photos/AWn5SU6LHKiX_bJdkHWkSheq9OgHQWBNe3GdeylLxdDovnKT6QiikpkVm3FkbF21YpVD6hvLBtAwWkKpEq5oLExVACyQ5j212VNEQEUy4Ua_cJ14m7sfMvNLKIuqDCHKR9Xssnq7WiUhVPUo8M_e1domQ5L6QAyRygKxvno5lDNneLLMahzvgS1IYnzy6HG225q0id9O1Lwegjz5t0_gStBUJZR7YzKQwvV7vaUp5ZRhGjvL6Hwsz6gEbsSTvJpuxlkFQyq69_HkUD2CNIwb343wS8uEEVQUXSapKLELc9UtS1pN1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1919,
+    "coordinates": {
+      "lat": 40.7445519,
+      "lng": -73.99043240000002
+    },
+    "features": [
+      "american_restaurant",
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiXS6uaVZwokRqjgLG65i9Gk",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7634835768217385130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Iridium",
+    "address": "1650 Broadway, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Intimate basement jazz club long associated with Les Paul that features national & local performers.",
+    "website": "https://www.theiridium.com/",
+    "phone": "(212) 582-2121",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_85dJlZYwokRzdVz7YJQOWs/photos/AWn5SU5xxTxzl2TphuAklxYMmxwavz6JLr9viTwQmYOJHXIu-2NjcVWXsbw8bVV2HVJyb5zJ7mUJ32aZshUELzZ9QvICGOaPUuM4eWZ00VCJxrCtypqP2g4F75kkyTBHgfpgZOwxSjc4yBmDAIgNa-TQbEy5Wp1RU6WbrwgWMU6I2LHaXkXqdXPzXU-3UOK6VcDysB2IfDWcmmMIkfZYxZWuT6uZrbuWubTbvZni0rxL-7svOqNhZtvZSildaTx2H4a0P2VWgTWtpU1AWtkCVSpUqwtoIbwk2ugBR1o21hc4jrmmmQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 926,
+    "coordinates": {
+      "lat": 40.761896,
+      "lng": -73.983525
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_85dJlZYwokRzdVz7YJQOWs",
+    "opening_hours": [
+      "Monday: 7:00 PM – 12:00 AM",
+      "Tuesday: 7:00 PM – 12:00 AM",
+      "Wednesday: 7:00 PM – 12:00 AM",
+      "Thursday: 7:00 PM – 12:00 AM",
+      "Friday: 7:00 PM – 12:00 AM",
+      "Saturday: 7:00 PM – 12:00 AM",
+      "Sunday: 7:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7726295158990558669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

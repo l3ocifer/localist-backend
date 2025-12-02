@@ -1,0 +1,3565 @@
+[
+  {
+    "name": "Le Bernardin",
+    "address": "155 W 51st St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Elite French restaurant offers chef Eric Ripert's refined seafood, expert service & luxurious decor.",
+    "website": "https://www.le-bernardin.com/home",
+    "phone": "(212) 554-1515",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV7QQ6kdZwokRax4615zpSGU/photos/AWn5SU4ppL2dle1hWmq1tCksetD83qMi-plYso3IXxXInf0AkqIfpcezuTgAK3_mA7eQGG4ytL7tZPW4kwpfllMyeq5lrvLiVsxMEmn-rP1qX8V568-gwXfC5F0HVty0nF7cygbxgTV1N4-_1G6-2HdcNZFTwhfQ-ZFgyvs2YqpRJ3lKOMZ36fnumQCq4Kjzw_SKB0H7TwfSv1a0d3hItK0WhxWbP27bujjUQN26r_sUKe8aj-KwH9Jp60IMUg3uptB7fcOFDBAi2ovN0pqDMKbGHoqhI2vHUk4D4gKsq4g_XXouWw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3951,
+    "coordinates": {
+      "lat": 40.7614218,
+      "lng": -73.9817558
+    },
+    "features": [
+      "french_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJV7QQ6kdZwokRax4615zpSGU",
+    "opening_hours": [
+      "Monday: 12:00 – 2:30 PM, 5:00 – 10:30 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:30 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:30 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 10:30 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7298340055988969067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Per Se",
+    "address": "10 Columbus Cir, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Chef Thomas Keller's New American restaurant offers luxe fixed-price menus, with Central Park views.",
+    "website": "https://www.thomaskeller.com/perseny",
+    "phone": "(212) 823-9335",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp3PsL_ZYwokRZYqs_40RJF4/photos/AWn5SU6JhdlBRoiOlaXHi7Vp0392QKla2LufXysNQtRguu9GY2rJ1ZePTNTSyoa_zfM5tRHP5cruLv33NUSdn_TgUaBrMO19zMhPjfAofufrdaU_hXDrAbY3_jEsxXWDnTpsEP1ktMU6fMxYmm_uC2hj-Jy-EfMFZZhRbDVPGA73PXEwdxwbs6HQbSkDTyIVhLtn_rkh9yGV6HlTk0xaU6YcJqk07mkdy82z0SVBHPXOUz5GOS1U2DBBUr_X1L1bc_qJpLmQfZABY367pva_2SWIAyAfrjax5-ZeiNPbY8_ocqjFJS2UFYfiyc4w-InT4WF07hZhSnAznaBW9wJoWwQuVs0tZOPLCCdj5axMN_JwS_V7ugnYXF_DNUdoxmClyDUt3V592kdY5YkITADnNJbyyYhl3qMs6FiwTyRFpu7-KkZM4ag/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2003,
+    "coordinates": {
+      "lat": 40.768217799999995,
+      "lng": -73.9828988
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp3PsL_ZYwokRZYqs_40RJF4",
+    "opening_hours": [
+      "Monday: 4:30 – 9:00 PM",
+      "Tuesday: 4:30 – 9:00 PM",
+      "Wednesday: 4:30 – 9:00 PM",
+      "Thursday: 4:30 – 9:00 PM",
+      "Friday: 4:30 – 9:00 PM",
+      "Saturday: 4:30 – 9:00 PM",
+      "Sunday: 4:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6783566240304368229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Modern",
+    "address": "9 W 53rd St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "French/New American fare in a modernist space with garden views at the Museum of Modern Art.",
+    "website": "https://www.themodernnyc.com/the-modern/",
+    "phone": "(212) 333-1220",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMW-gxPtYwokRzDlnsRgq9rA/photos/AWn5SU6etKZEBwqMEs4x2sQW4ST6OToPRSuJ4zbJByFvHROWfe2al-lHMiS5CY8ZCXl6fjSmAX7Xik3eDKqvsOSxQDkfAXiyeZOMxNZuLA-aETvyr5lKw_dOKxcA8wtMdLyuaBm3oQlgH3oXlxIukAvbaHiSJwwYtZFLjgridUUW-rLKTAi9Xp90lG-Jz-i5j2hzxKmjViZJMZoYd3NhsKHAdzvzMI2E-zjfBftJ28B-Vrzl87lTFN1HNPUqIzkfzqWYYWmJ4p8HR-iKAFUA-WZC4D8dijNp3LkqeD1zhf-xWSpI4A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2647,
+    "coordinates": {
+      "lat": 40.761081,
+      "lng": -73.976753
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMW-gxPtYwokRzDlnsRgq9rA",
+    "opening_hours": [
+      "Monday: 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 9:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:00 – 9:30 PM",
+      "Sunday: 12:00 – 2:30 PM, 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12751425680490052044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "address": "41 W 42nd St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Sophisticated French cooking presented in chic, airy environs with salvaged-wood beams.",
+    "website": "https://www.gknyc.com/",
+    "phone": "(212) 257-5826",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw_TGEwBZwokR-zLts543O-4/photos/AWn5SU4NOZGwNYD_Bh2UjIsEmcE3kz-Www1hA7T8Lf3SdNLDs1gtMM7F2kyG814QyoVjT7fNlXGtTEhbgjyU-5B49zOZhWJUtz1aNDyzijpcuyD3z3sqFgZmqflf5Ywi3v8fj25s_d9hewfccaJdwBPBSvIN16YAvC_zrLBTPHGWGZdA0gGT7TEN4xgAVs-gxfTNyGOly_XckqilNMpZme0wzk7ERm_spsO8GpoihEb_VQr8RQ7XGj9_tJccruLtmLTgBxrnHsdVAzv9_0cPLxf7pG3VkncRp0-b6LfeGU770VaUHA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1265,
+    "coordinates": {
+      "lat": 40.7545381,
+      "lng": -73.98250260000002
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJw_TGEwBZwokR-zLts543O-4",
+    "opening_hours": [
+      "Monday: 4:45 – 9:30 PM",
+      "Tuesday: 4:45 – 9:30 PM",
+      "Wednesday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Thursday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Friday: 12:00 – 2:00 PM, 4:45 – 10:00 PM",
+      "Saturday: 4:45 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17166375559415804667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frevo",
+    "address": "48 W 8th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "A multi-course modern menu is served at an intimate chef's counter tucked behind a gallery.",
+    "website": "http://frevonyc.com/",
+    "phone": "(646) 455-0804",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJL6-NTmBZwokRGacx3GWq3D0/photos/AWn5SU6wy2zxSTY-mSy2HrBzJCGSuqB_gYk_LGJ8Jqv5g4AkM0YQ8DtV9gawh6uEZ-fWIXWkdkqu2vTFBT7xb5tSU7rqEmXoshn5hq4NSN4kTyXU_JiNQXF9o0pr7Rw-mlwO2Z880xuuR4DyIIqC9l0UIOfHlH9bq5zM3nIlJrdTMlgavjybyhg3Xy1byiJJOmDMajFQ-C7SwRDIXXKiLgQ-yDrMrsVY-nZ52zJjok3QOQtS7xRGX30qzqhqaJVKNyVOgPPmtetMnk7UhN40po_dgd44AjGklWv_IOR_W9Trzd9__Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 753,
+    "coordinates": {
+      "lat": 40.7331351,
+      "lng": -73.9986886
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "art_gallery",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJL6-NTmBZwokRGacx3GWq3D0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4457625085652608793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Daniel",
+    "address": "60 E 65th St, New York, NY 10065, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Daniel Boulud's renowned restaurant with refined European dishes & an acclaimed wine selection in elegant surrounds.",
+    "website": "http://www.danielnyc.com/",
+    "phone": "(212) 288-0033",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ09ZGju5YwokRXOcNC23JRwk/photos/AWn5SU4PAQQkwcoHzsA3xgVUR8oDFwJW_LZwsohieQwcYCCV-yYclL1pUzKXwb9wUxqbYo5TNEvhcP2dGNSVT-oZ-EU6U8-cXLUys1l2wTnICmJeyi1JD1qTI58IWdF2tjrMgKV8CVofhq2Ixb2fY4ttgzbQEohXpPT25RFDvmEX3cgQpIs6DjL0wAUwU8J-PYQ_98Bq83cUcij_XXK9h3bgBwyvWERBTg3b1f0VixRrj4psDVhqCAisdI-HwTxFaveOZriWabMQPYCEIf-BqOXi8rdkSSQxEaNnf_vkEEFxg0xs8Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2388,
+    "coordinates": {
+      "lat": 40.7668083,
+      "lng": -73.9675769
+    },
+    "features": [
+      "french_restaurant",
+      "fine_dining_restaurant",
+      "wedding_venue",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ09ZGju5YwokRXOcNC23JRwk",
+    "opening_hours": [
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: 5:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=668724539861886812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jean-Georges",
+    "address": "1 Central Prk W, New York, NY 10023, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Sophisticated New French eatery boasting floor-to-ceiling windows overlooking Central Park.",
+    "website": "http://www.jean-georgesrestaurant.com/jean-georges/",
+    "phone": "(212) 299-3900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh5JzbfZYwokRR7KqJOksL7Y/photos/AWn5SU5hWoE39mMlniUSjIaOppmNeZ2tDiQ0SKg3hubICGp2U13BvB0snhJ81lAtap1mRueF8D-4Ezv0Qd2XZxW74T_nIYY4fsguwrMCw_CuKiGyiqcF4nL7i00_DOyVuOFTHFWQtd99-emgyUyW5ATythg6bdQ1DQGGBJzntQbkI_BE4tMP-LabIhfT9h9QFhQraWjGdCAQ-eZdm_WywQBweo5EvLWueBNcABfblBrS4hhFPUearsSvEBlspFWrw-TxunzhL9u8Nrh9k5MUvMVS-djYEcuOcqCYt4JXZ8-NwI1DPQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1350,
+    "coordinates": {
+      "lat": 40.7690576,
+      "lng": -73.9815796
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "french_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJh5JzbfZYwokRR7KqJOksL7Y",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Wednesday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Thursday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Friday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Saturday: 12:00 – 2:00 PM, 4:45 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13127760818662453831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Eleven Madison Park",
+    "address": "11 Madison Ave, New York, NY 10010, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Upscale American tasting menus from chef Daniel Humm served in a high-ceilinged art deco space.",
+    "website": "https://www.elevenmadisonpark.com/",
+    "phone": "(212) 889-0905",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEWbXz6ZZwokRLKmKrtPfVFY/photos/AWn5SU5mBMxutE-upCnNnqaXLC4aW8ul4F7tX73SB44b6exFx_2BC6t91TEZ3HoEaBM4dmWul286GAOZx2kClzmudY0ikr08JAqtEWcQD-bdcEDKLg6W5Ho4RRKkeFOVFibLh2T8KvpwaqAxWP1AGAulYlNFIu7GHP3ju1idUYJoeNHk5xgATMsZIvkmrWaEfSzbne-OP26CC2isFKuYd0dkJOmT5r4bLttW5gPybd1iFUWH9d61JEq6g0b036kkiU34QN2_iO9AVRrvrKENIgNoo7mBEeAna5qSszIf-dNd8_I-_w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3139,
+    "coordinates": {
+      "lat": 40.7416519,
+      "lng": -73.9872353
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEWbXz6ZZwokRLKmKrtPfVFY",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 1:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 1:00 PM, 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6220843085564913964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Atera",
+    "address": "77 Worth St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Luxe, comfy spot for inventive, multicourse New American tasting menus and cocktails.",
+    "website": "http://www.ateranyc.com/",
+    "phone": "(212) 226-1444",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_Y7rMCBawokR0mnRmN5kL2o/photos/AWn5SU4bPrv3Px6Jz3Pk1D0sRGaiuo5O3pKRtijW4vDHzN96_fOTNKZLJCJ10U2SAy-67jbWxAbJcwFSpvvyZGT1Uk-RWLeReRK2318DxX9LHbNPxonSVrtW2hwAaSX7HD9I_sAUuQ7TQ_x4xAX-80NrvM9iPcUvPrgqKDmQP0SW-0h9e67r2dNjwrhbALuYgTqoG1NtO9jAa8uCZBjkXBUQaR5VZ-7kWghUQLvWJOp4RLs2GBE4r-2GxZZsti8nSZqe1aRs6OFYS4IdYIzfvKnYqPhG756a4PlDMrHNaJaRo0Vf3u8THGt41eCSzepDPPUApY0p9sTHNQvY0VP4XrihSEdZaL19vsA-g0KmDSs3q2pdgwS9zcmnweO_f5oJs7tEJr3MrHwLT4I3rH_ecHiKYzs8FvMUqdp6Fae8V_tUIo5MPw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 597,
+    "coordinates": {
+      "lat": 40.7169003,
+      "lng": -74.0055631
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_Y7rMCBawokR0mnRmN5kL2o",
+    "opening_hours": [
+      "Monday: 7:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 1:30 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7651445199135140306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Le Jardinier",
+    "address": "610 Lexington Ave, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Renowned, garden-themed restaurant serving seasonal French dishes in an elegant setting.",
+    "website": "https://lejardinier-nyc.com/",
+    "phone": "(212) 451-9211",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKdcKCelZwokRdFHp3hzUKok/photos/AWn5SU77zaQXAtINhGVXSim8tsuj_EHTKXPg-jPuAQRj2xSS-YvJ0txSYFsbpovScq0jxHQfAEyaawBk6PDgaSAszYA0plwxD-ADsmyU5K9OQL57oo9Mix2DSAsEteLJABWTjnBKxytinJYPOoXg0UVCcGI15SrFK7CU7yD9nUyPoEJHn9H0sNV-X1XQOqL6c2CJc3QAKr4Y6YCdD-1Qwjj-Fq9AX8-Xzu_uRowA-BE9FQp69-fyD1XWS1KkmLjRSVary9VzSs7ATQZ_wo1oC_ZPC_TCeEVRF7-zZqv7g2B5fUdA2g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 402,
+    "coordinates": {
+      "lat": 40.758310699999996,
+      "lng": -73.9713452
+    },
+    "features": [
+      "french_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKdcKCelZwokRdFHp3hzUKok",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9883945552681980276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gramercy Tavern",
+    "address": "42 E 20th St, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Michelin-starred Flatiron District tavern featuring a menu of modern, seasonal American dishes.",
+    "website": "https://www.gramercytavern.com/",
+    "phone": "(212) 477-0777",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvSQIgqFZwokRFYQbJdzceSs/photos/AWn5SU7-Nk8QM9eUG-yfMUN1Qds5BabYVukA_mbPgLj_z-E3pZWz0HrIPr2oycdwHZFbMkRXpq52lQwdZl9KKWGxvYb8dfhfA8A5YNSApjjAu2XvLf5tSnyag9nyiC_EUYzD65aBfhA1ORLb0J8KeL_GanuJvEpDPDGcngAjx2JRxy0tatQ5pZWJ3844bOkE1EPv5Aufqb9gmYrD9C1tnfR14F6OfrKGObfhujuSxt9pHxR9j_7f0owp3czaf31cuX01hvksGDkH-ffMVDI8vgZsxWEgfe80Lf64TcKOROoWBfgTjw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 4681,
+    "coordinates": {
+      "lat": 40.7384555,
+      "lng": -73.98850639999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvSQIgqFZwokRFYQbJdzceSs",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3132777853886366741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aquavit",
+    "address": "65 E 55th St, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "High-end Scandinavian tasting and fixed-price menus served in a minimalist Nordic setting.",
+    "website": "http://www.aquavit.org/",
+    "phone": "(212) 307-7311",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWfonJ_tYwokRwIGb6Im403E/photos/AWn5SU7RZk667nOiDRN1nC_YDeJghrcPCLaRzuHftfEcbf56nIG-QiFG4YDo81KsuqKtrzDeBhnqbXKyjzaIWnBzfVKzhCm75VIU1KjewSNuhPp0yQsTN7Vzt8eHBke9nwN1AHb8GQPjOWJAopJ0cx8Rchpk7LowkpR51zWpfrjpn0fZkjHa0FZkzlyy6wXRT71BlEHCvfeb7JcYRc-MhlspGysYBZzE2VG8H0z8--UR5vwobzmxiMjGqT9FEckknylAJ_Soow69lmszDGu7YGxhrhz3wCOnxR-P7xANrtXl83hIXA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1205,
+    "coordinates": {
+      "lat": 40.7608694,
+      "lng": -73.97227769999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJWfonJ_tYwokRwIGb6Im403E",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8202102248824340928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Crown Shy",
+    "address": "70 Pine St Ground Floor, New York, NY 10005, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Polished, new American restaurant with global influences inside spacious room with high ceilings.",
+    "website": "https://www.crownshy.nyc/",
+    "phone": "(212) 517-1932",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ__9LNBZawokREnkOiVx7ydc/photos/AWn5SU4-F8kPge_xNsol22jLQr-Yd6oQwq43O9Cw2u-9Xcb05XXfzQh2p7pGd2GJEw0PhZYuGbbavt6o5VKgavw33iKofI6FHIZ-5ukoyOaAv7uvUA8D7GJWWO1cuiFBEaiWOVOmqZPoCEWDyvfEt8TN4MZ6PXkYEMZYJcqNWZXIGvodZ8ERMPd-aLXh2dS_8uCZ_TwT63ibbQzUacN-kaJ3uN0t5FF_r-8XckB2CLRZhIHBSj0oADeqO92cq9MYNDAZ-HjSq7i27Q9E8ygkNJH7fCEo26twDg9Kr6bWOwFx_kP3UQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1683,
+    "coordinates": {
+      "lat": 40.70619620000001,
+      "lng": -74.0075229
+    },
+    "features": [
+      "american_restaurant",
+      "fine_dining_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ__9LNBZawokREnkOiVx7ydc",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM",
+      "Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM",
+      "Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM",
+      "Thursday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15549094825839982866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Musket Room",
+    "address": "265 Elizabeth St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Modern takes on internationally inspired food served in rustic-chic environs with a backyard garden.",
+    "website": "http://www.musketroom.com/",
+    "phone": "(212) 219-0764",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3TJ4moVZwokRkyy0hZnv_RA/photos/AWn5SU6RkbXay2QX4SQqMRUsZizvRDNElXF4sCX20BKFqiNhaeyWvCJmUrlysWpIyg9QX-ZeGqsiRBoHULV2aLtDyWtqh_oIRg1irbnSIxS7_732PSEKgNsD25Xf7sPOpVJjMcwnYoBMDnFfoj_daJDGWYXj_D313by8WaFoFbQ7eyiC5s4VwRZcCS_DV9Iaj446CfLx_RpbvdLa2v_G0X6ssZnOR3tL6JD6i9ZwemxpnVOHCGBbpcOkOJ7pGzP8JSXKonVUx7VOP5ZfmyP9DUT6EBs0vdnCl1rJ0iedGVzjDRa4JQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 883,
+    "coordinates": {
+      "lat": 40.723926299999995,
+      "lng": -73.99382179999999
+    },
+    "features": [
+      "garden",
+      "fine_dining_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "park",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3TJ4moVZwokRkyy0hZnv_RA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1224398116366855315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "bōm",
+    "address": "17 W 19th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "korean",
+    "price_range": "$$",
+    "website": "http://www.bom-nyc.com/",
+    "phone": "(212) 256-1368",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRY8CqGJZwokR285BA7eLv5g/photos/AWn5SU51vMnCFEcOPaTZbu9QLJBoFDy967MRfCco3c8j7hRL4FUlY5f7JWGLWW2p03UQcVcu8Fb99l5jlB39kTf8CJo2XPIzZIv2iOxLJP6yvwmbinPUJk5cPmasXLKXB3eOS9huQE-kZAVi0x2Qac8ud1XMOFPyevVoJk09Zmzp96Gq2SWg-rUfSuAD0CNEh9jU1KNyLAlNsn_qfrJv1XHrSvkTVsbS-f7s-g-IeHVG_bGZuxGpMjSAUncvDV6xW0otylWE0TC6_6_6kPgbzaRGWbLAVP9LTv0XhxEf_26SuxdN1g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 137,
+    "coordinates": {
+      "lat": 40.7396687,
+      "lng": -73.9924795
+    },
+    "features": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRY8CqGJZwokR285BA7eLv5g",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11006669632466702043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Joo Ok",
+    "address": "22 W 32nd St 16th flr, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "korean",
+    "price_range": "$$",
+    "website": "https://www.joo-ok.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfXtCJgBZwokRt0ncRw3PEk4/photos/AWn5SU52HcPpq2mfQua58Z7EVC4xi5FXGjd80YF2hOFcYVgrw8w4dZgjcAzmEzvviaCzTNW2uEBDPdxc5-wq8UMlRPHArSP-RfcEkqdLLIMcY7-ihbNJwxLPjTLeWdQ9ImZfymSS1nOsIMcfUi6Z_4srBieT1T-F5iMrBEPLzrLEu12B5ATRUFmF89DL48cx1CnTqWfHeVQsEfowv8W-ab1jgP7UcwTUDDYugGHgLEv2MvHIArbgLda-0k7K_mhtneqklN7MN2qMA_yeCSM6-IK3rYCUZXZMzzaQbFID5bTQuA_rgVpDTYQ33VzNkF3lGikALq82BTCIYMCzQ61USXZsNXPvexO9NbukPLTt0xG1nmSF96KyZQawmJA7i46plvro3iqKyhsremlzm8IfOwp7RujJ_DZgxtp-vozHptl1G89TY34DkIMo1d1afwkhySbK/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 40.7475891,
+      "lng": -73.986913
+    },
+    "features": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfXtCJgBZwokRt0ncRw3PEk4",
+    "google_maps_url": "https://maps.google.com/?cid=5625786540486314423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aska",
+    "address": "47 S 5th St, Brooklyn, NY 11249, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Seasonal Scandinavian tasting menus & wine pairings in an intimate space, plus a cellar bar/garden.",
+    "website": "http://askanyc.com/",
+    "phone": "(929) 337-6792",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUwatTl1ZwokRUDXxYoFa-hk/photos/AWn5SU5o4mJqv0Kon8I5yo5BX2uV7cLLG-Zx_CkGpJh0rVFbeqpNC7s_aTEkIPjosaSvCOhoSEfnSrRXBwBMzFH_rqVTce6ytrB4zGTNvYhWVt5nXfdtHkVktLsHn6hw4zhAJ96eRYAZQRi4MOFIS4gyNiRAFYGSt6aUOfb9xp7sY7XXpFtpOH0efCwjUC1Ojqg0xkIG5reS5Mz8SGWMtvCM5XwJ24w97WAKq_HMApdxwRZzwoOyQKUp-4XlQ9LG-DyzWpX4FfGK0oHlIiDApWANaKVxz2csjuJdz_-V3vpUKhJIkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 547,
+    "coordinates": {
+      "lat": 40.7124154,
+      "lng": -73.96652449999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUwatTl1ZwokRUDXxYoFa-hk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1871908106883118416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Le Pavillon",
+    "address": "One Vanderbilt Ave, New York, NY 10017, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Upscale restaurant with greenery, high ceilings, and city views, serving wine and French cuisine.",
+    "website": "https://lepavillonnyc.com/",
+    "phone": "(212) 662-1000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjcAJd-tZwokRJ0GkkJ2Urp0/photos/AWn5SU5DXrS2zqLDQFxTupRuzrPTSD9Hz2E3KyZRRBZ9Y7pAq65Nr2RGk1NhPuyL2VCLTgeLiwquCgfL9luixfTUXg0qDenYyXIGAiAx9sIAxLXM4_MJ8USs8E2FA4nmDrL105YxAbVOZaZFQOozkiFQD0XHTH4XGGprIBjm4y2SXIrueN0iBtj_MR5yTcuyCYhwZ-Ssb6th9rRlBoa7gG1wp20i3qM4hXDy-H_0PNLI1YzkY8-Iv1B7mbgSA2HfE4Q83MnV08lZpkSSn97Gn43PiBs8DTqPaf9T4Qp0JWPDU9iWFA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 903,
+    "coordinates": {
+      "lat": 40.7528047,
+      "lng": -73.9784677
+    },
+    "features": [
+      "french_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjcAJd-tZwokRJ0GkkJ2Urp0",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11362182314359800103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Oiji Mi",
+    "address": "17 W 19th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "korean",
+    "price_range": "$$",
+    "description": "Stylish restaurant with retro decor, offering upscale Korean cuisine with a modern twist.",
+    "website": "http://www.oijimi.com/",
+    "phone": "(212) 256-1259",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJee0VTWZZwokRDYFpAoConlw/photos/AWn5SU5xYgN6gKnENnuW_SCkJUlyd0JysFN8VBJQFfOR_a9UapI39lt7Psc38sw9yLSBhqQ6epUVtJe0JXYm02CxZuQ4vkALw7B6inQYijBIvLYbkAcBgITciPTuDfB7bIjbVT1cEVmevG2Fj9LG18UVFK-xzSJDR2xbBAfSfke6c7bxPCgMZlFJffcT5jDdM1q0ddrM2P5WRoJt-gW4yrEDX-TlJXB7qSATCim3hKUdHHKnKaVOLzbV8_e-jOFAF7iynJ53KnqlQORQknmrxlhTvDFTWdIzGa9J2x0QL5e8tASNTw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1163,
+    "coordinates": {
+      "lat": 40.7396687,
+      "lng": -73.9924795
+    },
+    "features": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJee0VTWZZwokRDYFpAoConlw",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6673956965559402765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Saga",
+    "address": "70 Pine St 63rd Floor, New York, NY 10005, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "website": "https://www.saga-nyc.com/",
+    "phone": "(212) 339-3963",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZZlClEZbwokRZj-0-fE25tk/photos/AWn5SU6A2PY9XIQhXlH6eaBu7ftvqIiyUWzYhUNEGItM7zFjX55cLXHg_AYNSNF9u-O31hwZi1nXJ2tywWQGv1lxMMEBhrqhIvz_QrgAErxEFU6OIBBsHvdIVwOgIWvZ2SK5dr2TqPVnDVuNqe-Z4M0hJX2XVRRAiAnfss8NjhN9BNV0wPiEgqEv_4WGicCeuyZfuurWAkxZktODij4D0tn1qdlu45PD8-z4k234gmoOI9z4lpdt3ENOnzNXqWth_RtCsaESrtUvDyN5kzM3IJp6zLvzm2fe890P9z1j_D5GfOAuGA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 461,
+    "coordinates": {
+      "lat": 40.706504699999996,
+      "lng": -74.00777149999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZZlClEZbwokRZj-0-fE25tk",
+    "opening_hours": [
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: 5:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15701297563778170726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "James Beard Foundation",
+    "address": "167 W 12th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Fine-dining eatery in James Beard’s former home, featuring multi-course meals from visiting chefs.",
+    "website": "http://www.jamesbeard.org/",
+    "phone": "(212) 627-2308",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7YeiGpZZwokR4OECOhQwnE0/photos/AWn5SU5_z3vpRnS8ic5_9wSJSXm7UwMc63n0p1_2jFMkel_TmRUhw5f0zyKuWSXIU5mHwqI84LRWkeCj40r9HjW_IracdGC6ea94rrzvQL3JKpeVIwwXV-hGtlxxFfq1064r-uZo8AKwx0zh8ZrEg6em2d1J-oz4oiv93LTd_9vULAKWf2Gta4VfcwFyYOEizMvFYyGdC_6a5RkUU3lj2U0GqZ6UkObumfrk1NtYbd0jwAL_nmEcdnYed4VIM7-KijPYAjI6H2UG7dxefp9MuTjs_1SERRTN80O08i8YrN4O02XOIw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 144,
+    "coordinates": {
+      "lat": 40.737052399999996,
+      "lng": -73.9998753
+    },
+    "features": [
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7YeiGpZZwokR4OECOhQwnE0",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5592397700718060000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tatiana by Kwame Onwuachi",
+    "address": "10 Lincoln Center Plaza, New York, NY 10023, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "website": "https://www.tatiananyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxy0SM0xZwokR5vC0f4wVlP0/photos/AWn5SU60zT-WpQM0S3oTHOclK8tdldUXHC9_Hn7NWoqlNBaoz6u2X6M391SYSNZovoeTJWwcl8peplE1ZshQER0rQD9SmXwzyBD53x2zAsLhtz1F-c623agItx7f83s-J9DZqtDDngJdMEyxFvuOVlO2rjA45nu32mi0U882iBs9iswEV9NZJuscEr8z61uW6NN_AbNEKg_-duFMNNlpntrojrbkW4asVFqCD06ord7ex9Oo_mF_sn-8UzdbiqhlY6yBsJuGtIRsq730CBHG-j70DWYwtKkgDerYxFm7VU1sqSmjwvNkmY0fcOlhudOinTNU_d51CaU2l0L5YcU6bEpAv1w6yTV3C1Dya1rI_ubBbRVJsvx5_HTrQfaEV4kZUc_MN0lQnO6e0sYFHo2tYNYc-HbkJ5Zgv5crGe81JdFbvebXQyao/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 761,
+    "coordinates": {
+      "lat": 40.772786200000006,
+      "lng": -73.983104
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxy0SM0xZwokR5vC0f4wVlP0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18272253281331114214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Chambers",
+    "address": "94 Chambers St #1, New York, NY 10007, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "http://chambers.nyc/",
+    "phone": "(212) 580-3572",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ43KaxzxbwokRVjbWT05nZ_M/photos/AWn5SU5YGgyVPRDpt9aGax9Di8AI332PAU_iKAxvrbn1nGHDn2Luz-nT9cFuJoG2lY-Etg4w5CMKOj58YpH0tME2gISXS8XiYnlk_FygyuQRdKko8hEqm_CbsMsACHZtN9BUnE6M5vR2C_WNfciZvVTt-YpIHv3zkN8SyHZJqHLzAtZGzyH52ycvQSm0ikckhwNndGwFcp7HL-NOcA1u60-BjCeRo6eplsJOtgTsDaHiJGf1RnG6tSjsnaUhBKow26VbtASVT_CDTte0kjFBwpyPtAQcZqhPTjib-4GldRa71Ifb9w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 313,
+    "coordinates": {
+      "lat": 40.7145903,
+      "lng": -74.0075468
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ43KaxzxbwokRVjbWT05nZ_M",
+    "opening_hours": [
+      "Monday: 5:30 – 11:30 PM",
+      "Tuesday: 5:30 – 11:30 PM",
+      "Wednesday: 5:30 – 11:30 PM",
+      "Thursday: 5:30 – 11:30 PM",
+      "Friday: 5:30 – 11:30 PM",
+      "Saturday: 5:30 – 11:30 PM",
+      "Sunday: 5:30 – 11:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17539100859862234710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Shukette",
+    "address": "230 9th Ave, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "middle eastern",
+    "price_range": "$$",
+    "description": "Bustling destination with chef's tables, turning out kebabs and seafood specialties.",
+    "website": "http://www.shukettenyc.com/",
+    "phone": "(212) 242-1803",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuabZo6hZwokRhGPoGjo0H6k/photos/AWn5SU75jN2_3jt6fkb7xHHOweL0-nmkT-r3oPQTPSwex9iiPM2i-DZJpQ1QGF-y_hZO5Hf0GPutv6oGbV4jv7e8toaJKkL539YIKeZFdDJkv8bHn9hbF7L3YI9XF3iJFSHUYa7Rt1ZVCaJ25Q7IeCtXODT4wkef2Fz-J_BIFUKNkNs5MwRwqPvyJkrchtOvQT_YqFWVdCPruEKjd3s25e9h-zB9Wo7UYFtkXfqw3XAQr5CqnFdDOP6faElGe_6Ke23hYRHcCBbPZcjmd5BVIePvbbVqU-4Mii_H6TOy5ooIg-k8EnLEwNxTq9m38TUJFQy1vNGcNEQqslcgwkV8U8AscxW5jw47QEDG5LII5wXcn986VGbLfqsKOyVO7zVkwqCoJl1ihPADAr9fP4Hnt3ofZfFqdLHc6nWcph4JVDaybE1t_Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2782,
+    "coordinates": {
+      "lat": 40.747154599999995,
+      "lng": -74.0005218
+    },
+    "features": [
+      "middle_eastern_restaurant",
+      "mediterranean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuabZo6hZwokRhGPoGjo0H6k",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12186516540852036484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ATOMIX",
+    "address": "104 E 30th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "korean",
+    "price_range": "$$$$",
+    "description": "Upscale Korean restaurant offering a chef's tasting menu with beverage pairings in chic environs.",
+    "website": "http://www.atomixnyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3bmAHghZwokRRXYO57yLuss/photos/AWn5SU4sjteZuVbJ1hnjfUZTAlKu069FfOkCJWQn-d8Q16wdwNteMOaLc5ZO76CeeKi691ww2hYFCO_992goUbw0R0y1gdjL-19FTQddQi8W7RbiWMOIUXZgfeq_qpFOLS-xOrcj0Y4nissq-8xaMbfqFCaCCDy7DJof8_85hMFoInyvV90-McSfALZu_EKQctZo4nyvoe-YcD0UuW3XyXPQJF_Xr8ebtgrWTO56BWwQe_lLZ68pyTLWTPsAFU7ZqSIZuxwdpW3iXonTet-xqpRnKUqpr2YiUUQFGAegK-oQOn1q1zFIqD-IljJh9ZzYqbAas73pqxL7ed0taXgktWuPJFaMTt49Ei6-OQChRug2CzTiheqKFCbERchRcWcvLK10ISzNFMGAgKyAmLmVg2bK7jPGtNXZ-46HHQURoMBfwjSQzRDI/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 468,
+    "coordinates": {
+      "lat": 40.7442317,
+      "lng": -73.9828502
+    },
+    "features": [
+      "korean_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3bmAHghZwokRRXYO57yLuss",
+    "opening_hours": [
+      "Monday: 5:30 – 11:00 PM",
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:30 – 11:00 PM",
+      "Saturday: 5:30 – 11:00 PM",
+      "Sunday: 5:30 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14680199578814150213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Boucherie Union Square",
+    "address": "225 Park Ave S, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$",
+    "description": "Bistro for dry-aged steaks and other French fare, with a bar that's strong on absinthe.",
+    "website": "https://www.boucherieus.com/",
+    "phone": "(212) 353-0200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc1Vf7KFZwokR1YL2Rn9oxi8/photos/AWn5SU4cxT_PYGq838uC5rZdWOBGlucyWOTedkQjE9BDBZ_eY4bChswJfQJXNm92CyXRXZ_zc8swa7jubaQSLPVzRyNsgq7tZGhI_DMmprlL5cqMTBkNdwbciuzXSSKs4Vm7xBBsJ6SASECCoq_Dg-7ebccbil-x_oLiBv95ymC1bhUhMDn-fE0lS3Yjqq6qMvsvsnlMyEmyVnvlfeKa9U9pIaTDqf861JwqKSBqVRbEdSAIFFa5MRlRow8wRCshXZZdNC2RQvfB1Q4jqQbw5qr0VbPZbRNGOsj6K3pWtTBkpXE4cA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 4486,
+    "coordinates": {
+      "lat": 40.7372552,
+      "lng": -73.9882246
+    },
+    "features": [
+      "french_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc1Vf7KFZwokR1YL2Rn9oxi8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3442553861032018645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ci Siamo",
+    "address": "440 W 33rd St Suite #100, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Stylish restaurant offering high-end Mediterranean standards, plus wine and cocktails.",
+    "website": "http://cisiamo.com/",
+    "phone": "(212) 219-6559",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_ci7bvdZwokRsL4rlCOqsMk/photos/AWn5SU7ycA1aIqymZ2qYbtlVxh2So5hh5Dy7mdAT6EyOdZHKXOZ8yaPx1eoIP63FxigcT5Rx2gxeeSZF8XIZ7P_DocqHmcdGncRXmapcajY5Z_xQgN5JyEQ9NF8w4yrAf41Vgsahj4DuYtozwMV9J8whUFBhBgT3_9pkgHbW6ln-qcQzMUgisgLY-ylWFQ1ZJvw0q2q_FAQyGUFp2uV_omlxVVatNXbav8BzyKZY76j1otv199WB1YoFiinOZgTbdFLkIUBXLPJdt6cBoICU1to_EGlaztck6eER6lralRhR8wtLKQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1911,
+    "coordinates": {
+      "lat": 40.7526152,
+      "lng": -73.9989141
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_ci7bvdZwokRsL4rlCOqsMk",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14533303067311062704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Forgione",
+    "address": "30 Hudson St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Bold farm-to-table cuisine in candlelit, rustic-chic environs attracts romance-minded foodies.",
+    "website": "http://www.marcforgione.com/",
+    "phone": "(212) 941-9401",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhSLc_R5awokReYEI4dyODxA/photos/AWn5SU4zwVJVbMVXwOZ35PjLqGFYnV6DbHBkiRbY7x2i7aqSd3Uq13H85XlN8qI8Y3e43KRKiGhdfZqzuewRZ2tTSuqyW187xeX1nAtNgCRl6wtzE_r30WOfSRDKj18qaco4tfEWG0ekMKYEJifpCuO1SBBt6uX-StVCZdctd8EsTA85MLiR4owDkcM0mPQuAIALYw8Blo1PYNPHyczmPx1ByzAYECgtQomZxAXbVFsnKN2BKr7NWZPduf23cIat4-NGdYaIBrD4raas24i4qsIkX-GslFLSHBm57Y2y_sgirT952Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 741,
+    "coordinates": {
+      "lat": 40.7166614,
+      "lng": -74.0089507
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJhSLc_R5awokReYEI4dyODxA",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1157300708576887161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Greywind",
+    "address": "451 10th Ave, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://greywindnyc.com/",
+    "phone": "(347) 252-4012",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRyAmqgpZwokRHjS6xvDPVfI/photos/AWn5SU7ts-oZD1nap4fMbHwb8D5-vWppWsGaSXcGO1_y2DO_loepnPytylp0EGpVYHBvpt7Q7BbrxU60tirUyOAKs3n-QnvTA4xIQPSlTmy1oFr-bsrhl8c1UuwR1droy1x-AOZMLWGuM9ZMqYNQRxbppXPDcz5_vncuQD4C3_xTiuBiYMBS7tp2U7PvmAb78Bea2GMOlr8litChMoz5S5O6XSWMnuYhBttbvZAVX6x26a8FkcNmUk0X9zr8YkRleB3SiVTJON6OeW_NB_ux80ytk89xYhzcrlkZRzcF4cupdgZuXQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 341,
+    "coordinates": {
+      "lat": 40.7556046,
+      "lng": -73.99868579999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRyAmqgpZwokRHjS6xvDPVfI",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+      "Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+      "Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+      "Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17462091763232158750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Chef's Table at Brooklyn Fare",
+    "address": "431 W 37th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Renowned, upscale 20-course tasting menu that fuses French & Japanese flavors requires reservations.",
+    "website": "http://www.brooklynfare.com/",
+    "phone": "(718) 243-0050",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiVVSAE1awokRzdvqVP_z3aA/photos/AWn5SU69fyelkCtxZ0wlnuVMOgQRcrDHKsJ20_xcjpncjadl9FNyRlI5gbnT8i0G-rKbdFKp62jnv0Cm-18jCWmI6vaWYpiLAfXkdK7u-TIUi8ABb5G4vcZLUc2qADdN5B2QnQDyk81YEpH0Mdr1WzCxECnsCfnBEWnsYB66nUJaWraE1WK80UFA5XSTsxRs5iXZN4KdvubnSnXoLHMX5SPBG_rwoZNg1NXOvass-bqNmUB6W8GKcN-F8jBKwQTbWpcoljYZdRHpYEpZlmJGRYphokaQgtNcq7X4pvXo531G3nAkjQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 564,
+    "coordinates": {
+      "lat": 40.7561219,
+      "lng": -73.99652569999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "asian_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiVVSAE1awokRzdvqVP_z3aA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11591689293888412621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bungalow",
+    "address": "24 1st Ave, New York, NY 10009, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "indian",
+    "price_range": "$$",
+    "website": "https://www.bungalowny.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxUPhRABZwokRWTa40zp_N10/photos/AWn5SU5xcwuukLK9JTPbtpULF66-i-j7PBL79LGDy8vPbSIyvIAzpwJYjrW5AEfB6VlitLiIZF3QX50g7QzNuh1Zpgmhu6sB3IL8SKpfoMSUQSjrYe9SCOZ2bV0dcMpsN0akUhcFpyhwzwcYGxaAmjyHQYeqef99VvGjSeHUbFbJcvrKEWDHWFiVTs00JUj-Nih0-VGATPm4mMrsgSUWyc_oZZwPqSe-OJUkQ8fuxr7RGia2nSJdUlyAT7tfN0I-vNb6DyiwtM9MW1-ItuEJQCqQUBR_agLOjUk4Imkeu4qxSxDMWA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1587,
+    "coordinates": {
+      "lat": 40.7236675,
+      "lng": -73.98797429999999
+    },
+    "features": [
+      "indian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJxUPhRABZwokRWTa40zp_N10",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6716977259883279961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Borgo",
+    "address": "124 E 27th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://borgonyc.com/",
+    "phone": "(646) 360-2404",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_-Z-CM5ZwokRg9_1Gc4DrwA/photos/AWn5SU7cYkA-k-3BVCSAAK75Y2obNcYNJ7Q4Jz0Iw2l-oe7ZTgaX4vYeNPdT8xUzp4jszpdIqXykaEGKycj7uKpaf8lkOS5mR4wZUmSpyqB6ChyIcjPJTpT21flTitmUEObWtYx1zb_dohZsUB90fmatEFV3Yhr_05Bv87lDlsGxC6_QPEV7NyZCea03qBy12slDVbFlogwnAD23-j6YexHfjPvf3AjXsZQEC2YoXgEu9xjz1lW8EQZ-u1eeb978nQjDuSJgm0BaUc5InRLAi6XJYjKvYxHfgsJRnTVBpq39s-KGfw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 171,
+    "coordinates": {
+      "lat": 40.742118999999995,
+      "lng": -73.9836069
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ_-Z-CM5ZwokRg9_1Gc4DrwA",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=49262304658055043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Landing",
+    "address": "1 Pennsylvania Plaza, New York, NY 10119, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.thelanding.nyc/?y_source=1_MzI0ODA0MDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(917) 764-3463",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1Zviw79ZwokRTH7D4gNH6HE/photos/AWn5SU5TnzI7DvLOf4pcI6JGtDn5sOncayvfcxMJz9jpYZOA5h_lPMu6PaGlQxK41hH3GZ894oX2iuKUNmZmxCVl3CVKLYzFu1rs93R7a30MgOKwyMkIH35h5Slm0IXo6zd0-sCslV3yVjH03X2f8frM4tLmUkna8FxkEJK1f7fUSLRqo3tXXT_G5qaP5mCvL9CkEfdoMdeuDvKPs3Y18btq5iAB9sLZoSgLpKl6yOEw2K3N9Ni786SwHX2deEI3p_Ll3vOvvG8Ktrsq_R7m1OcD6BMkbGeB3fbru0Ghqvj6JnOTxw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 235,
+    "coordinates": {
+      "lat": 40.7511917,
+      "lng": -73.99214359999999
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ1Zviw79ZwokRTH7D4gNH6HE",
+    "opening_hours": [
+      "Monday: 8:00 – 10:00 AM, 11:00 AM – 8:30 PM",
+      "Tuesday: 8:00 – 10:00 AM, 11:00 AM – 8:30 PM",
+      "Wednesday: 8:00 – 10:00 AM, 11:00 AM – 8:30 PM",
+      "Thursday: 8:00 – 10:00 AM, 11:00 AM – 8:30 PM",
+      "Friday: 8:00 – 10:00 AM, 11:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8207888402897665612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bridges",
+    "address": "9 Chatham Square, New York, NY 10038, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$",
+    "website": "https://www.bridges-nyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5Q8Bl1NbwokRjuIXKz8OfRQ/photos/AWn5SU4mydR-fyq3EtyXPt9aqH8mpgB5pVVq5MFN_XAO3DOwk_XdknKP8ab4ZM9hVEbXo6ZfYG-8ucArXJq0jhT7MYy0uYOn2sDrOcm7M6Pww-848LZ7uZ7jEBPpYeGqd6TGmjvazEqvyRRu0ueQQu3Yf1vhQ0A6FHaQipLhs7eqcIToh1kNt9rgzQAbaZu9UyC0205NURWyTewJvO_I3lqyYHNiiQ1J8Qb8z_saAyFOi68kkq2uiuBncxoovKCfp1uQOsMIH6tK9ZLXrlUcFXDGNtOsACgXNb30fmTBTrTD4PP4eA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 149,
+    "coordinates": {
+      "lat": 40.714030699999995,
+      "lng": -73.9980719
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ5Q8Bl1NbwokRjuIXKz8OfRQ",
+    "opening_hours": [
+      "Monday: 5:30 – 10:00 PM",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1476351917316104846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Passerine",
+    "address": "36 E 20th St, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "indian",
+    "price_range": "$$",
+    "website": "https://www.passerinenyc.com/",
+    "phone": "(212) 680-4945",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNz2NYnNZwokRmpUsT-iz-ZE/photos/AWn5SU4cE61GB0iYgUPVsfPn_3dxL9WCbNktiL6OWfsoyRLIDsnopcc38l9oVy9jls4oMdY3jEUhKDVYL9mRWyZ9VutR2_LqqDiTFY4Z5mwXomQ0kBq221gsHvvW69DDK9bh-bO7F-FifJ-tXtiTNIAnVRX1xzFG5M89vDSrwoNvDGLmtyEp8K88cDRG1xhtRTe-YlG3cUjoS2JfpsuEgxOmbI52uJfo-x8VpPbBTeQJ-lwtuN6Wkkl6_0Za2XSiFvNKW92sBWC6fEK9FCEb5mOK-mqjccdxUKMmlOl2xooP9Z-eWA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 208,
+    "coordinates": {
+      "lat": 40.7385115,
+      "lng": -73.988664
+    },
+    "features": [
+      "indian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJNz2NYnNZwokRmpUsT-iz-ZE",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:30 PM",
+      "Saturday: 5:00 – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10518636215042610586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jiang Nan NYC",
+    "address": "103 Bowery, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "chinese",
+    "price_range": "$$$$",
+    "description": "Contemporary takes on Chinese classics artfully presented in a chic, streamlined space.",
+    "website": "https://jiangnanny.com/",
+    "phone": "(212) 775-8998",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg0ZHaSRZwokRHymWtw9gKJk/photos/AWn5SU7kHKc9KyY6gLjVhOCc89kNLpmbB7WcIrIsc1_HW0iFgAHNSd68Fpd6VI60otkLPpKQdrls8P--TuMthvyJqEH_mQCcw9OoI-LvTRiP7RBHVr_AuNpWY98mTYkUN_W35_idAAdR6zU0cFoPsYaS40nX5eYhLwLPwRS_Big8m0jarXFpYMxCp-95zftmNlmtnxTg-Dkz8yjT50dgKd-NRl7ruignh3mLDTis6oS4YIbI-YjcNT_q8kjMxlrnsMn1QasDGVVdLgH-Ku9PvxtS1IBSWM-Ok5DRtquGHTuWOpJ8SN7FIMuW37kSVeijYLKGJmbxW-aD8wE7S42JLkXzDS3N9BxJ0dnERxTfaTl1Xt0CFlnJoGjgRzzWi29OB_J3YFNg-Uxozg9Vr5Vucr68Ou4Bd4kRkMbWwij-_aR1vs2SDhoG/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1486,
+    "coordinates": {
+      "lat": 40.7175581,
+      "lng": -73.9949693
+    },
+    "features": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJg0ZHaSRZwokRHymWtw9gKJk",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 11:30 PM",
+      "Saturday: 11:30 AM – 11:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11036176507492247839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sky Pavilion 川雲涧",
+    "address": "325 W 42nd St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "chinese",
+    "price_range": "$$",
+    "website": "https://www.skypavilionnyc.com/",
+    "phone": "(646) 371-9839",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAXoJdQBZwokRmc14ZZhY1l8/photos/AWn5SU6qs3yrHpC_xaRfR4FgNapGVnJqpj1z1O5DdgRK9-c6iiVboEi9AQ8p85G6uNDxsJe0qBuzFWSlb6oCtBeREUyyYPDRC_MXxY78P7bfLQG2LrLMz0VP7eU9qIGmL7n9x0l8GmsuIBMe7X82BUEwUGqFPpGXtALbLVz03pCfhhzy_uDG7kNOnHuOlAm2ld4I9xbxExPuRq2umADJY2i5cv4ypDZ0X8tNWNeSw6DstLlMqIHxgDZznaBSF8OOqKiWrzYmqMAKPLpx9ntTW5BlcL7rnGfuOjsWvSA-704GNwCVBR7HRSRUiI0ho-rqBKb_VYoaySHQa_zh_DHQkZQdwpOZm738SQDJjUZn-EKAiuMWxjiLUyzu1Z2SA-YSePznzMv1K8mZe9qbgchho3YSx2ZW44pcJfKwaxF3G1trhZlEobAr3YO6QlRVxD-Y5o7G/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 370,
+    "coordinates": {
+      "lat": 40.758009699999995,
+      "lng": -73.9908378
+    },
+    "features": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJAXoJdQBZwokRmc14ZZhY1l8",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 AM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6905804490179923353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Txula Steak",
+    "address": "515 W 30th St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.littlespain.com/location/txula/",
+    "phone": "(646) 495-1242",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPWrzpbZZwokRKfyhML86W3c/photos/AWn5SU6IOF6vj9Cjh_jMIkOixCwOWpxxpS_5h9-w3Ya6qNbgUJowuJz9W7NUc3e7v4K4oaTYAAOCni6Mu8XPVlY5y_5pqW9OTQkobCN9AzQ1ipalUteVm3qJD53vQ6x1mH6p-6I0SWK5UMjeCCPqsZMLinNjAMaaPevxfYFxYitGKN6RcWGHaUZRcOj6wUy9iU6UelGyxy9So1BytNKYV-ClwDcxMzCTuo2wwM1kNoAwP5BI6Hm2mRK4xoiqKwwt_BUm8m5IzdKXUtPaQy2aAB68zlikFbYesRbawsLDTX3v1EaaerrgwGZUwdZFPzBh_Gs2o6yzRj2sC-bZ7h_BYlMukYAilJPrLjGqzUUmSby11D1GcvhwXgfMW7XE5KG-ufabclAy5Y4ycF-9cQ4LP3sNydS9UsCHOVF92LFv0IdT4kdCTZU3UsrrzleQ8ldenaTt/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 225,
+    "coordinates": {
+      "lat": 40.7523859,
+      "lng": -74.0013948
+    },
+    "features": [
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJPWrzpbZZwokRKfyhML86W3c",
+    "opening_hours": [
+      "Monday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 12:00 – 4:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8600532506223180841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Valla Table",
+    "address": "641 10th Ave, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": "Neighborhood eatery whipping up Thai classics including curries, noodles, and dumplings, plus wine.",
+    "website": "https://www.vallatable.com/",
+    "phone": "(212) 245-4601",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpTLU3yBZwokRaFM3CwYVzoE/photos/AWn5SU4nDsBH_sGnc2Bchm495-TnEnQzAyIPvoZEP94YaVjCB_cLFWR6sjPKVqxJ4AucJpBQOiz5lXXVBbfEWpW1TI6XRBI7y5ENeAo3Q2ZDGiun9aQreTrt8A2PMb7JaThYge5_XDSZuzygcgi6cyUpzUebKLFymXpIyD4eZqel-IDCzjdbgatlpxBGGPVIGi-npJivWEDqO0tXtp_-XqGZ8i7yePMs6w9wxP8AwALrh0h7SRIcSMvfGT8O6yDcepuG_FAkII1d2XIubjtuy3V_HRKnQq_jeMKGAtTZ3oy0inT55w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 4615,
+    "coordinates": {
+      "lat": 40.7619051,
+      "lng": -73.9941576
+    },
+    "features": [
+      "thai_restaurant",
+      "asian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJpTLU3yBZwokRaFM3CwYVzoE",
+    "opening_hours": [
+      "Monday: 11:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 12:00 – 4:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9353436591797261160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Four Twenty Five, a Jean-Georges Restaurant",
+    "address": "425 Park Ave, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.425parkrestaurant.com/",
+    "phone": "(212) 751-6921",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjybX-nVZwokRbnwwPvjMw4o/photos/AWn5SU76baM7HnXzzUBFMeyjiMks3PcAOCBbYkQqP-9V469gdwRu1_JXJKn3ykZOV487mpUC4TTan8IdsaVhkFINnubDNFEfElvESAwEZnCDCcj1FW2QiTH1TOf6jdZKoaR9usaZx17gQWyKevdwdcCLjPVupR6R4Ny1yI0PtfBQItpbSwn8HTgCE33kZB29Y0HGQprVQBi8Vn7ash_hQH7u-eK8_Y2ImZpsSZRsZW_1uOTyQW6YXFVjNptPAPqNj1m9DtW1ZPN7-sBwz8uUak9OoBVrz0Ht8PxlSo_XS_ojIooHgg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 239,
+    "coordinates": {
+      "lat": 40.760525099999995,
+      "lng": -73.9712296
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJjybX-nVZwokRbnwwPvjMw4o",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:30 PM",
+      "Friday: 7:00 AM – 10:30 PM",
+      "Saturday: 5:00 – 10:30 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9999060964259953774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Balthazar",
+    "address": "80 Spring St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$",
+    "description": "Iconic French brasserie with steak frites, brunch & pastries in a classy space with red banquettes.",
+    "website": "http://www.balthazarny.com/",
+    "phone": "(212) 965-1414",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt7fMLIlZwokRCRtM9bNDg78/photos/AWn5SU6PEtKVh9eReiRHFHfqXLe2z5b9PMftcrKC7AvyVzlShCfmz8YQhjkjhgTNIiITpb4MJvZ4k77f-N-n3PugIgsxogdSP9zcoETogLVuxx9t_NljxAzpAsF0hI6xFhORgrq87wvQUMAoZGqLyWy0BexQ7hFwCKCH7v9Pz1ybo7PWsp0hOcH4zpv3OB0m4-i-0Wf76tRe3AXYvTqD_xlpo6Vbjb6lSWjHTubhQ8bnU6T8D4rrisirQ5LbqiOuP_h8BG2bKbvu6YRwgSs1aDp97HansK8dpw6FNneTVsSMvtZlag/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 7411,
+    "coordinates": {
+      "lat": 40.722668,
+      "lng": -73.99822979999999
+    },
+    "features": [
+      "french_restaurant",
+      "bakery",
+      "seafood_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt7fMLIlZwokRCRtM9bNDg78",
+    "opening_hours": [
+      "Monday: 8:00 AM – 12:00 AM",
+      "Tuesday: 8:00 AM – 12:00 AM",
+      "Wednesday: 8:00 AM – 12:00 AM",
+      "Thursday: 8:00 AM – 12:00 AM",
+      "Friday: 8:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13799948123386944265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CLASS on 38th",
+    "address": "55 W 38th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "http://classon38th.com/",
+    "phone": "(929) 292-0691",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4UgFf6BZwokRjWj5RIInDQo/photos/AWn5SU7fHCz71DZ5GsOSY2igGYEZWyN8scSfWoNnhtqsPSxyfTFnLZXr4VcXIj28nOmz3jfLBWxjoi_wtLlqPPlP7aOuYqLlv3ogj5bPeqd1SUmOwoXSKY07z0x4YMREbEpoIL-FccFbhusJPZXoCppgUkO5HYxNhkUmzHrNSD1AO8xQ52slv0azCyeDXbYrbrxhavy8ZCiz5y-DWZlPjXp_OB74oSFfVZyFhy0luSbYxeE_F4o3Xs-DnU8Hgb-fjqATW3cRIbC36cJv8r-gwl8PqZiqhGtgQ4r3uBTGYigFe6SRYw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 293,
+    "coordinates": {
+      "lat": 40.7521504,
+      "lng": -73.98501159999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ4UgFf6BZwokRjWj5RIInDQo",
+    "opening_hours": [
+      "Monday: 5:00 – 10:30 PM",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 5:00 – 11:30 PM",
+      "Saturday: 5:00 – 11:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=724278555532945549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dhamaka",
+    "address": "119 Delancey St, New York, NY 10002, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "indian",
+    "price_range": "$$$",
+    "description": "Innovative, lively eatery offering provincial Indian cuisine in a colorful dining room.",
+    "website": "http://dhamaka.nyc/",
+    "phone": "(212) 204-8616",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJyPbJe1ZwokRu8dDEOqAYDc/photos/AWn5SU7A8wX8VgBxlSAqt6bbI1YHbhq1iv9asfN73CcNmH3DJFeok3k-MUVeuW5GqDMBwd3dJ0lNwLMSpY0ZSNFexYrJHOqNpa1L0Ix9wZ-I8d9pmxhyjUbcZ58FLw_rmx8LYu3s144EDjtLJ7YfUSFpcZaJQXEzvzt8TYeqX0zmqU1_qOPpW92h-9quAO9g6E90TPK6jURpR3meQMEY6vuhXOhjGL9hKFSufX5GjqDmy31KHHTEpgK3fKX0kHxeCa2R8v0wkANkybUjAubSxqsPYwPf2YTbZtAd1d_-gNugdMF2Y7MrnFP-0-xsAei3Om3u3Fk9B56fZSjEyvvUtKdUgGVvwBdr-Z8jQfcIKNCPs_rUv3cgCTzLWlnuec_wvyj6CxA1VuvS16NuXr0zTcbyRPNnDGxcvpGHJTpbSEWYEOHJZIVD/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3476,
+    "coordinates": {
+      "lat": 40.7182426,
+      "lng": -73.9879902
+    },
+    "features": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJyPbJe1ZwokRu8dDEOqAYDc",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3990331012633839547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gallagher’s Steakhouse NYC",
+    "address": "228 W 52nd St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$$$",
+    "description": "Iconic steakhouse offering classic cuts & raw bar items in renovated digs with red banquettes.",
+    "website": "http://gallaghersnysteakhouse.com/",
+    "phone": "(212) 586-5000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFQ55zVdYwokRUyAEIvUGfHw/photos/AWn5SU7rDqoAe03AbPVKN03whk86hAynf2zQ3bk3bhg8XGUXHpASkLJebWfPFEIG33M4a9wwQkZV4yoZx_SfUeC5DY5x_olJw3BB_w_qXXaF9sVjCKoNQ_Bt1Si41YiYYTZ3QhEdjcAO85tENueXI3Xch7tMGFGMgrI0iluSx3evtEsPEQSBpz_VTKXFywNlGJ_wABYgGv3XM-dwo766yR2DUCqx8ZaUJeFbSHigej400dVQoKNv7zSVarKEh0HvakSVhktoVKFrhj2GD4R4pIx3kWdvXCTKRuHo3N9h_mke8ekuKg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 8758,
+    "coordinates": {
+      "lat": 40.7628486,
+      "lng": -73.9838549
+    },
+    "features": [
+      "steak_house",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFQ55zVdYwokRUyAEIvUGfHw",
+    "opening_hours": [
+      "Monday: 11:45 AM – 10:00 PM",
+      "Tuesday: 11:45 AM – 10:00 PM",
+      "Wednesday: 11:45 AM – 10:00 PM",
+      "Thursday: 11:45 AM – 10:00 PM",
+      "Friday: 11:45 AM – 11:00 PM",
+      "Saturday: 11:45 AM – 11:00 PM",
+      "Sunday: 11:45 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8970052207722635347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Via Carota",
+    "address": "51 Grove St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Italian trattoria serving traditional plates & apéritifs in a rustic, cozy space.",
+    "website": "http://viacarota.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJr7FOf5NZwokRu3CDYtzVmuQ/photos/AWn5SU7sPGSMYN0KP3dKEf95m_TPUrgqaRkuIqhyyPJsSu0ecadZFQNsUyoSGbtlM2fPt8nwDsvIQKfw1q3uYJtiE2dBI3RLU_NtKNCHc2Buw7slKSOmAeck34dzsMAaLB9q6IamUaKsJ_TfbW6EYbgcB92z4DMDEDVsQZWCiWxcoLFjfZZJ-_40XcaHpczQfO6Es4mlcMDF1zABO5vmXk2l3nHrzt6vSGXGrxq0xhxetupoYYxeayvRpoFcXviUzj8xfAhIbSex0z-8WyehwvEdCEkqCp3hbgkIwJf4uaZ6JNtIcw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3098,
+    "coordinates": {
+      "lat": 40.7331437,
+      "lng": -74.0036671
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJr7FOf5NZwokRu3CDYtzVmuQ",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16472713729583313083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Roscioli NYC",
+    "address": "43 MacDougal St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://rosciolinyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4_kdpBBZwokR7rsYae4xCxI/photos/AWn5SU5BuiYvwLNt-Y_yElkav9tQqSEFnCtTzIYOOI8VEwJW7oY9tpAy9u4A9iqDUATrGaHe3ogRoo-PxRJgRhhRWKyhz6Vim_x_mt3fs2QUegDDpvHSsXIUkCuM3byQFRQN7HYqZUEzLaTZjolIs0RtpYvM8JzXByl1aqQKHaiuDdQnD6JybTLBsd_OVjnAnrrF9xk1E3dD-HjsEi1dkK0LLLSWMJzTIOl_9279YoamFXn4rj41PMbsHvuhwf4MZrfJYd7AExvlnQdBZa_PcAk_XY7cOxAuE8BvdP569cxlD3SQ_w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 622,
+    "coordinates": {
+      "lat": 40.7277451,
+      "lng": -74.00258389999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ4_kdpBBZwokR7rsYae4xCxI",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1300187817461726190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Grand Central Oyster Bar",
+    "address": "89 E 42nd St, New York, NY 10017, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$",
+    "description": "Venerated, iconic eatery serving raw oysters, pan roasts & chowders in a bustling, vaulted setting.",
+    "website": "http://www.oysterbarny.com/",
+    "phone": "(212) 490-6650",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJR9legAFZwokRa1s5gcFXPZw/photos/AWn5SU4hFz6C_EeyZdEXjF141Utsh-hOKA22wLe0T9S5uleuLYmFCAlAZcujo0LwjppU7MlBOd964ji9F3Ngwp3vKW4-F9TARrwxjIX1PBnygdVwJsv4xj3TLaxjtWKw7AXOK5adthvOJVJNONzkCB7edsfi8hxf48besYOr0PKryskwprPjf1SwzhSNT3CFbtb1MlgxzRPR6-zagHQ4QT3od8teIIEO0e5ZtESMSk9eRyrUnvxXwcvvLFKqckrvNIMf31wxxzGJRMouMYkaRCYxSoRW51hxbseSy9mheThgeVHKdw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 4469,
+    "coordinates": {
+      "lat": 40.7524823,
+      "lng": -73.97743109999999
+    },
+    "features": [
+      "seafood_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJR9legAFZwokRa1s5gcFXPZw",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 9:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11258251132104432491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lagos TSQ",
+    "address": "727 7th Ave, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "african",
+    "price_range": "$$",
+    "description": "Swanky, chandelier-lit restaurant & cocktail spot serving creative international fusion bites.",
+    "website": "https://www.lagosnyc.com/",
+    "phone": "(212) 281-0500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG9u1qKtZwokR28mb77l_8Jc/photos/AWn5SU70LDAW6kfJH0-FybkOozJsXyeTjUroN8WVm8SufPNylEMogSXbXliwbdPM5j1kpAp7KkdCdgaWzpfft-T-hyTK-Ubl0sE_INPV_TWfLWiWPBkZ5mM8eJGWHyrmCUmrUjHUYPXcpVHPdRJ06yg2oXdJMaWAAEE_WNq59G0bSeNkqkBJdmjX35D6tWJVcc2cxVNkl71VjjWXkYMuT3OuN3sOBVSd5skLDP2POvKrrvrJmLX-WYyQAF6DhefAnxA45bHt7AGCHIKZZFRirRNyJaFHNLHzInxFqq83Q4I2Az8flg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 2514,
+    "coordinates": {
+      "lat": 40.7600011,
+      "lng": -73.9836749
+    },
+    "features": [
+      "african_restaurant",
+      "brunch_restaurant",
+      "night_club",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJG9u1qKtZwokR28mb77l_8Jc",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10948391130703317467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "miss KOREA BBQ",
+    "address": "10 W 32nd St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "barbecue",
+    "price_range": "$$$",
+    "description": "Chic, zen-like Koreatown restaurant for barbecue, bulgogi and hot pots.",
+    "website": "https://www.misskoreabbq.com/",
+    "phone": "(212) 594-4963",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ99_m8KhZwokRz33z_j0NaQ8/photos/AWn5SU4TW9QUYayZBxPqB_1APcq_wViCwZcArfMRHGaNPu25FyZJuv4EZNnP9BeHfvlITHFeHgvy7yRM84IYYtGY54gWgmu__FpnvajGkvoxF_cyrz1PT9BN7CgszhbLsCLb1YVwJevgGQr-ZTLSEFXPs9WvWh4ZQbMfVJLIOxKQP4UR04JVGlr0IhmJ5XZAfMuwdWcGxPI2cQqUjy_JTQ72jHeJ-H4civtar1J_CFOajmUp9OEh0QbuM_x2v4c1pjuVyrWHO5EwW1amdtL2quTGOy93KuXWTqpyQYP9oSKvsiPBzINbCMkfIe1tplGfN-_KrtZVKXlkPAQvSn8YUnOcSaKvEj5c1PDb94ZeQ5u54atbGFc5ixuJTO9N_QUW3zLEx93-qZ6XZaae_VJfrB2qZqDh7jop95Rb1SpRDy_C9tjHDME/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 18439,
+    "coordinates": {
+      "lat": 40.7473149,
+      "lng": -73.98647679999999
+    },
+    "features": [
+      "barbecue_restaurant",
+      "bar_and_grill",
+      "asian_restaurant",
+      "vegetarian_restaurant",
+      "korean_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ99_m8KhZwokRz33z_j0NaQ8",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1110433343045074383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Harta & Bar Harta",
+    "address": "30 W 39th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.hartanyc.com/",
+    "phone": "(646) 443-6864",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvQ0F20JZwokRRGXcGvKsbsQ/photos/AWn5SU6HlkN5hxgcURkIAytzlASnVrEWeReV2OE5UfT-LPx3Ym4GpKuEtz7CHDjTFlxL9Ty2P-o-HX1rbITs7ZYYeNmhVunIQtzfUoTO3GDJNqQKIG-XI8oB9sjiCcp9ytjzMuGDefEIWkFPpm8baShenxRQRIbPha8YbPtN2toUnetwMjGNmXR9F1OkY0VRi2jv5iu4uCXwQWtrKE2r_2JfUbHbJzyBhG4NVQnL9jdZqzsyeh0HHPhpA34V9prp3I5cLRtLiPzB_0l6GH2hRUBq5dhWjGPn2BA2lHwvtA0l8kifzg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 160,
+    "coordinates": {
+      "lat": 40.752097899999995,
+      "lng": -73.9838551
+    },
+    "features": [
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvQ0F20JZwokRRGXcGvKsbsQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14154440834704762180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "I Sodi",
+    "address": "314 Bleecker St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Tuscan-style fare, wines & cocktails lie in store at this compact, romantic restaurant.",
+    "website": "http://www.isodinyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJK2mBYJNZwokRIT4oANQ6OFY/photos/AWn5SU6ewks5Wu-azRRmGKXd4UubJevX4r3aMKnuArLJ-zhepAZ_rxOcpoE2i9PmiVlTQqeuwUr-ZTfEy4J2ovs0G2mr52Eo0jOR60qIxWzeB3V6SSSuAMQM30Xt4XYh7-COhYdx295yMX60cAbDHb6W0fnJm5SAI6Khkb5yFbzxpXAHXciQA4umw14xJFOOMs9PyYU6TSW57yVemb2QH6OqpP89QkpZCJkHhMSiTJz5_rNpngDEe7sizAmeBCsLkpB34Lhx32xAgXpsWH7v8764WP5Hgc1VIn3N-KU16KPCK4ithA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 988,
+    "coordinates": {
+      "lat": 40.7327893,
+      "lng": -74.0040532
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJK2mBYJNZwokRIT4oANQ6OFY",
+    "opening_hours": [
+      "Monday: 4:30 – 10:30 PM",
+      "Tuesday: 4:30 – 10:30 PM",
+      "Wednesday: 4:30 – 10:30 PM",
+      "Thursday: 4:30 – 10:30 PM",
+      "Friday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6212780368167714337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Best Sichuan",
+    "address": "7 E 47th St, New York, NY 10017, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "chinese",
+    "price_range": "$$",
+    "website": "https://www.mala747.com/",
+    "phone": "(646) 669-7338",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8a20X6dZwokRfjZjyuIqWTA/photos/AWn5SU7iMIKN1wra877cbopZjMgPo55y37Q4xpNx4VhvZq4wmH-9LaK1TgEpuxsOOp9_fTqZteoxml3XsMkS0R0JDueJ5EFjcJnCfXHjj-SWhLBc68_1TULSMCCl1UstKoOnAk4tv85DH54UiVOuNq18kOFw_rBfYHlepOy-xTFaYwbseealhb07JA0pXvi3mCoetVsn_vsqjB5dDix2K2optbv1vtjl3iWzkWbMOFDtEm6OS55eydho4G1hqfq_F_--zwMPxXvGNvyH1UFUlq32ZBA7jQIpHB_aVGogJhrXoS2K9w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2735,
+    "coordinates": {
+      "lat": 40.7565702,
+      "lng": -73.97774580000001
+    },
+    "features": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8a20X6dZwokRfjZjyuIqWTA",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3483862940294264446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fushimi Times Square",
+    "address": "311 W 43rd St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Buzzing eatery & lounge offering Japanese dishes with a French twist, plus cocktails & beer.",
+    "website": "https://fushimi.nyc/",
+    "phone": "(212) 245-8881",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ99ryy6tZwokRUawWuQwr04Q/photos/AWn5SU7qSzhhraBaUya1pTLuMgKP_UUQHO1Zx_fy_mkkBYCY9-Gf1D4stANQcuJsuygVG4qmDXuIX-SO71PjysIIdy1E52Mt9E_Zzgw-SDX2r-eXKVGNSPdXJex3qzBIWXcBPDl6VhUI7s-8EzrP0gUqd3R3eKhLrwZATTfK9yokTLXhM9P8_Dc1ImmC5DgJa0ntD66Jcj4fJvfo7k6YkXZotenSgJoG-C3sn8M10M4YzeEIgQ9rS2ZBQb_LVBpGDZccqIe_1uh6rPHVoxZAxyHoJJ95UzN86BMNGlRv20f_E8Otug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 630,
+    "coordinates": {
+      "lat": 40.7584564,
+      "lng": -73.9900329
+    },
+    "features": [
+      "restaurant",
+      "steak_house",
+      "sushi_restaurant",
+      "night_club",
+      "asian_restaurant",
+      "vegetarian_restaurant",
+      "seafood_restaurant",
+      "bar",
+      "japanese_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ99ryy6tZwokRUawWuQwr04Q",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:45 PM",
+      "Tuesday: 11:30 AM – 10:45 PM",
+      "Wednesday: 11:30 AM – 10:45 PM",
+      "Thursday: 11:30 AM – 11:30 PM",
+      "Friday: 11:30 AM – 11:30 PM",
+      "Saturday: 11:30 AM – 11:30 PM",
+      "Sunday: 11:30 AM – 10:45 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9571040966737308753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cecchi's",
+    "address": "105 W 13th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://cecchis.nyc/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "(212) 931-6335",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwbiIbj1ZwokRQxLK96ov07g/photos/AWn5SU6R0r4bCxvPrxDW59veGvWdkaa0Gt52uxwZ3DYsU615vyL9AtxbSJ_lQhVujP3PQ2ZyKk67UPaoFC32K30QHQUit19rqmEAz4Cu_XDfcfslEmmKyhnxkCwHyvqoKoRr-7XLUnBhdzI53mR1nLm_7TNfpT7u-Ga5CuRvV-A1ndtk6VbEhtPZJAYebNbsZIrQI1uDgF0bC31sr2U69SqqftyqYazTEpgsVrJFUBnGktfWelosl9htt2PfV8yrvuw67P6338Jg2_wu7ZWCfuj8A7drvF0HD8ZP3QyH6mhSFZvEqA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 262,
+    "coordinates": {
+      "lat": 40.736960499999995,
+      "lng": -73.9976575
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwbiIbj1ZwokRQxLK96ov07g",
+    "opening_hours": [
+      "Monday: 3:00 – 10:00 PM",
+      "Tuesday: 3:00 – 10:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 – 11:00 PM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 3:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13318040934412849731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ichiran",
+    "address": "132 W 31st St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "ramen",
+    "price_range": "$$",
+    "description": "Branch of a Japanese chain serving tonkotsu ramen bowls at tables or solo booths with no tipping.",
+    "website": "https://www.ichiranusa.com/location/ichiran-midtown/",
+    "phone": "(212) 465-0701",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAduJGa9ZwokR5p0GowLG9P8/photos/AWn5SU4SXQnblT9aFF04Z9UO93JDEZFiAYCpXmFZgX_xsfBHT5RtMlQGJm_AlgxOkdp_fZgXK13HHLYlwaOwTa_5gz0-jeM_f6Fn-VwpyBxTFMMF5gqcYX_J3dMCQjRx11Sywf8AlqRrKtwb9NmA5I1tqbGb108-C8RevUS-RZp7nkFbG2XgM5kLD7oNJfmTaQ10r10DIEK23LE5HVeJYh7nAV5CPg04QR9A0tsQBU8N2RHYJghYSgfv4AxVy_tP-yFaBERfb11f6WYufRElVTlRT6BhGYBbFm2DG-b0fA9QAPovGA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 4421,
+    "coordinates": {
+      "lat": 40.748267,
+      "lng": -73.990714
+    },
+    "features": [
+      "ramen_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJAduJGa9ZwokR5p0GowLG9P8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 10:00 AM – 11:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18443584088616377830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Four Horsemen",
+    "address": "295 Grand St, Brooklyn, NY 11211, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Wine bar from James Murphy of LCD Soundsystem serving small plates in snug digs with light woodwork.",
+    "website": "http://fourhorsemenbk.com/",
+    "phone": "(718) 599-4900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbTCMl19ZwokRUohF137p9cQ/photos/AWn5SU7hFu7g_DKISwo21z6tO8JlqVK3mTrTIreBuPTffj9USZKoGJzAx5k1sfVEksY06pc4oDWNuxtS0kDB27zKpQNGeCXBL_hyO4O5224-bVR3DuH33iby4EUTF1wcMe0K87Z2Y_kLcpWj7RYUEmr9FQorL2ttuXK02B3kSxdlBb47fCApA0Zqj96Wnv3U2rve_dsf-DtLD-eIKmw71uy9ISs7sAcjewZl-qJP_zAJ5z9PLkJp7Vf6Q6HPcgk1fNWK3q4X08a2wt7pJFG8WBgX4BcoKpandsLcWyLbUad-WE1XSA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1044,
+    "coordinates": {
+      "lat": 40.7130584,
+      "lng": -73.9573216
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbTCMl19ZwokRUohF137p9cQ",
+    "opening_hours": [
+      "Monday: 5:30 – 10:45 PM",
+      "Tuesday: 5:30 – 10:45 PM",
+      "Wednesday: 5:30 – 10:45 PM",
+      "Thursday: 5:30 – 10:45 PM",
+      "Friday: 11:00 AM – 10:45 PM",
+      "Saturday: 11:00 AM – 10:45 PM",
+      "Sunday: 11:00 AM – 10:45 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14192506531714795602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Lanterna di Vittorio",
+    "address": "129 MacDougal St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "A lantern-lit indoor garden & live jazz in the adjoining bar complement light Italian fare.",
+    "website": "http://lalanterna.nyc/",
+    "phone": "(917) 639-3236",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPxCEeZFZwokRzk5UghlXZWU/photos/AWn5SU5RAwr1lcwMTQE2JTb4NYNWBWHfe8D42eBTLAzjjlQuL9C-4WjxtKi-u8s0OHiXdFu_XQJvWGZ4NImjMK5MkS3Ly5e0vWdL-FGk6q8mqLe4XnDWJzN82uySaHiBWGnXk8q2QcOFhE0lXNqlK9ZE76vrQdW5szvBwAZeZQljeexudmPXYzqyJw6f7aq2zSso0qPHpxOn3VvwIUJMPurqTvN8lRfAW1wWOqcuLDQmXtR3k1zYmc9Z_8INqvlZi1QRfDXYF7pVz9DhKFunCHWhE4bmrShuMDzQgYvREZAlW8XRmg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2273,
+    "coordinates": {
+      "lat": 40.730665099999996,
+      "lng": -74.0000496
+    },
+    "features": [
+      "italian_restaurant",
+      "wine_bar",
+      "garden",
+      "night_club",
+      "park",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJPxCEeZFZwokRzk5UghlXZWU",
+    "opening_hours": [
+      "Monday: 10:00 AM – 1:00 AM",
+      "Tuesday: 10:00 AM – 1:00 AM",
+      "Wednesday: 10:00 AM – 1:00 AM",
+      "Thursday: 10:00 AM – 1:00 AM",
+      "Friday: 10:00 AM – 2:00 AM",
+      "Saturday: 10:00 AM – 2:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7306341737550859982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OLIO E PIÙ",
+    "address": "3 Greenwich Ave, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Naples meets NYC at this trattoria with thin-crust pizza, Italian wines & ample sidewalk seating.",
+    "website": "https://www.olioepiu.com/",
+    "phone": "(212) 243-6546",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_RUJvZZZwokRNUEv3K4nSik/photos/AWn5SU5w_Z-crXt3qcMshDJ4o2xQcQRWHHRepT0CZiXynI5o4hUsv2ooE6y-_0Bp9fMx-dj94nMLXbi8GIUoEOvNqsXItVG8p4P-Ceo_rLfhbI1U0CgNrjy7ADEC2IrOeJijIXQJaQ52mHRCoEdiikxb0jfBX6DQV6SGRxMRWBrG_jwi90Ip0ltRMasqMe9g0g6ig3Xz3ROB3MKah78yySNi2xg0go-qIj1aH6o5jna1UUBVCNPy8yTZbLEFZAg9xhL96cPZ28r2vpnclTZ8KSiz425M-bPu57Y-pWtWvr1JH5_qxg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 9329,
+    "coordinates": {
+      "lat": 40.7338208,
+      "lng": -73.99979309999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_RUJvZZZwokRNUEv3K4nSik",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2975234135803511093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Manhatta",
+    "address": "28 Liberty St 60th floor, New York, NY 10005, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Set on the 60th floor, this ritzy, high-end restaurant features New American cuisine and city views.",
+    "website": "https://www.manhattarestaurant.com/",
+    "phone": "(212) 230-5788",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoTXWl8dbwokRpKA2BJFVsGA/photos/AWn5SU42evTJzmNDlexjAwNMaQ36w5s0lbxf7R3PHHozN74ak0xBKctBIwHQCi09QPArjAzTw1hGiQlT4oNsE01rw2b6483kaeu-imE0gRmXwRBXHLfsyED7s57AiYaAr4bRCZNLX6roNkECw6ZBF0S103FKuaJf0F1HFBHKwS0WcgqrDVKXsQSK6KsaRwlTarK14MpRbdrl9B8Df5fjmbCwEQuwqTAYx8PCbbImF0DfYC1nkXmjVy1LbWphcbTGZhClz9SLH-Lgq7_ijrtUBKQwyg5Sp1B3tZlo4nl8o2oTlUrC8Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3274,
+    "coordinates": {
+      "lat": 40.707997399999996,
+      "lng": -74.00888259999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "night_club",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJoTXWl8dbwokRpKA2BJFVsGA",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6967162704871465124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RH Rooftop Restaurant at RH New York",
+    "address": "9 9th Ave, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Glamorous rooftop restaurant offering American fare amid chandeliers, greenery, and skyline views.",
+    "website": "http://www.rh.com/newyork/restaurant",
+    "phone": "(212) 217-2210",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlSsnN_NZwokRD4CVvN0DPYE/photos/AWn5SU4PSkmDI-ewu5_JPNlOgk4eJwbndeNIHn5H4dxzyb3Yffl7oPln06dEb8tOO8_Z8xhDYKaTN0gauQgDfqQiupNFiw_MXpbeKxozrnBIsJGd94zkVRAdWjG-tXaqBszc4Ft40jXbQv5PqJr0x52dX520eQ_whm-dZM1_4wlOzdigvObssXt6Jl9Ps-cTQpcOI0azExJTudWOhjH1me5713tPYx9DAyF6AzXLk9oiYtUetCSYrJgmH-l6YIb4VB9u7uraEFvP9Ug5Bcb1_Gv5h0IPlrRgV_m3fg9qd-4G9PGN4Ay9KeYa2guF6B7YSBag3IwH4oh9mQx4IzDqQhO5jfkoUh0M0zedkboT4NOWMqJb9XfiaZ8BGCFWIIAJeteKWj9-GcA1t81-lK0_t5EqdZZloEfAGXG9UyQ8UA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2501,
+    "coordinates": {
+      "lat": 40.73985,
+      "lng": -74.00639
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlSsnN_NZwokRD4CVvN0DPYE",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9312603855358623759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Upland",
+    "address": "345 Park Ave S, New York, NY 10010, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Spacious, casually chic brasserie with hearty dishes featuring Californian & Italian influences.",
+    "website": "https://uplandnyc.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
+    "phone": "(212) 686-1006",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWVD7FadZwokRs_pS6XY7VOU/photos/AWn5SU4_XIkNyMyrkHSyqg4dTMOzSxiuhnAsrQa14tm5zWHtCJjJ3LsI_drCPrWp4CCUiO6v-pxSvo8Y-bJvogXhmjE2tqTsMEzmiA1NqklU4nsmJ07b2kqf9N--H2Wh7mb1AU7dHOyUHe_QaxVfDqMgs5qR7EjwUAu5IxjsKEZtgAM2w3_XUQLGK4kU3lHvvUWiteTNdoQlxNHjmmGAS9ER6fdfNwLpnk7ivIt9bmCCUfUqNhRuGJIEpur2mH0KSnECMOb4KOG4EAU00qWiKp2d0vyDrm7phsZFqvQMWni_zZmggA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2351,
+    "coordinates": {
+      "lat": 40.7419313,
+      "lng": -73.984644
+    },
+    "features": [
+      "restaurant",
+      "meal_takeaway",
+      "italian_restaurant",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJWVD7FadZwokRs_pS6XY7VOU",
+    "opening_hours": [
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 10:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM, 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16524898314635901619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Scarpetta",
+    "address": "88 Madison Ave, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Handmade pastas headline a sophisticated Italian menu at this upscale locale with a cool vibe.",
+    "website": "https://www.scarpettarestaurants.com/location/scarpetta-new-york-city/",
+    "phone": "(212) 691-0555",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt8W7n79ZwokRsyXs3QDbE3o/photos/AWn5SU5JPsMQcGBQdl9Eb5fVqNHfdOiPwkcDHcQnGNATX2RVJAWn2JoSEPiCRPQE9I5gy-3X4Uhm4hVRf1ST4hYPU-Q41El5Pb--splPZZ7kQQ67QkOtFm4f4CRSqV8oDG6e9rwvTy9-83y_tee752F9Rav66VhTIZjZrm8o5YVTTqSPd1sO-35A9AbZbym9DZg_dN7WdsYxbnwbfeyn6zrOpYYBhDHH-YRiAsJ5wrm0JS-tixL71v5bUhTKNcG2mxZVai-IQeVanXKHmUMpTIp6N_mIcXks2A6vd8V012jitEF5Gw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2748,
+    "coordinates": {
+      "lat": 40.744581800000006,
+      "lng": -73.9856202
+    },
+    "features": [
+      "italian_restaurant",
+      "vegetarian_restaurant",
+      "wine_bar",
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt8W7n79ZwokRsyXs3QDbE3o",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM",
+      "Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Wednesday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Thursday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Friday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8796615293954434483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Monkey Bar",
+    "address": "60 E 54th St, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Retro murals & swanky furnishings fill this exclusive American eatery with a powerful clientele.",
+    "website": "https://nycmonkeybar.com/",
+    "phone": "(212) 404-0365",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJm9ZmFPtYwokR4GjMlk_y7Fg/photos/AWn5SU65O7tWDGXaS-X70r0cU6FccjJXIx7JOEdGycJleIT9_aju3QnAUJnQK3FONGz7nrcRdFusk8mA6bpeniYoo3is1j-q1YMAje-8dtYj_ZyjvawQuEnDVf-xt70oJxHDVGorhP0idGtX7W_fqf-7zv-b3Q60GBwzeg7qD3ZORkUDZfZXVq-0qxfyWNwygOyOQjNPe8monNBRGFwKD0pwy-tZMyoA82Pd80HeMWhz7PQI9F5oZQT9aOegaoL84kb5Bfx-5T0EeMtdDv62OrrI_wAE_ttZ6xY_GaKynrqx2cY32A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1547,
+    "coordinates": {
+      "lat": 40.759898199999995,
+      "lng": -73.9732046
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJm9ZmFPtYwokR4GjMlk_y7Fg",
+    "opening_hours": [
+      "Monday: 11:45 AM – 10:30 PM",
+      "Tuesday: 11:45 AM – 11:00 PM",
+      "Wednesday: 11:45 AM – 11:00 PM",
+      "Thursday: 11:45 AM – 11:00 PM",
+      "Friday: 11:45 AM – 11:00 PM",
+      "Saturday: 11:45 AM – 11:00 PM",
+      "Sunday: 11:45 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6407762793487689952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "AperiBar",
+    "address": "LUMA Hotel Times Square, 120 W 41st St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.aperibar.com/",
+    "phone": "(212) 730-8900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZTInQIhZwokR8GBPDoHJMok/photos/AWn5SU6HbMiNL_h6Abn7rk7stLsJAOvBm12U7gBMw0EHFkh5MlYc7jcgtY7mqMse2nwc68K12gH6NaQLvCcd3bTC8ZJJ9I8JepkSaJIRjjLdaSwmKIQ9i0IfN-NPudy-M8MY65qnwo9RIW7AoRNlRnyslZaYL2kHfEQ5r5huj6rq3nNBQzIistUpOGHPgkYWbTyNxNBLEkxEvIYiaaCHP6I8hxA8bM6T_d18fN_ZzOMAt7AOEZpU5UDljtDkPrzAdaBvsvgex0FwyEaU-p8heJ3F1878Iz3-ThukkH7Pu2dV08BDbg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 953,
+    "coordinates": {
+      "lat": 40.7543813,
+      "lng": -73.9858102
+    },
+    "features": [
+      "italian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZTInQIhZwokR8GBPDoHJMok",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 12:00 AM",
+      "Saturday: 2:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9886185688159707376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "53",
+    "address": "53 W 53rd St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "website": "https://53-nyc.com/?utm_source=GoogleBusinessProfile&utm_medium=organic_search&utm_campaign=MapLabs",
+    "phone": "(646) 535-3994",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQ2rWiydZwokRKb1IcXrXZ-E/photos/AWn5SU7Lnn0747-lzhJLL4RYxgLl1sgfiNimFoFewGJvLNzFIIZZbDLhzfrsg5A-QzAnN7CEpTN0pNlrCurEVjLB0W90zoB6brgbm17yeDeJFiPQSPaJmc35owCLrBkGOsDWSgVqDAlRQjd86GgIVoVTonHDqcRmmdcnBq8Zf5Sne0QKHsiZQBa0TW65m-eV_9T_lgFnbNVlmxJ2B4VG7iMiRKPSJPAcfas_VErUaumjD9fjL5m2A1F2O0Ar-ij6jPnqHoeKO20H4S7zZkpB4ECzAPPPrY3W-dFnelfbiKYCfYkZtg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 640,
+    "coordinates": {
+      "lat": 40.7617694,
+      "lng": -73.9780863
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "asian_restaurant",
+      "night_club",
+      "chinese_restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQ2rWiydZwokRKb1IcXrXZ-E",
+    "opening_hours": [
+      "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 11:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 11:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 11:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16242187502021557545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lovely's Old Fashioned",
+    "address": "642 9th Ave, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "hamburger",
+    "price_range": "$",
+    "website": "https://lovelysoldfashioned.com/?utm_source=google",
+    "phone": "(646) 918-6019",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd4_SnFJZwokRBeuZ-YwGaUw/photos/AWn5SU7GPyGKV6XLHW3KjutTSTjnJB5z1MygAuRKQccgpGyLE0wHB_sP5dzTDQvUN0UBN9SaacYnzurre0OUO2rd376LdMkU-tndM2yCQWtujuhKAMuhRGQfrs4LVRt5XO8DrvnzHpJApgCpKTxu3yXwpsbAV-l9-q96xvmhKJsujttG74Xx0cCdOFJfctqFKFPD71ARjx-TLG9w_yCY0Fu-3dAS0FVEHOqhhGtJuI9ukCQn2q10-xV_lKY-nmQnUqPQ431MJGBxiPeng5TInd1OFup7saS_utThP4VShhE04irRpA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 706,
+    "coordinates": {
+      "lat": 40.7603697,
+      "lng": -73.9909505
+    },
+    "features": [
+      "hamburger_restaurant",
+      "brunch_restaurant",
+      "diner",
+      "fast_food_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd4_SnFJZwokRBeuZ-YwGaUw",
+    "opening_hours": [
+      "Monday: 11:15 AM – 1:00 AM",
+      "Tuesday: 11:15 AM – 1:00 AM",
+      "Wednesday: 11:15 AM – 1:00 AM",
+      "Thursday: 11:15 AM – 2:00 AM",
+      "Friday: 11:15 AM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5505939221989944069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Pecora Bianca Bryant Park",
+    "address": "20 W 40th St, New York, NY 10018, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Stylish, bright eatery featuring market-driven Italian cuisine, regional wines & apéritifs.",
+    "website": "https://www.lapecorabianca.com/",
+    "phone": "(212) 924-4040",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKykw-aZZwokRW7K0ykZUxNo/photos/AWn5SU7-61qta_L6o9A4wk3kW5_rEw2AyVWfbr011av8ZQJ-K-C-sSDvT2CiPuVqp7oB-AaYuAUmWU0hJfv1qdOnOP0YDesB0m4QyJUKvKREmpVeB-HVxfMyS5b1BzWCCjFyCuD1_8ZJsPFg4lZKJFhYjd1BORgCqhdOmspD2L3RWjbh0uUDNfdhIt7R_q6ZhXOUlwI1T1OQicLS0It7Rde63acAMOZOTmVyyZIVpw_q_NxZLMdDw1etxdpPaY5DXEdY8_dWixENMaS1clF9-7JexwF6Uzk0Zte5jiktswPppzcUYQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 5376,
+    "coordinates": {
+      "lat": 40.7525176,
+      "lng": -73.9831529
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKykw-aZZwokRW7K0ykZUxNo",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15763817258728862299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Estela",
+    "address": "47 E Houston St 1st floor, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Stylish restaurant serving contemporary cuisine in an intimate, informal setting.",
+    "website": "http://estelanyc.com/",
+    "phone": "(212) 219-7693",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf3f-f4VZwokRcBCEciTOGRQ/photos/AWn5SU5CswlAzuT_dVKz0XtrEbfkRlYWyZrfdDtty-3YoHMVQzSSGK5bNr2rskci_i3danQoEYln4vk0twpWCWmEuenGNU0DHZX1pg_Cf8dGtuUeFOMnyg8Rgm1D6R5hX9PtMPHwKViO6P3s_KKt6HtTu-TNLFKXPLW6c_bq7NtaJ7zyxIceyqScnseNu5KCraHWlT4Xg7TczdkD9HvC2hRDQvLaVV9-7sM5ErUePrEaNfNJy180rfCB5g16xPLu1Lh7UJlUwSAHP_xponkGgbVoPkPS7ZGg1_B2qFvgMzJ-CexiFA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1459,
+    "coordinates": {
+      "lat": 40.724641299999995,
+      "lng": -73.994739
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf3f-f4VZwokRcBCEciTOGRQ",
+    "opening_hours": [
+      "Monday: 5:00 – 10:30 PM",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1448415411111727216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Time Out Market New York",
+    "address": "55 Water St, Brooklyn, NY 11201, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Bi-level waterfront hangout showcasing a curated lineup of local food and drinks, plus cultural events.",
+    "website": "https://www.timeoutmarket.com/newyork/",
+    "phone": "(917) 810-4855",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9aMCWaxbwokRZHJGmTBxFtQ/photos/AWn5SU5BuglYE2U8QZ88xscbUjmaxdNSWrKtyO5INkqdts0Ch07RqoslwkxVPoUp3QeQTzlN1BomX9NWoaF3h7RbOtGEVHAceN9ROyFQYy2b9YC_PGLyrqib_-VpycvyjmBfkZmSDwx36_XLFuAhk_7gyok6BurCWfnW79eMOidDkz4DW895xL9m-U7DbNOjeF021nwC0zMb4LANu9qb2SSjRRaLbtWtTj_AuVB1drEy6q8jw4Zp98lWy1BGzJLRuEyiZi055_IILWNPRvoJqbahrkqUYKiLJozXSdUO0Q6l9wf2ng/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 7193,
+    "coordinates": {
+      "lat": 40.7034205,
+      "lng": -73.9921457
+    },
+    "features": [
+      "food_court",
+      "banquet_hall",
+      "market",
+      "event_venue",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ9aMCWaxbwokRZHJGmTBxFtQ",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15282526839072256612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "l’abeille",
+    "address": "412 Greenwich St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "website": "http://www.labeille.nyc/",
+    "phone": "(212) 542-3898",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq75Ur-tZwokRo7I_F_PhlcU/photos/AWn5SU6SG09JxtsWU4_lzV_91tG9rTPc_DTiA7CL6dUZh1vgQtpewCohxnuaU2lERe-NQWutYGYHZlbq95yfB8sRM7UmJEQbZXAwe1TcBDN-5gXPq4eZlc3dPo8ek9GAIHNiRv98aTEUqruKPX5KwiVfJPg2Xgst7qyCCV_F5sO5yFW4PYWge-PbL2LWxEJcmBNRy1ipy6dD_I6TWelF1MHhYk-0xE_kCHiFFGiRorOcemZdAqPjWsa1e2u-GeEV1KB-A55F3NfY6uh_lTtQg0zrnsBrml3RxVZO7sR6q-WKKQXhsj4VkAkfszU-s3e8slxAPR0eHtrksjD4UXMJ_MWEA42ywVtITt0vsnL8Iwx1JdU2ytMe2yMBIX8D7UqCKMpul61luEA_xcnw3yQd0be_krF1tSQNG1wAQRC2tAXixFZgEl8g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 281,
+    "coordinates": {
+      "lat": 40.7220453,
+      "lng": -74.0099342
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJq75Ur-tZwokRo7I_F_PhlcU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14237534231185044131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ROBERT",
+    "address": "2 Columbus Cir, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "New American fare & city views in an arty space on the top-floor of the Museum of Arts & Design.",
+    "website": "https://robertnyc.com/",
+    "phone": "(212) 299-7730",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbxudM_ZYwokRNZbwXK-_GzE/photos/AWn5SU7Qjd9wdNu_BT8NxgWeu8yFXZmDOd7fqq6zvAS7Yeyg2hrBciLa2ArmsNBVkZBiTIgHqqiYQuhpInmCeHyJtqv7p4KLvv65Q1mQM-FlSaZ96kgMhd77U5qFjz5mjzqHs36BuEEYPxogHy2oGzwsWWmm4aFb9ebmsUp7W0gljkaOYYZYtMOCLwwpHTk54SlGNAkWulh9fqwxK-hWDOO6w66478UgjSYI6YWvzcQKIdbdEwVXGY36h0Tmr2w7jhZt8pAI2W34m-ZLCJVMh0xJjNQzdnhB98uA2lryTSz1R9RgZQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1860,
+    "coordinates": {
+      "lat": 40.767438,
+      "lng": -73.9819871
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJbxudM_ZYwokRNZbwXK-_GzE",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3538632692129109557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Le Coucou",
+    "address": "138 Lafayette St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Restaurant serving refined French fare, such as lobster, rabbit, duck, and foie gras in an airy, elegant setting.",
+    "website": "https://www.lecoucou.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
+    "phone": "(212) 271-4252",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyw5j84lZwokRnUI_UknPSNA/photos/AWn5SU7WzlsjdxWG6MVVBdJ3M_-4TqHMLlaVyGHc5Mg6NEIsIjRk9yRfxe-0KN6LtQxvx1cFA8TsuFJyeAvLbphkw_4TrCg2VqgychDmEj3IKgp4onf36ZGLSs6atdtXNxaWFHYySz16470md1YdkDCRKG1OA2g2UZrHHzDLe02BcwZ6KXzCkTy5_tHGd-ARhMOf3YUksv4Xfx6sXAY8VFPcbq5v6vGM-fHvqDFkScVfFYk9RG8WrprMrKhcrTMEZ-Rhv6ufbUGlrAlrMWYCv6t-RoM9mlB6ZdcGqpeHyCqqCTmwZw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1994,
+    "coordinates": {
+      "lat": 40.7191167,
+      "lng": -74.0001861
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "french_restaurant",
+      "breakfast_restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJyw5j84lZwokRnUI_UknPSNA",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Tuesday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Wednesday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Thursday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Friday: 11:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 11:30 AM – 2:30 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15008473672031617693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ocean Prime",
+    "address": "123 W 52nd St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Upscale chain known for its sophisticated decor, long wine list & classic steak & seafood menu.",
+    "website": "https://www.ocean-prime.com/locations/new-york-city",
+    "phone": "(212) 956-1404",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE8UCHflYwokRYNnt69kYmrQ/photos/AWn5SU5BZfaETvi9utzgQVTAjW4AYP9SF54iGhPcLAxIxTkrjmjvUbG452k-jIoEOM0DiAeJNzDTi3Cd_722-3sYVbqnvNmdzjTvJC2E6oqCGNQSEBdmDNxCJBfMqLhHKyX_SlbC9uIqx9SYNMqaNz8Fq1RNAFPWAIMTpymGNu8G-1zthQxS8oAQYXZGLu0yLwMgy-fd9MUZD3aemNjX_t6JxpZ0Diy_Gl1jyGtV95GyF0ncf7VLBiTikIaPxtNC4x0mMrymIdj3BTornayHz5gDyjjD-6tMCEAuHHA6-BMg8IZiQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2518,
+    "coordinates": {
+      "lat": 40.761729599999995,
+      "lng": -73.9806295
+    },
+    "features": [
+      "seafood_restaurant",
+      "fine_dining_restaurant",
+      "steak_house",
+      "sushi_restaurant",
+      "american_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJE8UCHflYwokRYNnt69kYmrQ",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13013741397485672800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Marea",
+    "address": "240 Central Park S, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "High-end Italian seafood & housemade pastas in a chic Central Park South setting.",
+    "website": "https://www.marearestaurant.com/new-york?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=MapLabs",
+    "phone": "(212) 582-5100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvWSDS_ZYwokRiG9D395loxo/photos/AWn5SU5sD9BcYHaLfBUGaE7kH-icZWIT_IfW0M61EniItI4frYma_24rJviGuzX-mTOpLiqUXsNsWtBkSMYHuX8rlgGE_tXnMsCxavSBlE9O3UhZSLRU8gQRoiXbsbJ8Kz8BjoJ8mxbHj7nK-qvFXxX06Yh8bkaUpcKNkUW43fc1xyCrE1YyBSUPTnpE_VzguwZcFeTqu9xubafrrmUcyEcmDAQO2J3PDKKDxiVSs_rINksbfM_ubZGRZFJVCPvaqxD1oasWLs3Oykib57sLyeMAowo7uwXsR0yzW4kcQ5S4kezisg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2929,
+    "coordinates": {
+      "lat": 40.7674251,
+      "lng": -73.9811137
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "wine_bar",
+      "italian_restaurant",
+      "meal_takeaway",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJvWSDS_ZYwokRiG9D395loxo",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1919489874092846984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Terrace and Outdoor Gardens at the Times Square EDITION",
+    "address": "701 7th Ave 9th floor, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "All-day eatery serving French brasserie & American chophouse fare at the Times Square EDITION hotel.",
+    "website": "https://www.terraceatedition.com/?utm_medium=organic&utm_source=gmb",
+    "phone": "(212) 261-5400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnw-5VWNZwokRyeb3nhlAwTE/photos/AWn5SU6t5IBVA4G41M35ZLSEIuqga5kqemXnrXHc-o8vws2nB6fOx4IT_3wrvIolKvXO-9IjmHMAi1UQIG9-_HUYhPb0SPT3S9KxEJALpzDcbNNK-f3YctWD15Y6GTU8BP1fPlxwp97da-_7qnMSghLylcLKiKXLcMJ9xiyvIfNqTClhIJbsrb3VaABCFtoHll_Ztpy0BaDBu7_HpJYptwewcPwWXUA34QWFqzeE6OJC9SIlxCEl8pX13D2Vo_av_w3WRyjNYUL2prOiyVIWEGey2xr_DyP0Q9uxZT65PGww6kSJOQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 904,
+    "coordinates": {
+      "lat": 40.759149,
+      "lng": -73.98416399999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "steak_house",
+      "seafood_restaurant",
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJnw-5VWNZwokRyeb3nhlAwTE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3585217257149032137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "One if by Land, Two if by Sea",
+    "address": "17 Barrow St, New York, NY 10014, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "One of the city's most romantic restaurants, featuring candlelit tables and brick fireplaces, plus a piano and private garden.",
+    "website": "http://www.oneifbyland.com/",
+    "phone": "(212) 255-8649",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl8faj5NZwokRubB8kvrZMk4/photos/AWn5SU427od3AJH2oLwH0maiD4qsEWMmDLWgCBsXgfYHkobkbXvyXxteIDkbM7tANo7LXQWEpLe9WDUV2olGoS2yoiu1zWp3e7KcsqkqHSqIxkQLALLLlRdPMmgeqNt88F8oadrxWPFbaj4QHRS8t4VavYwab4ubeCvnWL6Bt62PY18Is1CW-eH7PkoJLF2-vRfMmgQ8AWn_kMCYSSVZeEUvoTsD_8rHWIN96lGRmx2J1pikATxoPVa5hRXamSK8KhnFgscTEddlmMaDpM7AIY1mL5wQaiH7dsncx81QoZ64z-uytow8ufrg1ivwEKU8gy_k1i7n7Ppo_8YT4uMu_mpE5Q-oDTWdBZvWEqU8R2vMFKHg4yjvde2ENvnVrdSL_ov7xsN2TSkGHPBAIRlZTdgvKSIsYCdh15-Os-34v-0maDejjw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1259,
+    "coordinates": {
+      "lat": 40.732548,
+      "lng": -74.0026278
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJl8faj5NZwokRubB8kvrZMk4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 10:30 PM",
+      "Saturday: 5:00 – 10:30 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5634805754016608441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Dickens",
+    "address": "783 8th Ave, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.thedickensnyc.com/",
+    "phone": "(917) 472-7927",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXz1QXE5ZwokRLwJIVmQhyEc/photos/AWn5SU7fNkiLftVxQwtYvHpDn50EXpBG-TdmV288Qr_JvrExPBLaVsmhrOA9eL45cB1swGMnQ245H8tBHOUcnUFosdO2sOQaZGv09xU6LGkURwWzGMqHrCBCNU708CxdFDJ761jCPx2NWgQ-L7melCR3szum3XhFlU3UwDC-2Olv_B-X-EzWRg-323EwS4jyeCSY323ZQTREoLKfbIElDKTjN01O3WcrO41MYrMYkkN-C-M3V7uYHxpTezbm_PQzHPg0AdRkz3oCYyNsIjlQDxCJU86U35qgdj1OaLlDwSGKRukP9w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1952,
+    "coordinates": {
+      "lat": 40.760937,
+      "lng": -73.9875069
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXz1QXE5ZwokRLwJIVmQhyEc",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5172420886863020591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Terroir",
+    "address": "24 Harrison St, New York, NY 10013, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Relaxed, brick-lined wine bar with community tables, a large by-the-glass menu & Italian tapas.",
+    "website": "http://www.wineisterroir.com/",
+    "phone": "(212) 625-9463",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1Z3-Oh5awokR6ReR4JZHAfA/photos/AWn5SU5kkw6GOsBoNo8cphltAx3xB8ZHDcLDG2-uew3bNi08zcksEs0PLAQGeDa64SHuwIzvRDcse8PzJdbOdfkp-Buvc7zqoOY8H-kurUYcKnkkG17CZ9czEC2MvzAk5NVVrjAw9fOcVHezBlBDfKXfvpDblzFSq5IFQgYNE4gyApijCgrN6r1A-fMjXRzJCF3lycoH2e3QlnzBN_dGoLT-i_x-jOXwknWq2cL_4Np7YwhX7mN8Xqhbwp1idrui6mjtYrdcjsgX8tp6CbLgeEGy65LwM5fQ_mTloDRTaaj1-sBZIg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 537,
+    "coordinates": {
+      "lat": 40.7188908,
+      "lng": -74.0099829
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1Z3-Oh5awokR6ReR4JZHAfA",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17294182757417687017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Empire State of Wine",
+    "address": "61 W 23 St, New York, NY 10010, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.esow.com/",
+    "phone": "(212) 888-2297",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJT6fxUqNZwokRpp5KAvYohyY/photos/AWn5SU7Nu_n1Ca_am0vI9Tu-QzYocEAusQ_yvCeyrBdn6-15PLX2pre2JUBpiaROVsswW0-KLuhfAERynvvhGYIQVFpJgf1dABLp43-3nrM5yOD_HEv9CEUOz_WTZNPHNlXL-LM7j-4bGesKY1WsxKxkCunvWHXbiV09fqqLnDNNu1mPbKggl7LvxII5bj8QFF4fpQvWTvCTBEy9FnHC5oENwzHkp_PFDxF73yXnN7UcVxfEenxo_nnopAawv4CW-eXWKz5SdxISFYzDz_tscYzhAXmHutsaSyc5S_5duqVDEehVMw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 288,
+    "coordinates": {
+      "lat": 40.7427299,
+      "lng": -73.99186399999999
+    },
+    "features": [
+      "liquor_store",
+      "wholesaler",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJT6fxUqNZwokRpp5KAvYohyY",
+    "opening_hours": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 12:00 – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2776232732362710694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "City Winery New York City",
+    "address": "25 11th Ave, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://citywinery.com/new-york-city?utm_source=gmb&utm_medium=local-seo&utm_campaign=city-winery-new-york-city",
+    "phone": "(646) 751-6033",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJz6xj485ZwokRie0FM1Zumng/photos/AWn5SU6ZQvH8PFtoezjPTpdqLL6N0n7BxVNHFYIZbyW-3U2IKtb6ZL5WvAQX8kYiWu5Mmd69oQ3ZyNDetY5I-YeXGFjRmOpBD1LYeNNx9cwtHuYC5_M2lUFLffVPQc16P3nPqwKfa9vCt68PUSI3sYTugeoBcQ--YKs39ISCIAJlVWaTQE5B2_3xvcncUSSYWvma63K0acoKO6ZYd5qdoT2bJM9Afyr3GwflLxmWa8Zfwt-ygMvoeKoAL8LLMzTkmnGG5LSBRourooe0yCCBAsADfD1rZVC4QTS7d5zfNo8G7mrHlFHOrUGU9WbzenCRqhLE3ZbTLksD2tEoF_ftMv74_1mKwoFYovFWtyIzGH7ad61qQixjNYYPU7I7dzf3POe0BE5NMkMhqwzbHVOJ8pb2uab5tOoimfyFf7T8Dqcm4JvbNyI/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1754,
+    "coordinates": {
+      "lat": 40.742940999999995,
+      "lng": -74.0091145
+    },
+    "features": [
+      "wine_bar",
+      "farm",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJz6xj485ZwokRie0FM1Zumng",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8690379747467062665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ayza Wine & Chocolate Bar",
+    "address": "11 W 31st St, New York, NY 10001, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "dessert",
+    "price_range": "$$",
+    "website": "https://ayzanyc.com/",
+    "phone": "(212) 714-2992",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNw7LkqhZwokRwNMxjPkQ8Ts/photos/AWn5SU69cwSkBFCIXD4E4uOZJBsJbLwuJUFkY7I7YvUT7eYZgbrXROLtzSltAL6tmzuR0VZyPooYsSxUAwaU0l-ECoM_YFj5US8B-4bxJo-vnuSUWZv54TK0spERbQWzU6-OQ730Ou9pNweCet0Vjlu-WjfgWZinSSFAh9IFDamhzS_hTs4fVDZQE_tuVUafEQqQ_9VxSylCuLF1iY-mDk5Cv5R0Si6CPJG2mkp8i35cOeVCdIhSa6rRdhTes2jeKAiE2isMbOFoalgU288fc9wvkmuDk_uwr7pMnWa7pNTn9jmsfg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2134,
+    "coordinates": {
+      "lat": 40.7470962,
+      "lng": -73.9869045
+    },
+    "features": [
+      "wine_bar",
+      "dessert_restaurant",
+      "bar",
+      "dessert_shop",
+      "confectionery",
+      "american_restaurant",
+      "restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJNw7LkqhZwokRwNMxjPkQ8Ts",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 2:00 PM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4319252181609993152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Elgin",
+    "address": "64 W 48th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Vintage-style restaurant and bar offering comfort food, cocktails, and an extensive whisky list.",
+    "website": "https://www.elginnyc.com/",
+    "phone": "(212) 221-2100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYeV6LAlZwokRV3mjPitgrnU/photos/AWn5SU6VZElp8cMKchgcYi4LoUpY8yisN2ViIHgVx-N5VOy3lQVfF6ewCqjY3VfUgw6yjDzbfl12a8jIXF1-4v73-C7Gg0ZVxndSvAwmsb7Njh-cBPMKoaBpMvxWXKhPZpoOZYsfNKp-UNL9Lr68W5KRorjvoBYWee-VT8JYePWyPAhaqiPAVoJZ2CTZGLYFc68mnQufba9vhcHl0eMwhSwCncJiD5BMPS_PtVLl3VAj5d_qepfZsIzu10LjJ-VRnkC0dM_QdWVRlQ25NMeOXRiTVqyKefrkXH_H24wUsNyRhtC0-w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1494,
+    "coordinates": {
+      "lat": 40.758349599999995,
+      "lng": -73.9808723
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYeV6LAlZwokRV3mjPitgrnU",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8479820887235983703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Woo Woo",
+    "address": "266 W 47th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://thewoowoonyc.com/",
+    "phone": "(646) 866-7234",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeVjv6rRZwokRItsQl_bPZ7Q/photos/AWn5SU64Uu2hdccpBUEZTYphYXybvWeebUP-BO6wvoflmwBBF1Wly0IJqh0-2VnN7YrL55eeW1DJb-gXMBhYU_QZr9zCSzMwb34ViqlAn62zVlb3vFGaMwB2nHIKn3wHyc8m2kQYqVUAEsshEJ6M_CFkRGbmtbL_3hvEQ5bA8HUka8jwjC9HmW1Z_gVVeOQUVS0Ha4nkGc_MxwAwyWdjugd8lQ90GRJd8haLOHVQ3ANq-9tfj1-1SM7MOemqyVQLaTmU7B8SkW6PDtkRo9n3dCObijVXo81z2Q55c7Le2B40opG_KQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1432,
+    "coordinates": {
+      "lat": 40.7600765,
+      "lng": -73.9872658
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJeVjv6rRZwokRItsQl_bPZ7Q",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12999587507431594786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wine:30",
+    "address": "41 E 30th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "description": "Stylish wine bar with a patio & a menu of cheese, charcuterie, bruschetta & New American entrees.",
+    "website": "http://wine30nyc.com/",
+    "phone": "(212) 481-0197",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiUAH6adZwokRfDpIF52xwuo/photos/AWn5SU7G6orUZrZqxKFvS1DaMRDMhgdahzPjdIGO47GGqqL8JoQn_F4AmD5CY7OGnmWVYpd_rZWh5BixSEYdnbBtSILs4oaGrJ35iOBV9Qoxc-MzTDj4zI-wCBX9t2PY7TZLdajIOuZPfVqiQ9Zgbw_tFItkjSutojbHcXhOfy9Ry2gnzmxkEiJUcgfTDpbFNTUMJBKExMbrNts1OUuoKOQEuaPHbys2XmeMZJjF1KVMW2dQItKEMkLU28KVVUP6B8hI8MA75TLXD3-hreWzNM8typPlySALOE-71fG9pMs75lEhhw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 440,
+    "coordinates": {
+      "lat": 40.7449259,
+      "lng": -73.9837766
+    },
+    "features": [
+      "wine_bar",
+      "mediterranean_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiUAH6adZwokRfDpIF52xwuo",
+    "opening_hours": [
+      "Monday: 3:30 – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:30 PM",
+      "Wednesday: 11:30 AM – 11:30 PM",
+      "Thursday: 11:30 AM – 12:30 AM",
+      "Friday: 11:30 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16916278438615595644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vida Verde - Tequila Bar",
+    "address": "248 W 55th St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Bi-level locale with ingredient-driven Mexican cuisine plus cocktails, highlighting mezcal and tequila.",
+    "website": "https://www.vidaverdeny.com/",
+    "phone": "(646) 657-0565",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlwif_1dYwokR9-Yo1aECAxk/photos/AWn5SU6eSp8QLXYLJ1Mna7mbcWlsv6_yb7fM4KPlJ8eedyOm17LOLmT4fQ6A2hp1cZ5s-77QKtcd4I0hGgPU8RhrgEBIOW1xVHDLh3PPwFyLhEehHgPS4EAHfrylpAGm_Zw4_UaRtwDuGNnx0sa2FzkRhmUKS2N4huvxgkjdlUhPQsa-4bwdjfZo6rZgI4tn9dkPDPe40LM2gniRW3sm4q9VOiSuxzrXTN6um-LtkRTuwnbZT4WDxX8UNmD_peLuzH8uGWYm05cgPi9_QXMRgrtzR5kJtB9bjkp168Y8P9OI1tpiBA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3740,
+    "coordinates": {
+      "lat": 40.76496590000001,
+      "lng": -73.9829744
+    },
+    "features": [
+      "brunch_restaurant",
+      "pub",
+      "bar",
+      "event_venue",
+      "mexican_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlwif_1dYwokR9-Yo1aECAxk",
+    "opening_hours": [
+      "Monday: 3:00 PM – 3:00 AM",
+      "Tuesday: 3:00 PM – 3:00 AM",
+      "Wednesday: 12:00 PM – 3:00 AM",
+      "Thursday: 12:00 PM – 3:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 12:00 PM – 3:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1802287169967548151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dutch Fred's",
+    "address": "307 W 47th St #1, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sib of Tanner Smith's for beer & cocktails in a space with a long bar, tiled floors & flat-screens.",
+    "website": "http://dutchfreds.com/",
+    "phone": "(646) 918-6923",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJzU5p1ZYwokRnjwqzlLub0E/photos/AWn5SU6vfhPt5x2BDYPhoYLB0SI-2OpC1sodV1HCBiawG--NnHDdf2b3XBZLebslBDgTLndTGsyU5GA0HOp2cKUJcejTpYuORy9wEUKYq_eekEzGFcjEAxjKWPAlcu6SEpmeEUEoLwwC8lL505JQxikDWdxMQ_JsOG-q4vI6S_3zsYr8LkY8N9bbA41nnvFgTQTYMOBEZSaqInd6UKBNZnC6eW2j8fZvJKVLsyeiV1KCpnliMGXEMoTNt2rS-zDdgglUutwZe9jDJCcuSt2HOyEJ6opFydjyxbYZ3eP8Rg-qVq6fgw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2142,
+    "coordinates": {
+      "lat": 40.7608159,
+      "lng": -73.9878465
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJzU5p1ZYwokRnjwqzlLub0E",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 3:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 10:00 AM – 3:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4715249374293802142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Rum House",
+    "address": "228 W 47th St, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "This swanky, candlelit, wood-paneled piano bar draws the well-heeled for classic cocktails.",
+    "website": "http://www.therumhousenyc.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq38lzVVYwokRSQFHWasfeqc/photos/AWn5SU6DQLObODQ_7gwP6HqAS7MvF8PPQagwidqDpGgrnfm3iwFUSemmA5pKG4E9RthLxq1b4w4PO5ZB9vC3Nn4g7fp8o4DzvKvMexh8gv9rvY3tS7R-0Z6CRPjF6D_SwHiaG45Ar-QbhiSCTj5qnKbwuXN68Hdf-9Ibi5YvX83jt-XuQUJI2dtYyDK8o-579o57HSaYzLUHF-oz0AdMVR1pXpDU-z05sikC0SQXyhXnY5_hI1-Y_eWDzz__PClqSAok0VvfVUnLplff1Py4uKWOOyow9l_mS356rNa9t4_gZk2n0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2049,
+    "coordinates": {
+      "lat": 40.759710999999996,
+      "lng": -73.986307
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq38lzVVYwokRSQFHWasfeqc",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12067992972290359625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hanaya Omakase",
+    "address": "630 9th Ave, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "phone": "(929) 795-9510",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJL6IRjZFZwokRI23jWcC3-C0/photos/AWn5SU4jZRx6Nvoac65RJ8bccXAWhihowinPTaYfnTARJ4VRJMGtqwL8cG0gyZUPjQCJRHq9lpz97gd0Cq8waoGe6ld0xC1dC1EuaxlZ5p-Mpkp679UwkjdSVBEhBEB8sAlFooa9gHexvIAMV6pMyAE0HHGXuAG9IiAvtS9rHNKQopfSVw80K1Ac3yU6KDxR1AXDoYIbWd1MzWUa0oMvnWqn3f21nt1FGCA9kZV1PBBlzwA10IvQFUI9bOAtv8Vp6NCB1SQvuBNMKNb2u3j1FMZeISA6rmHlhMhbIlS5SxKSqjESAg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 157,
+    "coordinates": {
+      "lat": 40.759986999999995,
+      "lng": -73.9912338
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJL6IRjZFZwokRI23jWcC3-C0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 2:00 – 4:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3312599562700680483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tatsuda Omakase",
+    "address": "354 W 44th St #6, New York, NY 10036, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://tatsudanyc.com/",
+    "phone": "(212) 796-7737",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa6MvoQdZwokRZ4gArGw2orw/photos/AWn5SU4ihg93dJY9AHrvHUkXYNKSvoAdqLSBS2rprLNYJcXgQ9Vd6_xsABDYBEimpitZbSlwIVAsz-tw35LnCRMfXiLKzuF6hgUK6lBzkhuqT05CwdaBDm91zgjbdz_lHYV77YuIFD1mQB7MwdgBKqbDHSOdXxI5qJLclT9k4gB7a5xyDb9lIAZ3-t0TI0R4a5N4KDUyuLoJcJ9FzmmiK1AANKtO5PD-rK0Ulhe-_yX0DXk6yDl3aU2ks2MFCvlAQz4nhIcvRzr1k4GHZoVfzdiKX8qPD7Y2s01STye07VB2CEcPQg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 269,
+    "coordinates": {
+      "lat": 40.7591987,
+      "lng": -73.99130160000001
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa6MvoQdZwokRZ4gArGw2orw",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 1:00 – 10:00 PM",
+      "Friday: 1:00 – 11:00 PM",
+      "Saturday: 1:00 – 11:00 PM",
+      "Sunday: 1:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13592486465727662183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Omakase Shihou (Shiro) - Midtown",
+    "address": "988 2nd Ave 2nd Floor, New York, NY 10022, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "http://shihou.nyc/",
+    "phone": "(212) 201-7488",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj0r-v3dZwokRxYSlPRnOVaM/photos/AWn5SU7IzwdiIlnngC_A9vHjxGZxAODmQMHeEvrClujMyne4Z4S9FK2MWLlhnzSG90hnGM7vC_Q_2K1QXqHBhwwbuMg9Cw8rUSbvi-MTMcnUPd8N7D9jEGNyxjnTfBg5o_CnuPDqGMJRFxonRK2VhwYUvhEFNQU8xbu2YLg3f4MArLF5fWAuhMnRSxW1_CvVUOukw6WFWaTv_CJEgSsUtlwpBPTF0yJ-twRt1SilF35aQhraB3xJBe7j8Yibtd12W_Wfs4iqtYcSMwxLlaQQPtUeSH57kL2dMKBx_NMj2WujpeCAiw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 150,
+    "coordinates": {
+      "lat": 40.7562472,
+      "lng": -73.96728159999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "fine_dining_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj0r-v3dZwokRxYSlPRnOVaM",
+    "opening_hours": [
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: 5:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11769539809006421189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Genki Omakase",
+    "address": "552 LaGuardia Pl Store 4, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://www.genkiomakase.com/",
+    "phone": "(347) 618-2866",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx232mt9ZwokR7MuLz8Vpqr0/photos/AWn5SU4v6EFbSFw7CkwmlX9E5yJsaOzpRFmMg_oIfCRO0xQiXJz3Ai_CWvwNpnA1inLwB1XAF3Lf3pP3xhEmYfNwD1-y2a84slUhDlt6InjEiUIp6hKf-HkdrrICnp6mVmEYiOCZDJTy140nXvoNR41ebtacXL-8e1I1rCRMtL-1oNbFK_EiJ27TdpV7KvwZFajIkRiiCsBAenbCR_Nclb5FiBwKVx6pfpzQMMiiKtoVMUU6pxzqSevrkAohKxwnpOkb_am6CYMy-DRNvCAW5cjQwUvL-1Ogyn2IjIQpHxIIe0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1359,
+    "coordinates": {
+      "lat": 40.729163,
+      "lng": -73.9982903
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJx232mt9ZwokR7MuLz8Vpqr0",
+    "opening_hours": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13666852317520710636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Omakase by Kun Tsuki",
+    "address": "Matte Dark Store Front SELLS ALCOHOL (75 Min, 464 W 51st St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://kuntsukiomakase.com/",
+    "phone": "(516) 806-6688",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5f4-XjNZwokRXfGKAEanCh0/photos/AWn5SU4Lf7iK7sK0dyP6XIa6K6uEV8Op4e0iuReQ5uhBgYoLalfd6dDfeNfpx6N7hFwPd6pMQvEAhFnaOdc4VoUAMsp8LCuzU6SS0hEWzKM51Mi6FYOhQZi2D-pI6X9z4Jf2AD7Bjdt_drddWSFZzgWD6b_JiW26KEv2zpR8H8_5traVYQauqXRH9oidQHookcK9Iy7snoVeD_v4aLnMLyxGTUOqDOpAGXeZ7QgaiRpE4nLuxyHecGLtZG5dxX-aEwoq8QoUKrHWZRwhH2v_mnzGr9njrZpY0QTC7DNOzp4sXPP_TQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 40.7650077,
+      "lng": -73.99099509999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5f4-XjNZwokRXfGKAEanCh0",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 1:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 1:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 1:00 – 3:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2092668895965671773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kazumi Omakase",
+    "address": "31 W 8th St, New York, NY 10011, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://www.kazuminy.com/",
+    "phone": "(212) 849-2722",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1foP1jNZwokR7Kc8wAThdbU/photos/AWn5SU7hS1fN1Uu5GKYvsH1pfmS168JTkg0aQmKttIamPzalgKgMHFMr7HGjVYWhk55hlSX6NgCnoY4QUrnuutuNcfCJXTfilkehNH5RAy5eftgq-4H9GCZNwz2kIR_FgtI5XqyYDKxzfGaGcYOossDle8jrR3G35AVX2UC4-W8RDqCixXCGJAQzRB1Zrj4gm5j4kwJSwcF4tdh5S8OjdsvYov8M5_2W4KbI3h2md43CQvKmXffb7k6zVbj_5k1_gcMag_qVaA0yfWlPf-ZyzEvXLAqDPYH7Ke4eO5WdnXhxee_mVg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 266,
+    "coordinates": {
+      "lat": 40.7330727,
+      "lng": -73.99790829999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1foP1jNZwokR7Kc8wAThdbU",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 1:00 – 11:00 PM",
+      "Sunday: 1:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13075604503661422572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kawa Omakase",
+    "address": "37 E 1st St, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://kawaomakase.com/",
+    "phone": "(347) 619-3346",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ4RWjv5ZwokRS9HgXBVRzFo/photos/AWn5SU5OEU86q13Tl48tepddTPk5GdvAfZtkx2mgPThMK6p4O9BRKA7FWV7XJkeC-QiuxU5kF6SvzFjUGERaSOF3NZZgSx6qDDy-6T67TGb9JgZRBkWepn2mOZaKCoyl4HMpsbRIlPBxam6JXygOVp10DANLvXsoICR4HPFTp5dQRusMY3ve5S9h6xUdLARz8aJLj92AY1rBvfxSYywnMBcC27xA3SpDNV0ddD7017fvedwHC5RXhv9JihOX66hRzVwn0AthzEXpuDJMEnQ9pBvYkgqb1mcSr7n78698UfzJNAyfHw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 119,
+    "coordinates": {
+      "lat": 40.723867299999995,
+      "lng": -73.99025739999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZ4RWjv5ZwokRS9HgXBVRzFo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6542693510856888651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Shinzo Omakase",
+    "address": "New York, NY 10009, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://www.shinzoomakase.com/",
+    "phone": "(917) 938-0482",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnYh7RINZwokR-PjRtFNkw7M/photos/AWn5SU6lIBqF5tXjnn6WDOMWkvbm2nrd240r_sAlHmdpY66MLPJAFL-Qvc8cOWlRoY0CjYdBDfVxq2ZzdgZD_6AI76ftgtWjWS_OAG-qR4lkp44uQhgvP2XdAEYx1z-UqGODEVMeUkdFR1P4EEXHbQX3ANxXydObFSWgL7val47zlZ4wBzu-HKgRpyso2a80sgklZuCjF_EVv_YAltETlehvEkgNdQx2LFVHLzLIA_XFnmX3y1u-OjFaJGzgTYCfB71jdqG42hpbntq6tgT0QZa8SMk9Ui1U2nz3T7sRyq_HLPEsJQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 884,
+    "coordinates": {
+      "lat": 40.7237534,
+      "lng": -73.9877712
+    },
+    "features": [
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "deli",
+      "diner",
+      "food_store",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJnYh7RINZwokR-PjRtFNkw7M",
+    "opening_hours": [
+      "Monday: 2:00 – 10:00 PM",
+      "Tuesday: 2:00 – 10:00 PM",
+      "Wednesday: 2:00 – 10:00 PM",
+      "Thursday: 2:00 – 10:00 PM",
+      "Friday: 2:00 – 10:00 PM",
+      "Saturday: 2:00 – 10:00 PM",
+      "Sunday: 2:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12953307263926401272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mido Omakase - West Village",
+    "address": "88 W 3rd St, New York, NY 10012, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://midojapanesegroup.com/",
+    "phone": "(347) 808-3788",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxSo3JgBZwokRCthIwcCbez4/photos/AWn5SU4v2oS2262QyOq4nW6kgzXzh04tDuRJ-bpeYg9XKeohAvRJCmXfaHGtEgmfuivkxDjRYQpqUNvfembcawHGtM9fUezK6FSuWvgIKN0GjSYk0D8-V__Ahx5Ri15FkFumn3Dj3Cppspc7JQzTXCRUXwx9ohKheGinqc3BGgyMcBpC4875wIzTtCdnWb8aSKIqUA0NvYgIcAdttTat5bTWNiPclNphDupG_IglF6qcSqsN5Ks79G6RfIytcdy5G5ctxLSysyFccr7JSmA2Cwiff-nu5WoIHbdxwrX4yB8_r4RXEw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 313,
+    "coordinates": {
+      "lat": 40.729800999999995,
+      "lng": -73.9992216
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxSo3JgBZwokRCthIwcCbez4",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4502363504665745418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Domo omakase",
+    "address": "109 E 29th St, New York, NY 10016, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://www.domoomakase.com/",
+    "phone": "(646) 476-8177",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe_sJd6RbwokRK4aNXd3I6dw/photos/AWn5SU4KHnsYMD2nTGTA_AkTjB4HmImMyqdOynXU2WEfv48V7QzAFHyytYagrWuk5HYzU6cNoqY9T-IEPwGpXNoPr-_QKTGDT4_CAAknnWfG0Qvook1GlWUrZX7fhjF9qAoLPl2x0-LGDIoa_eKaZJqZpNiLBbFvH0f4QRT0d-lLO7xxzjv5bK0RyMFxKZ9emSBW2lduUZSSycIxL2hmbJiL53ItDkqMJPCxJSaaVQ02TsoKbV0-Bxlwy53tkVr_aGyhMz28YJOhokwDX9BhwTuue41B5gUjezV7FI5jC8vUjk2yaw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 278,
+    "coordinates": {
+      "lat": 40.743812399999996,
+      "lng": -73.982807
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe_sJd6RbwokRK4aNXd3I6dw",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15918475211000612395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Omakase by korami",
+    "address": "400 W 50th St, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "description": "Compact menu-free operation with colorful decor offering reimagined sushi dishes.",
+    "website": "http://www.omakasebykorami.com/",
+    "phone": "(917) 215-0650",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJi-yPlFVZwokRsZ53xoCapQg/photos/AWn5SU66X-ODhwEzPR3zxo94zT9GYOGSUjR8-EoT8U9iiQIfnbtIsmLrNJXP61l8cl35x3b27arRoh3Iw5aHU4kniG3W-I3Xw04H8UXbkTcloK25iviDVlZHvvzyV4fQ2q45VI0H1U9QjYf_r1r7Go1gr7Wyhkk-FAfVlID0tuGIhmAf57RhT4vNIdrfDoeQNay2F-B8ZsOmHdhHTCoqs0kQ7TbFWEyV6XbdmHZIBZHiS5UFkbrz_SQwM7a-bGr75dQg2dQmF6WdKOnF82pwRkSIrgwKOJJDQYsOaf3Vt8meIRzwtw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 626,
+    "coordinates": {
+      "lat": 40.7635424,
+      "lng": -73.98928459999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJi-yPlFVZwokRsZ53xoCapQg",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=623074001336901297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Koete Omakase",
+    "address": "1695 Broadway, New York, NY 10019, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://www.koeteomakase.com/",
+    "phone": "(917) 993-4528",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8ViNvI1ZwokR8FYHM9KRk_c/photos/AWn5SU7GkjAWCqtxZar0p-sZQQtjxScuXnflhcsBtyYh8nV9ExdnVPQVyxnFvKwjowLN14OM2USyeyEmp-FOWScXMblQd-3gae31B-mF0cnv1T2kTdfapTohHNCcks7BAzCAawVPKPfNrweuBBAyrDX-91j-gpU69NRFDKx_Sc2XAON7SVykBV60Fw5SCHN07SB3aiHIn0qogWd1Xk3GrEd0gG2YqQdm6gU8qu_8X5U0NkPZ05ly8hUkSajS7PS71-TZHXhwu9Ej5hCtBecBvi8GKb1FpgLJ9f4yYkVCa54iNIfb0g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 160,
+    "coordinates": {
+      "lat": 40.763681999999996,
+      "lng": -73.9829405
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8ViNvI1ZwokR8FYHM9KRk_c",
+    "opening_hours": [
+      "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 2:30 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17839762880929945328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Omakase SUSHI DAIRO",
+    "address": "208 3rd Ave, New York, NY 10003, USA",
+    "city_id": "nyc",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://omakasesushidairo.com/",
+    "phone": "(212) 529-4193",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJub3k-H9ZwokReqic2hvVbgE/photos/AWn5SU4a04kR2LKByew-CkNBa0a43fYN5ChBCsnPHrMSaIE-z7faGMa1ao-F9OrI5x0OQpLCgsx1aO_suQau5yR7grqbqresro58JCvqoBc8PWHJLlO48js5xDW-D2Q0neM3sl9E2ALWQeMAC8uu67mNyzLRhlJQhNcp7sCcaFIiK1b0pPTZdwZSjYb7LynRINYQICxToLaBmXDaC-fIOIPWrQEmcJWp3inAOjZLgA6AsE6V84D_7rbdwqOE5VxiQ3zLreJpbWV9Cny2bBFtnxkQU4KggfHbxfMIuRjdVR4TwhyzMg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 284,
+    "coordinates": {
+      "lat": 40.7360252,
+      "lng": -73.98543450000001
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJub3k-H9ZwokReqic2hvVbgE",
+    "opening_hours": [
+      "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=103254157084633210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

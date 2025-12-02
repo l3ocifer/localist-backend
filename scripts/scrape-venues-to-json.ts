@@ -15,6 +15,11 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
+
+// ESM compatibility
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Inline the Google Places logic to avoid database dependency
 const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_MAPS_API_KEY;
