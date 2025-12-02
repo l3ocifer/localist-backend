@@ -4,7 +4,6 @@ import { join } from 'path';
 import app from './app';
 import pool from './config/database';
 import logger from './services/logger.service';
-import { VenueScraperService } from './services/venue-scraper.service';
 import { WebSocketService } from './services/websocket.service';
 import GracefulShutdown from './utils/graceful-shutdown';
 
@@ -83,13 +82,8 @@ async function startServer(): Promise<void> {
   // Initialize WebSocket service
   WebSocketService.initialize(server);
 
-  // Initialize venue scraper service
-  const scraperService = VenueScraperService.getInstance();
-  // Start scheduled scraping if in production
-  if (process.env.NODE_ENV === 'production') {
-    scraperService.startScheduledScraping(24); // Run every 24 hours
-    console.log(`⏰ Venue scraper scheduled to run every 24 hours`);
-  }
+  // Note: Scheduled scraping removed - use /api/scraper/google/scrape/:cityId endpoint
+  // or run scripts/scrape-venues-to-json.ts manually
 
   // Initialize graceful shutdown
   new GracefulShutdown(server);

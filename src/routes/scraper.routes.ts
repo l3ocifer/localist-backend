@@ -1,29 +1,29 @@
-import { NextFunction, Request, Response, Router } from 'express';
+import { Request, Response, Router } from 'express';
 import pool from '../config/database';
 import logger from '../services/logger.service';
+import googlePlacesService, { DEFAULT_QUALITY_FILTERS } from '../services/google-places.service';
 import { PerplexicaScraperService } from '../services/perplexica-scraper.service';
-import { ScraperOrchestratorService } from '../services/scraper-orchestrator.service';
 import { SearXNGService } from '../services/searxng.service';
-import { UnifiedScraperService } from '../services/unified-scraper.service';
+import { ScrapingJobService } from '../services/scraping-job.service';
 
 const router = Router();
-const scraperOrchestrator = ScraperOrchestratorService.getInstance();
-const unifiedScraper = UnifiedScraperService.getInstance();
-const perplexicaService = PerplexicaScraperService.getInstance();
-const searxng = SearXNGService.getInstance();
+const jobService = ScrapingJobService.getInstance();
 
 // =============================================================================
-// ORCHESTRATOR ROUTES (existing)
+// STATUS & HEALTH
 // =============================================================================
 
-// Get scraper status (Active jobs count)
-router.get('/status', async (_req: Request, res: Response, next: NextFunction) => {
+/**
+ * GET /api/scraper/status
+ * Get status of all scraping services
+ */
+router.get('/status', async (_req: Request, res: Response): Promise<void> => {
   try {
-    const activeCount = await scraperOrchestrator.getActiveJobsCount();
-
-    // Also check Perplexica status
+    const googleConfigured = googlePlacesService.isAvailable();
+    
+    // Check Perplexica
     const perplexicaUrl = process.env.PERPLEXICA_URL || 'http://localhost:3002';
-    let perplexicaStatus = 'unknown';
+    let perplexicaStatus = 'not_configured';
     try {
       const response = await fetch(perplexicaUrl);
       perplexicaStatus = response.ok ? 'healthy' : 'unhealthy';
@@ -31,140 +31,210 @@ router.get('/status', async (_req: Request, res: Response, next: NextFunction) =
       perplexicaStatus = 'unreachable';
     }
 
+    // Check SearXNG
+    const searxng = SearXNGService.getInstance();
+    const searxngAvailable = await searxng.isAvailable();
+
     res.json({
       success: true,
       data: {
-        activeJobs: activeCount,
-        isRunning: activeCount > 0,
         services: {
-          orchestrator: 'healthy',
+          google_places: {
+            configured: googleConfigured,
+            status: googleConfigured ? 'ready' : 'not_configured',
+            help: googleConfigured ? null : 'Set GOOGLE_MAPS_API_KEY',
+          },
           perplexica: {
             url: perplexicaUrl,
             status: perplexicaStatus,
+            help: 'Optional: AI-powered search via local Perplexica',
+          },
+          searxng: {
+            url: process.env.SEARXNG_URL || 'http://localhost:8080',
+            status: searxngAvailable ? 'healthy' : 'unreachable',
+            help: 'Optional: Meta search engine',
           },
         },
+        recommendation: googleConfigured
+          ? 'Google Places API ready - use /api/scraper/google/scrape/:cityId'
+          : 'Configure GOOGLE_MAPS_API_KEY for primary scraping',
       },
     });
   } catch (error) {
     logger.error('Error getting scraper status:', error);
-    next(error);
-  }
-});
-
-// Manually trigger scraping for a specific city
-router.post('/scrape/:cityId', async (req: Request, res: Response, next: NextFunction) => {
-  try {
-    const { cityId } = req.params;
-    const { category, jobType } = req.body;
-
-    if (!cityId) {
-      return res.status(400).json({
-        success: false,
-        error: 'City ID is required',
-      });
-    }
-
-    const jobId = await scraperOrchestrator.startScrapingJob(jobType || 'all_sources', {
-      cityId,
-      category,
-    });
-
-    return res.json({
-      success: true,
-      message: `Scraping started for city ${cityId}`,
-      jobId,
-    });
-  } catch (error) {
-    logger.error('Error starting scraper:', error);
-    return next(error);
-  }
-});
-
-// Trigger scraping for all cities
-router.post('/scrape-all', async (req: Request, res: Response, next: NextFunction) => {
-  try {
-    const { jobType } = req.body;
-
-    const jobId = await scraperOrchestrator.startScrapingJob(jobType || 'all_sources', {});
-
-    res.json({
-      success: true,
-      message: 'Scraping started for all cities',
-      jobId,
-    });
-  } catch (error) {
-    logger.error('Error starting scraper:', error);
-    return next(error);
-  }
-});
-
-// Start scheduled scraping
-router.post('/schedule', async (req: Request, res: Response, next: NextFunction) => {
-  try {
-    req.body.intervalHours = req.body.intervalHours || 24;
-
-    res.json({
-      success: true,
-      message: `Scheduled scraping configuration updated`,
-    });
-  } catch (error) {
-    logger.error('Error starting scheduled scraping:', error);
-    next(error);
+    res.status(500).json({ error: 'Failed to get status' });
   }
 });
 
 // =============================================================================
-// PERPLEXICA AI SEARCH ROUTES (new)
+// GOOGLE PLACES API (PRIMARY SCRAPER)
 // =============================================================================
 
 /**
- * POST /api/scraper/perplexica/discover
- * Discover venues in a city using Perplexica AI search
+ * POST /api/scraper/google/scrape/:cityId
+ * Scrape venues for a city using Google Places API
  */
-router.post('/perplexica/discover', async (req: Request, res: Response): Promise<void> => {
+router.post('/google/scrape/:cityId', async (req: Request, res: Response): Promise<void> => {
   try {
-    const { cityId } = req.body;
+    const { cityId } = req.params;
+    const {
+      category = 'restaurant',
+      targetCount = 100,
+      minRating = DEFAULT_QUALITY_FILTERS.minRating,
+      minReviews = DEFAULT_QUALITY_FILTERS.minReviews,
+      dryRun = false,
+    } = req.body;
 
-    if (!cityId) {
-      res.status(400).json({ error: 'cityId is required' });
+    if (!googlePlacesService.isAvailable()) {
+      res.status(503).json({
+        error: 'Google Places API not configured',
+        help: 'Set GOOGLE_MAPS_API_KEY environment variable',
+      });
       return;
     }
 
-    // Get city name
+    // Verify city exists
     const cityResult = await pool.query('SELECT name FROM cities WHERE id = $1', [cityId]);
-
     if (cityResult.rows.length === 0) {
       res.status(404).json({ error: 'City not found' });
       return;
     }
 
     const cityName = cityResult.rows[0].name;
-    const scraper = PerplexicaScraperService.getInstance();
 
-    // Run discovery in background
-    scraper
-      .runDiscoveryJob(cityId, cityName)
-      .then((result) => {
-        logger.info(`Perplexica discovery complete for ${cityName}:`, result);
-      })
-      .catch((error) => {
-        logger.error(`Perplexica discovery failed for ${cityName}:`, error);
-      });
+    // Create job record
+    const jobId = await jobService.createJob('venue_scrape', {
+      cityId,
+      sourceId: 'google_places',
+    });
+
+    // Run scraping in background
+    (async () => {
+      try {
+        await jobService.updateJobStatus(jobId, 'running');
+
+        const venues = await googlePlacesService.discoverQualityVenues(cityId, {
+          category: category as 'restaurant' | 'bar' | 'cafe',
+          targetCount,
+          qualityFilters: {
+            minRating,
+            minReviews,
+            requirePhotos: true,
+            requireContact: true,
+            excludeClosed: true,
+          },
+          onProgress: (msg) => logger.info(`[${jobId}] ${msg}`),
+        });
+
+        let saved = 0;
+        let duplicates = 0;
+
+        if (!dryRun) {
+          for (const venue of venues) {
+            // Check for duplicate
+            const existing = await pool.query(
+              `SELECT id FROM venues WHERE google_place_id = $1 OR (LOWER(name) = LOWER($2) AND city_id = $3)`,
+              [venue.google_place_id, venue.name, venue.city_id]
+            );
+
+            if (existing.rows.length > 0) {
+              duplicates++;
+              continue;
+            }
+
+            // Insert venue
+            const id = `venue_${Date.now()}_${Math.random().toString(36).substr(2, 6)}`;
+            await pool.query(
+              `INSERT INTO venues (
+                id, name, address, city_id, category, cuisine, price_range,
+                description, website, phone, image_url, rating, review_count,
+                coordinates, features, google_place_id, neighborhood, source,
+                created_at, updated_at
+              ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, NOW(), NOW())`,
+              [
+                id, venue.name, venue.address, venue.city_id, venue.category,
+                venue.cuisine, venue.price_range, venue.description, venue.website,
+                venue.phone, venue.image_url, venue.rating, venue.review_count,
+                JSON.stringify(venue.coordinates), JSON.stringify(venue.features),
+                venue.google_place_id, venue.neighborhood, 'google_places',
+              ]
+            );
+            saved++;
+          }
+        }
+
+        await jobService.updateJobMetrics(jobId, {
+          recordsFound: venues.length,
+          recordsProcessed: venues.length,
+          recordsAdded: saved,
+          recordsUpdated: 0,
+          recordsFailed: duplicates,
+        });
+        await jobService.updateJobStatus(jobId, 'completed');
+
+        logger.info(`[${jobId}] Scraping complete: ${saved} saved, ${duplicates} duplicates`);
+      } catch (error: any) {
+        logger.error(`[${jobId}] Scraping failed:`, error);
+        await jobService.updateJobStatus(jobId, 'failed', error.message);
+      }
+    })();
 
     res.json({
-      message: `Perplexica discovery job started for ${cityName}`,
-      cityId,
-      status: 'running',
+      success: true,
+      message: `Scraping started for ${cityName}`,
+      jobId,
+      config: { cityId, category, targetCount, minRating, minReviews, dryRun },
     });
   } catch (error: any) {
-    logger.error('Error starting Perplexica discovery:', error);
-    res.status(500).json({ error: 'Failed to start discovery job' });
+    logger.error('Error starting Google scraper:', error);
+    res.status(500).json({ error: error.message });
   }
 });
 
 /**
+ * GET /api/scraper/jobs/:jobId
+ * Get job status
+ */
+router.get('/jobs/:jobId', async (req: Request, res: Response): Promise<void> => {
+  try {
+    const { jobId } = req.params;
+    const job = await jobService.getJob(jobId);
+
+    if (!job) {
+      res.status(404).json({ error: 'Job not found' });
+      return;
+    }
+
+    res.json({ success: true, data: job });
+  } catch (error: any) {
+    logger.error('Error getting job:', error);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+/**
+ * GET /api/scraper/jobs
+ * List recent jobs
+ */
+router.get('/jobs', async (req: Request, res: Response): Promise<void> => {
+  try {
+    const limit = parseInt(req.query.limit as string) || 20;
+    const jobs = await jobService.getRecentJobs(limit);
+
+    res.json({ success: true, data: jobs });
+  } catch (error: any) {
+    logger.error('Error listing jobs:', error);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// =============================================================================
+// PERPLEXICA AI SEARCH (FUTURE/OPTIONAL)
+// =============================================================================
+
+/**
  * POST /api/scraper/perplexica/search
- * Direct search using Perplexica
+ * Direct search using Perplexica AI
  */
 router.post('/perplexica/search', async (req: Request, res: Response): Promise<void> => {
   try {
@@ -181,314 +251,39 @@ router.post('/perplexica/search', async (req: Request, res: Response): Promise<v
     res.json(result);
   } catch (error: any) {
     logger.error('Perplexica search error:', error);
-    res.status(500).json({ error: 'Search failed' });
+    res.status(500).json({ error: 'Search failed - is Perplexica running?' });
   }
 });
 
 /**
- * POST /api/scraper/perplexica/enrich/:venueId
- * Enrich venue data using AI search
+ * POST /api/scraper/perplexica/discover
+ * Discover venues using AI search
  */
-router.post('/perplexica/enrich/:venueId', async (req: Request, res: Response): Promise<void> => {
+router.post('/perplexica/discover', async (req: Request, res: Response): Promise<void> => {
   try {
-    const { venueId } = req.params;
-    const scraper = PerplexicaScraperService.getInstance();
-
-    const enrichedVenue = await scraper.enrichVenueData(venueId);
-
-    if (!enrichedVenue) {
-      res.status(404).json({ error: 'Venue not found' });
-      return;
-    }
-
-    res.json({
-      message: 'Venue enriched successfully',
-      venue: enrichedVenue,
-    });
-  } catch (error: any) {
-    logger.error('Venue enrichment error:', error);
-    res.status(500).json({ error: 'Enrichment failed' });
-  }
-});
-
-// =============================================================================
-// UNIFIED SCRAPER ROUTES (Multi-Source Hybrid Pipeline)
-// =============================================================================
-
-/**
- * GET /api/scraper/unified/status
- * Get status of all scraping services
- */
-router.get('/unified/status', async (_req: Request, res: Response): Promise<void> => {
-  try {
-    const serviceStatus = await unifiedScraper.getServiceStatus();
-    const activeJobs = await scraperOrchestrator.getActiveJobsCount();
-
-    res.json({
-      success: true,
-      data: {
-        services: {
-          google: {
-            configured: serviceStatus.google,
-            status: serviceStatus.google ? 'ready' : 'not_configured',
-          },
-          perplexity: {
-            configured: serviceStatus.perplexity,
-            status: serviceStatus.perplexity ? 'ready' : 'not_configured',
-          },
-          searxng: {
-            configured: true,
-            status: serviceStatus.searxng ? 'healthy' : 'unreachable',
-          },
-        },
-        activeJobs,
-        recommendation:
-          !serviceStatus.google && !serviceStatus.perplexity
-            ? 'Configure GOOGLE_PLACES_API_KEY or PERPLEXITY_API_KEY for full functionality'
-            : 'All recommended services available',
-      },
-    });
-  } catch (error: any) {
-    logger.error('Error getting unified scraper status:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/unified/scrape/:cityId
- * Run the full unified scraping pipeline for a city
- */
-router.post('/unified/scrape/:cityId', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { cityId } = req.params;
-    const {
-      useGoogle = true,
-      usePerplexity = true,
-      useSearxng = true,
-      categories,
-      enrichTopN = 50,
-      dryRun = false,
-    } = req.body;
-
-    if (!cityId) {
-      res.status(400).json({ error: 'cityId is required' });
-      return;
-    }
-
-    // Verify city exists
-    const cityResult = await pool.query('SELECT name FROM cities WHERE id = $1', [cityId]);
-    if (cityResult.rows.length === 0) {
-      res.status(404).json({ error: 'City not found' });
-      return;
-    }
-
-    const cityName = cityResult.rows[0].name;
-
-    // Run scraping in background
-    unifiedScraper
-      .scrapeCity(cityId, {
-        useGoogle,
-        usePerplexity,
-        useSearxng,
-        categories,
-        enrichTopN,
-        dryRun,
-      })
-      .then((result) => {
-        logger.info(`Unified scraping complete for ${cityName}:`, result);
-      })
-      .catch((error) => {
-        logger.error(`Unified scraping failed for ${cityName}:`, error);
-      });
-
-    res.json({
-      success: true,
-      message: `Unified scraping started for ${cityName}`,
-      cityId,
-      options: { useGoogle, usePerplexity, useSearxng, categories, enrichTopN, dryRun },
-      status: 'running',
-    });
-  } catch (error: any) {
-    logger.error('Error starting unified scraper:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/unified/discover/:cityId
- * Discover new venues using AI
- */
-router.post('/unified/discover/:cityId', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { cityId } = req.params;
-    const { focusOn = 'hidden_gems', category = 'restaurants and bars', limit = 20 } = req.body;
-
-    if (!cityId) {
-      res.status(400).json({ error: 'cityId is required' });
-      return;
-    }
-
-    const result = await unifiedScraper.discoverNewVenues(cityId, {
-      focusOn,
-      category,
-      limit,
-    });
-
-    res.json({
-      success: true,
-      ...result,
-    });
-  } catch (error: any) {
-    logger.error('Error discovering venues:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/unified/enrich/:venueId
- * Enrich a single venue with AI-generated content
- */
-router.post('/unified/enrich/:venueId', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { venueId } = req.params;
-
-    const result = await unifiedScraper.enrichVenue(venueId);
-
-    if (!result.success) {
-      res.status(400).json({ error: result.error });
-      return;
-    }
-
-    res.json({
-      success: true,
-      message: 'Venue enriched successfully',
-      enrichment: result.enrichment,
-    });
-  } catch (error: any) {
-    logger.error('Error enriching venue:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-// =============================================================================
-// PERPLEXITY API ROUTES (Production AI Search)
-// =============================================================================
-
-/**
- * POST /api/scraper/perplexity/discover
- * Discover venues using Perplexity API
- */
-router.post('/perplexity/discover', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { cityName, focusOn = 'best_of', category, limit = 20 } = req.body;
+    const { cityName, category, limit = 20 } = req.body;
 
     if (!cityName) {
       res.status(400).json({ error: 'cityName is required' });
       return;
     }
 
-    if (!perplexicaService.isConfigured()) {
-      res.status(503).json({
-        error: 'Perplexity API not configured',
-        help: 'Set PERPLEXITY_API_KEY environment variable',
-      });
-      return;
-    }
-
-    const result = await perplexicaService.discoverVenues(cityName, {
-      focusOn,
-      category,
-      limit,
-    });
+    const scraper = PerplexicaScraperService.getInstance();
+    const result = await scraper.discoverVenues(cityName, { category, limit });
 
     res.json({
       success: true,
-      cityName,
       venues: result.venues,
       sources: result.sources,
-      venueCount: result.venues.length,
     });
   } catch (error: any) {
-    logger.error('Perplexity discovery error:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/perplexity/enrich
- * Enrich venue data using Perplexity API
- */
-router.post('/perplexity/enrich', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { venueName, cityName, address, cuisine, category } = req.body;
-
-    if (!venueName || !cityName) {
-      res.status(400).json({ error: 'venueName and cityName are required' });
-      return;
-    }
-
-    if (!perplexicaService.isConfigured()) {
-      res.status(503).json({
-        error: 'Perplexity API not configured',
-        help: 'Set PERPLEXITY_API_KEY environment variable',
-      });
-      return;
-    }
-
-    const result = await perplexicaService.enrichVenue(venueName, cityName, {
-      address,
-      cuisine,
-      category,
-    });
-
-    res.json({
-      success: true,
-      venueName,
-      enrichment: result,
-    });
-  } catch (error: any) {
-    logger.error('Perplexity enrichment error:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/perplexity/lists
- * Find Best-Of lists for a city
- */
-router.post('/perplexity/lists', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { cityName, year } = req.body;
-
-    if (!cityName) {
-      res.status(400).json({ error: 'cityName is required' });
-      return;
-    }
-
-    if (!perplexicaService.isConfigured()) {
-      res.status(503).json({
-        error: 'Perplexity API not configured',
-        help: 'Set PERPLEXITY_API_KEY environment variable',
-      });
-      return;
-    }
-
-    const result = await perplexicaService.findBestOfLists(cityName, year);
-
-    res.json({
-      success: true,
-      cityName,
-      lists: result.lists,
-      sources: result.sources,
-    });
-  } catch (error: any) {
-    logger.error('Perplexity lists error:', error);
-    res.status(500).json({ error: error.message });
+    logger.error('Perplexica discovery error:', error);
+    res.status(500).json({ error: 'Discovery failed - is Perplexica running?' });
   }
 });
 
 // =============================================================================
-// SEARXNG ROUTES (Free Meta Search)
+// SEARXNG META SEARCH (FUTURE/OPTIONAL)
 // =============================================================================
 
 /**
@@ -497,6 +292,7 @@ router.post('/perplexity/lists', async (req: Request, res: Response): Promise<vo
  */
 router.get('/searxng/status', async (_req: Request, res: Response): Promise<void> => {
   try {
+    const searxng = SearXNGService.getInstance();
     const isAvailable = await searxng.isAvailable();
 
     res.json({
@@ -504,7 +300,6 @@ router.get('/searxng/status', async (_req: Request, res: Response): Promise<void
       searxng: {
         url: process.env.SEARXNG_URL || 'http://localhost:8080',
         available: isAvailable,
-        status: isAvailable ? 'healthy' : 'unreachable',
       },
     });
   } catch (error: any) {
@@ -519,30 +314,25 @@ router.get('/searxng/status', async (_req: Request, res: Response): Promise<void
  */
 router.post('/searxng/search', async (req: Request, res: Response): Promise<void> => {
   try {
-    const { query, categories, engines, timeRange, limit = 20 } = req.body;
+    const { query, limit = 20 } = req.body;
 
     if (!query) {
       res.status(400).json({ error: 'query is required' });
       return;
     }
 
-    const result = await searxng.search(query, {
-      categories,
-      engines,
-      timeRange,
-      limit,
-    });
+    const searxng = SearXNGService.getInstance();
+    const result = await searxng.search(query, { limit });
 
     res.json({
       success: true,
       query: result.query,
       resultCount: result.number_of_results,
       results: result.results,
-      suggestions: result.suggestions,
     });
   } catch (error: any) {
     logger.error('SearXNG search error:', error);
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: 'Search failed - is SearXNG running?' });
   }
 });
 
@@ -559,71 +349,16 @@ router.post('/searxng/editorial-lists', async (req: Request, res: Response): Pro
       return;
     }
 
+    const searxng = SearXNGService.getInstance();
     const lists = await searxng.findEditorialLists(cityName, { year, category });
 
     res.json({
       success: true,
       cityName,
       lists,
-      listCount: lists.length,
     });
   } catch (error: any) {
     logger.error('SearXNG editorial lists error:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/searxng/new-openings
- * Find new restaurant/bar openings
- */
-router.post('/searxng/new-openings', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { cityName, timeRange = 'month', category = 'restaurant' } = req.body;
-
-    if (!cityName) {
-      res.status(400).json({ error: 'cityName is required' });
-      return;
-    }
-
-    const openings = await searxng.findNewOpenings(cityName, { timeRange, category });
-
-    res.json({
-      success: true,
-      cityName,
-      openings,
-      count: openings.length,
-    });
-  } catch (error: any) {
-    logger.error('SearXNG new openings error:', error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-/**
- * POST /api/scraper/searxng/press-mentions
- * Find press mentions for a venue
- */
-router.post('/searxng/press-mentions', async (req: Request, res: Response): Promise<void> => {
-  try {
-    const { venueName, cityName, limit = 20 } = req.body;
-
-    if (!venueName || !cityName) {
-      res.status(400).json({ error: 'venueName and cityName are required' });
-      return;
-    }
-
-    const mentions = await searxng.findPressMentions(venueName, cityName, { limit });
-
-    res.json({
-      success: true,
-      venueName,
-      cityName,
-      mentions,
-      count: mentions.length,
-    });
-  } catch (error: any) {
-    logger.error('SearXNG press mentions error:', error);
     res.status(500).json({ error: error.message });
   }
 });

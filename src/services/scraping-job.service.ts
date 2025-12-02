@@ -165,7 +165,66 @@ export class ScrapingJobService {
   }
 
   /**
-   * Get job status
+   * Update job status
+   */
+  async updateJobStatus(jobId: string, status: 'pending' | 'running' | 'completed' | 'failed', errorMessage?: string): Promise<void> {
+    if (status === 'running') {
+      await pool.query(
+        `UPDATE scraping_jobs SET status = $2, started_at = NOW() WHERE id = $1`,
+        [jobId, status]
+      );
+    } else if (status === 'completed') {
+      await pool.query(
+        `UPDATE scraping_jobs SET status = $2, completed_at = NOW(), progress_percentage = 100 WHERE id = $1`,
+        [jobId, status]
+      );
+    } else if (status === 'failed') {
+      await pool.query(
+        `UPDATE scraping_jobs SET status = $2, completed_at = NOW(), error_message = $3 WHERE id = $1`,
+        [jobId, status, errorMessage || 'Unknown error']
+      );
+    } else {
+      await pool.query(`UPDATE scraping_jobs SET status = $2 WHERE id = $1`, [jobId, status]);
+    }
+  }
+
+  /**
+   * Update job metrics
+   */
+  async updateJobMetrics(jobId: string, metrics: ScrapingJobMetrics): Promise<void> {
+    await pool.query(
+      `UPDATE scraping_jobs SET 
+        records_found = $2,
+        records_processed = $3,
+        records_added = $4,
+        records_updated = $5,
+        records_failed = $6
+       WHERE id = $1`,
+      [jobId, metrics.recordsFound, metrics.recordsProcessed, metrics.recordsAdded, metrics.recordsUpdated, metrics.recordsFailed]
+    );
+  }
+
+  /**
+   * Get job by ID
+   */
+  async getJob(jobId: string): Promise<any | null> {
+    const result = await pool.query('SELECT * FROM scraping_jobs WHERE id = $1', [jobId]);
+    return result.rows[0] || null;
+  }
+
+  /**
+   * Get recent jobs
+   */
+  async getRecentJobs(limit: number = 20): Promise<any[]> {
+    const result = await pool.query(
+      'SELECT * FROM scraping_jobs ORDER BY created_at DESC LIMIT $1',
+      [limit]
+    );
+    return result.rows;
+  }
+
+  /**
+   * Get job status (legacy alias)
    */
   async getJobStatus(jobId: string): Promise<any> {
     const result = await pool.query('SELECT * FROM scraping_jobs WHERE id = $1', [jobId]);

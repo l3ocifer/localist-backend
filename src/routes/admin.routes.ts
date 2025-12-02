@@ -2,16 +2,14 @@ import { Router, Request, Response, NextFunction } from 'express';
 import multer from 'multer';
 import { CsvImportService } from '../services/csv-import.service';
 import { ReviewQueueService } from '../services/review-queue.service';
+import { ScrapingJobService } from '../services/scraping-job.service';
 import logger from '../services/logger.service';
-import { ScraperOrchestratorService } from '../services/scraper-orchestrator.service';
 
 const router = Router();
 const upload = multer({ dest: 'uploads/' });
-// We assume these services exist or will be created. If not, this will error at runtime/compile time.
-// Based on file list, csv-import.service.ts and review-queue.service.ts exist.
 const csvImportService = CsvImportService.getInstance();
 const reviewQueueService = ReviewQueueService.getInstance();
-const scraperOrchestrator = ScraperOrchestratorService.getInstance();
+const jobService = ScrapingJobService.getInstance();
 
 // --- CSV Import ---
 
@@ -112,57 +110,20 @@ router.post('/review-queue/:id/reject', async (req: Request, res: Response, next
 });
 
 // --- Scraping Control ---
-
-router.post('/scrape/start', async (req: Request, res: Response, next: NextFunction) => {
-    try {
-        const { cityId, category, jobType, sources } = req.body;
-        
-        // Map legacy 'source' field to 'sources' array or jobType if needed
-        let effectiveJobType = jobType;
-        let effectiveSources = sources;
-
-        if (!effectiveJobType) {
-            if (req.body.source && ['google', 'yelp', 'foursquare'].includes(req.body.source)) {
-                effectiveJobType = 'api_scrape'; // Or specific types like 'google_places'
-                // For backward compatibility with Orchestrator logic:
-                if (req.body.source === 'google') effectiveJobType = 'google_places';
-                if (req.body.source === 'yelp') effectiveJobType = 'yelp';
-                if (req.body.source === 'foursquare') effectiveJobType = 'foursquare';
-            } else if (req.body.source) {
-                 effectiveJobType = 'web_scrape';
-                 effectiveSources = [req.body.source];
-            } else {
-                effectiveJobType = 'all_sources';
-            }
-        }
-
-        const jobId = await scraperOrchestrator.startScrapingJob(effectiveJobType, {
-            cityId,
-            category,
-            sources: effectiveSources
-        });
-
-        res.json({
-            success: true,
-            message: `Scraping job started`,
-            jobId
-        });
-    } catch (error) {
-        next(error);
-    }
-});
+// Note: Main scraping is now via /api/scraper/google/scrape/:cityId
+// This endpoint is for tracking jobs only
 
 router.get('/scrape/status', async (req: Request, res: Response, next: NextFunction) => {
     try {
         const { jobId, status, limit } = req.query;
         
         if (jobId) {
-            const job = await scraperOrchestrator.getJobStatus(jobId as string);
+            const job = await jobService.getJob(jobId as string);
             if (!job) return res.status(404).json({ error: 'Job not found' });
             return res.json({ success: true, data: job });
         }
 
-        const jobs = await scraperOrchestrator.getJobs({
+        const jobs = await jobService.getJobs({
             status: status as string,
             limit: limit ? parseInt(limit as string) : 20
         });
