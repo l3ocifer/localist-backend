@@ -26,7 +26,7 @@ router.get('/image/:venueId', async (req: Request, res: Response) => {
       return res.status(404).json({ error: 'Venue not found' });
     }
     
-    const { image_url, google_place_id } = result.rows[0];
+    const { image_url } = result.rows[0];
     
     if (!image_url) {
       return res.status(404).json({ error: 'No image available' });
