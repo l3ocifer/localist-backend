@@ -15,6 +15,7 @@ import searchRoutes from './routes/search.routes';
 import recommendationsRoutes from './routes/recommendations.routes';
 import scraperRoutes from './routes/scraper.routes';
 import adminRoutes from './routes/admin.routes';
+import merchantRoutes from './routes/merchant.routes';
 import { MonitoringService } from './services/monitoring.service';
 
 dotenv.config({ path: '../.env' });
@@ -66,6 +67,7 @@ app.use('/api/search', searchRoutes);
 app.use('/api/recommendations', recommendationsRoutes);
 app.use('/api/scraper', scraperRoutes);
 app.use('/api/admin', adminRoutes);
+app.use('/api/merchant', merchantRoutes);
 
 app.use((_req: Request, res: Response) => {
   res.status(404).json({ error: 'Route not found' });
