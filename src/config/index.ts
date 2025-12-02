@@ -24,6 +24,13 @@ export const config = {
     expiresIn: process.env.JWT_EXPIRES_IN || '7d',
   },
   
+  logto: {
+    endpoint: process.env.LOGTO_ENDPOINT || 'http://localhost:3301',
+    issuer: process.env.LOGTO_ISSUER || 'http://localhost:3301/oidc',
+    audience: process.env.LOGTO_AUDIENCE,
+    enabled: process.env.LOGTO_ENABLED === 'true' || process.env.LOGTO_ENDPOINT !== undefined,
+  },
+  
   security: {
     bcryptRounds: parseInt(process.env.BCRYPT_ROUNDS || '10', 10),
     rateLimitWindowMs: parseInt(process.env.RATE_LIMIT_WINDOW_MS || '900000', 10),
