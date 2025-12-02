@@ -1,0 +1,3860 @@
+[
+  {
+    "name": "Magdalena Coffee & Houseplants",
+    "address": "321 NE 26th St CU-04, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.magdalenacoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJU-jJiI632YgRrR4AFKd6Ssg/photos/AWn5SU4zg3bsPW3BhrHgOXw_rinpveoRol5I1tFlueF788KqzpqWlsxeiCUcTz82mEx_ztCcGck9waI43GdXfYigoCZa_zb7rs4CZLsjtj2vSva4Ti-7ES5WDaoUo-eASyVFsqIP87PBObSboovzS4O8ayVviUO1hb5vTGaa_MSf5ZZInO0WA1BJ4zxuo-rY0pDd2Z1fanaeGGyuHmMme1f3KKsIZniXK2SErYLer1P6z2T8v8Uvfz26fOzBPbVy2s8s_YNW1h-HL1tcFtecD5ZJ3meNwlCs1M1MMsdmb2-vQWnrWCcGXIJoGJITsst7G-O-KaUgdWlYKQCvl87rWZ63Mhb2OW3aMpmoC3XU6J4d4pnCRtGUcwg5akfOteV_40qG1YN5_W5Z6ANkf2x3oxxeWJzVLtDtAGgwX6CPNnNR826QIEDXqrLwhiQ__ZgAirsL/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 380,
+    "coordinates": {
+      "lat": 25.801795,
+      "lng": -80.1882917
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJU-jJiI632YgRrR4AFKd6Ssg",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14432482813875855021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vice City Bean Brickell",
+    "address": "1111 Brickell Ave Ste 185, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://vicecitybean.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVWXNkUG32YgRix9vpkztA8M/photos/AWn5SU6TDY47EqbIRq3gfu577ztIiTrOmzLsdV62IfJKPVw5DyCItBMMYrzKMjgjVpkBR3NQxcbdzd5C3a4T4eIGCg2GaTjFBOXcESSHPkQpoG-Dyk117AbHNACgr1REMnKsxUbMfRLyK-PvnyoTfICCc51Jy43fvKEsBjAMBWzAv-nis_TgiJ9abYMl5xIqvyu8nyIA_z4lvbeK2vbXEwHbE9Ff9odb4feQ3G9wxDJSbxHnJ4YU_ThJ92brSZffvnGJG0lkThBU06g418qY4_eFUyfIBgspME__B13k7CiUWYsrzw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 106,
+    "coordinates": {
+      "lat": 25.762202499999997,
+      "lng": -80.1907026
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJVWXNkUG32YgRix9vpkztA8M",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14052336175791677323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fincas Coffee",
+    "address": "5030 NE 2nd Ave unit. 402, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.fincascoffee.com/",
+    "phone": "(305) 741-0107",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNRxUk1e32YgRLIl840TlJGQ/photos/AWn5SU6eHCqRauk0j8BFbFksAYOdnL51hL9AvvOfAO6I1zm8dZhUQ3AmHndaCaYfdE2t0jVrcKdxB_7WJC-FikZt_7Z9yry3IMpliS3hkSjWs8a0N5jZdKp7Prc86BX5lGIVedkHQDo91R2MtmtK-WJjimJyeJrM0NdHvAQhAHLgvzvC4RSgl4BbDcje-j9_CJYA09gKyzg9zEWpLLvNHhg8fericd6RMR6jEH9cYv6--ckf_zhsgRPz3w4RULhfUs9Xgbm1fey7883s5PBYvMJR5e3hPzxqO5RYLMeQI_0NWsFSPQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 283,
+    "coordinates": {
+      "lat": 25.8219337,
+      "lng": -80.19217239999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "wholesaler",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJNRxUk1e32YgRLIl840TlJGQ",
+    "opening_hours": [
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 9:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7216144586991503660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Puroast Coffee",
+    "address": "632 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Small-batch roaster's cafe offering coffee & espresso drinks in chic, plantation-style digs.",
+    "website": "https://puroast.com/pages/coffeehouse",
+    "phone": "(786) 212-1956",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAUCLo4S22YgRs_UDxiUwwxw/photos/AWn5SU5OUxFnh0J2XwLyrOjUfi0rShOw5ZaS-XDasZCvE5f47nEUNxIVx5xjGs8vJszfKM7BRSYyXpSjWuDoqp77tg2zy8phz1nZWfDjRZluuM3Gup4jEBC4hVm_HLF1vXXFP8bQ9zF23BG_7LpLxGTCzW5JIlvC7sXR5wIp304kE8Dw2DoynsadZHHNGvzFpNwas5jr0NFT9FuDOCyIWiFOqb2Wu1ImbVnKzypzAPHLYy147fJEw0n5ydaYtJ-k-Pzzpd-p75yL28cfzVVqOar2L41pu-swv1dsXlQCHswb0EcJbA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 404,
+    "coordinates": {
+      "lat": 25.7676963,
+      "lng": -80.19345849999999
+    },
+    "features": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "cafe",
+      "restaurant",
+      "wholesaler",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJAUCLo4S22YgRs_UDxiUwwxw",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2072553192314631603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Panther Coffee - Wynwood",
+    "address": "2390 NW 2nd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Hip local cafe with barista drinks, plus coffee beans roasted in small batches & sold by the pound.",
+    "website": "http://www.panthercoffee.com/",
+    "phone": "(305) 677-3952",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG6HQcrK22YgREOwX4PyCF8c/photos/AWn5SU78mXQIkKmoaeS6rhtrpT4bvWpRTZ8wgvnNzrrkvMBvbfkXrtVVfY-LOA5t7miZNtw3BCtNQXd2P2a7rrkqSrKmRFTNQ1LjJ-jPTPLqno5at1XnIMWjGhSumiRQ3Rp6Cd8AlTsLqp6n0DCmcT-WPrQIG6AsdSPNSREy5lAGEgHzjKQA4EvpYysMzuqkdOZcmKl8FS7ic64j-ticC4Y_IP6fHrWU7xOcS9KSzGK37Q8ds2REmeSj1E21ui44M4OCyEs5gXhIJW3RZEmfW1-B2n6XNY1R3BoaUV4QlV-wEPjcTQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2503,
+    "coordinates": {
+      "lat": 25.7998834,
+      "lng": -80.19929549999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJG6HQcrK22YgREOwX4PyCF8c",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14346079160615037968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Imperial Moto Café",
+    "address": "7299 NW 2nd Ave, Miami, FL 33150, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://imperialmoto.com/",
+    "phone": "(305) 364-5083",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ8dtWXCx2YgR2qVfKsAzR0c/photos/AWn5SU7KBFk2W3dOL5xshA6MZ2zUlAXlnsuBj9aGpRDrwC6bF1epyWiujgF797YU6grMfhhCcgc4t4l9G4naE2zLNTQXwheE8IpIQSmwGYH3GwTDWy-Iz79KVS34ORVjIPPCpk4G4k9iXWx05cxXE5tJDRV3VTYpEADA6CNyWzepig6d0KpWnDxR5zvwVd2VXKFazcQKtD4HE_rYp1Inr04Bt7R6LGI8yhM9eaZLIvS0T83Ckp--pxyihpziKpfev3eqWLM7yqKWkZtktnV_XAJddmCP74RkXkj7X7yqv_hxwDgyeg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 599,
+    "coordinates": {
+      "lat": 25.8422251,
+      "lng": -80.2005868
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJZ8dtWXCx2YgR2qVfKsAzR0c",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5136130800476988890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ICONIK KOFFEE",
+    "address": "6102 S Dixie Hwy, South Miami, FL 33143, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://iconikkoffee.com/",
+    "phone": "(305) 450-6649",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJS30dQxZ1IEwRQWGltHvn4zU/photos/AWn5SU562uKEvY5lwbOpgQEWRG8GM_IX0UwjLbIRYM3juHC1tIkzlYrPA_xyEb6xBKbNIsLQtihHPigy9Nj05HA2ivW5AjVF9p-AXuKcIisGWd23acTU9gbVOwo3kdU538rcx2UJTmo63_g8FNp2_-en4tqYoFEn-kBDo_AyOwOxVDXJvT_xqP54QY_H_OO0-KWw6o9x5jJ6fBJc1LnkXeQg1Aa8WvJy8csua_TtvmSNJEb65Q4uxBIKP1YqYYrcqW_bvzasbZjLQdg6ZfzmK9woi9NYUSLYRSKzGqSQyUOxAmJiug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 117,
+    "coordinates": {
+      "lat": 25.7020143,
+      "lng": -80.2919393
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJS30dQxZ1IEwRQWGltHvn4zU",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3883201822221230401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Baker and Barista",
+    "address": "4582 NE 2nd Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.bakerandbaristamiami.com/",
+    "phone": "(786) 721-2300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk3dDBC-x2YgR0MY5idwBjSA/photos/AWn5SU52-ZaKaN-TA1DGgkU7i8tmKovs-PG2-T-ptzAtpA8iLKXfTAYCdqrzFLeHfcsb07BQGEh7aQ3TjrdmCbji0Py-jmT_gGHd1yIds3YQpr20HVCBjmVBKImDWoGpXj0PE-Jc6VoMsQljKXXtFpz0rbk4xCnpnMhlIREUhB5eiOZfWA25ep_CluaEf9dK5W3B06k0G2yT-yFcdSJeYb4VWbSlIOckpkRbJ4JAmLlbXr52z4rm2rbm_Td66f-ToG5FThtagFN4HqtlYQ6cZw88J1m9tTw4vmVtQuvrifuxWStODg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 249,
+    "coordinates": {
+      "lat": 25.817576199999998,
+      "lng": -80.1916169
+    },
+    "features": [
+      "bakery",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJk3dDBC-x2YgR0MY5idwBjSA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 7:30 AM – 3:30 PM",
+      "Thursday: 7:30 AM – 3:30 PM",
+      "Friday: 7:30 AM – 3:30 PM",
+      "Saturday: 7:30 AM – 3:30 PM",
+      "Sunday: 7:30 AM – 3:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2345533027636594384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alaska Coffee Roasting",
+    "address": "13130 Biscayne Blvd, North Miami, FL 33181, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Coffee roasted on-site, baked goods, wood-fired pizza & more served in a bright, counter-serve cafe.",
+    "website": "http://www.acrcmiami.com/",
+    "phone": "(786) 332-4254",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj6zpZYqt2YgR_ris-G1Y-80/photos/AWn5SU4Yv8gUpdTuZ6BHmwWMLuRokX4N6_AMzAcpXTek60EvXwOUettbtCe3jzy2Q20P76R5pvNkIAkU06EX2Ppm33ug9bwgZrgs3VttYy19Dlwc4gOV-ity-eu5cpzXEa1OJQ73RaaH3Iw96qgqHWO3WSaZjwrw-NWnYwggKxuP35gF-JDJuCiDQGazU2LOi22PHNsWCHc7VDvX7D7JvcxlsklKjj3j6X1LmWY-v9jCAuho5kz_h7A4WXVsFFVKkHoMVbc5V3oXYfyFhllG3B1x_uSf6Y94zvxwO1U4QU3z9SmvM-aumdAHAaz7lc_Dxx_mwU1D3RWpj3fb1GdH01KxJrfkyTkNDNpwT0h5QAlQg3Ub8LMG3HycuCgNTADas-x5QX4n6XxNTrvQV0EcNLSm1-o0sgFEB85X5y3LBLT10S1EomR8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1297,
+    "coordinates": {
+      "lat": 25.8965912,
+      "lng": -80.1626205
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJj6zpZYqt2YgR_ris-G1Y-80",
+    "opening_hours": [
+      "Monday: 7:30 AM – 7:00 PM",
+      "Tuesday: 7:30 AM – 7:00 PM",
+      "Wednesday: 7:30 AM – 7:00 PM",
+      "Thursday: 7:30 AM – 7:00 PM",
+      "Friday: 7:30 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14842554226276350206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brewing Buddha Cafe & Arthouse",
+    "address": "8219 SW 124th St, Miami, FL 33156, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.brewingbuddha.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10250068425414994717",
+    "phone": "(786) 842-3342",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcYz-S_HG2YgRe44agaPCM20/photos/AWn5SU5B1UZCNsi1r7qclcu3nCgJ2QCeqGc8stvI_g1TLLddXtnJ4SWHpqsrmd9OrIt0qmiEB9ZAJnqXDlLJIu1DATWH1m0IlkX8_Ox0tYQQXZrnaByfWUeQdzkxi2d5rzJs7jUvOTrkmmkutzI7Fq54TmdmnHufx-Ax9S96bCNhXhoYJDgf1NaAN2ajJT-f6DuE4BCFDbmlqC3beOGMLyv-jlKf-zPplmRqSrdLcXJ2THTzHgG9fnPoL0ZatPUwvPJMLc83ukO6FUDBpRbXz-SVahmMxO0FJ6Ism2Kcd2eGgMecL3GBpOOXeYqt7Eu9Y_mUo1sSTPCOehyCEwn1D3-QDcGKGmSmfcfRXR7N1ZKRws6wgXB3oTIQT6oXwnoTBZRhM_YdLTJKA-LKlVJJVHrt9wmkXp-z2pusOvCc6NxeSTnWeLC-pj0B7m6p5NBsSYaN/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 568,
+    "coordinates": {
+      "lat": 25.6554567,
+      "lng": -80.3268485
+    },
+    "features": [
+      "coffee_shop",
+      "tea_house",
+      "art_gallery",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJcYz-S_HG2YgRe44agaPCM20",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7868846981447847547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wells Coffee - Flagler Village",
+    "address": "737 NE 2nd Ave, Fort Lauderdale, FL 33304, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.wellscoffees.com/",
+    "phone": "(954) 982-2886",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhbOKEaoB2YgR45LLzp30FTI/photos/AWn5SU5SPM63kE2rNjOPvWv1sahZeUP6WZXPFUOz7lKBgCEYQfG-UumvGRuI_pxWYdxFhQq6pVpm87pXqPq2iVGC3wVVe4O90ciGKo8U_jO1mxwt9Fkz3nX8nwPQ1x-zBUb2N3urXE3njtlgpL30nbrMBFoX_N93cMajBWrxtBxewaObBdXcmaAdc41zNa-NTfkiHe4119l1wBvP4aFTQQX_Pzm8URCJiq2q2B2aliDdmwaInuWQ_c8gHWbhQH6r7tLLmuxuXm20Q2KbUVb9sjSp5gC-pmtEXqYK3rR7OvfN_lPlpg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 735,
+    "coordinates": {
+      "lat": 26.132835999999998,
+      "lng": -80.14201589999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "restaurant",
+      "wholesaler",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJhbOKEaoB2YgR45LLzp30FTI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3609059635023811299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Salon du Café",
+    "address": "1701 James Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "phone": "(305) 990-2957",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfwFC1B612YgRUSwryJjRMxU/photos/AWn5SU6Nr0YThtrBEU5lLXKrstKSCjRUdK-g5XcNn89X8-MBYL1qEGk4vTxoVyV4DjgZxBlJWVXMgr66dH6zs3GE0eP-56sd7I0BYLprWREPF5yRKfcPUctSoTxFhn7EBotOzNLQIAGLT9MIlsK0AcjaGDs-2jS8pO5O2jy-bu-jNq7Deb06ENRQLaT2mpNouz8evTSuAmB9j6MX1BoNrfwcicD7Y3Dm-qjFmjLll6VEt_lO3ZFaYcx6mZjl9nsqTI4K_jTfSpInzR1tE218oV0ks-DxxT1i4J7bH0mlS4YDyEJSzQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 485,
+    "coordinates": {
+      "lat": 25.7925662,
+      "lng": -80.130515
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJfwFC1B612YgRUSwryJjRMxU",
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:00 PM",
+      "Tuesday: 7:30 AM – 8:00 PM",
+      "Wednesday: 7:30 AM – 8:00 PM",
+      "Thursday: 7:30 AM – 8:00 PM",
+      "Friday: 7:30 AM – 10:00 PM",
+      "Saturday: 7:30 AM – 8:00 PM",
+      "Sunday: 7:30 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1527795152732236881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "White Rose Coffee",
+    "address": "4703 SW 8th St, Miami, FL 33134, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://whiterose.coffee/",
+    "phone": "(305) 264-0888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJX4liOjW42YgR2cY4TxNPePk/photos/AWn5SU4-6FGA2u5D-sxuVDmc4GVEhCylrnf0XEcmWF-DJqbpnkRIs4CAlqZUcV93C26qf30m812GmpV_2zGOM8cU8ceyuFS2PrNwzfM_9MHOenCBS6bdgoTAFM0PA0mT-l5GsWgLKCm-bePYZkMRqSbA8a3LvaPA0il7A0FbdGW-X_xGYLisqEVy2UlVk9rO-_i9udJQN9KY-C-kBk4sGYnopx0RrjiSYJqKwuZg9q3VZRWrlm7jki2xhT1yGRHP7BpXS_WLRWxAkvRuw9jb4yHteKD0NUTjcYXVR4CbWVUmYncV0Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 228,
+    "coordinates": {
+      "lat": 25.764414499999997,
+      "lng": -80.2716379
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJX4liOjW42YgR2cY4TxNPePk",
+    "opening_hours": [
+      "Monday: 10:00 AM – 3:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17976204857001428697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "True Baristas Coffee | Brickell Arch",
+    "address": "1395 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.truebaristas.com/",
+    "phone": "(561) 519-4120",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx0xqcBG32YgRoVM61ga-nnI/photos/AWn5SU6APFXlk3YrKuJL4ipajRN5SVl0mR0DzsEC9trQ6tpvVByWKdaxGNd53lScljamekP9vZrVbLQAf2AI1r7wXV4qw7pF8TE8OE9xUYZm-qIfx83lGSd0rylzKumEwgVH7Eh3p-4MJPVA2IVGO3cZFlfCrhPqD_9ywW-Wy-kwbtQY6fEWl1I9Q6uZd7qJ4uJshPt5OIAbWl8HvbkJrnmKeMOc88XZcSKcb8iH2mqZfSOOhy__VLOmE0629MAqypEV0Bo6HIWL-JaTUVCn0c3GbRb7RGmmRVH7bvnE24E2WHypeA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 370,
+    "coordinates": {
+      "lat": 25.7607218,
+      "lng": -80.19182300000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJx0xqcBG32YgRoVM61ga-nnI",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:00 PM",
+      "Tuesday: 7:30 AM – 4:00 PM",
+      "Wednesday: 7:30 AM – 4:00 PM",
+      "Thursday: 7:30 AM – 4:00 PM",
+      "Friday: 7:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 4:30 PM",
+      "Sunday: 8:30 AM – 4:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8259247703217296289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "i think she is",
+    "address": "169 SW 7th St, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://ithinksheis.com/",
+    "phone": "(786) 800-5659",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwZMnsji32YgRqwXnEPLhJb8/photos/AWn5SU75wVQLuhR95BvTSgzbYqPjxq9fUDgzrX5U8f3vmaEr7F21FTzpZDjszbZKjJQPew0BOEcj9Cgn-F-voar_mmtkVfTkbk--eqGg0-YZpjvBCR3Q_7e1srcMcLJcj8-pYFFeHD-5l8gTQf9CuQB6QH79tvUTlbSW-z477dBVWX9AwR8se_IvvPxzG7v19XPUlDgo7MPhGBZxo6WvJT3Co-cnQa_LNc115vFVZwLRvx40kjeAYTyJgPfPA4EX9TqWhaI-xnh68nj1tc2GQzocx2TQO4GMLKcyXeacD_uLKy6xDg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 577,
+    "coordinates": {
+      "lat": 25.767404199999998,
+      "lng": -80.19645720000001
+    },
+    "features": [
+      "coffee_shop",
+      "art_studio",
+      "brunch_restaurant",
+      "cafe",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwZMnsji32YgRqwXnEPLhJb8",
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:00 PM",
+      "Tuesday: 7:30 AM – 8:00 PM",
+      "Wednesday: 7:30 AM – 8:00 PM",
+      "Thursday: 7:30 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13773663465164441003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Suite Habana Cafe",
+    "address": "2609 N Miami Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://suite-habana-cafe.myshopify.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ35yW5CG32YgRZQVQzlclW1s/photos/AWn5SU7kP4n4VLzY5AyU2PGJ7UqSBFLelW2mBgCrnB5GwpVpRIabzUyNavzOC_IqFsHqS9fcdiXYIL1mh6_Nq3VIByOHSuswcjBZQyp35Ql4328URP4KOXRA3aDcTnL5gMgZex18IBliw3enZUstkGjPXZt9nGgLtxgCM1-wbHrvH-SNVy0SAyY8Ueyi0HCfmk3aoGPkuB1HCMtvfQSGqxZN7yvRyA2b5GLCgFrDVyYxvAa2ZwY6LWDvLx416byzVV9eumNcyNgG-k9i3TCzKNNMB4RpciJb54VawxyS9NUI4qLhU0Ykqz4917x3ezpEZo_7Rq4IAoZiq74Bw5y1dYsRHGDbGizGC6XcmUA1JHGlRXlU6s3RyxX-7EQkE5bcARtlfbDRPYLL5-DQrUyFLWTs0ctUa2rIZIkfUfd7_BTxZhjPbR7q1_Y6RZ_1JzgTmw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 680,
+    "coordinates": {
+      "lat": 25.8019705,
+      "lng": -80.19488869999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ35yW5CG32YgRZQVQzlclW1s",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6582896339385845093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Surry Hills Coffee | Brunch Miami",
+    "address": "8226 NE 2nd Ave, Miami, FL 33138, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://www.surryhillscoffee.com/?utm_source=local&utm_medium=utm",
+    "phone": "(305) 456-6787",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQ_DWCKKx2YgRMf7XM0TSJuI/photos/AWn5SU5Kzmi4FVHU9V9SVmSCiJ59wiCw9OdQ6pUTp_uw-1_WtxUgIXkidtJTR-_oB4K4V4dvEVggabXZjwlBlLxAL2mhUXSC_cdJ-iRlDGFMjN480YEXshaAM6vv-wbHhffEjE3K4UK1qgaHbjPJiEI7k8YvfGRtDHfqsa1jycHBiklLyL9vzmHmPFi_bPME6aQRUP8y5eCmzwM9s-9qqOCTWXyKOVNNDe1UAjFFgLuKxVcl8iLJhz2mt2TULDzIkcLCSPq8MEORjybwgRVkCbArlWwbEgXbps5Ma9SUvcpMGl_kDwI_kWYmWbVO68EwUe07a705NX56OEbzmbHW06bWom9TVoVL1nJxty1hZsc5Z476TpgD0NvIEsui6KFR5A4FoA69KkTssC7RVnOXRdH1dcrz7f7bp4dFlSPMOg9yAqUReUWc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 288,
+    "coordinates": {
+      "lat": 25.850345599999997,
+      "lng": -80.1930987
+    },
+    "features": [
+      "brunch_restaurant",
+      "coffee_shop",
+      "dessert_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQ_DWCKKx2YgRMf7XM0TSJuI",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:30 AM – 6:00 PM",
+      "Sunday: 8:30 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16295943492056120881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Naughty Coffee",
+    "address": "101 NE 2nd Ave, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://naughtycoffeeshop.com/",
+    "phone": "(347) 283-5609",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC0Wl_qe32YgRsBh8j3fDJ10/photos/AWn5SU4_8a5aMm3DLL8qpptOUM7t-VPbjotnZ2dJ7vMNIMjwK6JVxMIwZ1Ei6IuXhm3Q2nmOUZD-vs3ucWpPoyv3FA25iiQPJ6AVmxKeoR08nB2weKNgBrIcliORGUbXWkpq2LSR8zhn7_uN3x6hO1fjeFGEc-6fEZzzPAyvdQFiaJqmxPwV8bL4s0pE40hzDBbjaDu74Oto2H2botThr35xeFyMt1r-CbtlenZNo-LnhTqNJe5Gf7Y_uB8rjn1UE16GNmY9U_ZHQxGkb5iqISakX5GaXcR_5T-eITvf4iyHCJekQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 155,
+    "coordinates": {
+      "lat": 25.7753737,
+      "lng": -80.190147
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJC0Wl_qe32YgRsBh8j3fDJ10",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6712548687894812848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "maman",
+    "address": "98 Southeast 8th Street, 830 Brickell Plaza, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://mamannyc.com/locations/brickell",
+    "phone": "(786) 607-4224",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6dTjhLu32YgRswh7VguzoQ8/photos/AWn5SU68WdMEyAR0KsMlGFUPyXeALvcXN05k1D0orsl2r24B3xeyZ9Lf6G62LN-LK66Nmrr_aKp04WhjQWd4rS9uAQaFaKPggHsfISPsYT0tew-Scjua88RYuVfNLF9VNxx6JANNPtb6bOnclsMSSFpbSEbROAtqpq9Vm7MguAfQGIvCdnejZlgiclSNLSHjrTQx3ukInwqOqbm0M7wLvN6E2OGrlPzpc3RbK0D3bagdmBjGuGAxoRrDsT3Jpj4TLS4RueGV_LDz0_RjJkEvEm6aAqqlwy4MEs3bZyJCLB53OQp-b_o7acHkXAWxM5X2D7D-u6F7qmxHcRBUbx62PtrnN4VWrhibX2Y5PJ9liIV97yFcrJ0axEpqaujkos0P4wHyJZM_Axe7-lkWvdDz5JkV7bT1eyNzmw-sNT5c7wLGSfVV_TpJbH8H1WvgixrGdbpU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 484,
+    "coordinates": {
+      "lat": 25.7663203,
+      "lng": -80.1921986
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "american_restaurant",
+      "french_restaurant",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ6dTjhLu32YgRswh7VguzoQ8",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1126378243096250547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Novela Cafe Social",
+    "address": "2323 N Miami Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://novelamia.com/",
+    "phone": "(786) 772-5615",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk417wLW32YgRgYfV48wooek/photos/AWn5SU714jWH78Nlxius-FRkscyKrkcx8jlbjCrhUt5BcQEr1E53mSJMH9E-NgGBSrXxfzLTVTamT_cLS_SDUu2BuclSk74wodPqu5A0agHTloRKI1AalxPHdv5N5Ijuzia5rjd-NJSamQWn7kcaO94gmXKDOAb6IdAEkPAixWaon3eIpQqopZaG7WRlcmjPc_FAswdbmB3vQ0PQGC1VLuMM1eOn7-5A8w25vAQ-NSNz-O6RkNZoPtnp_iYRlRRLqRWzxVUXrDXGBdrVSm3c62dPVscGiBOxQLyeFLj4W6UiWyUhy8N7Cg2p1yg1Pm2J1hlHkVtyEAszfR3i4NaxrP_jRU2UMRfMMESe8wceWiOSD89Xjie8gKh7aVrPg6Ve4_vS3QpCzclSZaAtWNwo-EzJ9UIdpjE2OgElbLoskkyDlXA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 580,
+    "coordinates": {
+      "lat": 25.7993968,
+      "lng": -80.1946986
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk417wLW32YgRgYfV48wooek",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16834781742548486017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "{petite} maman",
+    "address": "140 NE 39th St #136, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://mamannyc.com/locations/design-district",
+    "phone": "(786) 580-5938",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJadaygN6x2YgRsCcueNDVNxI/photos/AWn5SU6w3PrMg85WBQv9iiKSYeV1awMvy9j721tQrVoCBpuNFn90q8fn3s96At_fGYK4kYXptaP37Jk14MmYP3w1Q5V6IWOw2n618dps1ewXy-JnwF48Pow365dUYMcPS1TBx6NZjJoQL_rRb491sYm_NSZnW3Lt7mMBQaVtG7Lx9Fgv0kNsd_3xviFz9AoEbQPfRgOnZbMA6K2-C-cAyeLBCn_UEz8kLW5WZptIBNaf-pW33QwjmodiVVrOaEhizU9gSEdvWhO3GdsSIr5hQfAUhRKHZIaFrLo54DJhzOnoNHyKfovCFHom_rqIjd3C2KBMum1BE42uCX8K1ARWLYahCUaJzBspm2rGA3So58Y8J8TffiM8iIXMycR2L3NtmlEnb83jKi_iNXOxzRLQ4BaFU-e1xhQBYDhmHO69QTmK-Z3ucg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 531,
+    "coordinates": {
+      "lat": 25.812278199999998,
+      "lng": -80.1925737
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "french_restaurant",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJadaygN6x2YgRsCcueNDVNxI",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1312752907747993520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Colada Gourmet \"The House of Cuban Coffee\"",
+    "address": "2749 NW 3rd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://lacoladagourmet.com/",
+    "phone": "(305) 873-4007",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg9I8Fj632YgRa4Xn1vEGKP8/photos/AWn5SU7NkMUK5Gg2LyADapJi20IhkKrPabPoKLINnFAf9BVhJyUpa6iXTkQSELCAc7D3JkqC3NdrMEyQnQmZCMGJe2ORli6yXv632whjN3q7bVWOsucNY45YtUXnvgB7optl14rTV_YoNraEhviWlt_BUvJy54R9f9rs48Op8gv_OvhEl9S-v8kEByOBXba83YFP9SWgUiaqomgpgwLoxjEXNdZBw_kdfkQKbrUPhprcyOfJGv2rTI8n1glbxx70RFxl4bSj957OoJYUQu9ZwYo498yQO3HO2YL8T5NDuqS05FQAEQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 876,
+    "coordinates": {
+      "lat": 25.802407,
+      "lng": -80.201059
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJg9I8Fj632YgRa4Xn1vEGKP8",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18385953114502432107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "GROU Coffee + Cowork",
+    "address": "4100 Salzedo St STE 5, Coral Gables, FL 33146, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://groucommunity.com/",
+    "phone": "(305) 639-8218",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUdlFO9e32YgR5UFVeIEv64U/photos/AWn5SU4MUIGijuy85oyBGrSVLB6wtm8ojgi2xxTvM703BSnvk_uxdwMe_tNmjBAcmvrIpDfJpejNa-VgXf_ZCX_eKqiikJ0kCV1HwGOPxQ6CY_Z0niYkUa41phfI5DvKx0tK5BTnUgqtiWa_Qwq_qJIr6Rkj2280cUdHiDDHcFZOJ4Os4qJcBU2x2CeGeMO0O8TnyJ_6i7AwMPlXYdS5-2VWyu-DTABmzKg3ftHnjwB58X-QrkiFevxyH94ZsP486KkK6TsLUqgGqmB2eimgAX46aZ4FbtXNOA7rasNMWzMRJyPk7g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 705,
+    "coordinates": {
+      "lat": 25.7335264,
+      "lng": -80.2604422
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJUdlFO9e32YgR5UFVeIEv64U",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 8:30 AM – 3:00 PM",
+      "Sunday: 8:30 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9649858859687559653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Paris Garden",
+    "address": "1239 Alton Rd #2, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.cafeparisgarden.com/",
+    "phone": "(786) 764-0923",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJ959h-m12YgRUbGRTakGkQY/photos/AWn5SU7pw-I2O3QoGcmNV8vXzuR-gXkZGhMi3JG13bIFapdn8hYmASF2GnChgoyQo4zXkaAqaZ4jiKc-z6s01tHBRuyDwwk_6t3XB1Zjstv5GFJOPxmYoYDh7eDMquPvbrQJPiY9MVZrr3zquu2jZofk93xVS7nq7sXy456y1KfccrBf3e3Rc12kMOjJNELieYVnN25fscNJ-zo3mPyP9zdYo1MRbVnn7rClIxGdhxnRtRhf_RyVN_8YtfODyyf9ciE-6GlP9j3PacUYG45TbWeNBom9OD2hrWim4h1G9za4qhJ4grAYsBGTCCeN1aXYxwtaYmcNW8Zpriapi1FwEg1KbKaLQoo-64vfUO2ll7Aq2tRMfe4kKKoNfUe1D87YhqlwLnHprF9kzH3-gqwj_1IuqhMduKGYV4vzsiUcvdTulvxg-VW7ULGCSALaCgANmg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 472,
+    "coordinates": {
+      "lat": 25.783566,
+      "lng": -80.1405791
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJJ959h-m12YgRUbGRTakGkQY",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=473166760071246161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Suiza BakeHouse “Brickell”",
+    "address": "708 SW 1st Ct Unit 708, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.lasuizabakehouse.com/",
+    "phone": "(786) 848-6267",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-W_JjE632YgRNkuwJmRj4LA/photos/AWn5SU40wDaaT4Aa4s5ypBNxKcMdNJBn_0EUhAkMhb8380ZD8jcuSuvV9utidmijeG3BTuinrIsMK42u3lNMM7wbPRF_rwvHuWpTov5NUTU6Sfb5YcTonbN0KQOrj1tnHzGh9H36xV47rfDCdxxz2wiuX6uGHK50YA288XNta1zGU_PzNnxwrWfl_sPzJEThAUgv0fYvDkLxGA6ETbXeTcc1CKNgro3xypOIdNkzZD5buy8rk_dC1F1EyOsHo8-ekcAx10uWEfFfSAJu3AJFZvk5sRNCvX8gdUaJPzvOVaJ7Z6EjkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 111,
+    "coordinates": {
+      "lat": 25.7669613,
+      "lng": -80.1959656
+    },
+    "features": [
+      "brunch_restaurant",
+      "candy_store",
+      "bakery",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ-W_JjE632YgRNkuwJmRj4LA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12745296227255470902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CRAFT Brickell",
+    "address": "947 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "website": "https://craftmiami.us/",
+    "phone": "(786) 550-0570",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGfieX6a32YgRC4kEUL-Vpss/photos/AWn5SU41BFvZ-g9S2s8yjkqGJJavdhV8wjnWbPIy13PZ6SXkcJVU0lnMC0HN_tsthxssVVfuEVT9t_ADxitpwQoYyan5dABA-baQji5SW1Ao6rRfSyD2uG3yGqj3lJ6HyCrCqUB3HS8L_64L_TpX1fCr1At8XECRjtRpDLRjBgv8JpBmSLbtBnO3tiyH2Cv3u1UDjZTTOrkeKThVqCGpVhyonuQtoz9xGSfJUYfBwCbnSFeWZpaqosopkD-CXsFKMBmSUYzKSc0STka-0-nYJtNr149utZTUS_iGKFGQBreR36tY2Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1623,
+    "coordinates": {
+      "lat": 25.7646268,
+      "lng": -80.190632
+    },
+    "features": [
+      "pizza_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJGfieX6a32YgRC4kEUL-Vpss",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14674581084747106571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vanilla",
+    "address": "117 SE 2nd Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://vanillacafeus.com/",
+    "phone": "(305) 813-1945",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMfMQPQC32YgRcxiL35K6kaQ/photos/AWn5SU5mup48RAjGs_7QylQ8KJDJin5FcaswYMpcKqF-AB6zSh2zJO95gWcgw7tXKOTnGX2ng7BuGSnfQSm-o7TCNyemmNuP2pnKOG7J5Vv0SxglyjvcauxhwBJg4IlmPU8FbxOzCpsiAQRhy5ji7LTYA9luAOp62Vr5PlKnb602M56nnJWy18yGOGflqDuvtcIxG7RBDP0T5yoyNHlxEawP-fRTn5SPgAfEWpOVJH7Vw77UpY545DKWavxFu0b5C5FIhWxjFvSz5aKqtCh4y424eYGxadnSl2csdrdc67bMT3IjWw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 661,
+    "coordinates": {
+      "lat": 25.7730185,
+      "lng": -80.19012649999999
+    },
+    "features": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "dessert_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJMfMQPQC32YgRcxiL35K6kaQ",
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:00 PM",
+      "Tuesday: 7:30 AM – 8:00 PM",
+      "Wednesday: 7:30 AM – 8:00 PM",
+      "Thursday: 7:30 AM – 8:00 PM",
+      "Friday: 7:30 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11858464433821653107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Miam Cafe Biscayne",
+    "address": "1040 Biscayne Blvd, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.miamcafe.com/",
+    "phone": "(305) 631-2265",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1ZdJ2WS32YgRUzj7gS9nYeY/photos/AWn5SU4na5GIp345XmBdqm4PJTb2u2t2IFJX4o4wepa7T7QyMymN07GReW-Vjvd8AGE9cn3peyCoSJPg-kkdfZabcjdqlxSXqzKWfSHRtixRuuNKSehN_MK_PNvWl9JPCpohHgbYXQrMecI5VVOa-Z9H_aIattCvxq_YOYrTYUJLzNETUd2TRY-xPxZPgrICe3vCG3AROR1goE1fZ_Qlh8WNC59rf62wTPOIWs5LGstd_27XP1_iXZ5VT4xPDV4BVGgQXk7hWfGMPPxjKano0ahDZPrabcY6st3dF1K21vP-2Us5lw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 4273,
+    "coordinates": {
+      "lat": 25.784686299999997,
+      "lng": -80.1903751
+    },
+    "features": [
+      "brunch_restaurant",
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ1ZdJ2WS32YgRUzj7gS9nYeY",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16600663155206207571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Macondo Downtown",
+    "address": "242 N Miami Ave, Miami, FL 33128, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://macondocoffee.com/",
+    "phone": "(786) 269-2304",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXcrIBwC32YgRR0EIQDVkziE/photos/AWn5SU4U_5z2UuKaQ0F2dlWd-Df_LPvZs8UWv4cbVA5bwYA5M6P4UH_9DsO8oRwWL_EOz3KVvLffYYFH27Ygeqb4RuNL_IM_Gj6X2sPUh1S1jVCzOcSAQingXENJdIKjK8_K5BS-is6r1OvmvH_fMbgIwk0Knz98QqKqhhYWkJbXiwl6CLxFw0z1yicKpvDgbN7fooCSjGXc6UKMyYqghPYGLEj39eP2BCOfs_3ClYu4H-W0UH0uevsZ94Sg-NNpF01FzobOUmgZZL0ppcHe7TQhm4Rqqf5lIPrj4CLww10nwTcAqaVaYQgc2Tx_bTVo3-Wz6JrB3zToJdNvIFzmrtV48XBJ1iWXlEbJW22JOxzj6-bVioAW3kl9ZvjBCQtHfYHuS4c5HGitHIrBFJozUb4ow2OJ0DRi2HnTaQ2qEFxO3G36xw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 219,
+    "coordinates": {
+      "lat": 25.7767682,
+      "lng": -80.1938663
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJXcrIBwC32YgRR0EIQDVkziE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:30 PM",
+      "Tuesday: 7:00 AM – 6:30 PM",
+      "Wednesday: 7:00 AM – 6:30 PM",
+      "Thursday: 7:00 AM – 6:30 PM",
+      "Friday: 7:00 AM – 6:30 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2435994628324344135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cortadito Coffee House | Brickell",
+    "address": "800 Brickell Ave Suite 105, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "website": "https://cortaditocoffeehouse.com/",
+    "phone": "(305) 367-8339",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ21tvJAi32YgR7A7VaWpfe_8/photos/AWn5SU6sPlUOsQ752tnLaoq8oxtQxCVzN4o_k7M6ZNVYMEQ5gbFDuxVBeR-oGH9Q_WtrTp-_AkwQmK5MzdzNWRibyUeQdBRyoIX-Ulm6ZUrLZaWMzqYCKkfVZS8nohbexqbajpLh5dC96BTVeRF4M23WkpoBQcp70Ym7h_sSXj3Fb_P2DSClofbOFL1XfNBbdXS7ENLVNwq1fZWuS7wDKg39fz_Yx7zwXbTNrXdiwMahFctufHCHa5H1xfcXjcRixUpQSt9CpYqq7FDpTWkUhty_K7KdemWvlUYECCf5IMulqSDsgw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 220,
+    "coordinates": {
+      "lat": 25.7656307,
+      "lng": -80.19110429999999
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ21tvJAi32YgR7A7VaWpfe_8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18409412812453777132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MIAM CAFE-WYNWOOD",
+    "address": "2750 NW 3rd Ave Suite 21, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Industrial-style European bistro for daytime fare made with natural ingredients, plus wine & beer.",
+    "website": "http://www.miamcafe.com/",
+    "phone": "(786) 703-1451",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMZYy4rK22YgRM_O-D2pKGDw/photos/AWn5SU6hLosz4AXtZe3qbWYDrUTwyIUF_YDOkyFjGpsvc61mDh901XBYTtnxoUoDlx79qFM4-vCLsW3Cdh6iiVZwgkdqfHy1IPjUvAH4s5yHJLSVkaj4HIkD0CpbCCkC6P_oGIbZP26mbT6_g0GE_8nnytzRZMr6zKsR7kE5_LEhSVPFsAdqAoGmRB7v8jxkKUNEE7oyyupxDeLPJv0qznWGgoz1LYH_QLxKMlijsWw6a0aGh1cKhiUwOCiCBg87b3e9Qe4-miGhQ7GkpE803omly10oyeF7iCz6oeRPJsyZqQV8Uw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 6664,
+    "coordinates": {
+      "lat": 25.8026667,
+      "lng": -80.2013647
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJMZYy4rK22YgRM_O-D2pKGDw",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4330292861107893043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Naughty Coffee",
+    "address": "7535 N Kendall Dr, Miami, FL 33156, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/naughty_coffeeshop/?hl=en",
+    "phone": "(347) 283-5609",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnd6-23PH2YgR7jkJxJiwdnY/photos/AWn5SU4_SytaXg7cnBTaRI_AYhn9TNsuY4QsJw_M1XwhbzLFVhp88ILhqHRDrYV5U2XcVxsZnjOlm8RkRq6kvc9YK_oRQTLmTzjsZnrnIzbfjOyKfYYkHUVOxOhq5LLhqJNafV6XVRjdw7QbFQpTbWup9aw62SjHhRqhMCtboPw_qKEec7stS7oyAT-HdzEQDuB-fVcIka62Z1wsqCrwqKuh7NSyXwrWddSZ0jy-qdxQNlT8HHfM_XCQNNEU8-1990cGZ2bkgW0XGgXgtahTOGiP_dGQxz2bO5pGB5GTyU4Fn44LSQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 428,
+    "coordinates": {
+      "lat": 25.6903231,
+      "lng": -80.3125651
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJnd6-23PH2YgR7jkJxJiwdnY",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: Closed",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8536204313897810414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Puro Tinto Coffee",
+    "address": "1940 N 30th Rd #650, Hollywood, FL 33021, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.purotintocoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRWg7wvKr2YgR1kTDvOvs9zM/photos/AWn5SU47AdtFPTozN6zC0CU57IJZVgFcdf_peHt_n-t6j-hSVOp26aUwC3iQeIJzuNXDTkZL10Q5ogD9h8dqBRXpVtsq1qTqTwKJeOfkvlXnJ11MOYxg9et5RqELW4_2KxFsZtAydnBk8IwuGI_OOln7eYKU12ETjWlhp4nQdQS66yYLXi9DCsLZ-rJBvaJbAiJSD62rTXUMpmRBdylTrLOdsPoFJ4MT5WZkDZiKiDZBbypXGJBzIHjNFd4w7MLguZOk3qNO-7QQkVWDxB2sLB0vjDlH2nY8pIyo8SsJ2eJo-n4a8Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 242,
+    "coordinates": {
+      "lat": 26.0276459,
+      "lng": -80.1685127
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJRWg7wvKr2YgR1kTDvOvs9zM",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: 9:00 AM – 6:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3744722112410240214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Arte y Pasión Café MIAMI",
+    "address": "205 Aragon Ave, Coral Gables, FL 33134, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "phone": "(786) 542-9746",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl3OIkWm32YgRTcWuoqGYnZY/photos/AWn5SU4-OJE7P57XXgkYwWMsGB7POO-3nSTQ8rlZjdHjwacheKkFdZeq_3Uh3OPinpHQ2zfQE0nY12n_9K7yKzqUyPIUSjDoI2HxF93qrCCfXm1V32fETTwk5o96f9kQT2k0aV66Lysw8l4fD1s9BpjJDvsK5yJ0smowSv45fttN_eomBCcM_Mlh7-2ot_1LLtM9k9hzItQ6xbSXbSVGWVN2_3CquyDsadwk_ndTNL8PUmbasJxuhFxpC-5A7_Ug6IwIM2Pm_RhRqbfwQbGlcW7Nu9flPwYgYd-vAAdON1LZZg4BzT0hSrGuYkyzgYzYjeD-tDfzYcM21qH8juR_hG7gMdttrD9qYAjub0I770B36vKBGJP9yUmvdNBmMmGOGUUb-d_YLq3OpAQH5Z-b9rYfgjFWU72bKGjyyvEg_LfBhaUhvglYwh2U3Pp2vsQoVg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 138,
+    "coordinates": {
+      "lat": 25.7505937,
+      "lng": -80.25900539999999
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl3OIkWm32YgRTcWuoqGYnZY",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10852998497019282765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Raccoon Coffee & Kitchen",
+    "address": "609 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://raccooncoffeeusa.com/",
+    "phone": "(786) 784-7458",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBU64U-632YgREvP3FIRrBgY/photos/AWn5SU4102dASa6aD2fY_1bgzSUhgYtZ1IrJllX0X5PWph8elXSBNZ-GJztS-vwBOorrGBAGqw5otC3OXk-Zn70ku8uzUuwhnYow6xGr-nNY3_6Kb2Smj828d5_kQNGqW0pxwY1GETeU0_aPbrvOF5aUCjLynG5Bn7dL6DOD0LL1QJEPPxTtjAfKKsTUN45Fi6fDy34vf0KQNxDuYV-5LGP2xQG3p03rNEoWvH4MyufcG8g2SnWJMuCnAeYbddOfrZGYG_0_ZXq1P5k5bfKIo8_KDp5San4ZhVOEQBENPeA22vy2Jw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 369,
+    "coordinates": {
+      "lat": 25.7673544,
+      "lng": -80.18850619999999
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bakery",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJBU64U-632YgREvP3FIRrBgY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=434152629119480594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Breezeblock Coffee",
+    "address": "230 NE 4th St, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://breezeblockcoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmQMgciW32YgR5scFe62G6q4/photos/AWn5SU4Gv2SkoIANItHYegjakSvbKJ-_eHoRWsbJBr5_4WCm_IKFJd3pzd2ZHiWjch_2a2zw2mZtuevZcD63rAUl20C3g9dfRTjmn8Z29FbYwxLLQ6_OIlKOiws_wOjv61ZEqhRffDbebH7q2iEtzDcz0Lt4TizesZe6xuaLLlzDVmPqKyNlPE091eSqWTWFlqENB0mDLv6AqOaWy8eU-PLeDT1c5d0-EFFJpoXjlLL7Evc9vNzAM_CdNVgCwMWHNzoAKb-PCFgPiCpzW-nYoAwVO495uWEnjFkCnST0MFAaOY1cwQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 282,
+    "coordinates": {
+      "lat": 25.7779448,
+      "lng": -80.18979139999999
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJmQMgciW32YgR5scFe62G6q4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12604034586801194982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hideout Miami",
+    "address": "425 NE 22nd St #203, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://hideoutmiami.com/",
+    "phone": "(954) 361-6980",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk76p0LK32YgRiS5H0HUL9eQ/photos/AWn5SU6zugPEug8QR6inlvf87l_pRl_f4WD40QswkbRuGae4zTS8y9H4PzD6KddWxb0vKTDqWCtyWdTZLGMLUHDPLK6aAlPtHCIt9ckpeSomlcjUIz6i-QmPjihcr6yCbD8yWZ9YcWbUvknEJ07Rj27ZRhqqJkyL8SxiWVLBS9DJ34WkPq_aRB237jbYnjYVnU_d5EeLUnRNrBZcu8a9WiqitNVcF_rH0Dd3XqJ-fNZgK6jn3-L6_0Kn9I-2lJyUogruc28x58PYoxumpL5U0uGoPpvW--zWcMZHtM2POI184V58HA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 289,
+    "coordinates": {
+      "lat": 25.7983267,
+      "lng": -80.1871013
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "meal_takeaway",
+      "bakery",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJk76p0LK32YgRiS5H0HUL9eQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 10:00 AM – 3:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16498105410575085193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vice City Bean",
+    "address": "1657 N Miami Ave unit c, Miami, FL 33136, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Bright & modern neighborhood coffee shop offering a variety of espresso drinks, plus tea & snacks.",
+    "website": "http://vicecitybean.com/",
+    "phone": "(305) 726-8031",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPafykqW22YgRgVtxDd-DJUs/photos/AWn5SU5Oy0Z3Qxghmo78tAZfT-daPcu4GOJ4_R05wvC4YIZKkwFojcCXT4GyI45BcCxK-1ehlAPMH5ayBKz-DMSBuGxAo--xvsAjwFUR_xd6ij658LpBid77OLyyqSomdQqe7PyqrmUs3EHND9mqUAgxYsyyeFsy7XrUv_R6KH8GIHVtCo99kkt2IdL7c5fclsC2oWGQ8Z1G4aAlJ2SFioo02i74rCfGc6-jOwD5hnbblWtEi-SYohwru96EgLxu1ONjZCscceIdO49b-TnSdsB5iUTtmrmBt0q1SnJWLkiwc0ChLwFax2HTAZTYuZEbfjmYq86LwJYghICS5MTOdegMJ4p2QEu8bHfftIyZcUmw4_ZBQC_eKqh95E7aMh7pGZnklgMGqrwTRcCYQOTYtCGeQ_DaR8ckwF5VnfBsWVwssPx5iQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 719,
+    "coordinates": {
+      "lat": 25.791518999999997,
+      "lng": -80.1940896
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJPafykqW22YgRgVtxDd-DJUs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5414879121009367937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bobe Kitchen & Bakery",
+    "address": "236 NE 4th St, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "website": "https://bobekitchen.com/",
+    "phone": "(786) 794-3686",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvzGxHAC32YgRMvfqU29BbyU/photos/AWn5SU5sdD0XlvJ2vRbtOFuy0E6lcs-XXWC4YwNIbpI7HpALOWDufgncGb_sBtbWh50fgjfGhsBoGOgpm8VUazsSRlW0Kien1tIXSs-8P6omBUJhZFvFW3bCh82rI66sMPmxbeoLnybZoePjv2yqJLbxTgfwbwBscgS1_YVsd0vfVe3HgIm0Hz4Ir-PudOaUmk2wsEWCHUO6EBMFVmJ8lycQurqXGB10s3jejoWo00j0-KmBnFM79iLHZwaObBJIR5OOv_DOYYUkvxbVBHP1laGu_6v9dQUrwyR3IKwGd8qM9JKWqM3Y3ZDsus5xC42Y623tqA_UZRvUq90VK4zzNp72sbjJqZ3Vxk9qqhBR_7-PkRvxmL_YVwh3D4ty0VF-YhQc_EL59_XsArvIxtnmnc0sDgcEwalR28tqAHtaW318eoPfHQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1556,
+    "coordinates": {
+      "lat": 25.777925399999997,
+      "lng": -80.1895698
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "cafeteria",
+      "bakery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJvzGxHAC32YgRMvfqU29BbyU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2697446648223299378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Suiza Bakehouse - Brickell",
+    "address": "708 SW 1st Ct, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "website": "http://www.lasuizabakehouse.com/",
+    "phone": "(786) 848-6267",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ89SWGWu32YgRVtiEX6tGkvg/photos/AWn5SU6kknxJLdB28QcamDIU7NNACJKm6A4_eRQYPhURiyPBOqHGjfLeZmuqQ5K1yU3brzas8mwBVqlzSmTvOKkSYkpNWVff_Oc9FtP3JP9OSIDD42K2GGLDq6Uo4WShPWWEOwoZO5_5hy6_DCjulbVCy0hh6KTxhzRoQdC3jvpYmQvv7PMVCeKsyun3i6rUt_ztsXFiaP0kj4OLKkgYGKBzlnoi0OuYzvfuJDAiXatiq1gVKyxgCrA6vyupRaqtXSO4daI_0Y80SxzokUYsQdPCviTh2CMLXp06Y-GpIYUnjawAq_H60aqV5B-DhX4TTnxY_U1VM48WsQkxIdlrxODNjqO9fDU8JkpLxHYO8mkyzwSwIFLLbr2qf1vIPpmxNkKVTl-Rq3_JkAODKzqJb9lqerI4_NGqlC9t0w-168hz2o6AVQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 119,
+    "coordinates": {
+      "lat": 25.7669613,
+      "lng": -80.1959656
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ89SWGWu32YgRVtiEX6tGkvg",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17911456369861777494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ficelle Bakery",
+    "address": "1440 NW N River Dr, Miami, FL 33125, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://ficellebakeryusa.com/",
+    "phone": "(786) 688-3626",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5bH63xy32YgRik5i1ocLaRQ/photos/AWn5SU75bw3HXb4yf-I9IhOXr_GpCI_IN51CIUwQxw39nEYVB7FAWax42zHlmfLICh0Foe0OVSqdXDuN35gNkSuzn21CV00mV3JqP0wjzmfTEpKJOiHhugJQj_LSgCVNEz8ohz0_xCiNOe4jNSTZslq0y94PNs__0CFFMqVB6kTB-zVeX4rG5SlBq_KbdQ1xRPSNhKqOkz5lQwhcEzTOxyiz0_sLUD36pmUCSNoPjM-6DI4_cS9k3FDUurNZRSvm8Lkiu7xS1QJdlX5rc5UbU6MU_gLSNf74QQzLtAKoM6vOOuz1mw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 552,
+    "coordinates": {
+      "lat": 25.7855453,
+      "lng": -80.2201843
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ5bH63xy32YgRik5i1ocLaRQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1470719431358434954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Zak the Baker",
+    "address": "295 NW 26th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Well-known, laid-back cafe with a hip vibe specializing in gourmet house-baked goods & light fare.",
+    "website": "http://zakthebaker.com/",
+    "phone": "(786) 294-0876",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMVmQ-LK22YgRXCFmM480oqw/photos/AWn5SU6mb6I5ZhghBQffNTjcWlvjAOe8Lnc1gtqzOBIskc0IfrQx4-osZgHk4GAv1rAmFSm6drUkC4R2F6mbwHzQ_gp01IXh5xEmCe5rqniuLdngqC39VQWhXDH9zDbfH-erl7z85YQHrLL0cdwtW1jRfr7aYY5cM7LFs251dBUyOFV0PE8ZsbLyB5rAt3Y0Rr8mpVRlk4JsJNwwqWlgwL1iD_Sb1Bwqqtb_XXxYLqP331oM3NIALMk95tytRdFHHlI8TyDctHrKTnPlpTOc6DDtsSfJuJEwJZCuB7JuHbH0XN3nFmz-9UIFQd2B_q1XpQGCAQ4bILV2m74sIfyvC1eg90VW5wSBXKtwnPaR9bE5jx6LA3FvpSu7HZeg3TIW6bGidC6LqTzkSccH0WC9RbZFxhUz71E3qatjwY1ii8tScHsNsKDE/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2751,
+    "coordinates": {
+      "lat": 25.8016024,
+      "lng": -80.20096029999999
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJMVmQ-LK22YgRXCFmM480oqw",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12439562910398030172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frudeco Bakery",
+    "address": "8212 NE 2nd Ave, Miami, FL 33138, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.frudeco.com/",
+    "phone": "(786) 569-4450",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4TD2vxix2YgRihYyda5Hvbg/photos/AWn5SU7wbktt7xFZcQrwBlQocObJfRFH-amPAa4jNpf2JYYOKB0skJg3j27C5rYiRhSP9OyuVwpVIDd-O32fOnDypPuwDRpQEGJB9eRkXmeOADli13Xsy41ghuYeC-9uTSoNrBUM8q6CSl9EAiF2YRPuANWNqK6rvRXZNp15P0sKma_-6b5Dv3uw_jKtf91yBCwUkkqQ3FjG64VV9cozCkvn_A29AVFdwWKuGk4UZewXwgaiRsfJBy6-5EfkvcnnI6OmCJ-PsUmSZCnFGFMJEstI_ue4080SGHTD-nwKYwoOSY5ASC1pPeJeCOw6_4-jImd-8dbF01M18Na1a3aYPyDicWaJabdhDJ7VDvIsY2nNbExVTNlrsNKyncXDO39YdT8b7gDwFFZjF7kKUaraDAMUc59eiuIiJolB8spYxTBBb4ePXU1O/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1216,
+    "coordinates": {
+      "lat": 25.8501001,
+      "lng": -80.1931371
+    },
+    "features": [
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "wholesaler",
+      "store"
+    ],
+    "google_place_id": "ChIJ4TD2vxix2YgRihYyda5Hvbg",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13311874888193152650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "domaselo",
+    "address": "2691 SW 11th St, Miami, FL 33135, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://domaselo.com/",
+    "phone": "(305) 771-4660",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnY-BzZS32YgRP-9tqv6E6xs/photos/AWn5SU4Tmy_be6sGPecNQEmj46_3KtG2wEPh-73z7DzRJZ6vUmP_wX64-xbnEyz8RoSrYvArbf1w0esXuGgpBnqJLxx7ils4H0ZgeunjvX29e3pyZyb-yytAdU_MP5nC3lfyGuqhueCIzpIQHIlWO5KXnPpoaNX5EPLpd7_8c78ybmu6wRLaAJ-12ENtkKfywj6aZ8PXXSyKGdOXw7QKQ8CjHLG3Gen7DQ2suXtwxhu_NTfHZvvC-XnXmVYZtl8FzSg0Tj0s8nBKjZ-zK_0aBFXtoPBQZ4L9uvEJqA1RsAN7YsTLSYxhAFQQ2SNvSpNjsi0HnBat4zsdVdxtMO8Af-jEOshWEJxeUcgXEvk9-D7e53GTPy_4T5y06qZe8LPEaDdqWCFIa7oLywY_coXfub-y22xBrIXqFk-mXrku2CaAmSrG9dA8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 380,
+    "coordinates": {
+      "lat": 25.7626916,
+      "lng": -80.2383246
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "market",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJnY-BzZS32YgRP-9tqv6E6xs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2011847887866949439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rosetta Bakery",
+    "address": "824 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "website": "https://www.rosettabakery.com/",
+    "phone": "(786) 805-6861",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFeL_fYS22YgRgFp3LQDnONg/photos/AWn5SU6SQm0GRlC3_3e9vNPrF0ahBqizB5rTLFfZqV9JAzocqzNCxTZgkRbslwlJQrgXJ6xMaDdjqRb6gAqC03gFP84hmN5OKifBPWyV9_buHLPfar9Lxg0djkwGSeSNBckZm5tDupkpDNP5ek_66vQIz9Yq2wAOM-bfaGXSCmkaGOjK0yxJ-GfkCLNtJi3dTKr0dczMi8mooQwcQzCGeFB8HUAFfPGDQF5I_1nB0VIQspbpe2N7rUBIbzlQVMwNwNt8S8NzN8y4u-f_uvV1gNL_YEmZs6NSf7ec4W4qH1mV2uV4G2Q56BkncAFR0yW1-5d1nzasG7Y0B7WZIiPoDIZWxHrB4xVkrc3YSZzKQmM3tX9-iYf9AceK1YSfl5IC16wBvZ2RnBkPw6rBIPM0-ECG2yWsfYwX7WK0u-NlrogjK9LuRTDK/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1212,
+    "coordinates": {
+      "lat": 25.7658663,
+      "lng": -80.1934349
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "pizza_restaurant",
+      "sandwich_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJFeL_fYS22YgRgFp3LQDnONg",
+    "opening_hours": [
+      "Monday: 7:30 AM – 9:00 PM",
+      "Tuesday: 7:30 AM – 9:00 PM",
+      "Wednesday: 7:30 AM – 9:00 PM",
+      "Thursday: 7:30 AM – 9:00 PM",
+      "Friday: 7:30 AM – 9:00 PM",
+      "Saturday: 7:30 AM – 10:30 PM",
+      "Sunday: 7:30 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15580456898837043840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dulce de Leche Bakery Miami",
+    "address": "3500 N Miami Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.dulcedelechebakery.com/",
+    "phone": "(305) 615-4441",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeWIyhpmx2YgRJRz_iHyiE_M/photos/AWn5SU6f6u8Xk0Ydz4aPh1XTFYPZ5oe3k00ltTj0m32kyKLsXIzuMLjMmg3jG-tbi05M138p9MSV9VVC0hfOCapEj1bjcjDsXFxSuaz-yOAM-YNAyNVSgTRPa7ut3OjoPKzd3YAVQkf395IP4o8QUCL8Upe8NiL4nFFchC6zx-EiTubzHgNBdVCfEBiDSdPnhBkMwXo2D7Rr6P5RyTxfNZh7PPFeNT7WEsTzQWA39OrN6hQgY1rhz4uZ6TfuLdDpTB_R3OFMiWWabQE96vIJIwqSbEqUIf6WVeg0A4k68keLbt446qqjjiEsSYGbI5gLdySiU1AO0brwxM5IRJcUTvqZprd7NWVtStke_zsaZ3tKU2nynnFIUtBeOjQDo9WWaj2_N93mTK22KPYAn2uhskv6MzuryKgCG0B1AHoOuczEdhf_Dg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 163,
+    "coordinates": {
+      "lat": 25.8098153,
+      "lng": -80.19554860000001
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "wholesaler",
+      "store"
+    ],
+    "google_place_id": "ChIJeWIyhpmx2YgRJRz_iHyiE_M",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17515522031532055589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bettant Bakery & Café",
+    "address": "1043 Washington Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.bettantbakery.com/",
+    "phone": "(305) 673-5522",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSbjI7Ra12YgRT-HygVlq2Xw/photos/AWn5SU7Z2vBWIUizRkEjwVN_e4VsqaotYJu0QLuvL_KjZGN6qRQKYODoe4dWHG_Qvu0zXediAA8CZrDaQxiIicd6I7lkjXKiq51Pnbv1zUczYXNa_cln1CP8pk3hd0hNrebZ0GzhQV4zDIBCtWGsHsKB6iljl4XQFUIgd_mKn_3eVTCv8Fea6xt5R18-8IFTOlxCtkbS0Dtame-tT4FFPW3DwwKkIHAQn_-LjlcsvXBA6ZLCORSsAY1Ls_fxSFnqbbIZz-8ae9GAxMItCcAOhaRAw5Ier2JZiSBlzNnqJUcUlui81Jdfi0hsmAYOIxlg3_Fx0TvGZTt_zU4mG0DFqF4x88xpYQezOje_jQblEowK85xeKtD2nOQ9S_TBPU24NdAAl23UiQYEeUhiASNsZtNWhDE7y0HlT2-cJs7O4dB4lSpF-4ML/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 681,
+    "coordinates": {
+      "lat": 25.781389299999997,
+      "lng": -80.13249499999999
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "sandwich_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJSbjI7Ra12YgRT-HygVlq2Xw",
+    "opening_hours": [
+      "Monday: 6:30 AM – 3:00 PM",
+      "Tuesday: 6:30 AM – 3:00 PM",
+      "Wednesday: 6:30 AM – 3:00 PM",
+      "Thursday: 6:30 AM – 3:00 PM",
+      "Friday: 6:30 AM – 3:00 PM",
+      "Saturday: 6:30 AM – 3:00 PM",
+      "Sunday: 6:30 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8996338663314088271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Vie Belle Miami Beach",
+    "address": "334 20th St. Iberostar Waves, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://laviebellemiami.com/?utm_source=google",
+    "phone": "(786) 779-1651",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfSBwKlu12YgRb2BGJxUJL0o/photos/AWn5SU6tDZfxns-qatp7LvNiIRWvziBhkA-hX_Xk1zIh4BJGmgCcfvtZYOj1WUicgPumsnC3gnLRdEnuRVn9B7UWtuDTYA6ldPOTrAcBJOIXtqCdECdIvCdnk4swGKfa5UoEQEziiO9FCQR-oOZXYs7kIZU2ZwfUkbDevNZ0LWE0NYbV3SbXQfWyrUBP9LCBO89pmeakxmjgbpSygFTifMtxpUrkk4rN1L1UwmXjH_2TmugdvPMftN-CRCGH2sbfwoTIHSVoCeY7C6nsSkvEtuZvM5dSSzIXfEeAdULxvpiYFLO1wQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 480,
+    "coordinates": {
+      "lat": 25.795957899999998,
+      "lng": -80.13095109999999
+    },
+    "features": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "sandwich_shop",
+      "dessert_restaurant",
+      "cafe",
+      "catering_service",
+      "food_delivery",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfSBwKlu12YgRb2BGJxUJL0o",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5345501269169954927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Diana Bakery",
+    "address": "2328 NW 7th St, Miami, FL 33125, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "phone": "(305) 649-4971",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu-BSTx632YgRNS5mUrCow0g/photos/AWn5SU7x8ARAmYZJCHFZIEd09hIOB2Pu1EKz7XD6MpnxNCIo3jurIht2giKtes1UHkJL_plICNe-Y6lBM-vHMvL4PfT-Pm1_s-pfbYEKbOdlvKZqf3BqwLT1Nfwzl1WyYxg4l1xTK3jdTp22mDG2gXLr_tWy2feIIM3c2vCrlvElmaiIA-Xzn9BTrczVVm4VFn3XrB4wfk1JDAq75UJYDr4cdnoC0XO1qS5VYH-CKxCzCe7CyNdHkRwJ6EA3DnsIJOZ2Jfm4JfeKBYEMBPHbDGHgvjntnIJA2hmsygX-9qBL7BkTRg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 562,
+    "coordinates": {
+      "lat": 25.7794559,
+      "lng": -80.23377669999999
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJu-BSTx632YgRNS5mUrCow0g",
+    "opening_hours": [
+      "Monday: 5:00 AM – 7:00 PM",
+      "Tuesday: 5:00 AM – 7:00 PM",
+      "Wednesday: 5:00 AM – 7:00 PM",
+      "Thursday: 5:00 AM – 7:00 PM",
+      "Friday: 5:00 AM – 7:00 PM",
+      "Saturday: 5:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5243219866439527989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Douceurs & Tralala",
+    "address": "1570 Alton Rd Suite B, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://douceurs-tralala.com/",
+    "phone": "(786) 960-6866",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOVF9lv612YgRwHxFZ_lyL1o/photos/AWn5SU75TsJvFahVyi17gKPQkGp1X6Dyzjjx06QQXrbfTHHZXBKyZlzLYgpU5cEL5KZfFu1pwR8X_ACdYNYJ796NDCsfvcbQtT8olBjIQMYGTKEhXU7_jzbsWAVr1B7ismfdxmFqS3LUo_5g4ZlWcDRet3cF-YdRbzEQQrQg4xlHQ_V2cfSzVMtQ2GemY5Xg7QbaG4SjqnXVlQZOxJGNj_Qakhtlz9cinTCwzrwNpGB16PYTQdH22nePKMw3lzTNWJf37SPspKa-sfLI3Dc9ndbPJAcLA7I2OCDRp_N3B-Yjcgs9RRhlsSm1IoRPrUZ5mXLm-RV-nlpnVX4xS93yAu7vDHC0rHcvcCXZaqNuH-3EcYxXlao2O6ASZCPNKRqHTiL3k_PmLuKSP6RCAT5k-cL81QSzGmR6ibI1jrxymz7aUtX00IuQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 204,
+    "coordinates": {
+      "lat": 25.7886648,
+      "lng": -80.1413973
+    },
+    "features": [
+      "bakery",
+      "brunch_restaurant",
+      "coffee_shop",
+      "sandwich_shop",
+      "french_restaurant",
+      "meal_takeaway",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "wholesaler",
+      "store"
+    ],
+    "google_place_id": "ChIJOVF9lv612YgRwHxFZ_lyL1o",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 2:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 7:30 AM – 6:00 PM",
+      "Sunday: 7:30 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6498539202823945408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "El Brazo Fuerte Bakery",
+    "address": "1697 SW 32nd Ave, Miami, FL 33145, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$",
+    "description": "Bustling go-to for sweet & savory Cuban & French treats & custom-themed cakes for special occasions.",
+    "website": "http://ebfbakery.com/",
+    "phone": "(305) 444-7720",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYxi3jqa32YgRnTAkI6kPM4g/photos/AWn5SU5jGnBjb8BnGSaAcfJfyv6nA0WUjtIXam5_HKso-2ZKBspaU3HZ6lrfIibRIurW4svllAzX8TuvYvk-K5rf3LY8MA7NyQPWgaMJ6t53oAEfXMiTDSJ1wkSZVa4FEjx_l3hnGFbQ3otNEaICWWlX6TT-g7fCsKLIIpyKIHExfEqGwuG6ZGDBKyd8I21m9fw7XGZm7Rsx8_IYR7cPVFL2nMfE7l3J4PIH7_MsyecAqoNp-9sZKDp_Uj38AX0tDweidsLEIzTKxURP0RejmvbGxm0bgAU_-rUvfurJyxgVflfdnUuFG7mIh8W7tK8PytiMogUP9-Txo9nm36qpWE0OdXG_jG0HbuB-DtO-JrABhd5V3yntgNjSxRnhMdovRQbUx15URsN5KkcT1-Rvpd14mOF6EolmimN2-W4kFY38cFERp0s/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 895,
+    "coordinates": {
+      "lat": 25.755829,
+      "lng": -80.2463964
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJYxi3jqa32YgRnTAkI6kPM4g",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:30 PM",
+      "Tuesday: 6:00 AM – 6:30 PM",
+      "Wednesday: 6:00 AM – 6:30 PM",
+      "Thursday: 6:00 AM – 6:30 PM",
+      "Friday: 6:00 AM – 6:30 PM",
+      "Saturday: 6:00 AM – 6:30 PM",
+      "Sunday: 6:00 AM – 5:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9814205232083906717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Majestic Portuguese Bakehouse",
+    "address": "3340 Coral Wy, Miami, FL 33145, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$",
+    "website": "http://www.majesticbakehouse.com/",
+    "phone": "(786) 294-0833",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgfpf6Qm32YgRGTHIgOFBjW4/photos/AWn5SU6K1B3QDLJe_P7TrhNvTD_0yg6vAr-2QlYQ8v3wcurpfbYIEcV8ujH_wYuBL-mo4KYaX1PuuFSl_9dHNqAYKlUiUHt0i3nNjdgRxblVUxRQIs8ESS0ciPlJ17AOhyHMMSLcZfd5V-O8o6kcNo6TWkb_YskKOlgzevhQh0u3F2pnF84uDrsG-MDpaC3xqj35Sp4tCn7MNESeWwVkXQsBf_A9gggDBO9BlnaHOBCFJEVBkgetpSUNW-UJbDxG3mSHU5Jgh-kwL2zCfOko84wXlrUjvFtINezS5MGUsUf-aBUwOoOHl8ijuUSqYNZu-s2SBHhd9ehxFYObeRe6jMbQxfebslYcSRwiwDvpimGv2lWkefL8UBhqWKKIq5LSs4tDmRV4KafzFA6qrvk1iNO8M95MUXi_CmmVYiOABAJmbXQZdA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1144,
+    "coordinates": {
+      "lat": 25.749699099999997,
+      "lng": -80.2486254
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJgfpf6Qm32YgRGTHIgOFBjW4",
+    "opening_hours": [
+      "Monday: 7:30 AM – 7:00 PM",
+      "Tuesday: 7:30 AM – 7:00 PM",
+      "Wednesday: 7:30 AM – 7:00 PM",
+      "Thursday: 7:30 AM – 7:00 PM",
+      "Friday: 7:30 AM – 7:00 PM",
+      "Saturday: 7:30 AM – 7:00 PM",
+      "Sunday: 7:30 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7966095752672325913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Casa Bake",
+    "address": "7165 SW 47th St STE 316, Miami, FL 33155, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.casa-bake.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBQfLA2632YgRmUVeCS1UHyk/photos/AWn5SU6qqmHR7HJOnsgZv2gsgRa4PXcKN25cpIq77dcZ5uEQAFtxT5AEedulf27cj4KDZK-qJLsfaNqyGWF1WOmxWih1euJmZImH4MIZQkv_2zCokLyKLkw54TY8M8lyRxwHa2EntaWb_-q_Tydo4_In6W71_QxEMMSklMduEmjzKppVcYoM2DGcGshvC5hUUTFYGgwgPg4tmlCwiycus33CN2Rn1v0Lj3C9pIp2ygpFyqDEOUfCJ5E_LT_ubtOp8zjIAhRQhdCuSa9Tlv7uONllIN28LLJIj__7NXIuo58qf9Ix2g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 272,
+    "coordinates": {
+      "lat": 25.7265691,
+      "lng": -80.3092798
+    },
+    "features": [
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "wholesaler",
+      "store"
+    ],
+    "google_place_id": "ChIJBQfLA2632YgRmUVeCS1UHyk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 1:00 PM",
+      "Sunday: 8:00 AM – 1:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2963179632240510361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CRAFT Midtown",
+    "address": "3451 NE 1st Ave Suite 103, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.craftmiami.us/",
+    "phone": "(786) 551-1299",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRSJnLCCx2YgRvn0d2mBwqv4/photos/AWn5SU6OebGcUmQR_Cy6Ydxm3SW0GxMh874AMQM0r6t-qzW9uOz8Bxn6k9JB_6KTLa9kVyAF8WiTa1j0CCvxDVb42aOrCxnNarc1sHHw8sV_wjINv9UxvV4vH8SXVuecNql5K0b1--brLwCc5LF6v30mRbP6ERfYm4GoSoiJTyfuHJwP6pz3n9ngP5I4aqvaRYp05xY9nzL0kqB2EUGp0C25pq9w3F2tukK1qh3gxRJXlDSe66ViCKBCQk633LD3yMFWMFrY58SY5GzpQMp8MKK12XEAKg2ZUfyjyDLSEaz7IXLrMg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1698,
+    "coordinates": {
+      "lat": 25.809498299999998,
+      "lng": -80.1923532
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRSJnLCCx2YgRvn0d2mBwqv4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=18350603192953044414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "maman",
+    "address": "69 NW 26th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$",
+    "website": "https://mamannyc.com/locations/wynwood",
+    "phone": "(786) 312-1192",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ80e5BQC32YgRFukcZsIqbBo/photos/AWn5SU4q4l4cxks6CrgqLp1DiET79xfhYaXL3hCGxlv3zmGgsGC0SEj9-Qb7NN0zjlbAVwXuUi8GWRzW-rSgwMITRRxvZF7c896AoD5ZOdNOuDgoVv_BwHLmZmEhcXMG093cqM3Dm4iO8UFK7NBW1hlekV3HR4YRbm_DJ98zZbvGGAZCA4Pf1kv7wmoCXaOQoQK_KcaFbzTu8mnt-hPo4NVfo98NZPwaHyK0QkUXexMEeu6AxqJ7VtQEq4CXGpI-oYDo_z_Z0lhKFxKIII3E-NF8Y6kWBhfkpwBTliRNanW28x46UHWYpSgBZHKUBSidjvCEoXAoBZFLeR2HLtY2LsiEzmu3jjzvHlua4LwsIHvZByFx5ATTkWuLY-vYxlHoUpJU_weylNipFMQnLV4Dd0HBgB25HDBgoTR_0JdxsN_21MkRQgI/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 756,
+    "coordinates": {
+      "lat": 25.8018917,
+      "lng": -80.1962361
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "french_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ80e5BQC32YgRFukcZsIqbBo",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=1903943756896069910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Yann Couvreur Café - Wynwood",
+    "address": "2243 NW 2nd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://cafe.yanncouvreur.us/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe7u4yvy32YgRwjgDQ2l7Fgw/photos/AWn5SU5hBYrh6ODBymUMXxmQF2X8TCr32z3ssT0ryzxkwMnkZZ93XNNOmOVLCeZXk7_MP2I3cSZmZqfU_e0WFqMQMogkt7_uYJYayAcCzqDAKQJSnxEdUTvxglD7WZk_XuoRMPXY7htu9lKOZMU7_ve-3EodgXLR3c2JLsyrwJLPVFUzuzMZbrowZLwE1t2zJa0lk1lDLosGeBbgKOzcyzMaFXLbkCQCyyoeVPh_KRQxpyyrgA1L2JrKaO2LJ--PgpBseywB5isyrcqBtF9tEeirb_y9-G8UoCaOll0JIuZ9oWi6QQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 922,
+    "coordinates": {
+      "lat": 25.7990356,
+      "lng": -80.1988847
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "brunch_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "french_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe7u4yvy32YgRwjgDQ2l7Fgw",
+    "opening_hours": [
+      "Monday: 8:30 AM – 6:00 PM",
+      "Tuesday: 8:30 AM – 6:00 PM",
+      "Wednesday: 8:30 AM – 6:00 PM",
+      "Thursday: 8:30 AM – 6:00 PM",
+      "Friday: 8:30 AM – 6:00 PM",
+      "Saturday: 8:30 AM – 6:00 PM",
+      "Sunday: 8:30 AM – 6:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=871019269968836802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fluffy Fluffy Dessert Cafe",
+    "address": "2065 NW 2nd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "phone": "(305) 200-5089",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEaooXFu32YgRfmTGt_pgca8/photos/AWn5SU5nQKPHm6Cl_3625_zcfBN3fTh4qdvYWdmzjXM-f_cEFaeMMTyewEjivawnhCwkdQCIAVbp6sYOWPJ0TEDEB0orj551xLcM0RdkLq1wc05afmqCqD9CidF73W_7M5vQUbwIDpq27bAl4Tn7Sb3aXa2XPO_JWD-6LghSEmmGA7ZSFPC78mWcsIDQfgo4z5kgAuwpsQvHuRmZ_bmOL1fUyVUoKtjPuiA-9fhgCSWswBbTvGlbyRVM4l1yVOigZFKLo6PwlH94UwJGFiraDNBhtRF_lhi_ty00HyN1TopmALug0mh6VHLmFPNGz8FEc7sQoYyqtC6Dx6KV_rfWOuTnQhJKw3X0IMIAWdDh98BrHFIE-RthNg0H4m3i14PyTJG5ArnvXouFSY8ED9FtCfgTZQCHAK8RBjGUM3NhGtqMkjFEJ-Q0pL9fskpd2QbuPazG/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 940,
+    "coordinates": {
+      "lat": 25.796477,
+      "lng": -80.1987171
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "asian_restaurant",
+      "diner",
+      "dessert_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "japanese_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEaooXFu32YgRfmTGt_pgca8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 8:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: 8:30 AM – 5:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=12641992258947015806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Libertino Cafe",
+    "address": "220 NW 24th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://linktr.ee/libertinocafe",
+    "phone": "(786) 913-1061",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJO6Z63Z232YgR7-R3TQSE0FE/photos/AWn5SU6LaJujfODneAMgoyApJE6kBgQ_qi6RDRqZm9GJPAA2ESa1XqdpY97bo-LJnJ3hsZV-OP6CKxCchI5DTWKgx5gYTEwusxF95D-4Hg5hwSameEErNpDV8FFwz1Por61c7W-hDInzNIaEvQb22f7UxR1UkqibnGWMElka5dFjrIyGemlK-Hqq5CNvqOGU_ZgKnbX5J0KTcb0dPMHdA4s4ZmVuvsw0g8Dn0_btY6mwadvyY2OVbpxtuvRNaSGHVTLE_e_UhSZq3Jkh2SovyxtHQiSX7NdJVVTmkSmcDuR_f9RsCA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 390,
+    "coordinates": {
+      "lat": 25.800012799999998,
+      "lng": -80.19954950000002
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "tea_house",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJO6Z63Z232YgR7-R3TQSE0FE",
+    "opening_hours": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=5895357066242417903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bistro Café",
+    "address": "1352 NE 1st Ave, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://instagram.com/bistrocaferest",
+    "phone": "(786) 533-3876",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJISrRpNC32YgRBTY3l4DVuCk/photos/AWn5SU61tgIB9KRAjiwgJYEMF2Fwf1dVdYLZXGrfom-ZGVqOEs344g5NW8TnHbzZ2tED2fCT2mhVzg2XXuKBiFE8tF0-9FkUnDOOGz9uftRPliPzIoqSNcVxA1QdPYgLwMqd7Ql-U-junRc6OZ3QxEXN6CQlY_A0sEiXYoiQRMSogg9c55E00Me6Kswsw9xWEYLwHTkFTElnOfy5ArNBRvqpmiG8SSL4lOSjRY6St86m20YC7dsiyFQHpFRI--luAWloenCEZggbuuUr_Wm24CmtMtcZ_FyyRt-bwYKm-Fvue0O5-3tazRbOH1-50HoNgYgWJsD9QvjHeWslSzfyf7jelZneTA7_hsNPKMn0S1oIzVB_TQLRNt-NLZccDqXmxh6xui0eWEHZvEGZ5SHDJNP16UHYH16Mr1cOmVT82NRmhz68kyUN/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 19433,
+    "coordinates": {
+      "lat": 25.7879971,
+      "lng": -80.19268629999999
+    },
+    "features": [
+      "cafe",
+      "brunch_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJISrRpNC32YgRBTY3l4DVuCk",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=3006387499539314181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "DIOR Café Miami",
+    "address": "162 NE 39th St, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$$$",
+    "description": "Luxury label's designer fashion store, also selling jewelry & other accessories.",
+    "website": "https://www.dior.com/en_int?utm_source=Yext&utm_medium=GMB",
+    "phone": "(786) 725-3781",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd9IKy6mx2YgRJZKA8_UvqnM/photos/AWn5SU4szBqEfoGWbVMX8eFouREglGgWmWvnqeG1fy8lGM7JHIme2juqPJWdOZXtsDWiqsEO9FBsXWhZf0q-fdDzhJ6eYUnTuCt3F3_DLgpUgvgdcBAoOzzPq0COZnBF40KwD1lJzDqmlJZZydKRJcS_geRBBi_uCpwVquhLzqzerLHwVPHtthqy1CzN5B4LUJihPu6dS4AjXjXherAbo-hjN-pLipGWI6H6aUqD0VXzbsw5ZzXJkX5edqnTEW6ng83oXo5TK7BNUtGlxmvDEtsJqlEr7Fptl95hEKNGSg0FUG7VcZ_TgZeeezgV7WkUqhaawVsG1wB7OYBB8kSIQ4B7F_qtAB5pQdCv9uZHxvqYGPBUaHtbNknE0eIOh4qAAw5zBorLAoc9YgXjD9Alkn4e6Zs2xQ7etF_fAxKs7VKw3P3BGA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 6001,
+    "coordinates": {
+      "lat": 25.812621800000002,
+      "lng": -80.19216039999999
+    },
+    "features": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd9IKy6mx2YgRJZKA8_UvqnM",
+    "opening_hours": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 12:00 – 5:30 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=8334526793801306661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sable",
+    "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.sablemiami.com/",
+    "phone": "(305) 209-5758",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJP3_0B8i32YgRtN6_zaazplw/photos/AWn5SU7B7iFkqxrfGBuIByy7W68V2TdX2QWJvDmF5t5sYh-WZzgMCOLfflOIYpBerJcKgox19z1X9EY0-COgaBh-3dMbUKycWQsnN1R9fRYL2a109pGfohhokgaFOUE2U4oetTcm_N4oFYb5qjT-ldoPbX0KDnHG6Ga8pmAHX4AUZUEehMSUxxqGCYWChHQDuk6FiO5BZjnG3X5fEzRKLfDFuc1ScCjDDGFAZ1uCVSRjH4jInl-gPCXSBOPWWoOk76Q0rVPFvJHXwwPAGZyZ78oIWz-D5koLMANo2lhbFpUpqgCBNw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 106,
+    "coordinates": {
+      "lat": 25.7984199,
+      "lng": -80.1987575
+    },
+    "features": [
+      "coffee_shop",
+      "night_club",
+      "bagel_shop",
+      "bakery",
+      "cafe",
+      "bar",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJP3_0B8i32YgRtN6_zaazplw",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM, 7:00 PM – 1:00 AM",
+      "Friday: 9:00 AM – 6:00 PM, 9:00 PM – 3:00 AM",
+      "Saturday: 9:00 AM – 6:00 PM, 9:00 PM – 3:00 AM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=6676221026621185716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mercato Miami",
+    "address": "460 NE 28th St CU 1, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://www.mercato.miami/",
+    "phone": "(786) 395-3602",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrR-5P_Sz2YgRIntypRFaYys/photos/AWn5SU6_nO5w57ogdTvEzPcc9W0SQZFvOHgAXhw5_ZLg6lE7XHbCMW8uyLJN19Rl4OPQ4wsnHkyVdbra6qbxdt283jN980Wh7w1gbtjIwJGnnlPU5SbGiAhCp_EdbVq4DLx-MhLjanStLxyg2-XYDQIB3bbQkHB3LZVaiYJEKLvJr1k5sJuQoT5llZS-hZah5kdo3MZt3u0qsP8y3d4V0PwfIhZa1wSUIYFQK-IHedoQ3Vuj-tTtR0-GRQVa13EbSf9SK1pStF3zBW8VUGblmKuwjz3fjyYBoSVfEv0OT6ZRvVXIag/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 100,
+    "coordinates": {
+      "lat": 25.80423,
+      "lng": -80.1875946
+    },
+    "features": [
+      "coffee_shop",
+      "convenience_store",
+      "sandwich_shop",
+      "catering_service",
+      "breakfast_restaurant",
+      "food_delivery",
+      "italian_restaurant",
+      "bakery",
+      "cafe",
+      "market",
+      "grocery_store",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrR-5P_Sz2YgRIntypRFaYys",
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:00 PM",
+      "Tuesday: 7:30 AM – 8:00 PM",
+      "Wednesday: 7:30 AM – 8:00 PM",
+      "Thursday: 7:30 AM – 9:00 PM",
+      "Friday: 7:30 AM – 9:00 PM",
+      "Saturday: 7:30 AM – 9:00 PM",
+      "Sunday: 7:30 AM – 8:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=3126441598161943330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Bottega Miami",
+    "address": "3050 Biscayne Blvd #103A, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://labottegamiami.com/?utm_source=google",
+    "phone": "(786) 537-6068",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4do0p_Wx2YgRpKT58Ub2Xug/photos/AWn5SU4I-IClHq4dX_HQ1xHYKUOQPmrhsx5VP06hFrfeXVsG5YxYFtrH0XzTPpkHJQ3k9UrmtmBPa5Zl5hss-hNAHJMBQypyFDuNRt239RpWPhqyV57OVrlYQ8GRbsUGE-2vuwxtC8oAi0KDS9PGNp1L-LmoAVVytUR2hf0Pp9LpLKg4vU_mRGFBS6KLVW3mZTsZ1L_TQsK1EleHbbvXhkEELZ1BOtoXsP01bcW6DcAgQMFKgeyydlBYgFJwXR8aYntxO3qzQfQAAtxpuxNqayUhY1amMIy9KRWam_YjgD6_wFnXMQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 297,
+    "coordinates": {
+      "lat": 25.8061561,
+      "lng": -80.1897456
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "sandwich_shop",
+      "catering_service",
+      "breakfast_restaurant",
+      "bagel_shop",
+      "vegetarian_restaurant",
+      "food_delivery",
+      "bakery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ4do0p_Wx2YgRpKT58Ub2Xug",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 7:30 PM",
+      "Friday: 7:30 AM – 7:30 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 10:30 AM – 4:00 PM"
+    ],
+    "neighborhood": "Wynwood",
+    "google_maps_url": "https://maps.google.com/?cid=16744091249177896100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pura Vida Miami",
+    "address": "3818 NE 1st Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.puravidamiami.com/",
+    "phone": "(305) 535-4142",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJURCWEyKx2YgRbiYB5Ng_TuQ/photos/AWn5SU489DsYxP3hDMTQP2v_80Ovcwl8YPc5VbOC62lK9hvPOwZHBsbbDxDg-n3FO6smHe3R37w7-qjbtx-FAhtEh8jkM_jPtBZys2uFRCH0PeiB7Kw7zPPxEtCcapPWmIt9d5QaMgcPyTeBRPFV30sGIhchEUpu55kPSnCILfOn8RVOxlsGFLylkjqtFv-Jn7Wo9k43btJ4-6ScMyHuUQJw76kFpZ425513BNheFnCX2RZ7fZ3MZMsjP49jdG4IS0c89NeZ0PBgi1cmNfc9m7PV9UHZIgfCm4-38HXRLuhrqyyiWg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1792,
+    "coordinates": {
+      "lat": 25.812310699999998,
+      "lng": -80.1934965
+    },
+    "features": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJURCWEyKx2YgRbiYB5Ng_TuQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=16451156689601767022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Angelina's Eatery + Cafe",
+    "address": "3451 NE 1st Ave #102B, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Casual cafe doling out breakfast & lunch sandwiches, along with coffee & fresh juices.",
+    "website": "http://angelinascoffee.com/",
+    "phone": "(786) 494-9623",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ--VYIFSx2YgRi5NCmEc0y3g/photos/AWn5SU6v1PuJ4jDOSzYLL_7DaKrW6dUiNHHLPyYOLXHPvlKovNCmuGS35tKSfyX6EZmkfm5Nnk17oP9wGywb2DJG5z1O1JRdQzq1SiDwnjgH8STg3Bgbqpkt8goXwT0c7O3Lfo7vOeQqsR_WdTH6nXM1WE954eWZaHfkeL5KL6zyJeU9KZIfuuR2zIuv7hwHIFwNBomjKzDTRNIo7Dahf-0kabkL7DoYJp7nFH2jSMtE7SmbmJEe-6bB6mTiR--tI-UgKdbQSzQo9M79fVs7kMD65cEcocnpSHOeHsKdPWSkuY4fzw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 786,
+    "coordinates": {
+      "lat": 25.809622899999997,
+      "lng": -80.1923146
+    },
+    "features": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "coffee_shop",
+      "sandwich_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ--VYIFSx2YgRi5NCmEc0y3g",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=8704108186925437835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "El Turco Design District",
+    "address": "140 NE 39th St #238, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "turkish",
+    "price_range": "$$",
+    "website": "https://elturcoturkishfood.com/elturcodesigndistrict-h4188p?utm_source=google",
+    "phone": "(786) 703-5866",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrRm4pU6x2YgRJqlgfmnMK18/photos/AWn5SU5FdbKKyiaPrYl6yMNgv66Hs-yw9FTdah7VTQrIGRpM4QLyRSZAy7KzdVuJ5-QYyCkQmM-_Fxl0s8xDCE67-spRy_GJ20h_XVAMxjtFr8XCuX0kMYwS4vOz5FT-olUY0mkBmL3ZT5ciAC6sPW9lp8lwe6up0eMdm2ZFpUmtYKwJtgZz-f_M5IJqXWJzwysG2OUa9vrtEYeCWX9LjWu-gBfn1V8hQYXY9n05CtYgeXHBn6khd8amF7pvgSEBhyO5cOIXBhcLPKs2CSnNYTuOQRSVULHf0EbRWXjYL3BuuHDmGA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 258,
+    "coordinates": {
+      "lat": 25.812099099999998,
+      "lng": -80.19206659999999
+    },
+    "features": [
+      "turkish_restaurant",
+      "brunch_restaurant",
+      "mediterranean_restaurant",
+      "middle_eastern_restaurant",
+      "bakery",
+      "cafe",
+      "catering_service",
+      "breakfast_restaurant",
+      "vegetarian_restaurant",
+      "food_store",
+      "food_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJrRm4pU6x2YgRJqlgfmnMK18",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=6857799611065608486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OL'DAYS - Farm to Table Midtown",
+    "address": "3301 NE 1st Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://www.oldayscoffee.com/",
+    "phone": "(786) 584-8447",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJodadmsSx2YgRT2AZcnRUxPo/photos/AWn5SU79sAwei83JgjM4ciWx8urCAdARXEyUnRLaOWTTqIZknux08mGT4mapuLVhh9uonaArxZax6Gv_qE-0G_FSclLMcOQlRwm5is_Z9DcRWE63jn74JeOUIW2moWt9ELq4CPvdKe1V6_HDTk2HekAGJ3ya8TKt_W0lul6ktpBf75DEp5CRllScn01PuQPondZ_ake9v1pxeFwq3KMeL__MNJjoUlWKH_LvSKnx-vdvNvjpL_ixn_QttSqejMP_kjCjkGeOmPiDMUzsLLmOL9MpgK2VLbT5UhHgYujfjFGbSqdcW2bT0SsJkriagz9WKFn-RhuNjIlU0vSlk0hocKV65X0ZhEwBF6aBAqsVEM4-t5iat6Lh_JTo3s77O6vx_0bxarYk-6ShkR1YTaMF4u_t2SW3OgR_2Wd8Ka7lLZqggWVbng/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 754,
+    "coordinates": {
+      "lat": 25.807999,
+      "lng": -80.1926969
+    },
+    "features": [
+      "brunch_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJodadmsSx2YgRT2AZcnRUxPo",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=18069660464024477775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lemoni Cafe",
+    "address": "4600 NE 2nd Ave #8, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$$",
+    "description": "Chill, wood-accented European-style cafe & wine bar serving a range of panini, wraps & salads.",
+    "website": "http://www.lemonicafe.com/",
+    "phone": "(305) 571-5080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo4b7oVmx2YgRfOFJzetBz0E/photos/AWn5SU4tWLzF9mn8Vp65CnBCAImGyVVP4lWMqKRL6MoOZkMzkDImqg47wcdsu-l1Iuax2-Qb5Hq9KdOxbiaYZyh8fGqvj49iehZvZISIuggmMMIpWmI_93kc1HKMsUO1VTMPiqdoFn-59Yyudh_Wp8UyAlcXuRqVdjYtWY44wYz4ysfz78Kqhd12Jh8OaL1wY5CYG9zRDaUEF06d4dirRzm5foAQxsK98F3X-oJxzSN1QY7rFn3CiPsth06D4zL2e88XLUsNDyn-8MaEM_gIC2tCWjCuOK7zzuz0TGj8lRprB4_aXg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 813,
+    "coordinates": {
+      "lat": 25.818042,
+      "lng": -80.1917347
+    },
+    "features": [
+      "sandwich_shop",
+      "cafeteria",
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJo4b7oVmx2YgRfOFJzetBz0E",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=4742081413661712764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mia Market Food Hall",
+    "address": "140 NE 39th St #241, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "description": "Gourmet food hall with a variety of global dining options anchored by a craft cocktail bar.",
+    "website": "http://www.miamarket.com/",
+    "phone": "(305) 456-3070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV0Yh0Vax2YgRbRGAzjQoagU/photos/AWn5SU6BbuUDvmrUd23n0ZWo3B6ZCZu07dY_H7ZCr2uRyMzH8YsO_DKn7klkBBeQ98pykLlt5tb5bN1NWEXf5cCqZmzM63Eoz1gx_AFJgID_OGfcJwtyhKKr_q-IGvx0T5hMxer_Fgx8q7h4dk6wQrKytjdjF8q9vPhdUTy3ZN3RE52BBxLj1Ee5gAEE48ThxSbiw66-uU1oG0fKYuQhALB5uiIydF3ocKTLqIgkASU75qEjcBtFzJUfCsAzdoOKXb5XYA_xxpWauI8BB1kELdOX2xqd6FPuR4XOlb3WCmN70clDCw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1043,
+    "coordinates": {
+      "lat": 25.812423799999998,
+      "lng": -80.1919494
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "mexican_restaurant",
+      "cafe",
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "food_store",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "italian_restaurant",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJV0Yh0Vax2YgRbRGAzjQoagU",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=390168524988879213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "L’Atelier de Joël Robuchon",
+    "address": "151 NE 41st St, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://latelier-miami.com/",
+    "phone": "(305) 402-9070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJ3pnTr6x2YgRUcKI0-aDyJs/photos/AWn5SU5dxfw7FPJDWOXcWxrRcJJDE2uY_ugbCDq9z_2AMqChPNFqZyteokeCGdWh4mGOeSLDD1KmGXnz1vqN1fnPNuz20UJuAoTGlFRRnl_xOrqUR7fkHBAwRA3-keLTon9uMdctSwOsnFomr4nMVLcfPIqmNIdWxiyKiSbJYG_VzgGtKHn8t_5YqziHq_VDqQrQCZUkmfdvlPlGW_YwnnMQCkf-pCVx81zSoPtsvDM4yDVzFrX_C2NSmKU1HX-TiR5QGuFhLOWoNm91GRb0QDDUTttqd8Om_JeNtv4PXURN5ZMaiw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 598,
+    "coordinates": {
+      "lat": 25.8146854,
+      "lng": -80.19193539999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJ3pnTr6x2YgRUcKI0-aDyJs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "neighborhood": "Design District",
+    "google_maps_url": "https://maps.google.com/?cid=11225367098635633233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "On Ocean 7 Cafe",
+    "address": "660 Ocean Dr, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Café with a shaded terrace serving Latin & Italian food & tropical drinks at a waterfront hotel.",
+    "website": "https://www.majesticsouthbeach.com/restaurant",
+    "phone": "(305) 455-3288",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJaV0BmZK02YgRZW6hlXlHyNE/photos/AWn5SU53A4SqhQ8orLVnCxTkhtoCgEqDe2uvp9Y0mjNGfjO5FwJKQDUsVtE8VhVDExYtUeumF95VUZSsECfYjD8OYBDaxYzsnVRaDzgU55R1IW7ZqUVx1BFMtFbZbubUQNGuwsiRlZ9SuJ24BIqT7-XIHcf5yTlVixjiT4litnTVl9B3jlUzs4RS4v1f7R2T2siXAKHnow_7kXs1v43xIcYEoc2hMIqZfOuVvFz9MOQokOfODpPjQEkeKjLa2mpa6N6z_yr0Dkg-78g8uiErpLT2c7WgOutY9UiorjwevaZfz3gNig/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 10146,
+    "coordinates": {
+      "lat": 25.776665299999998,
+      "lng": -80.13157199999999
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJaV0BmZK02YgRZW6hlXlHyNE",
+    "opening_hours": [
+      "Monday: 8:30 AM – 12:00 AM",
+      "Tuesday: 9:00 AM – 12:00 AM",
+      "Wednesday: 9:00 AM – 12:00 AM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 8:30 AM – 1:00 AM",
+      "Saturday: 8:30 AM – 1:00 AM",
+      "Sunday: 8:30 AM – 12:00 AM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=15116410736796069477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "maman",
+    "address": "100 Collins Ave Unit 11, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://mamannyc.com/locations",
+    "phone": "(305) 397-8349",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAQCsg_G02YgRephtX1tiU9A/photos/AWn5SU4Ibc0jydLaR67DZiXov0VMV-uYCM80oaL_U2pZFoI4f8lqJBXlNAAthsIC3L63dv0T062VUnbqcl7XQVRBn9vEgKzxMp0J3a2zlGzByH9rb1AH9i0yS6D7xTVGt8ZnDaeki_ZhWZIUgDREvCpaoiXPDL2VQ1rwbsbfemGGFyI1ip_tWkwKvw5XAonb5CH0Q3_2hVNJsnH5kEg2OxFrZk01u8mqriFvV69PsND-lvDz91_RYEPinmW3XExbZdzk1YzITReTaZAvgrCeRS2fAvDD1IJo8cpeQs9rsbXzQVcO_pKICemQftZFB6Ov5i8QznbdY-Vg0I0SPpJhFkgNp9FyyBbDbmbdeaRXv0OldqFRGPm5PDI5cMLkd_F7Z8OSdHud5cK30oJhQulOdD_3u2nx2YvTm-W1vQ7KFeOOs3ITdw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 506,
+    "coordinates": {
+      "lat": 25.770168299999998,
+      "lng": -80.1343182
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJAQCsg_G02YgRephtX1tiU9A",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=15011450127538559098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Café Bastille Miami Beach",
+    "address": "538 Washington Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://cafebastilledowntown.com/",
+    "phone": "(786) 425-3575",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJayhIp7i12YgRW94lbHWSNas/photos/AWn5SU5LVqA5xThFVAlHzg1yjQZPrgXcK6pRdUlKEUjYG_RGdW4ZeRjVwk4QLV0cqRm5RPS6qvnP5DqUGwmL2RZm7lekQUNs44nrfm3vUPJ0d1YtIHA7pzR6sWJpKv-l3Ci1kB728XpLTO7wl7itWfb0Y-3rX2mp5bfcigmBY3b5lDSaEIZHN8hFnxB9nk0hIM4xf7N2UCASH4c08bXMVJTsQBogzA-dO0H_cpOJ7oAGMrxLEWvulJLufq-sFCRuXcRv6yXNk3kP5goTVPj0oyC7wX1srsiE9OH7fKUS5CnnZDOO0qfkmx5O7gBd8FRso4SB0kR6A8EfCrS5EGw8hFbiRSEJx2d7sbFHNL4rkCWOYAX6VJ-fQgcHCaK4GDeL-io2FEEPrFv_gH-9p5rCi16fEcmmiEgAqNmNeqk9GW0-60jA-6P7nFQ-8WpdrItW8-2w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 9367,
+    "coordinates": {
+      "lat": 25.775406000000004,
+      "lng": -80.1341934
+    },
+    "features": [
+      "brunch_restaurant",
+      "juice_shop",
+      "american_restaurant",
+      "breakfast_restaurant",
+      "bakery",
+      "french_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJayhIp7i12YgRW94lbHWSNas",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=12336927787274591835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "San Gines Café",
+    "address": "1668 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://sanginesusa.com/",
+    "phone": "(305) 381-0651",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj4IcAHK12YgROyTEU_kKZbY/photos/AWn5SU5OnPYioavcGGiYVUtGYKFmPJs0vdzyBOdKHwti7-GxJuK1-_g_pJgr7HVakI57wPVSZJKkhtZt37jo9TTfXkbGE9alOvvejA1O2EBK4jk6a32wUAsGorlylGewXfiLGzkw5PyIoh5Y_kLakVVPpFcXBpn_9KTfYOjRgO2syQGK761kx7MhLzg2WNR5xRr14vRqecln7cFPOda5-Wu-ZYBS8bE27FNBTdz0Z6-LzVw20SdCCrtSSL2C-5OuirRKgZCL6gyLW6v3Z5NqCMBZzd-AjL2kNfbMjSESLzvE6YZgK2umAqb01YNGLJuGCeb6c5RRGbBhL11aeYaz9s8kh1XUs4cPYTf24uKo6mGDIeAKEzYGiD1F8R5eQkoUrlSe8ct8aGUcvs-_oFkdPpnqj8NZoy3_TH4-9C79k4ieZo22dA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2826,
+    "coordinates": {
+      "lat": 25.7915118,
+      "lng": -80.13014419999999
+    },
+    "features": [
+      "coffee_shop",
+      "sandwich_shop",
+      "brunch_restaurant",
+      "cafe",
+      "bakery",
+      "spanish_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafeteria",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj4IcAHK12YgROyTEU_kKZbY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=13142923153519158331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "News Cafe",
+    "address": "800 Ocean Dr, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Iconic, mostly outdoor cafe with filling American eats & prime location for 24-hour people-watching.",
+    "website": "https://newscafesouthbeach.com/",
+    "phone": "(786) 644-6061",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx-r_mZK02YgRkb5R4DklTs4/photos/AWn5SU7D4ezTZozkRjiHr53VNYA4VK1jjrkLdmkxq6HObMwxCiAXkqDZkjy9L4_jUBurgsPPUw0H1xvH8gfzOz91j2-VDbGwxgA7MR4c2PBlDn0iy69yOYmET2Ku5l4i2favZnoahsUoBVQP6ARhSqhYmBsV--tp5iwfwhAS_wbLXBy7E6YNg1tB7XJN3RLB7lVcK55JifYjkxilv-N_105T44fiX9iL4mMySV8h2O81zjqcyHmVcIYsK6Okz3BlqDY_PDQJGjUsEMZ2BCiDM1ujccVtdhxgJF8k2UKXCSQmNUy_kQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 8433,
+    "coordinates": {
+      "lat": 25.7780952,
+      "lng": -80.1313455
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "meal_takeaway",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJx-r_mZK02YgRkb5R4DklTs4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:45 PM",
+      "Saturday: 8:00 AM – 10:45 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=14865860350503403153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Seasons Cafe Miami Beach",
+    "address": "318 21st St, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://seasonscafemiami.com/",
+    "phone": "(786) 297-9989",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ92Ds3a212YgRbfrksxQToDI/photos/AWn5SU5E0mjc5_0BXUaXIPOLRKkkITWsT3TF3dn4p_kW7tj_a6MFswPwKIL-cfNiIbS4DISzwBItgR2pgkqovW7OrBp-F8XglO8okpoPybMCPXCH6P3I10jrPoi7wPg2SnFJDTwuKX9U_pTxnCYGHvtBsxTJNbR2L9jM66hrrtexH0Y5nCqB-Wd4tk-SYNRqzJCO6HV0_56e4i-Cs_5jcqyAuKREH1mXg9XMA6QJ9zAtlhKFPRstxbatJhxVxHYc6-Rju8ZlyZ3jRFhL6-oVBeOrD0jsZds2vPHW-oO7ermLpdgBsSU_Lwegq7s_1zQgphnaEEaJP4HJqrQFZRvqjvSBzPkELns5Tz5rKsajFeM-hkJNR4p2CqQTetWZoRvRSk5Yhv1lAAGk4Gy15oLB4KAEFvTr2mhNqy3l6cK8zg0AYlBuNkM0wQl4_lpKMQRVZsv-/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 138,
+    "coordinates": {
+      "lat": 25.796692099999998,
+      "lng": -80.1303047
+    },
+    "features": [
+      "cafeteria",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ92Ds3a212YgRbfrksxQToDI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:30 PM",
+      "Tuesday: 7:00 AM – 4:30 PM",
+      "Wednesday: 7:00 AM – 4:30 PM",
+      "Thursday: 7:00 AM – 4:30 PM",
+      "Friday: 7:00 AM – 4:30 PM",
+      "Saturday: 7:00 AM – 4:30 PM",
+      "Sunday: 7:00 AM – 4:30 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=3647936677808503405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Malua at Temple",
+    "address": "900 Alton Rd, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "phone": "(786) 820-2087",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5Rxztze12YgRrgPudIVCeRA/photos/AWn5SU6yY9jxfL83QyBYej-cyfjxUinyWdyJGDx6xZ1nOkfHTG9Ox5ghI_yr96tXpmLF-Iw__XKCEjVl1hf2pzU_pA4WlACWxGQXLIO2TNPXfHH2WXY8_ovq4IZ_f4EHc8r33XWYeGdqm9ic1oAdI6zBDcPw5OzFnQNHPf7oX8OT6Z_n8YtPV6PlSF53ZR2sSBMBzMb87_2SWWsMeReS8WuuE1sMKXBlZE2MMttbmCKtDx8POITG4Rk45Fldy3jVAoiUjyAkJnmQVkfhKwsjmFzS3dctuBvuY_dobgSTfyy8slL4hD6j11_s5ZqQUGOCBE4Xawlf21pPEkiRoTsqjzRBhajXa38TV9M_mdA98ug8F3TzBr-2-fxcSAvhrA3kD4z11LTI458jmaQ2ugN5d7eDjbmI6GqdjKb1zg3ikghC1KRKK6Ie/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 456,
+    "coordinates": {
+      "lat": 25.779370099999998,
+      "lng": -80.14105479999999
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "dog_cafe",
+      "cafe",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "bar",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5Rxztze12YgRrgPudIVCeRA",
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=1187053117748675502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Shepherd Artisan Coffee",
+    "address": "919 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://shepherdartisancoffee.com/",
+    "phone": "(305) 422-9770",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6c15h4202YgRzh62yUUQJ-c/photos/AWn5SU7b1CNs_9INsliI1bZBmjNgOrlsZZRWhDng9CqCnwkpwh9xX5ViKXr1KaGT3832RunnoxC9FevckL8Cjsy5A-Psw5dR1y7RAmztXfxzK5vaUdEAafI0ShK44pNook7ootB9vGgvDLTkvN5bolzrtrJqW9KqB3HmZb8ntm1jghFMIbJ-xXd-02ExRQsXZSaSvTV3a8dv8OeLnKRaR5VvLILCz6-Fibq6SlMtl6sVNK2dwnMYsdc0BTjpZ2wp1Huo6j-ZtKP7pZO_Et4A5BMfDhBs6Yh3iSrWbZUShsxUpY3aUw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3833,
+    "coordinates": {
+      "lat": 25.7797643,
+      "lng": -80.131697
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "sandwich_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ6c15h4202YgRzh62yUUQJ-c",
+    "opening_hours": [
+      "Monday: 6:30 AM – 9:00 PM",
+      "Tuesday: 6:30 AM – 9:00 PM",
+      "Wednesday: 6:30 AM – 9:00 PM",
+      "Thursday: 6:30 AM – 9:00 PM",
+      "Friday: 6:30 AM – 9:00 PM",
+      "Saturday: 6:30 AM – 9:00 PM",
+      "Sunday: 6:30 AM – 9:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=16656299638776012494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Americano",
+    "address": "1144 Ocean Dr, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Cool, Latin-inflected all-day diner in Hotel Victor South Beach with cocktails and a lively patio.",
+    "website": "https://www.cafeamericano.com/ocean-drive/",
+    "phone": "(786) 730-3549",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc1v3bsG12YgRdZ0BHwmlkUU/photos/AWn5SU6Ypy4bFM8jRTfAZf37q7aFgFFcfx9Rr_XX5VHp2hJbwD6oeIwMbzihdE8ZkEkAgnjvF-ATc3SWXBbWlEVvaX_Hn0fwk81sXTTp7Ws3WMQyNlk76OKz_mpQJM40jVI2Qv0NaDoyT6CwQRO9XTHCssi5YZPaAX3Q4XDAnCkFQs1bKEW9VDAelbpo-jaM6nv5BO-qyUiUbVm-UFTEseiqMqPY4aFMHVHs6vM31QCVN04XPtXZODc7GM3aQfibEQ0hpvTshVxLqOZNPT-xUgUq10Bdlv6cnNh7au97h4u-2DOWAQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 6981,
+    "coordinates": {
+      "lat": 25.7825034,
+      "lng": -80.130515
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc1v3bsG12YgRdZ0BHwmlkUU",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:30 PM",
+      "Tuesday: 8:00 AM – 10:30 PM",
+      "Wednesday: 8:00 AM – 10:30 PM",
+      "Thursday: 8:00 AM – 10:30 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=5012969318833560949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Fleur - Café & Beignet",
+    "address": "701 Washington Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://fleurcafeandbeignet.com/",
+    "phone": "(786) 453-2132",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJecsJqxC12YgRY8FfashgqaA/photos/AWn5SU4MG3r6GGABDoT2sH1POfQo7knEs6p7TkzFvZJyVxB8GuJOpbSkh1UVNW7lycvhT2lDE-32UR34wnsxYKOYTqNsinlUQn4mKLM5jvLQ0gm9z21hUnPZ-8Ka9XXQB6NWlq8KXnkBpSrAuu2OUS0luEGwTbcmvjpGMQLwXIC-8msrzFC5R5Q8MhuccZU-2lqZaV8wP6UCZTi7J1AkKh_ZVJR9QlHUZgWVw5UhrYOpI5w8qPAyYfv0QNFZ_sjPZ-2RKmckK4dgqa84Mn1bkXBd1Jx3NMKnVutRN_-M3da6Hdh_HhPifQvkI-NV10TxpxyE24WRQRaDgA-M13zLylqJVJNqWEvOGr75r_kpPn1V-2h5uSpJkfOLBH0JlxmiIdI9SJcq-uz85tjq2lIpyd3rcrY0xPTVtgARaTpM78jM8BFbDQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 348,
+    "coordinates": {
+      "lat": 25.7771798,
+      "lng": -80.1334179
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJecsJqxC12YgRY8FfashgqaA",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=11576890731026956643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sola Miami Beach",
+    "address": "1000 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Sprawling restaurant offering brunch, burgers & cocktails, plus 2 patios & a rooftop lounge.",
+    "website": "https://solamiami.com/",
+    "phone": "(305) 709-3955",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbYrWIza12YgRkWYCIvvK6cY/photos/AWn5SU6o67iD_pnlBl7X_sbexsyXvOV_USiYq12eKcngFt4VPktTigmag7qTpwU99ATnZyfVKTEoLenMUBUo9gPYgLWuGzteDBOXVHewM4rPmubADdBK_KOeRVljGJ7BAcaeQ4Ghe_uBT07ETOfaiWfKrVzppn7IQ9Qu7pOMCJgRDMGYAmgvZSpWjTiDhpuA3MyTSBZe4MtBeovBM7BckgIMrjE2yx5y1q1HCOfQga6PX4Q_NfJWoMaRL0dCr29n2_0Q3o3jpygsAPrAB8OH46EIbPORL08G7OWcMP7NCL8DIpgKCw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 7690,
+    "coordinates": {
+      "lat": 25.780732999999998,
+      "lng": -80.1317913
+    },
+    "features": [
+      "diner",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbYrWIza12YgRkWYCIvvK6cY",
+    "opening_hours": [
+      "Monday: 8:00 AM – 12:00 AM",
+      "Tuesday: 10:00 AM – 12:00 AM",
+      "Wednesday: 10:00 AM – 12:00 AM",
+      "Thursday: 10:00 AM – 12:00 AM",
+      "Friday: 10:00 AM – 2:00 AM",
+      "Saturday: 10:00 AM – 2:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=14333210469039498897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MIAM CAFE - MIAMI BEACH",
+    "address": "1201 Washington Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://miamcafe.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzWxisga12YgRDs6qDogkSug/photos/AWn5SU7o8BJLelE2l3u6vNoh-QomEBGIZkFh7JPcuIIa35tmOQ4IGwV6mHyfr16oF6XasjiHX5vRMnVTZKQJIn5ae70e9RlirYEW6d0cKUmEyvz0_E8J-UH9noSBfUhPjLsnmVOWRCP4d8GYWUurQ_aLv8C1YCqkVjIQnJh-PDOvVREW3fIkMDUnor7sLQhlAmSO1cHEO0QxZNYQzwX9vVnwVJa0SUdwh8Wd5JM7hMEeS7HxwzeR0KkGwYckEgNXVTdzpfpiE86JvvTr3AN4m7IFPonQngGgKW7--gJmqlMXL4pqcA-gZKj21eb65Qpb3pMHrySczuYWDcjRrfWzu7b0CB9i3gUFIoS7sGdpOGm0YOqbfZ4hy783nmGKxZuHal3_SXH3BvFSHC7a7uYX-6DrzxBVZ_Rc_W_m5wME5ZsEg7lPfndwu8YQ-10Z-whFbQg2/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 200,
+    "coordinates": {
+      "lat": 25.7831098,
+      "lng": -80.1319802
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzWxisga12YgRDs6qDogkSug",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=16738231131856096782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "maman",
+    "address": "1874 Bay Rd, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://mamannyc.com/locations/sunset-harbour",
+    "phone": "(305) 397-8598",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_XLjxUa12YgRQ0jtGYiiZ50/photos/AWn5SU5TXjJA3PJMOtGLavYvIDz0IWXyA0HzfMvxA25J09GsoyAsfQRzEsFIsMfP6FiVG2-cLMGinhuEIS1YGutzHfX0xqxlJS5sBP1LKm7UyKgNxGPNXHM4qxC4DT6u8WhTPyWvpMWsoRrw1AKGXBX1VvM1qso312FAh471Fo4QaoEQEIcZ97YLjycTr3V1UoZ65BzcURQwPLDHHS_UuRLqaOBgcs5TRs7ZOCOsIS8gWDmEE-mFjNfyRkxAG6cFHtcMU1hMvsWIXC0kUUHsG4SVtxBd6a8zlVWsmhl2-N6MWpjkeA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 381,
+    "coordinates": {
+      "lat": 25.794591999999998,
+      "lng": -80.14391669999999
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "french_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_XLjxUa12YgRQ0jtGYiiZ50",
+    "opening_hours": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=11342212891990116419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Birdcage Cafe",
+    "address": "1250 Ocean Dr, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://thebirdcagecafe.com/",
+    "phone": "(305) 489-1911",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC0S1ZRq12YgRDGRO4jGoWEg/photos/AWn5SU4Ws9UurBDoxTvVo80pmvtaX7kkAijGZTjOenSOR3BSDwArHm3ehTzZ26xUDmCKlHCbViI0JwnxKIGmC8-4pZVqsJ-Y9DJbhpRIY3RPWq0u1dAGBwJsXmKw7rvKxzHbk0P7bQSj2aFWeQsXsTJ-FADPMVH_zh7Y7rVwHBYiHVx3-0qfg5yfmOvQasZP33LOtiQsIAnUApophmMl4_B0y57m0UHwrYGkNuEkUScewVab1neYjdRDQvoVScNAtRC_MfDSl4ejxcIkn7IqQpbEYYzTGFYu0cinw_-fUdFIY3fx0uwtX4C2Unea3I4QFmStMGoHReFDj2v72Q7088PDhVrb9NfQpBMNMrMTyhdox6-pf0n6ZIMv5AhmHH5qMzxym1AnvvOuc1MqYsH1pkxTBChZRDmnlPXbaLqIgRlEMM_SL94x/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 5204,
+    "coordinates": {
+      "lat": 25.7837846,
+      "lng": -80.13011019999999
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJC0S1ZRq12YgRDGRO4jGoWEg",
+    "opening_hours": [
+      "Monday: 10:00 AM – 12:00 AM",
+      "Tuesday: 10:00 AM – 12:00 AM",
+      "Wednesday: 10:00 AM – 12:00 AM",
+      "Thursday: 10:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 1:00 AM",
+      "Saturday: 9:00 AM – 1:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=5213101500885001228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CRAFT South Beach - Espanola Way",
+    "address": "445 Española Wy, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.craftmiami.us/",
+    "phone": "(786) 733-5748",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmXnYM4q12YgRZU4eLiX3Q_M/photos/AWn5SU7-m8JqHzS-mgNCazUirsYmbNCw7NQC1eblWZ9y7Ccwvm_wH3pvhsUkkEQ8KYmQRzeBoNB1GKUoLxhnMmz-lQNeILKhKuRJjd7oRhIf12HNGnw4KRDYWfsec8gv3L0QYp5ohu1n741tDPuwydrhRL3mLpRdnRrq0twjhbR8edp5DttDtvNIUQ2DITQY5x7ckW6FCvVw1xkH-w7CuQxRVC_w_UNYaQoTDA4AY-5IKisTh_33bPOG3T47qcR-_jA6roNb84QrOrAsOHkOKDcqjQ9nq3aKdRptv9rtYbyETqtX9oYQwXf4_UbqGTXIfPI2IBnVHzJeiXFpCA6AowC9sJh5NcQYXCrz6UkWSqs8-U3-F0BlYkex8caQ_Z-qNiMWXD3AYSMC-jMhwM3Jrrr_KRaiMhN6apsDZNRNJuFIv_c/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 5008,
+    "coordinates": {
+      "lat": 25.7869657,
+      "lng": -80.132806
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmXnYM4q12YgRZU4eLiX3Q_M",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "South Beach",
+    "google_maps_url": "https://maps.google.com/?cid=17529125913715691109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Americano",
+    "address": "701 S Miami Ave Suite 360B, Floor 3, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.cafeamericano.com/brickell/",
+    "phone": "(786) 438-4286",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJW-Lc_5O32YgRB-OIvjzmgms/photos/AWn5SU7GwPzjUdhm2YzUzYEnrnisEsRg_82CHFojVLYIjg3iOQ3jEv9rNf8u4n_jk5nF4O87gcSXs_hDuVKHQ7PM0xogNIqEeRJ-t8VjBWMl0geQmSg0JsDiuVcdVOcX6FHb2tZnt27quE23NRYCqZ_q81xjK4lGEI_si2p3YDofS5Ru6juUocBcdysYu3eMY9MaPNTvOCFrDJsz92RG0Ea5y8Mw3pqBQkoNiIjjzyjtqYslmgR62clrCP6-5mFF-ehLL_w92VIO84i6pbhZKThGCCQE8jguFOBpoEBnhHkkrHPRSg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 961,
+    "coordinates": {
+      "lat": 25.7672319,
+      "lng": -80.19255869999999
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJW-Lc_5O32YgRB-OIvjzmgms",
+    "opening_hours": [
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=7747007457599742727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Café Bastille Downtown Miami",
+    "address": "248 SE 1st St, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Informal French cafe serves all-day lunch and brunch options, including omelettes, crepes, and eggs.",
+    "website": "http://www.cafebastilledowntown.com/",
+    "phone": "(786) 425-3575",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG2-9xp222YgRJ_Dqby74tmg/photos/AWn5SU4THim5Hmx5F663f-B_glBcE9ePczqw-CKvrTKJUQckY1lB4nEFVaUsu3tiMcFBzb9ymbysBiBUC_xrcBxacosXi85tBxKClRoHfxte_Ad0l_6K_VfP_qIFMFI7wW7Pvxy74DVMAHYXE-ve2OERFtXchIvhc_A2StHvT3UIFy2uOc5Xmsu4NcjBp6m_9XIDV4bxm_94kB7Xr9jVOiNjTHiqjD3b0qpAz7prD6D4Un1n6u-0Q5_2ucFGxDoRB7qwkxlIGwjHyqgVS3ajlhJFb4k7uvX8SJmhqmbAjvBAsiv4vw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 15070,
+    "coordinates": {
+      "lat": 25.7733642,
+      "lng": -80.1893597
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bakery",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJG2-9xp222YgRJ_Dqby74tmg",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=7545491104035696679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Branca",
+    "address": "40 SW 13th St, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://www.brancacoffeeshop.com/",
+    "phone": "(786) 353-2100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj9uVR0W32YgRfwTQrbuBwGA/photos/AWn5SU6Zh5coTZaPAtqNY7XA0_ePdVt1n7tDvMCRahjl3JZqm5t-gNq_Xjkv6i92q1H1Z04H7_Z-7fphRk3HWpKjE7mD1O8x5pEgcTrtX1VyYt30Vhw9e6XzU1AugVpisukMoK9EEU67-LrsXZivazCy_4obJqLbxf9VGoYBqQu31putpw2C51CVMf2A1oNcgf5XlSJPUh1rCo3asMDZ_B2_ep8JcWLdOAsJVLtMJpK88bZdk3rF6S3ft9GaAIDSl-e5KrkLfgxV48MnGIPsx57qpadd18ylhGh3flaO06gFRXdKCQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 160,
+    "coordinates": {
+      "lat": 25.761072199999997,
+      "lng": -80.1942874
+    },
+    "features": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "internet_cafe",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj9uVR0W32YgRfwTQrbuBwGA",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=6971714866244486271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "B Bistro + Bakery",
+    "address": "600 Brickell Ave #175, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Modern bake shop and bistro popular for pastries and desserts, plus elevated salads and sandwiches.",
+    "website": "http://www.bbistromiami.com/",
+    "phone": "(305) 778-4585",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAS6qPIO22YgRvYzBqDs7AZo/photos/AWn5SU6tZq2pL3rkaoA6ac_z7M02_edxl2a_KsDLnnbSxVb3RlOltFE1acsaINjNUlHKn-y5eYa5R-dKEXJP5rWIUF4Wck5zOc0ZCgxcDubN9kRL0dvcGtT4JcW6Gql7GvWtB0I8CN1E-C0KW1PC_sixZxfEEcNnVim9SvmBYrKOuype4cIs03uOZSww6c_ZOAs5HUxxoqN9LFDZlfj1fs6mYHuQTFFOWhK85ZzaXfO5O5HypJBrK7_E-LUnwenhMelOqSNDJWdKp3QVE3wErlFEXQEfwTu8MYV57W4A6JZhe6-3mA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2098,
+    "coordinates": {
+      "lat": 25.7673615,
+      "lng": -80.1913434
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJAS6qPIO22YgRvYzBqDs7AZo",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=11097216084237978813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pasion del Cielo Coffee",
+    "address": "907 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Casual cafe with a variety of brews from different coffee-growing countries, plus teas & smoothies.",
+    "website": "https://www.pasiondelcielocoffee.com/",
+    "phone": "(786) 431-0975",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJURsbrYO22YgRtgS3ozGAlOM/photos/AWn5SU6EtC0WyIPLF6u097ttPXPisbUV2twsbsdPfXYV9zcrrRXmbIcodAWeAWU81buYoAkCgFBkj_AmjBHdd8as2-nPiNvrYTh0cjxK0MUh579vqzR4ZniwFRUZtuKj9yXH-BjbeYhAhxohv1Ar6rwHPp0DwiAMD_tOoYze78YzMiDK7H9LGxwtj36ZLRmjAWsczuFH_dlcZz0Dmaf7X1gJVxGvFfCo_EbmCgZtyIGVETn9x2irC5EgDERpcp3rx-jl8Njw6eFOUeSY_N2hS7jgNp-nfPTZ20eQhJa2MiCXYQ_r-ncBiMd-oIjxfAT05XDAMuL5Th_gYVhAHDAFNNf8HNnPc2U1bnM5Id9gqHmkT53FQQAav6XVK6dUxqA55Zk6A8KI2Kt4Dgze2FRTcLIRdOfH-5DpVW3jo72Js_uaEgz1JhI/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 515,
+    "coordinates": {
+      "lat": 25.7651936,
+      "lng": -80.1905829
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJURsbrYO22YgRtgS3ozGAlOM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=16398873093851251894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LAVKA Gourmet Cafe",
+    "address": "766 SW 1st Ct, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/lavkagourmetcafe/",
+    "phone": "(786) 353-2588",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNX8Gu3q32YgR-QvWqOQnO2o/photos/AWn5SU6VKCTs3SFIc8w0kQs7h3ZMQwh_D8pCvlnebrEccuM0UBU2ygmDM8ioGlBiASZuEre3FNHYpWe-h9ZeMQ_pFseCPeJyQAogJoTXz3gzzlBOFO5rqdG3aYiycrwBs-sdM5p9EdZf9jVxcSZbOsjOluMZF8UsgJITS8MMRk6gX-o0spcoBA033F2kyTJTEi980ObsnNR0nLtGBUELVWI4A3CCGtDlIg7kxNm7qZEfJPO3oTZRRxDwuRhsCnL6agD65M7oIl2H4DGYHlST2Fg-JTkerl0oez6bQ8Cg9ZL5LPEGkQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 402,
+    "coordinates": {
+      "lat": 25.7668452,
+      "lng": -80.19588619999999
+    },
+    "features": [
+      "brunch_restaurant",
+      "dessert_restaurant",
+      "breakfast_restaurant",
+      "pizza_restaurant",
+      "grocery_store",
+      "restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJNX8Gu3q32YgR-QvWqOQnO2o",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=7654755854684916729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dolores But You Can Call Me Lolita",
+    "address": "1000 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Fusion fare served on a rooftop terrace with city views & in a chic dining room, plus DJs & dancing.",
+    "website": "https://passionrestaurantgroup.com/restaurants/dolores-lolita/",
+    "phone": "(305) 403-3103",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9aBMC4S22YgRbGgugfhBkbA/photos/AWn5SU567fOdbA_Ri-InnyYoRbc_isRDZiLrj9hVpVAuBIgSe74pLPZ1Gt1RssWn4mjDK_VPVs9eVdMkdFZPJLYM-Bow4sbLT36YzNuJMcugAK-ExOF-DKaVgv9Nh2bRth7wHxocPFv2eOC42ThPrQd-kqy2yjE-wVFx3nXHinkRX19hxQC8VSufryDAocxWZX94_OSChQ77EcnmpIVRN1sY2TpBATEK-yAWhMHyU_XuB30gx8-ih8mXoOwL_Kfup_8NWQdLuXWddY7NlllXJum97wILjrmMQa6zr9t3diANdsfiWQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 11681,
+    "coordinates": {
+      "lat": 25.764271700000002,
+      "lng": -80.1934058
+    },
+    "features": [
+      "american_restaurant",
+      "spanish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9aBMC4S22YgRbGgugfhBkbA",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:30 PM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "Brickell",
+    "google_maps_url": "https://maps.google.com/?cid=12723022957873358956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Colada Gourmet",
+    "address": "1518 SW 8th St, Miami, FL 33135, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.lacoladagourmet.com/",
+    "phone": "(305) 582-5762",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq6oWuvC22YgRdTYzZwuTTtE/photos/AWn5SU5-uy_oVoFON_GrmnWFn2vYvUMBc7hB0rUWrtNdf6wDv3dgERDTwZeeDhrC6c9akYqXRJ28ay8C7spCwc07DNQeAUJb96FAQcs8x-aoZGiV6hXHFUxqQ5KiarIlVFWLBUT8mZTz3eTxt2XMSqanBgphRHYv0RKO0J8MNzGVQdyhPinXx8edriMvR634vn3r3eW7p9Z62sBx80ZzVh0rRG9Bt1-7hnwIrEDv0M2tIRe8so8g85Jn8Npehtvn59R_KfFo7xy8B7EV33CEq9U9ihZSdikfJoW0wOHlFz8MNDgQzQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2951,
+    "coordinates": {
+      "lat": 25.7655457,
+      "lng": -80.2198971
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJq6oWuvC22YgRdTYzZwuTTtE",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Little Havana",
+    "google_maps_url": "https://maps.google.com/?cid=15082153879295702645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CRAFT Coconut Grove",
+    "address": "3324 Virginia St, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://craftmiami.us/",
+    "phone": "(786) 386-0198",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtfC-Goa32YgRamzJdmjnE6I/photos/AWn5SU5ad8TedHY2NphC3BD2wM8SdrnYWqp3az_8vZy9qpRtCUzHpu9tcSUXQX0pXRZhqN9lzyNVCpeY0SxWVMykNJmOSfsVT1i5JFNbRix-YSqMPlvxCOjsjH8Xffn0zgI4u6vos42wlyS-V-vo4lV8IvkQBSTObySNj9ASbhCiH-L0V8Mn58XgPwQZ4DhllMGSnG_sqMw9NSuUaPjN5QkWAz1uoL1stbpOygYovk1B7glncBiOSo8l5fsEC0mq8wox_xxYOLj8VkCBxh9avlogNWk3Qjs9yisRrcqRgmn1jjP1remb2CLWtY9_ckj8oYbPbSTwK9tBWGnau721-6J-RO4DOWChEiTk7FBBpMX6rmINA0R6X3V53UenKXksffNl5H2pNrQlGCvM8oGfEw6t7B4gWP8VBBMuFK7FX9H1M4CNIEMNQ7Rm2jf-B5GLbNxo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1826,
+    "coordinates": {
+      "lat": 25.7293144,
+      "lng": -80.2416646
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtfC-Goa32YgRamzJdmjnE6I",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=11678932694557355114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "EMISSARY CAFE",
+    "address": "3308 Mary St, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://emissarycafe.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2eJbmUu32YgR8_hHLQvwOYc/photos/AWn5SU6ZK374bQI3nQYH2Zm3Vq_M7AAsf2kDjtiGpN4S7itROU5EcxW8WkarFNmQBUUOnwt6ib9CWMs0MeP7fLNd8lXuONoVWOAZEB0PdN-j06HznkNI-_z2qKTRMBSAM0GmD5EW6U9Kx9-Mn6TomF1I7jPrcEOaKBLWvPCqWpgPmXDn854WyU7hU7_9GnN-KQ8Vo2hEgBhbvp9LQJgKxvRRH106Gxw2uWOoJvnyXW5wgU0tqYD3kFR43DGMT1mxsMHcK2Enxl0pXtxt51nNy6nR1Ue0ScKk4D3ER6kqYcItTuHxPA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 153,
+    "coordinates": {
+      "lat": 25.729701499999997,
+      "lng": -80.23964289999999
+    },
+    "features": [
+      "coffee_shop",
+      "wine_bar",
+      "cafe",
+      "bar",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2eJbmUu32YgR8_hHLQvwOYc",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 8:00 PM",
+      "Friday: 7:30 AM – 8:00 PM",
+      "Saturday: 7:30 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=9744083199587776755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Greenstreet Cafe",
+    "address": "3468 Main Hwy, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Convivial, longtime café with a patio offering American eats all day, plus happy-hour specials.",
+    "website": "http://greenstreetcafe.net/",
+    "phone": "(305) 444-0244",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs1e8QsW32YgR2n6XDREEhNk/photos/AWn5SU4ud_L2QmOZmNM2AfMvF991VAZyf48lNuBfUo6P1RBsFMo5vYhVVcBiCkdvNlNitQ_yXhAL4C_DGOKPmNYQI23HoNecpkS17TOZjKjh7GBhcwnAtf_z7hWyYtGX8vlvc-dHMa4ZTEL10RPLWqS_ZjkK3cjuoEZXelAfdhfXcuOmoHriZ8kUc44VpNzFeHl6GV_qWvu7mMwefLqZDB3u4_LED8Pojslr2zImZpUu2lNrHW_j7pzGv-fHy0EwsYMqcm6fG8CO8QFOW61cSQ7hBpWxmDkjQtEVFgM6ZqA65ffXFA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 5168,
+    "coordinates": {
+      "lat": 25.7267889,
+      "lng": -80.2440475
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "mediterranean_restaurant",
+      "cafe",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs1e8QsW32YgR2n6XDREEhNk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 2:00 AM",
+      "Saturday: 7:00 AM – 2:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=15673657074445156058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Navi Coffee & Flowers",
+    "address": "3213 Grand Ave, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.navimiami.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvTPlBGu32YgReIX1PlIuIVw/photos/AWn5SU4Omj_3lJ7uegbnjTWTwESkftDVL22keWfxP_C4gyD8BEI0XBR2xi4TM_zVD-AY5_yFY68s59qKJiNgjI1_Qk7JPVe_lGA3yVewUBqDBcO44ULc4gJl49AeLVe5X6uPjQC_M2kLy6J06szDqFCJBjZpA4TymJDZVICrShTjjnBiMvyIh4jmYR2ZDXE5DRVNLn3s-Bk2GZWNqtGZ7FJVmPizX-UulSyRolRqgvRf8yrM-J0Yn1YCflRkeCReer5TyqavfJOcvbhB_X_JcqBvLI9k4RHZmsULXbcVd9ot_1C1LQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 218,
+    "coordinates": {
+      "lat": 25.7280835,
+      "lng": -80.24609099999999
+    },
+    "features": [
+      "coffee_shop",
+      "florist",
+      "cafe",
+      "market",
+      "food_store",
+      "food",
+      "event_venue",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvTPlBGu32YgReIX1PlIuIVw",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 7:30 AM – 4:30 PM",
+      "Sunday: 7:30 AM – 4:30 PM"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=6638638256499295608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Panther Coffee - Coconut Grove",
+    "address": "3407 Main Hwy, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Hip local cafe with barista drinks, plus coffee beans roasted in small batches & sold by the pound.",
+    "website": "https://www.panthercoffee.com/",
+    "phone": "(305) 677-3952",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf4Gym8-32YgRZbTDebFFNJk/photos/AWn5SU69HjdbYwfSNnqMz4v8XclVIU0jHVySicJENpOxLDqc6ILsEUBddodHZLQZMLD-JzauGbbmqkkaXeOguufop28oZ_84RyNmJJCXBQIjKk_uc0ncE4t3MtEEb7Y07-THb8D5-qmsAmRQnnZ7TwO2WbCPelZoDkdEvwDe1aiFCbvzJotMaPeZNnuVr3a4b-68z9pfH_O1SobEMWIGK0fwGiY-50wPMTyO0PxhDMMecMDkc-_sXAxYvDF2I3QVlz_B2KC9wqlXFeF0oi4XFn3CJSUcBO2M3q0K6jlPuQvYzbtWeg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 765,
+    "coordinates": {
+      "lat": 25.7276553,
+      "lng": -80.2423874
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf4Gym8-32YgRZbTDebFFNJk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=11039525215146325093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "BANH at Books & Books in the Grove",
+    "address": "3409 Main Hwy, Coconut Grove, FL 33133, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "vietnamese",
+    "price_range": "$$",
+    "website": "http://banhlovesyou.com/",
+    "phone": "(305) 477-0866",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0xo0Amm32YgRpf0-uW6vz70/photos/AWn5SU5TqRcNPDLD_XVMRq7gkzqqb6gfU_42EXY-H4DBOv3yWRmR1eH9vV9H2nSugMA_EJI7FfiCZ6tBJHk1Rhebha8Xye-TXJlowcnsXTbbv8fY6w5HesXbGfzRYyCD1W1lJ4M2GLvE4ekdhFR6rtbYaKqqquUh3DUq5tBFH_pcn3lMsk72p2fy24r_nvlR-naRqh6udvQ_DOz3mRWpRWnpqh-5Rm59N3zJW_cost_MoV2rLT7hsnNKeb5X_SvECNxO-Kh1zdzdpmVL8QNE_hcUQ__wQ8tPeIsrxkiUhIJFnwj4uQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 123,
+    "coordinates": {
+      "lat": 25.727585599999998,
+      "lng": -80.24245619999999
+    },
+    "features": [
+      "vietnamese_restaurant",
+      "coffee_shop",
+      "sandwich_shop",
+      "cafe",
+      "tea_house",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0xo0Amm32YgRpf0-uW6vz70",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=13677343483436662181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pinecrest Bakery - Coconut Grove",
+    "address": "2720 S Dixie Hwy, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "website": "https://pinecrestbakery.com/",
+    "phone": "(305) 680-0906",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7Z5CtRq32YgR0NhNggWhXMM/photos/AWn5SU4IlkkjnxIHSJJp3GXoCTNBHfHKA_VG13UkM_E1B4OlPYA_Suv0vfGxe8n9m3y9miMv_G-NdB7zHjLpjmD86dhFaXIgGfvEQlDTRGN6mtWKUtzclcK-Xj0nEKILkDZkKDej0LcG5pJ_d5QmrpZGDWjNs7xM1S_3Dobbs9jrKREyJHUP063WfxOdcG1JFUdN5zoKiAMm_oYTmthlrhzVBKkCY5ZOWK2ya0rQnEu0GAkTgLbB0LHq1Xv3SWjxfqJ7dTpVPmuCXiecVCZ8b18x0y2ck0QMsafWsZBqDanMSdQCYA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 937,
+    "coordinates": {
+      "lat": 25.739034900000004,
+      "lng": -80.2392615
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "breakfast_restaurant",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7Z5CtRq32YgR0NhNggWhXMM",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Coconut Grove",
+    "google_maps_url": "https://maps.google.com/?cid=14077303580286376144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

@@ -1,0 +1,3141 @@
+[
+  {
+    "name": "Iwana Specialty Coffee Roasters",
+    "address": "61 W Utah Ave #101, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://iwanacoffee.com/",
+    "phone": "(725) 276-1378",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq4KjZADDyIARTwFiC5akZWg/photos/AWn5SU4YQBLxnsFiqr6lGWCW1zUaM1y0No3ElPUj2nSugxtKjh6NiHFxfo6_hkGVxN3kMByA8vIFLYe9ExZt9UilMsbve9mryImrDYrPN3uTkVd2YDDPaHGtnHVBuhtJE3oWt54qqvn7n8vrVpCsx_bu9WzdOpfRAzewAEas9wT_BE2lgbYz90sRV2n29sQk2os28ZNZzM_9oFLK6ZxoWZdGTIHPXgW2dYLCoiEIIDj6fUYn9ipgBkRK5EFeEUHx7vL-r9D1y9rEfyuCNl5EA1u6jLMNxGkkbo3lLYmR9-JL9fg9NQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 322,
+    "coordinates": {
+      "lat": 36.153397999999996,
+      "lng": -115.15476219999998
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq4KjZADDyIARTwFiC5akZWg",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7522599716935303503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Yaw Farm Coffee Roaster",
+    "address": "7034 W Charleston Blvd, Las Vegas, NV 89117, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "phone": "(702) 747-7274",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJXjYBPHAyIAR0o3sjqvU7L8/photos/AWn5SU4sMJqwolTsR5XoorTGFOJfivZkugdU-pXFUFWc3iegS66yHQKv932JxPFsEqN0xZA2FFSB22dAUamut8BgkyPbn3tfTydtmWqQev1ZWvuyuwyxNe4Fnxb24GoxodZ3glO9lC6egmEeM013aOJcCwE6pguBSVFrz25agFV8MgkHZLJTsKLuZOhRpuKGG2hGAMSr4h13efb9LQr9tCvypF4Sye0-Z5rUawIsitHDUFUIaUTHwHcgdabNcsisr-k2s5P3_NleqaOsNjmu3B8e-O_-QXFYyFkRJKPjdKmdsfJGoQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 441,
+    "coordinates": {
+      "lat": 36.159337799999996,
+      "lng": -115.25171779999998
+    },
+    "features": [
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJXjYBPHAyIAR0o3sjqvU7L8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 2:00 PM",
+      "Wednesday: 8:00 AM – 2:00 PM",
+      "Thursday: 8:00 AM – 2:00 PM",
+      "Friday: 8:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13829662389050314194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Desert Wind Coffee Roasters",
+    "address": "7772 W Sahara Ave, Las Vegas, NV 89117, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Locally roasted beans are brewed in comfy digs with whimsical signage, coffee sacks & a retail area.",
+    "website": "http://www.desertwindcoffee.com/",
+    "phone": "(702) 998-4222",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJRxh-b_AyIARmwoxwCFYf_A/photos/AWn5SU6pqXv5L0Buqwof2_nNEYBhFgj4ilusdZjcaOw1o2TxWG1uUKOtSbFU8pPLndDdCp6pvwrhrGzPu9pHH9grHqgdaS7VUx8m42OVoO1HY0hzqC91v8KbAcFmJaXKerwT518ghDOO5qTD7kvSUo9WNUn-tvbnkhz9mJGpu-ojE_vm2eaOK--VEejbLw4fneKvptQ0fcYhPyS-nlS0O5x3uMuAex39PVkS3ieWALUhSfd6PJpRFEJNB8RDlcRUcja3rSP43KYEb6939vzVdGX0nGSbjvMVf0Q1iM5M-eqko3tAyg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 715,
+    "coordinates": {
+      "lat": 36.1446537,
+      "lng": -115.26005909999998
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJRxh-b_AyIARmwoxwCFYf_A",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17329666793126562459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dig It! Coffee Co.",
+    "address": "1300 S Casino Center Blvd Unit 110, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.digitcoffeeco.com/",
+    "phone": "(702) 246-2331",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_SSCHkbDyIARri9NKuxLxSA/photos/AWn5SU7-k0zzaINOisY5rMG6-AwjwfNEAVVP9h_vxbyUIkAHk9jmsJtGq6_Cv_KAVLkuyonXOatzEYUimnk3SXsqJP3XT4YFHoHwW1MW3Zx5zk1TiPOICoLR6nUuV_gilRFblS5h4zS4m2c0BoeYtVazJSNHQHGvFZ92s_7uAoUvycUpaoHeLoBgaC8fL_qrhPj2IWA8_l-PnRnKelPQPsOI8NFRZJj74h2TJjVVR495Mj8YYk_Vkv27AMnsfbZTtYSsbx_9INeySlZqv_AOmaiMaVYjZtfY6shExtnzddB5elaLOtO31Gki8IdS2c1W7B3IIsuou5wiZjG2hn7fLwPu6CSARU-FeFkl8UObhd8kcPiUSjPB0gq_2tx5PpS6WfCA-Qsfqi2FVO5r6rRWyBKYCxOPVRbMSx1oNFRGqzNw0m5sxg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 277,
+    "coordinates": {
+      "lat": 36.155895,
+      "lng": -115.15282400000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_SSCHkbDyIARri9NKuxLxSA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 9:00 AM – 2:00 PM",
+      "Wednesday: 9:00 AM – 2:00 PM",
+      "Thursday: 9:00 AM – 3:00 PM",
+      "Friday: 9:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2361377057319759790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Broken Coffee",
+    "address": "8610 W Spring Mountain Rd, Las Vegas, NV 89117, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.broken-coffee.com/",
+    "phone": "(702) 929-3450",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZdjOntbByIARmFUDEwgYl1U/photos/AWn5SU67BLrYLd_Uw_2o0xCvcVL6CRoSNMYPkeJGUcyUkPS1rNoYBB1ZUPl3bMafS-l_wcjcb7pPFfjbu3L6JjRhI8ELMMJrvVTmxIp9cpjMWWuiz9cG6MQ9-T68QIAlHST0vWmSUCzMcZraeucQLDgBzj10G7gnBvsYNMVTu44kmGEmu9G8A72mcOa3cNQnf5hzTYRUDhL7Eg-RHfJ30qyIfX9PjWWuH1JW0tjA8dCVAS080AjSpH5MlMKAtExr0O02DwYoEv2y4HKcBrvXIhTm9BjtBD24DnbZaDIemfaHByHbcQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 235,
+    "coordinates": {
+      "lat": 36.1265685,
+      "lng": -115.27990729999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZdjOntbByIARmFUDEwgYl1U",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:30 PM",
+      "Tuesday: 8:00 AM – 10:30 PM",
+      "Wednesday: 8:00 AM – 10:30 PM",
+      "Thursday: 8:00 AM – 10:30 PM",
+      "Friday: 8:00 AM – 10:30 PM",
+      "Saturday: 8:00 AM – 10:30 PM",
+      "Sunday: 8:00 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6167424637664974232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vesta Coffee Roasters",
+    "address": "1114 S Casino Center Blvd #1, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Vibrant outpost featuring house-roasted espresso drinks & cafe eats in a stylish, airy interior.",
+    "website": "http://www.vestacoffee.com/",
+    "phone": "(702) 685-1777",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt3AWTYXDyIARcYXpVjOsvAU/photos/AWn5SU7d5mP2Bb6QvU7GGimt7dnM8gXqS3urQZV3UFTXQR3tVquqffzAS-C7gEOBBX71JxTcb_4HQQRcGMHzVeKyGtVhxomBdSd_yvhnkc2_nBE3tu2lYfowGSm6Jg_nWdRYxQ-rRm4uGGppiqRGwto6jtT8fRELvrFa2g2jil8Qjr9hjRD9ynLj_JRHqg3P2PKfJIAAtex0GsymuynF913dtdUPn-q4oAchJ0apqB6fIgd9_khc9SZOm9b4uLQliIBMG2mQ7LxRF99mF_VtG5t-bY-mhthPcUOIgvb0IhUDDyht6pSmJBhbXq53bzxpPUt22ygr1IKrTqXwCuRulbgChJ9N_b4HTMo5CyeBsUopUrymW6p6_JdBL2wq5YdaFXt1ZqKhyT0Ilo2UbAe_pHy6hNp8kEjDkuwDifqp1UqBe50/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1171,
+    "coordinates": {
+      "lat": 36.1581356,
+      "lng": -115.15244050000001
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt3AWTYXDyIARcYXpVjOsvAU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=413394602312697201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bungalow Coffee Co",
+    "address": "201 E Charleston Blvd Suite 180, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://bungalowcoffeeco.com/",
+    "phone": "(702) 331-4207",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlVObWefDyIARNbWpPqDlcKo/photos/AWn5SU5i4PSUXoNHJnaovAIZm-jo0TicpKZyfmcgn7fFFl16PbZX_amqkYxfy56J_gyxSA1gALLBZK_XS4YvS74fNo0kB4wUHCo9isKyKsHQtfhchdq-nZvWFAl4u2O_6Mu_qy8fxigJAf_aQ-HOYCwo0JVKrZNgWbUDUBlJUWniD-v1ekLw-Bbf1Povmy8ZeKzRktvDS9mp2PRF8B61O7PBVNzoLjeff_x0MO2VKfHOSgSEohA2e0OOaupZSH4y1ogls1khunXQoHUgeVx73iK-6FzH2bFq_ki_pLMiUr3fvbkEPKaVER9Yx97tP8c9SsdnOGbR9tCX8jjHGboGmx2x2Zh22hSfUYcV9vmt7y4iOjx4g8um_HyzCezkiD1CkdTgu2w__V6tdPcQujrvY51Hn7NhO6h41HSWJWSQ3AIsjuE/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 566,
+    "coordinates": {
+      "lat": 36.1590093,
+      "lng": -115.15135329999998
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlVObWefDyIARNbWpPqDlcKo",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12281568660248180021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Take It Easy Roasters",
+    "address": "3540 S Wynn Rd., Las Vegas, NV 89103, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.takeiteasyroasters.com/",
+    "phone": "(702) 463-7111",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUxhp3J3HyIAR2aNtSQNO7qk/photos/AWn5SU40AbtchKP_LXupR4P4Whe7p9AYHSLk-O8Qqm1D-H_WfCVOsiws1vt7Kv1u9yfchdfgOLBBhKbNL-AT2567jiFBSJWebKYqJZDHYwDiSmGjGnjKvpTs2eg258M12oKtWddHSOtb6UlJ1oFP2Fcw7UWSMCofFZortrmw4v1pkm3TqagbQVz0qtGGsr3cZMrK7sq6ZaBkq021D78eFC3_zz5ddXEl1lqktUtK2Xt4-WYUITWu49pDm7TK1N1L0ChOhBkscXMbqEBjaOxxBgV9qsJA8BznGhOxvzbPAQ8d3I0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 292,
+    "coordinates": {
+      "lat": 36.125389399999996,
+      "lng": -115.1944322
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUxhp3J3HyIAR2aNtSQNO7qk",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12244810212890747865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Savor Coffee",
+    "address": "6811 S Eastern Ave #104-D, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.savorcoffeelv.com/",
+    "phone": "(725) 250-9992",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ95DDxabPyIARNfBPyAhFNnU/photos/AWn5SU69BchSQ_6Xmz5nhcQTsmsjTp7IctQ72hQSuTMuLy92pxsBKdJhGmL1D7v_Zy1NV3NjETLPvw-ew3KIkflODT-mWiaGXyljXvCnN2lnwlL5ibBMIzwDiQsMaUTDX3B_zoZtns3LccpB2L1x0VzN1aZwY-uvX1VP-QZjudgu_nTeuE48Mt6FlKBgGnUBv9HfvAhr4jylmdbJgQCDBmK6cwDU84uJqDsb6gFtTKrbQbJ_W1_LocopASG1UMXUEdverqKnQC9dpnqKoIVyDqOAJbeBnb36TMMx9LN3oO2i5-wLlw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 451,
+    "coordinates": {
+      "lat": 36.0661492,
+      "lng": -115.11901619999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ95DDxabPyIARNfBPyAhFNnU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8446014055202680885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mothership Coffee Roasters",
+    "address": "1028 E Fremont St STE B122, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.mothershipcoffee.com/",
+    "phone": "(725) 735-4539",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkbda4CXDyIARSGNPfnmbb-4/photos/AWn5SU4TRizyucwPV4ItwAC8d4MNwpMHQONkOjkafbmol9QoFb7hLObe_946e-dyy7OQJXAChDAfCZUNBYiGZK-BiIhBZ7OZ1MS4tGKZmjxeNsvP58IG0YqM-aoDRiG6hF4nRI-0TVDSiR_SL5S3dzKvcILpNot4Z61vLxTXhNUkqU_g7rVRgI0eZr3D2Yh1sluFHPJAzLELKJEfRuwXQVhQ0lu37dsPJ_lh7VauyItJ5oda_ljpAYqGH4dNoFaVZrJWyW0UHfwvfMxRcMDpjklyAW3YqejDl5eHDEBhm-ABn79rWg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 704,
+    "coordinates": {
+      "lat": 36.1670072,
+      "lng": -115.13387519999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "wholesaler",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJkbda4CXDyIARSGNPfnmbb-4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17181122049554211656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Magnum Coffee Roastery Café & Store",
+    "address": "1335 E Sunset Rd, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.magnumcoffee.com/",
+    "phone": "(702) 848-3080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM__q5X3FyIAR512gxsM2Pi4/photos/AWn5SU4Slq9MRkj67FNx14BYCsDIvqFIE2iIVUS_zse-mRdRKCC63IqGEyCvzSq6wl-c7-hfVZbsUH-UjrAipRkevnsH3fbJhjYHFTwPCodnQD6n3avfJDoj10d4dPAC9M5hZ9vwj0DTOFzTSyipJBPUkHd9H2Xw48ewXHt0IUAzOJptPU_rbEpayOsnL5shL9vMHBsI0uXF2gLVYoRmc4ktWB02acLTXxwDNX0OkI5tKTEuYUPD0TbdDfLlfIyxgVzGbthj3JIcOdqPm7lBY98lGBexUpj5tD6PaZBQJP8KX9GoKg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 316,
+    "coordinates": {
+      "lat": 36.0713715,
+      "lng": -115.1347854
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "wholesaler",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJM__q5X3FyIAR512gxsM2Pi4",
+    "opening_hours": [
+      "Monday: 6:00 AM – 5:00 PM",
+      "Tuesday: 6:00 AM – 5:00 PM",
+      "Wednesday: 6:00 AM – 5:00 PM",
+      "Thursday: 6:00 AM – 5:00 PM",
+      "Friday: 6:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 2:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3332160988779666919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dark Moon Coffee Roasters",
+    "address": "11041 S Eastern Ave Ste 115, Henderson, NV 89052, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.darkmooncoffee.com/",
+    "phone": "(702) 840-3300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI3pTsAzNyIARjLUcDMrnwoM/photos/AWn5SU5yGDEHasMS6Rr03oiHpqqjcJzNdeAxnN-AzhRCiIMfNzX9WmQx2hOewMKjHCFWFPRdPovgA_eFlA1Ltf6jHKWk55bykUj6AZYnlexdfTIPTMqMfNw36thzGHAO4PSzxv9Rvw3YOb94iDv13i0jS6T4xJF2zWCTIpayfRKjvniGQVq-h_t-S4XBPfLCS6hulkV0hspi_6Nds5FHc7pj3qBslMGYtSovnRBtTIL5ALBiXNmdPADgWUQjN6s8njsQtoJCwul6EuLpn8lw458mH81CBg5JOGMSrI5RNVvty-2Scg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 588,
+    "coordinates": {
+      "lat": 35.991553499999995,
+      "lng": -115.10273559999997
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "wholesaler",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJI3pTsAzNyIARjLUcDMrnwoM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9494405819423045004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alchemy Coffee",
+    "address": "5660 S Hualapai Wy Suite 104, Las Vegas, NV 89148, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://alchemycafe.info/",
+    "phone": "(702) 605-2609",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlw4XSsK5yIARi0yDwSeS70A/photos/AWn5SU5S29VBEcHCgOM2EbkxShsnaC5wIps6QXlsfIIu7VKHHZIvenchPXXMUe-XIba3Fw0xg4bBDNomWbltOyS5uCc9gbyCifXEq2ebyMWhaTDGdor8m6LouMeEe5wvJN4EPIGN3dg1NQ4vvVTpOiDzivTLFiIlJlSUY5lzPiREx8kgx1lb-5LxBF3mLJClrZSkmtaIe_l6NcR9WE1D2dDQZxQgARD4atYla1wrYNwjQz3_pWZRijpi-NQ9cQN4Soqmwz53Y2DnK4X_hdKR1-QIYyiqKCSVyWpEE_QxhGHPGlizpQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 249,
+    "coordinates": {
+      "lat": 36.0858671,
+      "lng": -115.3148745
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlw4XSsK5yIARi0yDwSeS70A",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4679119237309222027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Java Tree - Roasters, Cafe, and Bakery",
+    "address": "4850 W Flamingo Rd #41, Las Vegas, NV 89103, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://thejavatreecoffee.com/",
+    "phone": "(702) 478-9994",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZUjGa4HHyIARI01H6FMFNWk/photos/AWn5SU5nlvA8B9VGHPGj40nwSwTTpPys5wXm4tNjoKrTWSdNLyyrh9tMfdinOQQPMPCXHFUPinBd5OnOS9TH097ietuqZsz9dL1lFEHNRQZ1d9H9LiVqO3ozEGQtkMm0NxqJKDdvglgsq49ZZbrG4gR_uJsVE2mEPlY_jHpunA34FsgNM0DIb9CW1Gf6bkM1RtpxUwxaoqpirtDYHtH2J-Yux91bas7VINXknYKl8baG2UviZLqOQBjwVpIB9Aj2KE9rqm6zWq-G04pcqK5ymi0nqGhYgpkh8AnJgrpH85pq32SHwA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 125,
+    "coordinates": {
+      "lat": 36.1161506,
+      "lng": -115.20646320000002
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZUjGa4HHyIARI01H6FMFNWk",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7580971405685509411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Convo Coffee House",
+    "address": "3350 Novat St #135, Las Vegas, NV 89129, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://convocoffeehouse.com/",
+    "phone": "(702) 268-7715",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7bJX3JOVyIARKpUhgmUXbIc/photos/AWn5SU7URzcSyS5Yc0F1VR2c-qdLqBWTixh7_UuDlAVaRoSxCygP497lhGN5iZ6GLCeosbTkbSp-nCN4Ja8Bggf1eceGbmIcfqUqAUJeyXIFrZJD3XKGpNX98g4FBWrhuRgUCHReN0iz9RWVddkVrM08c-maJyRCjHSm0MQ0MMfdR2Id_0B8VN6wl8W2BCzeqwxpxeTLc-wlTlbHtHdxehd8JbP1rLm4ZwJc6Z8pVv8jiSRvqsaGJ6z1N1hpXqWLml5TMquzDEcHukbOWTZdM_d_UEquYoLt-lp5-bnmIpdnEP0ifw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 221,
+    "coordinates": {
+      "lat": 36.2211423,
+      "lng": -115.32861659999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7bJX3JOVyIARKpUhgmUXbIc",
+    "opening_hours": [
+      "Monday: 6:30 – 11:30 AM",
+      "Tuesday: 6:30 – 8:00 AM",
+      "Wednesday: Closed",
+      "Thursday: 6:30 – 11:30 AM",
+      "Friday: 6:30 – 11:30 AM",
+      "Saturday: 7:00 AM – 12:30 PM",
+      "Sunday: 7:00 AM – 12:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9758200217347396906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vesta Coffee Roasters",
+    "address": "9031 W Sahara Ave, Las Vegas, NV 89117, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "http://www.vestacoffee.com/",
+    "phone": "(702) 476-6626",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJb6399L-_yIARYqGlsGP5PS4/photos/AWn5SU63808deKuB76-6bdX3TQsQ0a_bnRU11lNxiRgwPRR8DdCUY5-kAqSos3S5My7buh6tHJ6Wh5_ZuNA46mPh2OldlLwoJ-6ZPNRtL7QbJmvEf8oQX_OygE1B4mPX00M6tSuan51jRJQWApOuehHcUZ0AtaF3TOTXyR3RL0BgftVhRQlCZEBwQK5wZAoLV2o16Y6_cDd4TeclOJvT2N0Dry2Bkc75uImTNT4ba1SKcR8k4DHDTGPsUJF9KsK1jPUceo45z1M8MIZhCMdJLMDB2OxV7JQI7S_-0-7kufs6wcH7kw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 306,
+    "coordinates": {
+      "lat": 36.1438144,
+      "lng": -115.29401809999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJb6399L-_yIARYqGlsGP5PS4",
+    "opening_hours": [
+      "Monday: 6:30 AM – 4:00 PM",
+      "Tuesday: 6:30 AM – 4:00 PM",
+      "Wednesday: 6:30 AM – 4:00 PM",
+      "Thursday: 6:30 AM – 4:00 PM",
+      "Friday: 6:30 AM – 4:00 PM",
+      "Saturday: 6:30 AM – 4:00 PM",
+      "Sunday: 6:30 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3332093505884758370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Royal Coffee Roasting",
+    "address": "5608 S Rainbow Blvd, Las Vegas, NV 89118, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://royalcoffeeroasting.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbxCl0z3HyIARC55neP4g92A/photos/AWn5SU6eudoTrFqPb-6EbaJat5abtj-Vax5TnwhxobPB2UkVdKMTLPNZmtU7d6p--foVCsghGtgNI9RRLqnuXj9BF6Ls0TIxp3LtUluk9cbLWFQxI5jSmhDmvKWAuD8r-w-5h1nKBl3gQl8UVPrGZUVLyCav2gpMduCsefm_EL0upND_0gplJ5bSdVhKtnpfdnGV1W4pNGbLynrLbvvUpBv1D2pjLVOzqZ-FyS2Yo7zh2pJFUul1YqC_9FIvsQ6LuGt3ZLE8z1Sd5NZMNSwXwqWy-EDMCQOuRKfnVHarjuL3VgQA6-j721hu1kUqK9NPN0yfq-Tea_JimUBdznKDEkXzis_kem0KHkXZQwudFAuGj7wpg6oLhc06g_-QQxskE7rsFwpIZfs5n-2dr5iPF2X3xxoU3dXDajwrAgcuAyGMYdyzXg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 213,
+    "coordinates": {
+      "lat": 36.086694,
+      "lng": -115.2422417
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbxCl0z3HyIARC55neP4g92A",
+    "opening_hours": [
+      "Monday: 6:00 AM – 5:00 PM",
+      "Tuesday: 6:00 AM – 5:00 PM",
+      "Wednesday: 6:00 AM – 5:00 PM",
+      "Thursday: 6:00 AM – 5:00 PM",
+      "Friday: 6:00 AM – 5:00 PM",
+      "Saturday: 6:00 AM – 5:00 PM",
+      "Sunday: 6:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6987089624202452491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dragon’s Alley Coffee Co.",
+    "address": "1031 S Main St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://tavernacostera.com/",
+    "phone": "(702) 749-0091",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ29v8TfbDyIARtN5Z-Px6qiQ/photos/AWn5SU65wHsYFmGZaNV5iK3aKCHdOP55605T39u6JEhkcjA0v5bC63p7KnEsPV4s2oAXWPKRBzKGxV610o3OjDxjCBO86mIi4r1xDq813fhSccmTnMwNhklzvsGWTmePrfS7k9D0j0iTNAWt4iWYcgIsNYNRxNGxcvQ7MG84O-ky92gUiE28msy-AU3Jv0MPzz9XZim_ExlbzcRQY_-PLPC-3Ump4wnKPC9AMWl96JddEFWeCsvcHtTrNfOL2dDc6duaWVuU3dFdeQDbh7GZo1JQQ6GX6u85qksMXGS9tGid6u6TTV0og9KxEeWMLJ7zYe45_M07HwSiZmKXJ534S1YfxivN0hbtKWq6Vr5wJyltsL7DxhCxGcnRrn66E7_wKhw36PgfnLD6CaafpdfgmcQW_OWfkb3nEBd3QO89gPOPUto/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 128,
+    "coordinates": {
+      "lat": 36.159771299999996,
+      "lng": -115.1529689
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ29v8TfbDyIARtN5Z-Px6qiQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2642059358323203764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aroma Barista Bar",
+    "address": "300 W Sahara Ave, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://ahernhotel.com/dining/aroma-barista-bar/",
+    "phone": "(725) 214-4800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJidcXofTFyIAR-bCuDQLqh_c/photos/AWn5SU7LrnrDUZ10PG77MS5CaPxshPX3HsmL0IQ0JCEydABW30LpI9KyZUMhsyJP9h4mpyhMeYMzRW8JS9U0Z-zejAaMB709sE2U00yTYHU9ncDvUI3yMHv3NLwvhS3Bk8BtjIJt22eR9kjSK7TL4l9Db8ijnoZsNKXibRskotv4rDwC7krOVqj5iIH6Aiy92FeDFNTfu5Iuo-5nz-DjOEyRm57wEJ58lyaAABZJUqY6gXrsl5gd7_PxJst7gjzhhlAJ68KsytDd2jIa8AT-yiRQVY1XNap8TAAXjd4Qm3Yn1M38aA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 127,
+    "coordinates": {
+      "lat": 36.1441521,
+      "lng": -115.16010560000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJidcXofTFyIAR-bCuDQLqh_c",
+    "opening_hours": [
+      "Monday: 6:00 AM – 8:00 PM",
+      "Tuesday: 6:00 AM – 8:00 PM",
+      "Wednesday: 6:00 AM – 8:00 PM",
+      "Thursday: 6:00 AM – 8:00 PM",
+      "Friday: 6:00 AM – 8:00 PM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17836482143764525305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gäbi Coffee & Bakery",
+    "address": "5808 Spring Mountain Rd #104, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Coffee, pastries & light bites in warehouse-chic digs combining modern, ornate & mismatched decor.",
+    "website": "http://www.gabicafe.com/",
+    "phone": "(702) 331-1144",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVVWVX87GyIARYdB4ZK1Xs-k/photos/AWn5SU757wfzgdczluD2_b1gGA4kIegSnvfbUfxfo7oknxMnPjOrO7xVkZn2wq_dr-Zgpyw6GBOPdDaN0GNZj62Z7QOdsvdo1Sk_EJzK7lTZNQGbULGRWIKPRgKJFApUyBDzTtDVAJUzQySI3hQk1lmWlu8B1_LmD4TlRHz8ROAQQ0JHlaqcrfAJk7UyvCC_Ff5v2gvaota40akQ7GMAh0NJWEGr9e4w0T1PK5FvIvmY12lnKS6VZBtl_uSsyalqVfP_buczKFIaqXJ2koDDseXn4n12lBKQhHiP6bafFzRA6iaGMzFG4w1OJrBr_0gtKtNElOB45SZkv2000K990G_S1LGnng_cgQWCtpYIwLuBIzvJtv_8vQfaoQqSBx9Kp48-Q3FlAvoilQsHEiu-o1qIHraKJEMGzpUlKYq9uyAKU6wAnBJQKplJXnJxL8WOiQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3213,
+    "coordinates": {
+      "lat": 36.1260036,
+      "lng": -115.22180639999999
+    },
+    "features": [
+      "cafe",
+      "tea_house",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJVVWVX87GyIARYdB4ZK1Xs-k",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16839899833895014497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tous Les Jours Cafe",
+    "address": "4731 Spring Mountain Rd ste b, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://tljus.com/",
+    "phone": "(702) 830-2360",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVyU3LYHHyIARUABVOPPcIrU/photos/AWn5SU5WZC1H-nqC8KFxahpQoBqYP5NguAF8iT5EqzwauSMaVoqH1TJVMPtBRhZIM6wylU8jT8D-Y_7oKjzcXMoi2IqtuBjE-yrGCa2jTOOOvCK9f0_XsOvT5XiX0H88RSiS2WV45BeYDvLKYZhF6RNq4C1_nyvZzdKhY6GmtPNmf3mIJEVGTZmZNAGlghOY3z160Hr5z9MdHJUd7oUFttnf2FApf90atJN6dEFRRPZXlvPWm09jTUypMs4jCfqSBEGAYFNbAtZ3pBnNWbtG6Gc2p0jVPaWKEPkpF43LCfdoRHkp7emjA6j-T9tgrKHETfQsHIYG28xQekbYy3sodU1_w6KfMEq64i2Z7jaUXF_IB0dL3l2Z1FpDvDJJ4TZS1r69_eUkkvjy2PVZU8l5Z-Pb6I30jL04kJCor_n25DwCb9OnCg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1792,
+    "coordinates": {
+      "lat": 36.1250697,
+      "lng": -115.20559639999999
+    },
+    "features": [
+      "bakery",
+      "wholesaler",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJVyU3LYHHyIARUABVOPPcIrU",
+    "opening_hours": [
+      "Monday: 7:30 AM – 12:00 AM",
+      "Tuesday: 7:30 AM – 12:00 AM",
+      "Wednesday: 7:30 AM – 12:00 AM",
+      "Thursday: 7:30 AM – 12:00 AM",
+      "Friday: 7:30 AM – 12:00 AM",
+      "Saturday: 7:30 AM – 12:00 AM",
+      "Sunday: 7:30 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13052237607253377104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dandelion Chocolate",
+    "address": "3355 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.dandelionchocolate.com/",
+    "phone": "(415) 349-0942",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe4ZOWRzFyIARGyvIqLscibM/photos/AWn5SU5Ub5San-InKjuj_ZgwzLmrVKkVSL4KRzyUu7xrtau-IrJsC1nZN9y5iB0NyImSaR_3d0eA-L4fJkQS9w5TkGBoq09eLUnEYJZ1BARcm2zhj7c5Q1a-P4ulnZkqCNNHGQS2lm1DiTQkO5epM8PtEqvb3h9mMAoLsw7mR9YgjzLjwuJphSwKNihL1hLO48nbOrYFMu9R3UfQNhKDvf--W1c3walg7RuxdgzZVrwV-qe_4W1alnZzp5eveVkTsPTTG-YxwolmB2_yi-MNhHemCwuQcpza5GK-5dAlecit2oCigg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 450,
+    "coordinates": {
+      "lat": 36.1213909,
+      "lng": -115.1698871
+    },
+    "features": [
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJe4ZOWRzFyIARGyvIqLscibM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12936902996914613019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "PublicUs",
+    "address": "1126 E Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Canteen-style, neighborhood coffeehouse with a chill vibe, plus farm-to-table sandwiches & pastries.",
+    "website": "http://www.publicuslv.com/",
+    "phone": "(702) 331-5500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM7jaCHHDyIARPHMuFhyy8hI/photos/AWn5SU7UmveRxHKM61S5VoM78DQO1PHjpGtEvaKDwUQlw60l0ztIuKFjHTHSOlrjm1_nHtGzcswt-_VS-mvtlGgPHsz8WhpMrPHOhH01TeJTLsl4IenncWufDa_lktHC3wP-kWcmvZy2QOAIhLUBhml4MDT6DMUG5oCE6ebe4Sf6q4PwNEoS2YfVw15ceZuu18fukLNdDyya49KxadmzdP2bSuRcEdbOX1p4xSjBT0Hi0zQTmkWerOPgDsA7IP2WKPdcKFPNmJG-4_NTa5OnaNctmdIgE3IAsDwC0_ViGeldwGSrpjzEeS0ffRxA-F6Wf_ijFVtr7oWCYz5P8W8yxyBsB3Kfdr9MfK-dlmTCvzHAhbG9OE0a9SgTPsGanoPziWmKKyy04pHPP9tLCJWz8zBUUx6wETUsOOPGlWI20txepwjuDibo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2659,
+    "coordinates": {
+      "lat": 36.1657782,
+      "lng": -115.13296199999999
+    },
+    "features": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJM7jaCHHDyIARPHMuFhyy8hI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1365349470747652924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Horror Vibes Coffee",
+    "address": "4480 Paradise Rd # 300, Las Vegas, NV 89169, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://horrorvibes.com/",
+    "phone": "(702) 413-0457",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGx-0c2HFyIARFvtv1ljOlO0/photos/AWn5SU6xmz-cw_SjbGNfUYW15J3AuMpZj2H8Y0YDccSz0QV02wbab1y3QQLVcFSC_o2AdXvju7UGEkKrrcQ46Cacdo-BSqx7FHaTJa6Gmh40-pbnEDIAG48MEp6jPGdgmr1rzFgK6-NO2v10UifgbITgWoLsugWWNbi3PMZQ6IZObkvCYW_GLXZM5Y-82UO1IOEK1hUsD2mze-ob96ItzMLlhaBFYU8WV-4afKKN_M4a-FJqpm7pMKIYh_6qRFTTAJqR6bJ7LyNeMHi_xsOzrBFD7N7kvHw1Hlpjx8eoyP4IZyBsNg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 103,
+    "coordinates": {
+      "lat": 36.1092061,
+      "lng": -115.1515162
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJGx-0c2HFyIARFvtv1ljOlO0",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17119534964492204822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Coffee Class",
+    "address": "8878 S Eastern Ave #102, Las Vegas, NV 89123, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://thecoffeeclass.com/",
+    "phone": "(702) 998-2501",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGQW36f7PyIARdBxJhnploFI/photos/AWn5SU4pq6GQN9chS-f7WZBABtqawb2uxLKK-x5VhOfvGRrg9sqWodyMs-yC7KP3-YZNP4arIN_KTYI3fCLlOkCJzjUiqlgnn4QUC3TAE6VntLOdmhPJA6l_lvX17nhuxsO-TypGUvV5X1MDT25qm0oAo7R5N_BMwBnODSGXg6G-ULKUZwG2dieP6TqOntt6pycPvcln38gfLM6i4WEGTYymkmioPHHQSdxu9ff8MnYne2TN35D0wbkrIkMWeJv2o5VOC5LQyimNPVNstE7Ka_GqIlHejQdaMhj54UqYl8pHENVV5Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 804,
+    "coordinates": {
+      "lat": 36.0282109,
+      "lng": -115.1150351
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "brunch_restaurant",
+      "bakery",
+      "breakfast_restaurant",
+      "tea_house",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGQW36f7PyIARdBxJhnploFI",
+    "opening_hours": [
+      "Monday: 6:30 AM – 5:00 PM",
+      "Tuesday: 6:30 AM – 5:00 PM",
+      "Wednesday: 6:30 AM – 5:00 PM",
+      "Thursday: 6:30 AM – 5:00 PM",
+      "Friday: 6:30 AM – 5:00 PM",
+      "Saturday: 6:30 AM – 5:00 PM",
+      "Sunday: 6:30 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5953870284297149556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Daily Dose Cafe",
+    "address": "365 Lewis Ave, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.daily-dosecafe.com/",
+    "phone": "(702) 329-0663",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe9-Tck3DyIARGMSoiKsDCT8/photos/AWn5SU47aWfgsxQ6NFNoo1_2xSIf1RMcLP3LX4Kr5aPGeIEojPrR2EnQ2gIO2lO26qFrGMQ3US7SDGE1zpykgWQJMshC-SULbVIC78vxoULs5g-LbGT6VIhvPDxcP_x8SED96pzmy4k45BFFUz-V9-5aJtdAs8TAnP0UGO2HGk2YqEbO2tTgVzJARIppT6tpz0T9PxsJdNjjiNFTRX8vywEYQJ9gTWKB9GSJJBTuPthnH2W0lhjbmINcrJRVDvG4vUK4zozb2Ev4mOsNxGdSM5hcOS5lkKUfGzIRKd6naGFwiC7lag/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 502,
+    "coordinates": {
+      "lat": 36.1662907,
+      "lng": -115.144508
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe9-Tck3DyIARGMSoiKsDCT8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4542165734446908440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cortadito Coffee House Las Vegas",
+    "address": "3555 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://cortaditocoffeehouse.com/",
+    "phone": "(702) 899-1054",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-zsvUeHFyIARwTYaNaJApr0/photos/AWn5SU6NDSjW73449KdiKJGMTmGuAPlyuvDnpHkYA5op8D7b4BK1Vhfd_TUuws8WVxuzKqqEVJpvXF3mXC-cESJOMXNs4iyjQYXfbJyT-g-Em1MJb3O-MVFtdrUbBjjqF9OW3LdS7gEArn0xrraFoFkUDG-OStdm33eBZmr-SGP-6SnW2dnY__idqQ75hPqw9KSozEgarKu5EHI1WoZ8Qvbskr1bYdArpNPNZcAvePm5ogS-9Bokou5KZ3UO3UOmgnHfUHLzBRARXLp7YL0eUWjSmDNF2hZ8R8Ta2_7n_lKVGDvT1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 147,
+    "coordinates": {
+      "lat": 36.1168797,
+      "lng": -115.17164249999998
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "sandwich_shop",
+      "cafe",
+      "bakery",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-zsvUeHFyIARwTYaNaJApr0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13665681184722138817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mothership Coffee Roasters",
+    "address": "1980 Festival Plaza Dr #115, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://mothershipcoffee.com/",
+    "phone": "(702) 268-7027",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiy58cVS_yIARs-GdxD1f4FA/photos/AWn5SU5uKFbDdhZYxKu_zmzE7Xj46Jnts5H4Rfw9aa1tP27cD-Tpoe9cENISptY425nrHuf1GQMFcMFpt2bUqL19FZZ64K7f2N-DiaUHdlbkBIumfsgVVDnV_UqqRn9al4cR4L0jrx8-Ea4O7LFquY4k3LBoOuSRPKv_4cdqQGogpeXn3q_Z3hQLEWZy6Pg_Kt08OsRIZ3NFpmD2_j0lrx_Sgfri8DsZL9pEfcgaRRVm8rLjFDgYW8K8DevPs2mw9aAX_t4oPfyXXG1LNpTSPkBCmVaSo06vwdFD9271PINvHc0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 470,
+    "coordinates": {
+      "lat": 36.150000299999995,
+      "lng": -115.33333089999999
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJiy58cVS_yIARs-GdxD1f4FA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5827762636713746867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bad Ass Coffee of Hawaii",
+    "address": "6150 W Charleston Blvd, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "american",
+    "price_range": "$",
+    "website": "https://badasscoffee.orderexperience.net/66f71b44f66b1f8f790a96d3/menu",
+    "phone": "(702) 268-7656",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB5McBxnByIAR--uln9rjvPI/photos/AWn5SU7WB-Dk6RvkzQdHJliFTjpZq0eIQ3Tjcq46z2GrJbKdepgMZb4EQCb3Uq4NTb5ppOZPNql8skTKgk6fzV3EiUOEWnIjyq2fGbwjL5mu0-Jf5nY9o3O-Jh-ujnTGal1tXtxsSl7c58-yw-lzVYg-WXpsNV8HUI2M2e5SlUvRo37aFDlr9kejgsVjRtLLPYA24c3pgRkvAV8Wp1nlrNoEQnd80vPHS6kvJeBf6eiO57gyuuMwGP3vmAvzBE7LJASPwUJqKy4ubUwMKx3ofM2u7ZAg-l-XvW9uAoYM4uF3863cHA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 296,
+    "coordinates": {
+      "lat": 36.15940520000001,
+      "lng": -115.22523779999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "american_restaurant",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJB5McBxnByIAR--uln9rjvPI",
+    "opening_hours": [
+      "Monday: 5:30 AM – 7:00 PM",
+      "Tuesday: 5:30 AM – 7:00 PM",
+      "Wednesday: 5:30 AM – 7:00 PM",
+      "Thursday: 5:30 AM – 7:00 PM",
+      "Friday: 5:30 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17491105580920990715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Urth Caffe Wynn Las Vegas",
+    "address": "3131 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brazilian",
+    "price_range": "$$",
+    "website": "https://www.urthcaffe.com/",
+    "phone": "(702) 659-8642",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ88Q898zFyIARHPzUrevwSBg/photos/AWn5SU5WVGeUyQUsiHe1OW4U1GmUeoNj5weppR5YMyLrot7TKFkUjii3RZIHOGnE6zzvc9h1ilC31Zz_jYFdCZwrIktXa3svL3icqeV714StOC4newP2goXmsr9CDnw6Lz-3cYwRUDj_nZfYQhT47hKT2_kelUGO6ciMp0XJaXAaJ4N3OnuOPg1vNcOqHF7rFQCqJkJFkbL-E_qtflLN9LWN6yVGtO0B4X_cPhCCSsIADaBDEj9rpsgENSizLvzyUK6FMvCvvVwKgW92N8MdWZnQ2mISl7NkE8de7hBs-Fd2uY0TFCX0ivjQ6KQRDfLGs5qpslciEzUGTyrbe4EaUNkea-DS6hloccgzIzKAR7uzGdBycgwgAONXgtJpOWIPYMYjpAYpvEJ23uNQC4h65_1J7f2jWk0OgEJMgq-0hBgdGMhjp86i/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1369,
+    "coordinates": {
+      "lat": 36.126494699999995,
+      "lng": -115.16818850000001
+    },
+    "features": [
+      "coffee_shop",
+      "acai_shop",
+      "cafe",
+      "brazilian_restaurant",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ88Q898zFyIARHPzUrevwSBg",
+    "opening_hours": [
+      "Monday: 6:30 AM – 9:00 PM",
+      "Tuesday: 6:30 AM – 9:00 PM",
+      "Wednesday: 6:30 AM – 9:00 PM",
+      "Thursday: 6:30 AM – 9:00 PM",
+      "Friday: 6:30 AM – 10:00 PM",
+      "Saturday: 6:30 AM – 10:00 PM",
+      "Sunday: 6:30 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1749913350257835036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sambalatte",
+    "address": "750 S Rampart Blvd, Las Vegas, NV 89145, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Espresso & other gourmet coffee drinks served with pastries in stylish, modern digs with a patio.",
+    "website": "https://sambalatte.com/?utm_source=google&utm_medium=gbp&utm_campaign=local_seo",
+    "phone": "(702) 272-2333",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvVLtIIS_yIAR0DxDdnyE0DA/photos/AWn5SU6gHBZfwJdtbrsDWxGwy97a_jynKv1n8wTquZ0fMmPVqByfEQF6Lhj847plLhxNIfhRV0DyQmKnkYAR23YLeLhPh-QvnLfjxJrmtpPTzo39hfW8m54bNN1KrEXVjxR2ePFsl4g09NTntCwzkybkv8uZhZs0u_9yTDzHAyqVDH2Qmovb7qYiYCPOyug64BzsSVfW_otradEfjJoBvfqYoLGJm5J-RyOW7ynQzKqXhopkN_5WBWFoegaJplgzJTGw3VSt9iVSS1ReIJcKbpadPneb8ZFKbB6hSEYsGunrUDylTA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 931,
+    "coordinates": {
+      "lat": 36.1641915,
+      "lng": -115.28968949999998
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvVLtIIS_yIAR0DxDdnyE0DA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3517456979071286480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sunrise Coffee",
+    "address": "3130 E Sunset Rd, Las Vegas, NV 89120, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Independent coffeehouse with organic, fair trade coffee & teas, plus vegan & vegetarian snacks.",
+    "website": "http://www.sunrisecoffeelv.com/",
+    "phone": "(702) 433-3304",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJN4HITffPyIARmEtlgMnTslQ/photos/AWn5SU6oIA-7P5CB-9DA3MfMrEPb4PjlHL8GEu8V__39YkWNz3oJ5TsvApdaOLRJcbdnnja77u2UvXdbDZUuSMaAQTWPByGRF7e7v70Is6KzrJBSSOrnwbkOXlINUsKObGfBNTpfQDGq8N4-fI8u4uz-GZcxUkVILgRAmSCY3DQt0URLTqBoJ2sZQXWPiEii8GW3Qe1uw5AV9lv1y1wmm4DUQphXS1bKrvFPfnI30q80egDTCuPr3mB7L_YERcfFkk8V8dDSMFKwlH25wiZV265EGUxQ-WDgyTwzgyvKJ1e39gPBQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1376,
+    "coordinates": {
+      "lat": 36.071899099999996,
+      "lng": -115.10697639999998
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "wholesaler",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJN4HITffPyIARmEtlgMnTslQ",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 6:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6103173307436452760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Daily Bread LV",
+    "address": "2620 Regatta Dr, Las Vegas, NV 89128, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://thedailybreadlv.com/",
+    "phone": "(702) 553-2342",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1XXChpnryIARN_kL8mTTGKk/photos/AWn5SU5zq0OJBgIwn6UaH0_BfcVi1XaWdND5MwMOjqaUGX9MlYABY7HnzQvjXI9tePqxUeMdKFTUMAyvFwfyw9RjMWwXUn8cEWA7TYCpvf6tfZ6uNvJIGeu36oBXByqsdJp5U3nO2sW19UTCijdKz5AeMROpQkTDLnb54uSI-prfxz80AqQApHFOKakKhDYEaE4FmN2HPuETt5vrd2zfEdC42RSzMNBSHKXJiRd3hCFVx1rjsNd5_83sBpEy0dB0fFWcLw-kACxFF3Wzbd710CiTrtCIxTAYxOjZJ4DVqTlaL0Urcg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 118,
+    "coordinates": {
+      "lat": 36.207361999999996,
+      "lng": -115.2681165
+    },
+    "features": [
+      "bakery",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ1XXChpnryIARN_kL8mTTGKk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 2:00 PM",
+      "Thursday: 8:00 AM – 2:00 PM",
+      "Friday: 8:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: 8:00 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12184721222361938231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Crown Bakery",
+    "address": "4355 W Spring Mountain Rd Ste 207, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$",
+    "description": "Cozy bakery with seating offering gourmet sweets & special occasion cakes, plus coffee & bubble tea.",
+    "website": "https://www.crownbakeryorder.com/",
+    "phone": "(702) 873-9805",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoRxuoaXGyIAROiAwxXtQDig/photos/AWn5SU5eCCPkg780cxhJfUmSdosbdGct5T3M_PvJSrZ5RFUuY9F9f8J3Mh30sYZ3NKAS1zlvcOkRVonx4V7drjdwrAJnRZPMUOWT7wIKEOPkirTcjRcwI_gbAXRuxb6nkygcKw3wZ-Bbq09PPxoQk8lJX9iai2_KcmbYpPRdQQVCKkwk-Izh5lwpOnWyP1RYK46G5IknNg47PyeERcijMQe51R6n10FQxJMqkpG-5cd6bNl6pG2MFvLlQZEnKkSy9cw0nQ3JEj3HSQrRdpaKexl8-Ddw1iwjN06xaBd26g6WxDceipdvHWfFeMX7XCO97wG_ZUbddkrgBSgHhdOk1d9NflETHLfcdmnv82PyGeTQMMqx5VXyC8tF0FwwobTyzm0xh0MoWWxw-hByw5W-6EWnUO22Ya3sewwugK9nd4QgBz9dIw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 460,
+    "coordinates": {
+      "lat": 36.125980299999995,
+      "lng": -115.19760860000001
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJoRxuoaXGyIAROiAwxXtQDig",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2886332903710531642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Great Buns Bakery",
+    "address": "3270 E Tropicana Ave, Las Vegas, NV 89121, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$",
+    "description": "Bakery whipping up an extensive selection of breads, pastries, cookies & other specialties.",
+    "website": "http://www.greatbunsbakery.net/",
+    "phone": "(702) 898-0311",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7U9XFjfFyIARfZz_esiQXTs/photos/AWn5SU7Iz_GDy7phLFED-RbBT74EzKTW7_zTOSY-QIdRmfYDvJLnoGIuzzvJuwGf3g36FW1JAgWAXLxvUy5mmlI6qVeUARmE1kY4r5wShnL7azART3L0euMCwNqULR4j_AZ09J_3CKjBcNndVER_lyjTRmdcqW7ayXOWyhpfWGzd9tR3V2v-ApwDQv8sKXZs8NTFYb01XHdaCl_8uFqUmMKKvLllqVeEKoh3xPbXR6W3QZA0Q752s3nZZVNH0TfzDmQJJzYuNbsTRD_LHhUccLcHrXIH4ur9jD0jHg7lluZtiwMJdqdCPr5vx0olGcomCvIHV95Ty0EBzEyMS-tstrstasMOWeikDo9a7KzH-BqiXSfhyLVBVaLWjWGnqZBZ1OkvMOhwHHZoqoEIslT2JHcE2vefOVXpIosG6LmCyFGhgN8wejWzJe3Khg4wjq0OnjGT/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 480,
+    "coordinates": {
+      "lat": 36.101382799999996,
+      "lng": -115.10352209999999
+    },
+    "features": [
+      "bakery",
+      "wholesaler",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ7U9XFjfFyIARfZz_esiQXTs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4277734411803270269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bouchon Bakery",
+    "address": "3355 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "description": "Parisian-style sweets & sandwich shop in The Venetian from famed French Laundry chef Thomas Keller.",
+    "website": "https://www.thomaskeller.com/bouchonbakerylasvegas",
+    "phone": "(702) 414-6203",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiwV3rBXEyIARPpyXRo1lb_w/photos/AWn5SU6w5iJ_VB8pARiGMbYzCoYgYu9PpInu_Lw8fZnqGLru1LQLFsXCpowLayMqsGlZgKW7L1qrf_ttZt564Vn_x4M9TVSInJU-JQe_fAC-mAZjRvnGePiw2H28RRYpUgJQG6hLGCtneJE3FGNKWfKstizHUHEeXtmSZfk8dCFS2o8X2j-LKCRosjwDgnuJU3jB5f3kcAZQKAKMaKYa8Inkpqqx6BHHxYbsToXlviHMjqHEAy_mB5aRmWXjw2-1-NOBGd-0M2VAWBmiQsWaV3FbVlxFQVcb5j0lx62-V-Ci2wocSihTC1zcgp726C1J1jGTeOC2WJFqBy3IaBu-kx3MgUwddjhfSLPFMRSrqTNB2BF6oOXUQ6spdMuAMLt8soHu3ndO3l3rbKASK7u4ufAHkpZofLqHLoiJHqIHMg4W92UXPQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 722,
+    "coordinates": {
+      "lat": 36.1215874,
+      "lng": -115.16922810000001
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJiwV3rBXEyIARPpyXRo1lb_w",
+    "opening_hours": [
+      "Monday: 6:00 AM – 5:00 PM",
+      "Tuesday: 6:00 AM – 5:00 PM",
+      "Wednesday: 6:00 AM – 5:00 PM",
+      "Thursday: 6:00 AM – 5:00 PM",
+      "Friday: 6:00 AM – 5:00 PM",
+      "Saturday: 6:00 AM – 5:00 PM",
+      "Sunday: 6:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18189869077421857854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bellagio Patisserie",
+    "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Casual option at the Bellagio for breakfast pastries, crepes, gelato, coffee & sandwiches.",
+    "website": "https://bellagio.mgmresorts.com/en/restaurants/bellagio-patisserie.html?ecid=GMB",
+    "phone": "(702) 693-8865",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq6qqpjrEyIARybl5-hImYZY/photos/AWn5SU5yIxg2K1B1Fpt1L9PJQRHHea6QB8nbBsmuRkHbwy5gYjiv_RSIEw71p9XqtSn3AHb5MNwqT3HAdqwPLe9V13Y_rs0Pyl-Yy_8jeDxSZr1mIhkZ_sK68BmgHmkBY2LANC41sH9ckfwmEdpf3vhN8kS1uzHZDuV-HmUiQAe0M2FzsRQ3e7_r6RXQNVbk5v8g_tysrjr4-eM9ZmZm2EKfuifih3OEFFrpN4fztKywEqbO55A8nOiQtVzInnBUSlOvvH8H0SItOnn0Lk1Upr2EO83Sg8YyjHNAIa3l9T7UjKkLNg_7msxjVUPVm9EDcovzhD-Z8eBN49ZF4Y0R4CuPXY3PL0FeYGo6IAFyr9RepKLOje9He_Jc09W9k9BotZUdZ39f6G4qWrk2CYlbsY07OCwtmQCHN033TEEQnmJMOxT-iA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1327,
+    "coordinates": {
+      "lat": 36.1118939,
+      "lng": -115.1770277
+    },
+    "features": [
+      "chocolate_shop",
+      "candy_store",
+      "dessert_shop",
+      "bakery",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJq6qqpjrEyIARybl5-hImYZY",
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10835984041383672265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Arevik Bakery",
+    "address": "3544 S Wynn Rd., Las Vegas, NV 89103, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$",
+    "website": "https://order.online/business/arevik-bakery-11667673",
+    "phone": "(702) 875-3759",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy6S4Sn_HyIARm5Y8qHlTaEc/photos/AWn5SU6ds5guc3x-UPCAbbCaSRTy3mJOY64XO8vxOaKp5C_hZTGA5SGbMF9vF1-1Roq4FnF6sJ277LgA_OfZ_INuP7xEMNli1e4jeGD5l4L0xiIWI88DRA6OrjSPnQsq53WS3jpVx86SRMdfpT4OMvvZzoxZrvGMXmq8rJrgUzi_CQV45UFdGDySGIwCoXjg_V9amgjhwM3nenYqEF-lMVEyKabjxVvwwaAdKx9bu-RXPrfbF-bv52tNc5GUxHWYXApN4e84eN-bbXO0Pp1owMOm845xEV98fEbXFj_LCybCJFBx4Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 112,
+    "coordinates": {
+      "lat": 36.1250609,
+      "lng": -115.1945091
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJy6S4Sn_HyIARm5Y8qHlTaEc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5145454356249482907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "85°C Bakery Cafe - Las Vegas",
+    "address": "4258 Spring Mountain Rd #103, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Bakery/cafe chain with roots in Taiwan, offering coffee & tea plus international desserts & breads.",
+    "website": "https://www.85cbakerycafe.com/",
+    "phone": "(702) 247-4094",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc1Nm4xrHyIARosreihIsnX4/photos/AWn5SU7gbhuyYI1Y9NjcZs-oL_X5Ex-_DrPT9x4SXr30QFdskc4IBrPgFpavyIIyT9v0Z2g8qsoVe5dI3DxC0Ho_SnPTUoVsj7MOX9MWmuzhW33RtArkW8S_0xqvB54yPWhGYc3_S4NCmeKXjCulxjq6BtYDdi_szXaHeUBSJ5gehAA97v-5yOqu1pfvCRZBBzwMHFx2M_eSkBhLBM1ll30dT6NS5BegnIkJSJy2Zgf7NK2tLyOnlBYcN6J52jxDeW6--Bqh914_ok6cS6cZMgWEkr43_30q1_i4D1KpocSnnBQDhaOr3vZ9lbYvR40lahUlhRTgJV8yNk24nyDLAyy5eXpCN4edJe0L37zDsKQItAS9aWaDzq2EaM-SOoK-jzn4yM0PxGDqIkxFNTTv7Hfg_qfcaH2ZMaRER6TqOs_QpEVo1g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1228,
+    "coordinates": {
+      "lat": 36.1270343,
+      "lng": -115.1971509
+    },
+    "features": [
+      "bakery",
+      "dessert_shop",
+      "coffee_shop",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJc1Nm4xrHyIARosreihIsnX4",
+    "opening_hours": [
+      "Monday: 7:30 AM – 10:00 PM",
+      "Tuesday: 7:30 AM – 10:00 PM",
+      "Wednesday: 7:30 AM – 10:00 PM",
+      "Thursday: 7:30 AM – 10:00 PM",
+      "Friday: 7:30 AM – 10:00 PM",
+      "Saturday: 7:30 AM – 10:00 PM",
+      "Sunday: 7:30 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9123496878273383074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "TOUS Les JOURS Cafe",
+    "address": "8140 S Rainbow Blvd unit E, Las Vegas, NV 89139, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.tljus.com/",
+    "phone": "(702) 272-1209",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo7Nlqk3JyIARcSzALRJy6rU/photos/AWn5SU50UyQhLeHxj9bvoprgiwNccKomy4cBknTX4XTbLuPXykrVS1XOHhadBOkJpMoXT_zo3mOCPgLfgO4TfsKR6b-FhXSlPJdxgomwQuEehkgjOR-1HHazek44AI-kMmmrKGg6xMU6SzZMgqbXM6obSWpnC5WQcvpJyCOwQhhCHGTrzVlM_vnnewwbo7lqh3S9KJchwzE5uX15GFuW9yu0CKH8LH5QzKdZahr7TbayyMrE0iRaVz-JevRLitIYWGno1wJg8kwAno1uCJT5-TdcRX9yCkFTXvdJ58RG0-9VwQwmK74pbwvJOwfrCAc_9wKsj0J_o2Jo9e2849_5UJPftI3Cv-C4lBxh1ZOe6JkkjW0mk4yLGEAtfkpELHhn1GhPQH1jlzNDqsjjQ-cZ4dLeHuWvbGWwHPYM4h_a72AYp-h-wg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 391,
+    "coordinates": {
+      "lat": 36.0405831,
+      "lng": -115.24284129999998
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJo7Nlqk3JyIARcSzALRJy6rU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13108415087817796721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Delices Gourmands French Bakery",
+    "address": "3620 W Sahara Ave Ste W2, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "description": "A no-frills French cafe for breakfast pastries, freshly made breads, sandwiches, crepes & coffee.",
+    "website": "https://www.delicesgourmandslv.com/",
+    "phone": "(702) 331-2526",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJX9TYFFbByIARjrq6zIvI23g/photos/AWn5SU5PqlyksqSlb1eoVEbG175yOuEKAO6DrBIkWPaSJ0Ca4I0vnBFINEtyADDwF9PDHGUYyqVi9Sp6BjLgHyFLCeJHdfzu0GXFU7HfxkM7oh8bPpntJP1RVHy53DM5KvGQS0GowX-owa8m0YNirfHaxwrThjNePUmkGN4cVOwdiyz9W-DbQe4t41BJ15mb6uaTXzWMvLR_WLKlB-BTgBeQRw9_n0g2AtQqk2TgyH_eqZ__uY91iLswgbB7RI99iP2vbLWptaOsFh2_aIWC9Jf-fEEA7fJwqVn64ZRyR_ZPfE8hMQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 738,
+    "coordinates": {
+      "lat": 36.145717600000005,
+      "lng": -115.19004509999998
+    },
+    "features": [
+      "bakery",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJX9TYFFbByIARjrq6zIvI23g",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:30 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8708774807211784846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "German Bread Bakery",
+    "address": "2237 N Rampart Blvd, Las Vegas, NV 89128, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$",
+    "description": "Family-run spot offering traditional German breads & rolls, plus pastries, cakes & seasonal treats.",
+    "website": "http://germanbreadbakerylasvegas.com/",
+    "phone": "(702) 233-2733",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3VKtiKrqyIARQxNm69qjnng/photos/AWn5SU7E1mWERvvXssQCYMizRylfZMC5rvPuR0uhKo0LhcwyTOXXfaw87fczAW_KLmHboN6FcszVJDp6F_cdTi6eQhQBvd1ePj21lAZQFYBDPUr5aQUCymW0VfvhdPFPOxUWzKQupFgX6kNF4W4ryHY2x3R9j2vOhNAalj3uAgnM5-MFbpn9TphLdyO8pD2DkqlBQoH8xx0UaPFR8vQOSrJARmTnS5r74SlcesXw5tlamaKJESPZdtt9B4-gffZpVvbNkp15HC2rKhYVPITXjDlufKpNBwG0wB1gC-4FeGyZKGwKZrZ99L39nvYnuFJDxC6OxBDszJt28Ixei1r8qOK7sQRolSvQKUAihkYR2B3fjtMOt-xK1nihTMlG54mWplsZnQTun9mR0ob7RLZ6r6AfRh77LiDmBwZ2zUXGuqbhjC4/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 386,
+    "coordinates": {
+      "lat": 36.2020379,
+      "lng": -115.2825327
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ3VKtiKrqyIARQxNm69qjnng",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 7:30 AM – 4:30 PM",
+      "Sunday: 9:00 AM – 1:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8691564491519169347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Burgundy French Bakery Cafe Bistro",
+    "address": "9440 W Sahara Ave #105, Las Vegas, NV 89117, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://burgundybakery.com/",
+    "phone": "(725) 204-6557",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJS5Tx80y_yIAR4rg07nOfW1c/photos/AWn5SU7PPqjVyucP3pSZF_axZCjnz6HxbXirl9NbuXOpS2MrhjtwuNfas4ICh4QKOjJKMElSksqGS-79nPg2V4kbfYbgUIacUxQXy3x0kOXuEvMOITUP3WPwzuI9yo-NVUXcWN8iIGfK2WpECc05XIAduh0dlJSoJb-LHR_BiiF6tqLEXDvbbeMsZLSmVPvcCFdVBD0YYWmY6xjXCZE-HmSB3SRFwgu4ypVHld9fHZapOMuvesmajY7_KIoXJtsqzBG7oo1jaWQJDkesrIJwpHxqWSLmdohJag2qkMW01DE9jspuRL0NbB61Ft3uaaIxWI_dM5f2rC9payMaHTJ-mb6fRFQe9wCh-eB9F7H5yjipHH325W_HvjbIxfi29LzPJdeNfi55mcnzXfcvXFYkpi4xSF2qsMVN4h4_vAnC4NMhRjU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 499,
+    "coordinates": {
+      "lat": 36.1454186,
+      "lng": -115.3001247
+    },
+    "features": [
+      "bakery",
+      "chocolate_shop",
+      "candy_store",
+      "dessert_shop",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJS5Tx80y_yIAR4rg07nOfW1c",
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM",
+      "Friday: 7:30 AM – 5:00 PM",
+      "Saturday: 7:30 AM – 5:00 PM",
+      "Sunday: 7:30 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6294800224446888162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pullman Bread",
+    "address": "5025 Blue Diamond Rd Ste 106, Las Vegas, NV 89139, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.pullmanbread.net/",
+    "phone": "(702) 268-7362",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQTXBsdDJyIARZcb7OR0PN08/photos/AWn5SU6jBgAmEnSTdboloZn9WxPx9x5cI912aGFsa8f_i16P0yRVcpM7ZEwy0TAV_3ZG4CsgG7J9GlijRaHjyEiWkw8GmcROSge8i8iqlueVljoZyhZ8zwf1nzD9Fnwz11QyRqQK64DlN2gWldWto3z2xObRkk4t30ETAI4HPw7UxoGqxSluv-CJ7ecJ_njs-GkBSBpyoqt8GdAAjO-Kcy4DXfjHlbIaix-xCES4mSrK86ksn7UBohEobn9cQxS6Yj-wSKCR_dFfY_-6l6SRXMscu5Obuo8K0ZxBeOag2n7W2Thug8t5TDZ_GjS8XcT16-g_d8-_MTB5bXiOsM6zgpXTG8zlXnSR3cCjD8cHAdDjyEjAw2M5s3uMETLhj7vcFqLRT7atnQ8bVUea1EOgtq3vH2i3N5TkYC-V6YxdOQK0IgUeqw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 416,
+    "coordinates": {
+      "lat": 36.030767499999996,
+      "lng": -115.20961890000001
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJQTXBsdDJyIARZcb7OR0PN08",
+    "opening_hours": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5708047670916662885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "4115 Spring Mountain Rd, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://parisbaguette.com/locations/nv/las-vegas/4115-spring-mountain-road/",
+    "phone": "(702) 820-0909",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4c-c1qXGyIARUOn5bdGi5kg/photos/AWn5SU6Pj5JkCjTgD8mv-WwUNu5RAMECuU6qcSp6mG2M0WJGGZoAr1TI_hq3-J0vh2bMft52YENoUqcUIf-FGh--IA9DPJIyFyJBBfngBgKiwSXWZlSoFSUvTqZhIKtfvL2h-KU3xowpXJVMUDwzT52w_noVji1me2t4sKYWppvnzTlVepDrPPdkeGa7xZe2quX_fISs3lrK4moUTdB2ZdelzQuQTPTx6oQRdKeV21bH3rU_7dxNhu-aFfn6lr3DOnoTCJnvxc9F7ELTUcYm8k5YP2C2JZOFiX9Crq5W3TC55EBAtmn6aJv3Xl_9BDOMCMMaiYlh3t7VmFKT8W5QCxzktezOSIuelMEejgPckuk2zS6OgMb3kXc3cnohyu7_gnZa3Yay_orHBMrh4ZUR4_HJxNL9uG7FZgP6i8U2JdQCJcul3xQA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 898,
+    "coordinates": {
+      "lat": 36.1260292,
+      "lng": -115.19522619999998
+    },
+    "features": [
+      "bakery",
+      "dessert_shop",
+      "coffee_shop",
+      "cafe",
+      "sandwich_shop",
+      "wholesaler",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ4c-c1qXGyIARUOn5bdGi5kg",
+    "opening_hours": [
+      "Monday: 6:00 AM – 9:00 PM",
+      "Tuesday: 6:00 AM – 9:00 PM",
+      "Wednesday: 6:00 AM – 9:00 PM",
+      "Thursday: 6:00 AM – 9:00 PM",
+      "Friday: 6:00 AM – 9:00 PM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5253065035751221584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pasabocas Colombian Bakery",
+    "address": "953 E Sahara Ave E8, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$",
+    "website": "http://pasabocasbakery.com/",
+    "phone": "(702) 640-8564",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtZLwGO3FyIARx2dJ9LCRZJM/photos/AWn5SU5-qSbPLsebK-ufTYTbTqpV3MH37vMnwiMTGzSdRQLfYfgQ5wQvBWbN88n1f7WV4oGfx6dKWrpvEoz5YvnPFHM8rfBwOsP24182E5Ayw1JKkN9NBIIz41bwUlV4tJHZf_ENdxnLmfKXRNvP30TzqP_adMaRVgEbukSFCeNR4U_AwVuh1pZ7n5CqNtEgKO5_Yoyvzw1cq5BBMwL7ep9b9N4aEKGIrDmZ9nEclSI1AVckY-inzOBX6rQfgMMlBqbUBQH9EguDyJ-yaL-xIKrdSOZGFpq9DksVa_A269A_112llw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 396,
+    "coordinates": {
+      "lat": 36.1425213,
+      "lng": -115.1425497
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJtZLwGO3FyIARx2dJ9LCRZJM",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10620774010445195207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Freed's Bakery",
+    "address": "9815 S Eastern Ave, Las Vegas, NV 89183, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Serving the area since 1959 with wedding cakes, cookies & pastries.",
+    "website": "http://www.freedsbakery.com/",
+    "phone": "(702) 456-7762",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrxKCyxfFyIARo17Ru9qDLDk/photos/AWn5SU4OeewuSePazX7QWyeKVb4mFf3smSUEXeS_iSb8ZC__tvcHLMHvjCb4cXREo6oG5rLZhtDcpXz5Y1tCIjAnELMXsdjF85SikaLCRi7TZS2Ow7aA2cek7ise6-r8emTeRXct3oW7OagIBdDoi8HB-ho6dMQy7cuo6_-A8WkBnb2uPMEAYSCJbUNOgmfRXj5Ob-slotavyFcRs22WBIipz5n8xyNCqbslyUrmdFwfJVizhtX_OoDImRMn98a0hrOUNPpuJLGnsA4eaL7Z6b5ZMYCWqyFlnuyPPAr_beJHjVtkGg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2399,
+    "coordinates": {
+      "lat": 36.010989699999996,
+      "lng": -115.1199876
+    },
+    "features": [
+      "bakery",
+      "dessert_shop",
+      "wholesaler",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJrxKCyxfFyIARo17Ru9qDLDk",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4119812734614331043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Henry",
+    "address": "Boulevard Tower, 3708 Las Vegas Blvd S Level 1, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Popular late night, this stylish eatery at the Cosmopolitan serves American favorites 24/7.",
+    "website": "https://cosmopolitanlasvegas.mgmresorts.com/en/restaurants/the-henry.html",
+    "phone": "(702) 698-7980",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJT4mIszHEyIARfbSsOCYMWNw/photos/AWn5SU4Bu_lob1bWpaitR-awEOdvUZQU4uoOsekxNvHSyqV0uoXTJJ292veUJtmVSO8rZuXU1b4vEPujNfC9n6h5GoQaUNXS_0EyE4huKrUgsE9hEnTJMXw2NMN-ZKYAR1agUo8uRW6fvXZwoQXL5iJAgBL-UQv07hY09vUqdCwmSg9aYPuJRLiQFT0zlAdjlnxTiC9gNhNT00DgqJnmx9Dn_lctg9GbL5onD-z2tMDho8bGEQEDP55tHxiurp9LZQmkYdUOgKg_eg90Xr2eZr7uS3NdTDd_igkDydaFSmZpSZpW6de3nunkNVRfOA84UoUf9wJZMeDLIymkPDyvAuguwAf1ly2UvbXoymVRrXKEPVeBqf_avNuoN3NKwrEmVyM97TgD7-EtKkNn9vzIzApYev_fvb4XzzSH-jdN2Wj1myG6zPcHuh-dzNeqxjnE6TA0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2878,
+    "coordinates": {
+      "lat": 36.110195,
+      "lng": -115.173698
+    },
+    "features": [
+      "diner",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJT4mIszHEyIARfbSsOCYMWNw",
+    "opening_hours": [
+      "Monday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM",
+      "Tuesday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM",
+      "Wednesday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM",
+      "Thursday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM",
+      "Friday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM",
+      "Saturday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM",
+      "Sunday: 12:00 AM – 2:00 PM, 10:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=15877453844593816701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mon Ami Gabi",
+    "address": "3655 S Las Vegas Blvd South, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": "Charming French bistro highlighting classics such as steak frites & onion soup, plus wine.",
+    "website": "https://www.monamigabi.com/las-vegas/?utm_source=google&utm_medium=social&utm_campaign=MAGLV-GBiz",
+    "phone": "(702) 944-4224",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3WIuWzfEyIAR3Cng9xOjScI/photos/AWn5SU5zuvfRm6zYytYGIbMA8baNoH5NfTSl3vqKXAKCr73jj5rEhMANvOnT7wv18b0gb3RnCehA3eMYFLIr7XXZHFRz9c8E--xGsqehTmK2cuer0LVrCep1ZD0rRyAawXr3qnjpbQ1By7hpc6HKl9424I5A89So9jehVmi_Gz2ifsPdvFGX6QB_YoLWgxKE3e7wsy-wIHY3N5aLjwgR0CRJPPyr-LUt99tTj7btUm_Q1qzxLeymocCSgYzQdYg7OG71jfDhAhp_QAbadKqw28bAO0TSRxnIqCeHfgI8Ij_V80Gd4g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 25589,
+    "coordinates": {
+      "lat": 36.1128631,
+      "lng": -115.1724846
+    },
+    "features": [
+      "french_restaurant",
+      "steak_house",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3WIuWzfEyIAR3Cng9xOjScI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=13999900222816266716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Grand Lux Cafe",
+    "address": "3355 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "dessert",
+    "price_range": "$$",
+    "description": "Upmarket chain offering a wide-ranging American menu in sophisticated surroundings.",
+    "website": "https://locations.grandluxcafe.com/nv/las-vegas/1/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+    "phone": "(702) 414-3888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmzk9Bj7EyIARqaSH4NRNYCs/photos/AWn5SU5tc8F2_R22dogHKRi7oYbP5eqL6ktC7PW4srswaRvpFIPsUT9Zw0y3phpJDFkQqKlOj1GTnkf0Lt0UTn7maTP7zIEI4lHr5Fx60f19O64HAkk5JV5msll_0BDiU0ndb-7tY2B2qzKY76T_k4J3Ko_Oi7Psgwc9v3-bBJbEG_H0IkmFGcqJ_nF9riY4Yu7DjS1vqmYawvmdmJYuQWF8l3IUSK-enG1zvvvMo_OeKxS11IwmRviYFviHUsx9Oaq7Fs2wk-9KbFY4KVx3XCfhyZiePfMUCGCePD0PZC8om5hn7A425zruy0CJ5Aq8NlEvu56S8kC03CVNQGGG4wD_cNet5eapW2nt2ThWIAdq1-3u40KXiQJFDBLVMmnueJoYGXz4HjBl1pnJYalGWpaVQni-ZNHSeX5Dqcwe45UHLDU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 7699,
+    "coordinates": {
+      "lat": 36.1218108,
+      "lng": -115.16887279999999
+    },
+    "features": [
+      "restaurant",
+      "dessert_restaurant",
+      "brunch_restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmzk9Bj7EyIARqaSH4NRNYCs",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=3125583718090515625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hash House A Go Go at The LINQ",
+    "address": "3535 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Hip chain serving creative, market-fresh American brunch & dinner fare, plus signature Bloody Marys.",
+    "website": "https://linq.hashhouseagogo.com/",
+    "phone": "(702) 254-4646",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwWKyCjzEyIARSGs0dqKp_Ts/photos/AWn5SU7vF2wazu07VjPVfLxbzjbx3cQlibv_OtUMg3Re73mu24clg9IcQjHD1YpIcnrjNwnh2zkd9yOqwLGvKjjMSRy1oIRNgjC2d_dsqhX8oN-p50N8gB9vRiUF0qMArGYBfP870WG40qDve6g5oeNmy_NsTcSHKq5SnJNllQUGu_8zI3jww3L-GyEuqAoWHftmheyHVNmKviqVaqZpOhRGSHMFjNVTLwRAX43i0AM1zBWMjG_Cz2JZvqbZ8bbr0jAzBqxLNzdVwU0GoYd4gZ-4L-xP4BjBUrEzo7B37vDr7ObbMA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 30781,
+    "coordinates": {
+      "lat": 36.1182388,
+      "lng": -115.17119489999997
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwWKyCjzEyIARSGs0dqKp_Ts",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 9:00 PM",
+      "Saturday: 7:30 AM – 9:00 PM",
+      "Sunday: 7:30 AM – 3:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=4322797732578487112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hello Kitty Cafe at The Park MGM Las Vegas",
+    "address": "3784 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.sanrio.com/blogs/hellokittycafe/hello-kitty-cafe-at-the-park-mgm-las-vegas",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdSHhBSLFyIARSBKSC9syUxE/photos/AWn5SU5R_MfnbX-xGg4wo0WzWDQTjH39_ii8_p8x45yPW6x69k4o20vFhJEyHU5vp5RKCBTZlXrM6Zt7jG8uywbcXjQqObhDBxn3jK4GftZFDGDMbuw4JqFq5hL8x7ND5GdQuJ5qSVffdKXrRvJkMeAhYmjFIhDUhDNb7rPrkj0ohB-r2sZzEGtNUVIMRiT809AO7K1Ep8y9nGlNn58sEHQzm1lDedyief76KDP0waUSCYAorWIItik95swh1-c0eSi-Y3pweULwAzliEA5iw_wvOzi-Gnxx1_WCdHIX0xwfYpuphZu7X0DgAh1j2skzm_ACV1vML2jRdlp7SapwYS1AqaqSPKN0E04j29fwbxDQl6Y-tdgPYzz55hiwTYr511LppBbWXk-fKhHlcfJHQmopCvrxvyalcqyjEwvHM-TviQhQFuFzecB6tjnTzVSEHw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1606,
+    "coordinates": {
+      "lat": 36.103512599999995,
+      "lng": -115.1744403
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdSHhBSLFyIARSBKSC9syUxE",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=1248397438085108296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rainforest Cafe",
+    "address": "3717 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Rainforest-themed chain for updated classic fare amid jungle flora & animatronic animals.",
+    "website": "https://www.rainforestcafe.com/location/rainforest-cafe-las-vegas-nv/",
+    "phone": "(702) 891-8580",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg1dV6szFyIARkwI_oQdpqjE/photos/AWn5SU7cceJYS0Vaye11oOCU0Luc60PvTSeG9Ahw5kKACRK83Ot1rqsvZAz-o9I2eJO5CWhVnZ_NtzmY2mPZdZDT59ajOooAG9x6TuoEwmIpCE1aye-9jWfOJPio4QMTj9yhW8rh-3J5orn4iwPldYhlGc19WyFpn0tHZnUCUI3OlZfSjX1NHezkw1EdKF6Xxv1HDdsejyjoLpadV4MZSrqhbflHurES7SpXteaGwSOO9fE89metDJiuTmFjLI_0lC1mPytV9jP8pPxJhzcmbY8CQmo-MkN_YEqslSETLeZwoWzHHA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 10665,
+    "coordinates": {
+      "lat": 36.1087852,
+      "lng": -115.17213599999998
+    },
+    "features": [
+      "restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg1dV6szFyIARkwI_oQdpqjE",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=3578788335390229139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alexxa's",
+    "address": "3655 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": " American eatery with inventive signature cocktails, plus views of the Las Vegas Strip and Bellagio Fountains.",
+    "website": "https://alexxaslasvegas.com/",
+    "phone": "(702) 331-5100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe3-NyjDEyIARsF-_OiCMu7o/photos/AWn5SU4btfM2aNoEsCPL28mCJpseERnp-T53VBWeAjwqhiXY3_tRY89HZkKe0HPuuC5qz6qnV6lrwmot0fc-QvS8ow0dw3pjWzaOw5x9UaSbB1GnYYUBrti5T0yFebyjF0FF7TqSuOJpeqyxAmY_yhICoHDbZyDEG0-L8qvkjRlb8CYBbmEx4CCLEv5Da10AUpOWn1e6vFpHWjUVXfEKeEpn1CZUhM0xzyL4-jAbLgDFnLfEirxNI-dEbryPRm_bRrW24eu857-JIuOC_-ymRcjT_vBr_7Fu6ixG-KeM6hACaVBCNg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 7671,
+    "coordinates": {
+      "lat": 36.1120228,
+      "lng": -115.1725027
+    },
+    "features": [
+      "italian_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe3-NyjDEyIARsF-_OiCMu7o",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=13455502381751951280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Americano | Paris",
+    "address": "3655 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.cafeamericano.com/paris-hotel/",
+    "phone": "(702) 946-7000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzxvZ9gvFyIAR7LdVBC6zovk/photos/AWn5SU4Dyzg_I1Xg1yqK6eNhtyu8pWxBPcVYxP4XQh_1Us2lB1L5XwZE2g7CHSSDpNtOfiZlYIr6e7uQszjG9TuiXaYOQsVi3SsjsW2z2vBDLUb4zqBGQKvWSWVMALohptI7nnfOUUyQbshsvlpHP1V6I5ffx57V5Dkl7Zbfxe18u2WymKIABpFQIJ6xNZFxCCTsFnt6f7Dgm65k7ONPDJFVtIbS8YY1DXxh0_UuU38H2XxTv7bY0nTjqXIYST3anr-HW1YA9J0jLoDnkh-p1BNvNHVE83bGLwFI5gbYqxaERBAfOw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 2115,
+    "coordinates": {
+      "lat": 36.1124662,
+      "lng": -115.17093
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzxvZ9gvFyIAR7LdVBC6zovk",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=17988136871893776364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Caffe Bottega",
+    "address": "255 E Flamingo Rd, Las Vegas, NV 89169, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.tuscanylv.com/restaurant/caffe-bottega/",
+    "phone": "(702) 893-8933",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_WKk0EjEyIARc3bgz4g5JPc/photos/AWn5SU4taUx81X7JR8YSWztECUo7XbAqkdA3rvVtVuTsQYww_cWKqBC0EISNNtfTwrdsDpEPzzA3ryBqB90vvMpreNx5QSvoEfevPgytNbLKEwSGG3xTubACrluVA0FLOfwNmkl2Fxq9nOye4f_fATEEeN4UYorIRMqaDacezfl2NVUJfH3BNzfs_pIZcVj1qiUGPkHfTVFJKjvVrYfiQb3hbScByQGJzu5sZWLxkP83iOAkTenNMoEYvYx1ks9LejUbSORYtl9J3AdGQ1bsKyN6ijoXgsOq5FhQ9zsSDiyHe5yNjA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 220,
+    "coordinates": {
+      "lat": 36.1132813,
+      "lng": -115.16040509999998
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_WKk0EjEyIARc3bgz4g5JPc",
+    "opening_hours": [
+      "Monday: 2:00 AM – 9:00 PM",
+      "Tuesday: 2:00 AM – 9:00 PM",
+      "Wednesday: 2:00 AM – 9:00 PM",
+      "Thursday: 2:00 AM – 9:00 PM",
+      "Friday: 2:00 AM – 9:00 PM",
+      "Saturday: 2:00 AM – 9:00 PM",
+      "Sunday: 2:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=17808422086295713395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Terrace Pointe Café",
+    "address": "3131 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$$",
+    "description": "Breakfast & lunch spot with pool views, terrace dining & American faves such as chicken & waffles.",
+    "website": "https://www.wynnlasvegas.com/dining/casual-dining/terrace-pointe-cafe",
+    "phone": "(702) 770-3360",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDa2s0BTEyIAR6Ncj7RAfLp0/photos/AWn5SU6SN-6FUwz3g-9nEL1-4Y3OOPSkBHkCPLJadSl4BpinUe5f-LmMbX1u_s1n_D7fJu5xlpGCzmMqowjsiNPOhIHXhisyFAmObz_dmIrV8yZeau2Zr3NE4ulLrCv0YCLkqLP0e9si4SRh5O0D5EJ-kwJKi_oVYRUqKsQ4XrWxkkad3EUKGtYL3JIzMKUQTowjlhNZSSQWTC4Seu0iyEG0db43S1g0N94qzQgzu2gdpgOWkJQ2nN0HtHzfXGQBCgOY5u4B9Xifo73Ob-P6gdBJ7vwWHjHx8xObDInOUW2E8t5c_w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1690,
+    "coordinates": {
+      "lat": 36.126418199999996,
+      "lng": -115.16441239999999
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJDa2s0BTEyIAR6Ncj7RAfLp0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=11326024270441863144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sadelle's",
+    "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Swanky, all-day option for creative American cuisine & cocktails overlooking a casino garden.",
+    "website": "https://bellagio.mgmresorts.com/en/restaurants/sadelles.html?ecid=GMB",
+    "phone": "(702) 693-7075",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq6qqpjrEyIARDzwdDtIRDfg/photos/AWn5SU7ti9PGntuuaUyQq-YiIdaP1NJ8Sh4-7crXqv4K7ERiz9pl9dMUp6q15Lu9nbeHmqUqHJp-GHjq3lKT-oirJfr1lP3blPlC9aGdXWe6Uwvmun8sC7WOKfVcHzuOeJ2CtxjLst68cKQ_ZfQ38WDw8b0u68PGaa--l992kdvk27uNQXu7MSaFnFb8TekY2dfwYCjwD0jnhVifdZ8NO_NGl5gPANqYgEMVrowqaqXumSFeGNeRPpqujKhY60-EOVDcAzWjyBBU-_kytL_maGeBAHST3WgtIQ2GG26ZtFe8CqZGlLPA6WdDg1h7_rAmu10srKu0XR5YwqgzPGlwg3M9mSk7jZxfF8Wi8-_5wfX6AFxlqh2uXsOWRHPkeEy4R5Nj23YWCe3b_YgjBjIx_XXVycKY8Fm9D3BY6YNMP4-xViaRdgda/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 2386,
+    "coordinates": {
+      "lat": 36.112176999999996,
+      "lng": -115.17678319999999
+    },
+    "features": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq6qqpjrEyIARDzwdDtIRDfg",
+    "opening_hours": [
+      "Monday: 6:00 AM – 3:00 PM",
+      "Tuesday: 6:00 AM – 3:00 PM",
+      "Wednesday: 6:00 AM – 3:00 PM",
+      "Thursday: 6:00 AM – 3:00 PM",
+      "Friday: 6:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=17873962089980967951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Parlour Coffee and Cooking",
+    "address": "616 E Carson Ave Suite #140, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.parlourlv.com/",
+    "phone": "(702) 824-5995",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmVCT1RvDyIARUdTuzuzaoFM/photos/AWn5SU6aZlBltp5ZQFh_ZnTfOTyzPbt7xiKWJ6bVjyhSAc29APkY6WJ-lEQskkQZ3ig06dU-CRVLACS7JcrFTUGfJzDE2rL2hKQL8wK6oEJayESZdVOhtQAp5Duas6frbFGSx6J-Zy7NZITQoPUKpgECSNuz5aTAka8ldiMHzCwNh-hrIg3WwlLMqsRrgXFFlbg3R72rRtjjDWaWIfcQ2lEJ5eieZoPJb9sT74HMQGvpYOBlk_-deH-wrBO9X8SFs9_Ld1iXmlWqQUaYN4laLe9L4jcwyw_IrfK5Kq2bHRHEIcxmEg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 596,
+    "coordinates": {
+      "lat": 36.1674152,
+      "lng": -115.13948459999999
+    },
+    "features": [
+      "cafe",
+      "brunch_restaurant",
+      "hamburger_restaurant",
+      "night_club",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJmVCT1RvDyIARUdTuzuzaoFM",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM, 5:30 PM – 12:00 AM",
+      "Friday: 7:30 AM – 3:00 PM, 5:30 PM – 12:00 AM",
+      "Saturday: 8:00 AM – 4:00 PM, 5:30 PM – 12:00 AM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=6026057012040619089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "AmeriBrunch Cafe",
+    "address": "316 E Bridger Ave, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "description": "Casual cafe for freshly brewed coffee, breakfast fare & pastries, plus brunch & lunch specials.",
+    "website": "https://www.ameribrunch.com/",
+    "phone": "(725) 425-1459",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyQ8bTZ7DyIARH5prXiAsa9k/photos/AWn5SU4LjDq1ZBZvyzfY7-13j56OwpG5O0zQQCDOorHkpboL8SI2in0StoUmLv_Vt-oNrsd1r50DuXLomAmxSAQ3-s9yqw_PvJktSwgHy7fNh1gQLMjI2EmDN17UQghQpE16e1W4bdiDFkx4a8bLoqK8BNxXzwQ4cFgBmfAdNPfS-ziLaXoTk_-rZO2OO8sJ6ZjXEcVgG3TrzP4mhqRJGqCsPir0RCyFMEouOrZ6dnAVDrdmz4bHroom0p-wfN6E-9vdjOj6C4PUnONUrIjVZ8RhI2DnHFgk9ejl3A5Il8croUpxsQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2589,
+    "coordinates": {
+      "lat": 36.1677517,
+      "lng": -115.14366120000001
+    },
+    "features": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "coffee_shop",
+      "diner",
+      "cafe",
+      "food_store",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJyQ8bTZ7DyIARH5prXiAsa9k",
+    "opening_hours": [
+      "Monday: 8:00 AM – 2:00 PM",
+      "Tuesday: 8:00 AM – 2:00 PM",
+      "Wednesday: 8:00 AM – 2:00 PM",
+      "Thursday: 8:00 AM – 2:00 PM",
+      "Friday: 8:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=15666664246273088031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Makers & Finders",
+    "address": "1120 S Main St Suite 110, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Vibrant coffee bar doling out espresso drinks & Latin snacks in a stylish space.",
+    "website": "http://www.makerslv.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=d91d7c23-2e19-499f-8fce-2d5b1b1174ae",
+    "phone": "(702) 586-8255",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyY-QApDDyIARAuN4Vd8aYhQ/photos/AWn5SU5LKoJDDaYc755vVPprRpQFBy3ecP6frvdTb_NLhTV7dFRo3J4yhykbmpdrYaaoHIiZiL2BGqg5jHv9oXekv2XeON3705ws6qduczWOl_0s_8eapjrMsCX-3WWiQPgB8wnXhNZUUpoxkUMBB0rwqAedlZ_VnreFLDo4NcsFUL276Gjjgor_8uxFMojO30ZDgxYBT9nRFRc6RcoUt5MtswWDgZJ0H6oj6kbFsrLvW5ueSGTxgOhhVEXRoeMSG1cx5m65MSLrXdTmnqW-JbbjKWRlLu0j__h1KYxLIDFMHIdjOw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2660,
+    "coordinates": {
+      "lat": 36.1578972,
+      "lng": -115.15394479999999
+    },
+    "features": [
+      "brunch_restaurant",
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "food_store",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJyY-QApDDyIARAuN4Vd8aYhQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=1468765974990217986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Urth Caffe",
+    "address": "459 S Hewitt St, Los Angeles, CA 90013, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brazilian",
+    "price_range": "$$",
+    "description": "Bustling chain of coffeehouses serving an extensive American menu with counter service and patio seating.",
+    "website": "https://www.urthcaffe.com/",
+    "phone": "(213) 797-4534",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF1qcgTvGwoARn7ujAJGHC1Y/photos/AWn5SU6glDSxoBy0QmTlCrE3b_6epxrQ0oGDwW0Z1q-TvuEtCyFlSxZShZBjpwe90rfPbmTt8k7DN9rpCGyvcgm4SxB1PGIFBxbDRdFjgAgJ5rRm6LUQvbNXTroCx56ejVayrLDUNQb3W7iGLkKI85CPTzJzc5vdvJtf4Kuw4pCxKWOkKD4K9p7cy8ULE-ZJGPS34Ej2PCZozna1OzABu4G2jSvmP1R0b0v0GhBfvtJ4lmNRzrltp0PvM3J7h6jq_Jxs1pS5maRyyP0VzCgz8sidRfQdpqywaTJ_hlqB9TwYT6h_17yFCyIqErWRG4TbUfZmtu374OUfdcvcZ1sdIvJsGY338oaMYB4vVXynepTO46RkXByPQqXfMhbqQDHV_vsUCkClAeud-rYvbAKzd1hfbrMZZsq2PQGNsQe4U9MLXGgVE331/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 5577,
+    "coordinates": {
+      "lat": 34.041989199999996,
+      "lng": -118.23546089999999
+    },
+    "features": [
+      "coffee_shop",
+      "acai_shop",
+      "brazilian_restaurant",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJF1qcgTvGwoARn7ujAJGHC1Y",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=6200198368856357791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Zinc Café & Bar",
+    "address": "580 Mateo St, Los Angeles, CA 90013, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Cool, compact chain drawing crowds for coffee drinks & a menu full of largely vegetarian options.",
+    "website": "http://www.zinccafe.com/",
+    "phone": "(323) 825-5381",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJi4G5KCPGwoARZI_gTqJmHiI/photos/AWn5SU5aON2tNiA0-BRgDwahYib6vxg2ZskKu1aZS9mlXuSBktFaldOABMEbZ6vnKEcx5B03DPtDBvauass8bFwVTtASePo5wXNFr4aeO3LST5klBCGsBSbh_gA90W8JYvIn_g5qj_QYKCLbx1gP9mFLUhYbJlAJyH4_GnCJmj0cDO6u6c0nLZLyYR8BXSUAONEi8Ynnt42eI56-MTALq1n4F_Pc1q0FIIw_KX2yuHyKmW6HL-f-l4y20gPI1BYbcf6wH-7xEfnco2RpIlhlU8GWF4sNyJU6f5l9jH5MdCWgvnOwGg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1532,
+    "coordinates": {
+      "lat": 34.0393897,
+      "lng": -118.23272829999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJi4G5KCPGwoARZI_gTqJmHiI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=2458515293884944228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Boxx Coffee Roasters Co.",
+    "address": "950 E 3rd St, Los Angeles, CA 90013, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://boxxcoffee.la/",
+    "phone": "(424) 313-2533",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ86h8F6zHwoARK1OHnLCZdw0/photos/AWn5SU7PiZy2A24X3JoT-vMmB0_69dQn5FVA9CnaiyGGde12WNPq76yg_Qrz5e8Evr2dNuAfaDuPCTrHl_Dxk-1RtNQIg1Etwnis7Fn9kJALMnzbB-B32l1SN5vQAopdKsXJKSSkObWn_T34IC2wgrG-zoKSlcQSSwmeDgRf8f4mLaeSe-QkCmnLDn0qvXSwMjVwWeVgTXjVhu4yM64nHRwh8Mm2sJL5oAcN2IGyyCGeLmxwhB3_vnvX1C2R74dfbgzW5lXHlOUyfq0hwtILSAX_ZUanVn7mOYTMeh6KWDh_wOgmlA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 235,
+    "coordinates": {
+      "lat": 34.045786899999996,
+      "lng": -118.233556
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ86h8F6zHwoARK1OHnLCZdw0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=970413228541039403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "1228 Main",
+    "address": "1228 S Main St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.1228mainlv.com/",
+    "phone": "(702) 602-0531",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy3tq7yTDyIAR6zpErzdWiIs/photos/AWn5SU4DfrFoE2i8FHqTPBHaemE5vBmlDcXNU7YM5ojq3LYrU0kVnrXq3_YmC_rmTMWMcdXj46r2J6URb7TrdZrNyufGEF_LgrXc9OJrhr_Yo5T_GmHdPAI8VgdMDBYM-7JmSr43Am4AmSd_cd5C0ITJBmvNzKONYAVu15N4l9ZC6uDCJ8LnclgA33x7xnaWrKb6gGHiWJh5D2tSmox4Tbjwu3rYw2PYW_b1RuvucEnF8aMMztJd_QqkKLGpkmk4a_ApBNNDWKg4ICxtlJhMbzdoTMKvyQA_3LktUwRsiULqSreuyQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 346,
+    "coordinates": {
+      "lat": 36.1564396,
+      "lng": -115.15390020000001
+    },
+    "features": [
+      "restaurant",
+      "bakery",
+      "bar",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy3tq7yTDyIAR6zpErzdWiIs",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=10054380965268306667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "District Deli & Coffee",
+    "address": "1504 S Main St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://districtdeliandcoffee.com/",
+    "phone": "(702) 625-4323",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE2A4iEnDyIARByTHNgcR9mg/photos/AWn5SU4SrxZNRlzWbIF1jsZuqmnkGQRKgdwy-NAMlxALU8CoqNFIxxsEEPVfIObjfT7pm8VzhtQ3qgvizwlkkTzCsW30clhExSaalXXrf7ZGknjNeGwUBWbmo_c-65TGvtJdX9MXqMfHzf3y1FtRN70uiokwvOWcyWrHwys7PSbkFfM0BloxMzbBoh7dxiU3FVsR31OLRbEdYcR_RccfOeh5YpuP8A9g-HVIvgQcAUBuWwVtNED0bVCcLnXCpQZtp99m2O8rRIpeI96TmIppKY2Rr8YOFwz2b6R8xcWm0mLhy_wdmKwitpwc48Occ8I7HH1q93p74OKuxadyykSPoTHiKNFCGimVxRThOTB3zAJfc-gCaIoM9AgK-6U18yHiHSLMYAwMdUHdEyvixpFXOeHoi1_QKZEouXAsd7gcnmobQrxKmA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 135,
+    "coordinates": {
+      "lat": 36.1532729,
+      "lng": -115.1542192
+    },
+    "features": [
+      "sandwich_shop",
+      "coffee_shop",
+      "deli",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE2A4iEnDyIARByTHNgcR9mg",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=7563251346896790535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Makers & Finders",
+    "address": "2120 Festival Plaza Dr Unit 140, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Vibrant coffee bar doling out espresso drinks & Latin snacks in a stylish space.",
+    "website": "https://www.makerslv.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=ba5784b1-d734-485e-bad7-36a23c150c08",
+    "phone": "(702) 586-8255",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSS0Fb1W-yIARKA_Lyh1_efo/photos/AWn5SU4jOKA0ofRvnkJc6Mm-fkBAScMS5m0ALp-QXhRc3uVv_4gPphsr1LjRzxARt4-bZQyg8NnbyxvLH5aoq9FXEslVs84dlm6RtBBEQOIxzG1jFMRVB4jLoh4YVn_edWVt_N9tv_-5n82NJ3kA0dbL0-k8cTIinpFVU0KrveyjW5HcLlk1pLxVFlq_hoI2Cs7fu8aEVf2TEXHXj-rw96w0S-imips1X_EeRmmIKIfZ88jFp6fLeSbNLxB-H50yNAp4zihx5QUDDARvmtOXZC0Ki3BcqoFPpxXZyWEW4bkBkVOwrg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1279,
+    "coordinates": {
+      "lat": 36.1488813,
+      "lng": -115.3332279
+    },
+    "features": [
+      "brunch_restaurant",
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "bar",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJSS0Fb1W-yIARKA_Lyh1_efo",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=18048596747597057832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Better Days Coffee & Acai",
+    "address": "10595 Discovery Dr, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.atbetterdays.com/",
+    "phone": "(702) 781-6337",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI-tI5Wy_yIARvPinFRIxPn0/photos/AWn5SU7bGQxJj8v8-dWtebRvAA6noy3ePX1iS3R03brDzlECWAEEM8M2Q1VzVtKQC09BPV146c4qo_5vsaeg4zlVzcR007kdGJbCGFdG4zVLiY5xrgjO-SGOxMUSOzMf9hPfGFMwIsExws1TMeLq-XAKmdx3CkfehqVA_oFFR2HphQq0Pl5oLeSNR1yb8yO39m9v1-WY5cuse3yZqp5UTbbe1MCIx-sPyKiMOwDC7D-skPCLNzN7-fikMJuQmeFxiqQM0IvgczIP0lcR6lvmMs0ppgkeufeRjLl_A5DVAwFVfoj36A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 177,
+    "coordinates": {
+      "lat": 36.12227740000001,
+      "lng": -115.32552280000002
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJI-tI5Wy_yIARvPinFRIxPn0",
+    "opening_hours": [
+      "Monday: 6:30 AM – 6:30 PM",
+      "Tuesday: 6:30 AM – 6:30 PM",
+      "Wednesday: 6:30 AM – 6:30 PM",
+      "Thursday: 6:30 AM – 6:30 PM",
+      "Friday: 6:30 AM – 6:30 PM",
+      "Saturday: 6:30 AM – 6:30 PM",
+      "Sunday: 6:30 AM – 6:30 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=9024704657039554748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Leone Café",
+    "address": "400 S Rampart Blvd #10165, Las Vegas, NV 89145, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Relaxed option for Italian espresso drinks & casual cafe meals, from omelets to salads & panini.",
+    "website": "http://www.leonecafe.com/",
+    "phone": "(702) 684-5853",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJobRQKoa_yIARes3dirLwBM0/photos/AWn5SU6MJPEAwK-ZvT71vSrdpnn8UTNwTN43WS0Qf5zJcphiyG2KxWFCkMi-QkOcXrujCuNgdees-QqIztKoRLVGkA4CfHblrxY04sgo3M_BTFWWNUV99-aoAvR6qHaFjpCCvBrcRZJHxm0g4arlF1MBrcqTEXyN4nahr_wyAfbM1Ayp7WBgk6VNicIY-G-Mp5A8pWSAhgNaRW2cI48Ip30jrYgpfR7Z-YsCoWRKBLKMrws4UfCe6P7CB1zrPYTukagMa30-2rdiR-3RWr6jTsEgGa_GuQhPN9MIKUffw1hZINwC-Vx-6KIpM2bhnZAqDasMuZ5ASw_l21_tYB3jGIweaoEIO4ZlZ4n4evgq3aFJ5Y2ORi-xVgQi_BtAooA3nUFz2SVg1Av2JH_2TGoQUZyL_40Q9MqNZAFIaWYcgDkkzDSXD-Cl/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2377,
+    "coordinates": {
+      "lat": 36.1671,
+      "lng": -115.2867667
+    },
+    "features": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJobRQKoa_yIARes3dirLwBM0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=14773197327306706298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Mong Sunset",
+    "address": "6496 Medical Center St # 100, Las Vegas, NV 89148, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://www.cafemonglv.com/",
+    "phone": "(702) 410-9791",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJP-Ia3be5yIARQEEEHSWz7HU/photos/AWn5SU4XoaQ_XD7gyiwReIfOXf1PnKqUTeFcint2H_vhp6v26lR2qMaeUa8wnvSz3uXuP61RlsJBDlaxLZ5VSStSHlfyBVVvTs242vdM5yrPe5h2JBFA3cHhBOucJB5H57QEt8RAbdwGfUJK13EizS399GFT6fNu9RgUXMG55lNhRNmbmfb0rNzXH_rFohRHMQUz4PfNtUyu_5D9Vo0wvpnLyOFd0m9vf7pFV85FeM3b8T7RuLS0JRJRULbgQFy7C-YC9y7_8KmKUjW9HwY7DdZjjXSicQ0d98-ZSo5PRG5L7buFBA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 424,
+    "coordinates": {
+      "lat": 36.0707373,
+      "lng": -115.2919314
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJP-Ia3be5yIARQEEEHSWz7HU",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=8497363568923263296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Bagel Cafe",
+    "address": "301 N Buffalo Dr, Las Vegas, NV 89145, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "NYC-style deli serving overstuffed sandwiches, plus bagels & pastries, in a warm atmosphere.",
+    "website": "http://www.thebagelcafelv.com/",
+    "phone": "(702) 255-3444",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY4FrIGjAyIARCk7mIUmXLxA/photos/AWn5SU6hcdGj-eE6UddSajChnft3oS_efA8xfKv4G1AIFRKrOl4txhvl0zMql1DoombhYxnmxHf0aJyGS6zTUGLTcp039-sxJjkEFVLrIoGz8kwkM_HVyVxueaAlxGxWk2Ac8RfdacB12ffkzCJUnGwdYy-n3v2wrejS16gqgpCnc5gvK1Rlf8l6_ol5EXcjYzplmHRKxrimWpSnWZN_efCBwGWiJUsgE9hDPc5W7EqBoCOXUUXQJDlla-s7fvd0REIsng4mV0gGxTDmG8V8k3F3iHvED1V2BS_SN2hG1N02eWxbuQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3996,
+    "coordinates": {
+      "lat": 36.1761111,
+      "lng": -115.26027779999998
+    },
+    "features": [
+      "deli",
+      "sandwich_shop",
+      "cafe",
+      "bar_and_grill",
+      "breakfast_restaurant",
+      "meal_takeaway",
+      "bar",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY4FrIGjAyIARCk7mIUmXLxA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=1166317168869395978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Roma Cafe: Authentic Italian Food & Coffee",
+    "address": "3700 S Hualapai Wy #109, Las Vegas, NV 89147, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.romacoffeelv.com/",
+    "phone": "(702) 331-7071",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-7Px5Qi_yIARCP3i6xjAs58/photos/AWn5SU63eTOXRZ_Q-ypp0wM4sIm45mRy--1Z99qikRo1RS4eLFAXizhPvec6oJq1UlyK6OL8rJ-8SPL-_zZh-8Qr0ZYehbj5f7w7uzyV9ecsPKW0Vwvsxl0ZF46txADgGZDpwF9czvHZjDrWZl-wpiIvbAOBcQsyRda36PqAhkuxqWAlbbmfN1XlfHiX4vierd8Rlpnmout_iFmM4Jwh8vMdrB7hCguirR_BRQZ5pVd7T0_qrJQ4s7VkfkXuqma1VBHJ-BEnEwYIIJaFDJEdVGjE74s1DVCyP2z7xlMvppKUUWOOqw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 369,
+    "coordinates": {
+      "lat": 36.122166,
+      "lng": -115.31418070000001
+    },
+    "features": [
+      "coffee_shop",
+      "sandwich_shop",
+      "brunch_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-7Px5Qi_yIARCP3i6xjAs58",
+    "opening_hours": [
+      "Monday: 6:30 AM – 6:00 PM",
+      "Tuesday: 6:30 AM – 6:00 PM",
+      "Wednesday: 6:30 AM – 6:00 PM",
+      "Thursday: 6:30 AM – 6:00 PM",
+      "Friday: 6:30 AM – 6:00 PM",
+      "Saturday: 6:30 AM – 6:00 PM",
+      "Sunday: 6:30 AM – 6:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=11507752686131019016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Caffeine Machine",
+    "address": "4520 S Hualapai Wy #109, Las Vegas, NV 89147, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.caffeinemachinelv.com/",
+    "phone": "(702) 444-0471",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrRAaHMy4yIARkiDKKERtlDs/photos/AWn5SU7Q8H8UvkeY0Yl6W0_bxT6A8e9gHBHnZzjnFgSygHcXUG3XXWrC16cpCtF9ZEwshncuA2lhplVBcDPBGMcOUDbP4S8LFBdvbEKdtTUREYImDq8xatiBIVLjfy4gpQaO9qc7hbpMczyJARd-QjItgbzBXaFujrwOZCRcwPqeq8TJEz_nJKfA3DRA0FfQ_qVfHj2oomjY4V3DMx-A4PvSaVBkNQJsYnGCt6uaVKENXBVp7nUVdp8lEDiFeAY2JKuUVJX1_Cd9X-OFTAJTv-WL2TynKCgRC0jVEIBuLhrqUIeXetHCMUVPHIkHc3qarPK4aofFTwjVh1xWPvr5gszOjADlNZzArwCLfXCqJIEAlUTz0_EsyPKbEk3Umhx5l_qQDbtNn4VYYsGFyQfzqAf8hcyI4MafbOkVsh7JiSQh8HOEyr19/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 206,
+    "coordinates": {
+      "lat": 36.1068338,
+      "lng": -115.3144284
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrRAaHMy4yIARkiDKKERtlDs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=4293176484300464274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Moignet A Social Cafe (Chinatown)",
+    "address": "3500 S Wynn Rd., Las Vegas, NV 89103, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://moignetcafe.com/",
+    "phone": "(725) 214-5228",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ72s3lFbHyIARvZNU-UaKK1Q/photos/AWn5SU5kbEtKt3WeZ0swYBlc7qpVF0B1vErQM61oCuFozKURztLntYuPBTrRfYY48nuNtMXSIBhq-1DxXMyqib6Esd3CevdvVIdXmjEAibOEOtfo4fQuwO9wgQOJDWplipNITzQ406jc6lWk8nLOmMmHRSZQSpa48GrNDLOPvX_Fw-k37VykgTzORA0IT8PMCROG-HgRv5asnWLQ7U2IJXv7KwzeA1B49pXxm8JbIYyeh2GjIwXrG-g4q6WdDsx91Jhxr778ChEP-KGVRwpniBm8fxRSShSbkb4tHSLBm4iHk2krfayozHJ2kmlP7GrOzGH820_wyxzkREk8gDAmbRHzTkQHnZ8JCmP_-L11mcasjnaj0dPWvz2KlRNKPk3eVWOOA4K3T8GYmwo5MevsKU1RwSrSRFKOs5IxqXCBqzszqlx3_DErbYyeGKFS0-t6MAXl/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 170,
+    "coordinates": {
+      "lat": 36.126051499999996,
+      "lng": -115.19451330000001
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "wholesaler",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ72s3lFbHyIARvZNU-UaKK1Q",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 9:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=6065093360619918269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sunright Tea Studio - Chinatown",
+    "address": "4545 Spring Mountain Rd #104, Las Vegas, NV 89103, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.snrtea.com/",
+    "phone": "(725) 204-1565",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ39MuJfLHyIARda9aMOzQCdw/photos/AWn5SU5t2H65VuYhNU6mc4emUSxeufWWPAyexI4FGrDpqV7k1c66mGuXIJXAIvDTTnQjz-Y7u8I_cU5P34HTTBrXikregmBuTNlAQNEUx9LKPo4UMr3SL1Zs9oLxVLbMYEJJaPYrfCfkON8ZmX8eRX8Ps_MCMSK8LndjH6rZvB6-_T1yxuk1S6zsNbMp3LulumYrtKlv1SEp3nYve0W4UVSGWuGAuzVSHmBKio2o-F92J2Jm-96s78ySaPuMASXiJQ7Icynilci_fBucMLwViQT67CVSWz8Nv82ifqWTnO8fe5z6gcv-ST8qlNgKaAyxggipIMEmJW3hDcs5S0BzpfjIOWzvoDZZnoQBwwZhMnNNaHxYFmEucT8aDyHrKNxcfq9Ika_2xOA7BT6ktPNi-Mm98Q4gKHNCvSBZ8ISLRw1kA22Fewew/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 191,
+    "coordinates": {
+      "lat": 36.1258438,
+      "lng": -115.2025901
+    },
+    "features": [
+      "juice_shop",
+      "tea_house",
+      "dessert_shop",
+      "coffee_shop",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ39MuJfLHyIARda9aMOzQCdw",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=15855433675976650613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Urban Matcha",
+    "address": "3400 S Jones Blvd #3, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.urbanmatchastore.com/",
+    "phone": "(702) 247-1779",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVVUl-s3GyIARePkvoyQK-1I/photos/AWn5SU6_wb8YT1aw7Ci9f2FRngtTlW7XBixOlvjPNoPKL8tUImA46KvxXumaALIpGPmgNyyAiERYPoudlhar7W900P3zpSFQh5Kf82tL-Asjs6gU3DZeEYRt5jTe7lLnmPQc-CHqeAGXiEFc7YUZeS1wNmxWo-P9hcXydkKcYJaoaYJCjoEoWIIG7UZoh8f4Euu3oVoVreQ9HFOeiLq0GleD2jpLvs6Ybn18tUhGZ92DxSAfl9A9p95wtUL3jsqlRFxn1CFLzxo71zi9bJpJpuujjON-JUSrVhiZqlt3YqUBQSHzhzZKQPsZ9_mZhHZs_pwQkjqKXpwzaJYiTr7MBsDFiogrXdoqJvaC8Y-dIxZUTEBwrMDrC1-WBB70LDI34rRZ4tNjud8oOQ12FA4P3qbddhYj3PCDc8-XGlTfy1QGnnA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 741,
+    "coordinates": {
+      "lat": 36.128053,
+      "lng": -115.22468400000001
+    },
+    "features": [
+      "dessert_shop",
+      "ice_cream_shop",
+      "tea_house",
+      "coffee_shop",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJVVUl-s3GyIARePkvoyQK-1I",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=5979384082737396088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hui Lau Shan Desserts",
+    "address": "Pacific Asian Plaza Second Floor, 5115 Spring Mountain Rd #225, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "dessert",
+    "price_range": "$",
+    "website": "https://www.hkhls.com/",
+    "phone": "(702) 288-6768",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMY-qQazHyIARFi3AyiexOyQ/photos/AWn5SU5iTRSefDcBMbRKpITs0entpLd3bJdam2T99KuENbrxCMmCZ0M0qilKcC7oDaEBsIQIhW_dxTD5ViHvF-1cgv8sliB4Neph3Z-OL1GlBGmWSY-4mOQkTnpampWdA0nCAzFptdAhNESJ_iKXN9yFkua4RP-TLYzNc78jmMoD_JS4SkaW3XnaBl8bUsQhB7NgHKE4DM3LoqdVujklZeanOnpJzW2TeUbUCPZjfYhc_1a8TfTM1wX1-Cn3KQQyl7LyVLfQ-xxR_HgWodvMeGmP89Om7BLKQPjD0u31ntvWg4_7ZypIDphqSHKU9kvoEn7dYWKt5yUL4Loq734rCrXdCJJQCHdiIUe7xWrf3nXFqn35KVNiSNfjK1BVSlfrZYK4mx24rzk4rb0qLKHfEmeSNR0Wxdq-aclut3JRLa6B8J3fTQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 306,
+    "coordinates": {
+      "lat": 36.1255733,
+      "lng": -115.211954
+    },
+    "features": [
+      "dessert_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJMY-qQazHyIARFi3AyiexOyQ",
+    "opening_hours": [
+      "Monday: 1:00 – 10:00 PM",
+      "Tuesday: 1:00 – 10:00 PM",
+      "Wednesday: 1:00 – 10:00 PM",
+      "Thursday: 1:00 – 10:00 PM",
+      "Friday: 1:00 – 10:00 PM",
+      "Saturday: 1:00 – 10:00 PM",
+      "Sunday: 1:00 – 10:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=2610875193454767382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Thai Street Cafe",
+    "address": "3137 S Sammy Davis Jr Dr, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$",
+    "description": "Modern-rustic Thai choice serving spicy curries, noodles & other traditional dishes.",
+    "website": "https://thaistcafe.com/",
+    "phone": "(702) 462-9944",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8-D73BHEyIAR36BypQQi6-8/photos/AWn5SU4ASQGgroy0EQtKAMm3Z26N4WFATeV66o3r65moQX_YtRnsvNmQHzFA2ajJWoO1_gPa4VysiAhjtU5kDd6Ay-MAudDe6DRfbx-J2tKHb9vb9EH4EhUptsKSrp7Wbc2p64s3826ersaCu1JJtgK06U-8tJ3tAPXpoCTMR3WdYaDRGypDgoYbdnQvWgZEtAgJblWO7K8K2kdu_HPHNEZ_zKRiuxlJZnnS20m3fdI_gcH61zD0lKWiMql6NVoS0ni9MMReFv3IktvFLdi5L3X7X2x1K9O8UZUMcxnaa5bYu5-nug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 4395,
+    "coordinates": {
+      "lat": 36.132698,
+      "lng": -115.1728651
+    },
+    "features": [
+      "thai_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ8-D73BHEyIAR36BypQQi6-8",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=17287948997942747359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Is Sweet Coffee & Dessert",
+    "address": "5288 Spring Mountain Rd #101, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "dessert",
+    "price_range": "$$",
+    "description": "Unique cakes topped with ice cream, served with espresso drinks & teas in a small, relaxed space.",
+    "phone": "(702) 527-5550",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGbaiLcjGyIARC3ZMibONMas/photos/AWn5SU7-YpcDkHncS5_g2fDkRXqXz44liQpnu2umsNSalGtLd-4o9aGDrT8TUAzkQwkzRfqvLysP7MHJmyPeEtfxr6pIY_kOkKs82uGcdiLbkkAuOW8EFhDFppgSQ5aeBfv6k-yCL12wL6Nl5AHonrfj1ysbeUtpwTCFZLVvoL_EmhkzNuTlt4TO62n0veV-HNU9pYJ77jRu3vt0ICOyJnVM7k_81VvOGkScW34a-GYiO1WJThadfSBdPGNpGGA46h0nTA6mxBMUF8CyTt-tQlLMSkhoVsti3Fw5gVxen6HdblMN0zyLdCwczkhpOIEc748Gv0D1D04ROXf8DRgIILhYRbttwiKIGu2xNbKwv2bWHd6YAOgUkPQW6Sa3xzr3hi5n0mKO5Ufi0_2gzSd2Cf3nTOZQeYr2VagKMPXE_jGLemudhg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 729,
+    "coordinates": {
+      "lat": 36.1268398,
+      "lng": -115.21324249999999
+    },
+    "features": [
+      "coffee_shop",
+      "dessert_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJGbaiLcjGyIARC3ZMibONMas",
+    "opening_hours": [
+      "Monday: 1:00 PM – 12:00 AM",
+      "Tuesday: 1:00 PM – 12:00 AM",
+      "Wednesday: 1:00 PM – 12:00 AM",
+      "Thursday: 1:00 PM – 12:00 AM",
+      "Friday: 1:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 1:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=12335796656586651147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "7 Leaves Cafe - Spring Mountain - Las Vegas, NV",
+    "address": "3959 Spring Mountain Rd, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "dessert",
+    "price_range": "$",
+    "website": "https://7leavescafe.com/locations#las-vegas",
+    "phone": "(725) 204-9285",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJecKf56zHyIARAyOEJMEtVAE/photos/AWn5SU6TkXridTCA-RVAH70NxTASs6XS5sLByf7uP8NUraIdxLw1NLRXXTw9qqbDKonv7s7Bb7Vl9DdwH3syoNqoe3Q2VWtlj_MkHKktAjeV8ManAAzgctMcqUXEHWQRhWrBoCgF--nbYraMBEib7bKOL87rurtQAimOgNyilgM0Y34mSaSbGWq2lJ9qqY5o6FQcOW5z3_cD8UAKyKMr2NRV7mkAmBEFHxkWhem8EWK4RwVUKtYrga9NFerI2v6a19hLzAr9cnEy8rEcAdJnck6MKYozPJfYFXa3DlDIT0OFxnxS0B4zjQPxyFiuWWPGXpnUVCUyCX6TSTBzx5YTlAJfmgkVMBN-Bspr14QqkBwX9nNuutFCfCOX9PZeRgIj-GBDDTSBx7QiSzaWvR_H_Dcjo2a0Fd462m5w4pn5w5kkX2o/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 375,
+    "coordinates": {
+      "lat": 36.1261954,
+      "lng": -115.1926002
+    },
+    "features": [
+      "cafe",
+      "dessert_restaurant",
+      "tea_house",
+      "dessert_shop",
+      "coffee_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJecKf56zHyIARAyOEJMEtVAE",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=95751799646200579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Koré Coffee",
+    "address": "26A Elizabeth St, New York, NY 10013, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://korecoffee.nyc/",
+    "phone": "(929) 257-1255",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ77sUzxbwokR_tqJzDm3zDs/photos/AWn5SU5H04dsv97AER81egYWiLLxy1mC50iYX7plqSvBTGSd5Kei5mIRtIGrC-CJR_oDS6KN7tZU5iJV1fGQghJKwn5kIY3VQOyfNmAfXHhFl1OSKuZ5zOM_HuKLQaqNMYOZTPMfqn72Fyp7y2_vwVJ2AtpI6IXhXbStg0j9c_KUN34WZT4BGDE6yTQrfSSHkdVYp1UrNZECSLJ1dUdLb5sEnEsQw_XFZnjzntxqJ55wfguVCGazk8xNxmhQCjxb_VWOmiR_j_Ve9Z5vTt__NC2nEZ4Uj5vKOhlN45krRpIc47C6sg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 507,
+    "coordinates": {
+      "lat": 40.7161808,
+      "lng": -73.9970865
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJZ77sUzxbwokR_tqJzDm3zDs",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=4309020402359327486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "One Piece Cafe",
+    "address": "5600 Spring Mountain Rd #A, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "cuisine": "fast food",
+    "price_range": "$$",
+    "website": "http://onepiececafe.com/",
+    "phone": "(702) 749-3906",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6exSLwDHyIARLPS4lj_Px-s/photos/AWn5SU78J_jshwk2cd2oH-1sOsbiogZddRXSnGV3iEYtN-Ylr_Ex9e3XURP3X5Z2NmQbLWTXq_3iodii5IGp2dlOz2daqLXGZaneCKqERgVFUvLRie6DJPTXG8WyqpNza7bK-xTwhVFGjktOH6ud3SpSl7Gtn5IrgkAPiN0xz6kedpcJ_5L5qqj3thpF0ir5CvE-fKJvAg-Pifgaz59WZxzLWiMuF0Tfmu0Sa5C_a1Bdz5h-sHzFKE_wl4Xso9sP1OVzhhdAiTv6SnYJoh5odONQzzu5pNZ8A-xfdw6cctIUE3EE05qKufntkP2inHUU7vGI3EeLmzE85yafPXtlCSinCG_bRWIRthtXfYpNFh6nIXM37Rv4091mvAjDf5AiOEE36A-4_NH_E9U6UiRVCXUPVka3Bw6Uhy15sZvNaled4tB0MBueAVTeaQRu4SS-gR5_/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 716,
+    "coordinates": {
+      "lat": 36.126115999999996,
+      "lng": -115.21792299999998
+    },
+    "features": [
+      "restaurant",
+      "fast_food_restaurant",
+      "asian_restaurant",
+      "cafe",
+      "japanese_restaurant",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ6exSLwDHyIARLPS4lj_Px-s",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=16989775991297078316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sweet Mong",
+    "address": "5980 Spring Mountain Rd #6C, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.sweetmonglv.com/",
+    "phone": "(725) 205-1059",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJb_n5OY7HyIARCSA1s8WGCnE/photos/AWn5SU7X-S1DQ9lMXbNu8b2VKvbsWntP4XJfVvizNR4oIhpGK5BCXkxj7yn-A545perafXyjscxDf7u8mYhLUJPknjK_POzh1rGRovkEQfDFOqYsq7TYSTw5kT_0V6rGsQVZ6Trob2j_4BohkBC8MjBH7Vr8gJwpZrqeKKC1M7ZfraswfmFqS06fpGgn-Onp0p2wRLnPhZEVSuIQmYvKaroKK3czderFhJ8h8-RmCMlsAZAWnDo1EkDjXtU2PuzFojGRKJV03io9VMHgRDGsvXiI60CAOYZzymzKUHdIEcpoiq5z4A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 201,
+    "coordinates": {
+      "lat": 36.1260951,
+      "lng": -115.2230587
+    },
+    "features": [
+      "dessert_shop",
+      "coffee_shop",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJb_n5OY7HyIARCSA1s8WGCnE",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 9:30 PM",
+      "Saturday: 11:30 AM – 9:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=8145471059726245897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sweet Talk",
+    "address": "5130 Spring Mountain Rd #107, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "dessert",
+    "price_range": "$",
+    "website": "https://qmenu.us/#/sweet-talk-las-vegas",
+    "phone": "(702) 368-3388",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJERT5vSTHyIARfGf1BJ874EY/photos/AWn5SU4WTIYR4rB9j35Veo_cs8I1tPU_Ll_hORYYPMLvFu4KUpBtxA-BKkKXp3ILKMRthkz4P1nhncgjAVdBYAzBt6VJ9q6CrWXoNeHBqIz6sGIjaYucZL6DRziPAiXEEtRG9XwRHZ5W2pARLQ_T1Rak_3MC3LAaX-RDLq8XQULZWTMBqNLYZOJ_F3Nj1-ACZq6HwpxZX4o2mf1O3lo36o7JLTwxgdouHHBjZeoQFa63Eh0xfCKL1Aeetwajb7_105WZLbufQ62l4n8v4_0p_Edjfpjoy-892yHBehhiLipy3wmsgk29-NMxGIV5tKhTvaIhOVmWenAmEQ8kE5eRMCXpyenmOAcacM8TEduISrdx1jAHIv570UPg1oQflMuYqhljAaSo6-WSOJEn6KdcKSTuWn5Pj5gOCr7ZMBKW7UZKmDKsvYhD3rpopol9NQdZixqX/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 282,
+    "coordinates": {
+      "lat": 36.1266598,
+      "lng": -115.21090960000001
+    },
+    "features": [
+      "dessert_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJERT5vSTHyIARfGf1BJ874EY",
+    "opening_hours": [
+      "Monday: 1:00 – 10:00 PM",
+      "Tuesday: 1:00 – 10:00 PM",
+      "Wednesday: 1:00 – 10:00 PM",
+      "Thursday: 1:00 – 10:00 PM",
+      "Friday: 1:00 – 10:00 PM",
+      "Saturday: 1:00 – 10:00 PM",
+      "Sunday: 1:00 – 10:00 PM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=5107147531607172988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

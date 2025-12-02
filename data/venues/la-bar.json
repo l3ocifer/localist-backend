@@ -1,0 +1,3364 @@
+[
+  {
+    "name": "Death & Co Los Angeles",
+    "address": "818 E 3rd St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "New York's famed spot for creative drinks with a New American menu & a speakeasy vibe.",
+    "website": "https://www.deathandcompany.com/location/dtla/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsTrlusrHwoARFlL8c4sNFjo/photos/AWn5SU50lwf197T2Bc3ewNNYNSx3RVGW4HrhQWfgh7gHtSBlcWC4x9T1qmDq306fElicAsashDqxU6Wx0MfXN--yhAnQIyBIgUR2V5wT8GfaxQrvqaZXSzjZ1WZboMoiy863CBR27UdtUsGRhCUMG7MeqACx1HPrBaO0FRpOPY4bXsSnnp9xqQ3h-j7MlOZLYK5PjmA292mbKLiey7-vCOB2pVdCliUHA6pAlz1e9M_HGYVCQRlEygjNWh-EUiXQ4uQGsCXSP38Dj_clYLnIj6aZAAFoViTsCIomogQOHoC1_1b1KkJYDhO8qctQgCqA8cMrKN_HqyJOPlqQNM2HUUnHnKmGamWvyj5A2Lz-HFTij-lbUHIgE3kFrPnpavWZ08eFNjG4ZlerA6uTYC0m5-ayZQOm58xglyRTx_mWk8psmBWAxA8U/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 485,
+    "coordinates": {
+      "lat": 34.0456728,
+      "lng": -118.23572139999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsTrlusrHwoARFlL8c4sNFjo",
+    "opening_hours": [
+      "Monday: 6:00 PM – 12:00 AM",
+      "Tuesday: 6:00 PM – 12:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4185547796284985878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Thunderbolt",
+    "address": "1263 W Temple St, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Old school snacks along with craft cocktails from the Park's Finest group.",
+    "website": "http://www.thunderboltla.com/",
+    "phone": "(213) 372-5099",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJef1q_RrHwoARMnCXpKfCz3o/photos/AWn5SU7WmhSpRFAyjfbe40YobdA3iRyI9PPPYfUWv9y2RKWFdlOOdGlWXWTMNsCKoJ4DA_nCEU3yseK3g9GHNKLTPpTPRrq05oyVN6oQniUfaGKmzvH39U8itpU_mDusDf4NjXVPE6uFIVmm3Br3v8NXt6Bi-b7Y4YssjJ8jUbwr9q5SP7T9jhClDWIT0RET9IkVG7jZuoxbECsiq4Djwi_JWLm3yBjxEeaSGrq4LJQA-KkYIq2sVbixnrDGLOFrd3qxE8B2jtTxp4GnkigWcPFVvXxNRD2M5M3zpQrsObwwkUAvTg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 370,
+    "coordinates": {
+      "lat": 34.0664107,
+      "lng": -118.254126
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJef1q_RrHwoARMnCXpKfCz3o",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8849505818083029042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Wolves",
+    "address": "519 S Spring St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Glamorous venue with antique decor & 1910s accents, serving innovative cocktails & American fare.",
+    "website": "http://www.thewolvesdtla.com/",
+    "phone": "(213) 265-7952",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHSnDjErGwoARZz9rmSQ8ZsQ/photos/AWn5SU6ndkosSx4shKwlzw69t3UM6ipqL5W_C6SvH0fgmpRXZADWCHOnnexLTw_gnBV3wbC7CQgw47xkIkqKvqpVQaDwOUG1MiXeaaNx_5MjZLexa5tLYTmB2HT7V6FX7we74IcgelHPn2CVRsIMIAlZ9gZM3JWVKPmCFwOYqJ1YeqmfOVWJFQq_FufGc2gVVdmcStz_cQIE-6-6fuhMWu20wpyOWPXRC3THQ52h_Q2L0jtc-q5DCo4qMDOe6-FLBouTweIOoUnc3-E5O95FRNU0rL4CfiGn-IrVvYZWE3kvx6zpEDZc6u4aZQAOm5xQ9VlA69ZFfqTTDxAUr_gewI3hphKSdY-Rxtab0jWeY5ppFNXiDQEDsSG3OBwOdMW6fwfKGy8XySI9ksgzK2kPH2hfmVdKXgCsWZCFtGPVFqZrH3s/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 426,
+    "coordinates": {
+      "lat": 34.0470331,
+      "lng": -118.25023900000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJHSnDjErGwoARZz9rmSQ8ZsQ",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14152065006948794215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Seven Grand",
+    "address": "515 W 7th St 2nd floor, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Stylish watering hole with hunting lodge decor, old-school cocktails & a massive whiskey selection.",
+    "website": "http://sevengrandla.com/",
+    "phone": "(213) 614-0736",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd-OpVLTHwoARJ3fFiZG_xD4/photos/AWn5SU5WzYLWOOD-fOCdjA_vWmh7pvju6OFS_mzCHMJklZsbo5ju5L5H1NQqabkp8zeGs5DypjObOLlZuqu9EtiEN46B-6OzXSJy-R8G24EbZLJ4UceYG5urcjFuttmho0pxE1vWX_6ypcnuiEqdpJyMqH88WffKNxj7OU4WYTWVTuwmlCas8jv0jqvC0RK9_p4-f4ZJG9Al3SOomAx5Ph0tUNMNPwBvf2WZ5Swj-tNf_BjvmolO--VsHC5oP-hDYQO-SQj2YnzTc7Kku5IZz0flcFGjyEFUWMwZYZ_WZyvie6DCLg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1923,
+    "coordinates": {
+      "lat": 34.047027500000006,
+      "lng": -118.25593359999998
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd-OpVLTHwoARJ3fFiZG_xD4",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4522950557589403431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wolf & Crane Bar",
+    "address": "366 E 2nd St, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Evocative, late-night watering hole featuring imaginative cocktails & Japanese whisky.",
+    "website": "http://wolfandcranebar.com/",
+    "phone": "(213) 935-8249",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnUuzDTjGwoARcGS4sToQA2s/photos/AWn5SU4oGfhcKKGK-XN20v7HkqsoPFnOvVmZfC51M7Exvld-p3HOvG_fCioQLqYfaqiwvkZRJc60D3tNTgyoBSYsVV_WhuVLHzomJEGXaGG7e4_7R80olS-evicANwIeAIOwLaaw0kajbGNDNeG8LJDlYVUe91OlIgmaA_6EYo2CHPjt4NZhjU_OFKfVazpAur5lFAbsLeek1rb18wHJkqV20qJweQvaVl7nzRvn0TpFfzFwS0IOH6YF_WTmwMvU7mlIN0o8cltP_a2HBYns1OdHq5B9R2xtd4Vwx9KbDRp4aKrRRQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 614,
+    "coordinates": {
+      "lat": 34.0478865,
+      "lng": -118.239852
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJnUuzDTjGwoARcGS4sToQA2s",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7711024831264220272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Good Clean Fun",
+    "address": "868 S Olive St, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "website": "http://gcfwines.com/",
+    "phone": "(323) 600-3016",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp6jJXTXHwoAR9LnnI4WV_EE/photos/AWn5SU7qCz5GbfGcX7kQuhVyW5lGY91hULb9wFcnByOyTwAf0GFoPpGFEfidGYXq1FWeRCDZrwTcx0mL8k6aYCs3TwhW5ypX-ozqErQ5hPUORcP31qXdJ4lyaC-Yz2H3K1k5wkrBdv5tMrXderYG7PMu3u4c3sylgv9vBrEtsrBX9_y7acMUqPkwBTrZU79gvusJFrAmbu1O2eWoO_r7HIA3MB6FWFbu-mpDU-TwGBXKHUdVJjmWGXpZoiZ3XHlP1cnoCUDDbgeEssAlNUk5JI_OQEZn8oIyI6xRbwG20gpw4rj13A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 311,
+    "coordinates": {
+      "lat": 34.043878899999996,
+      "lng": -118.25775
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp6jJXTXHwoAR9LnnI4WV_EE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4754839705661979124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Roger Room",
+    "address": "370 La Cienega Blvd, Los Angeles, CA 90048, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Eclectic bar with vintage freak show pictures on the walls serving trendy, upscale cocktails.",
+    "website": "http://www.therogerroom.com/",
+    "phone": "(310) 854-1300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKbJMcbO-woARLD8ToaoBJGU/photos/AWn5SU5SOucYAgfPbNvwSnZyNGMZ_CSZeULCXhWy9n6fsyexBRUT80lE9N9uQZvS8MMu-F4ehRolkF_MavtQiC23voYNJJMfW8RIPsoy-eP7-v50lXYiezih4yLuxKE3Fs8KkPJEW9JZxsz_RzEA6Tj19lOzYela0njUiqKhNqUGRKXvNpUVxZxobblK_L-1pZif8bqwfScuLZUd_pFH43IEjDipwEYySEfLPSzzyY7nwAVB_kl2Q9aS4w3yNMguCXoAqV66F2RRlT-zvTqYS6Jt22qgChvapn1HoYOuoe4NMS4b93J_92lZuQo6sQYX3r7YvXrDmY3_i4HHyIHVI-qFIdPyDl7XojTBKyVBXtYmzPVqUvUdeeBKzTx0KdPBthv8JCRHjxpJS6gKfke2LtkvkGsnHTFgLXWJRhOOnAKuuC3bUgU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 368,
+    "coordinates": {
+      "lat": 34.0779944,
+      "lng": -118.37639720000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKbJMcbO-woARLD8ToaoBJGU",
+    "opening_hours": [
+      "Monday: 6:00 PM – 2:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: 8:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7287951929350766380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Mermaid",
+    "address": "428 E 2nd St, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Relaxed woman-owned cocktail bar with fun, fruity cocktails & small seaside-inspired bites.",
+    "website": "http://www.themermaidbar.la/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs5bsrmvHwoARhG4XEJVsD_A/photos/AWn5SU6CJZXRQNXlZBSBbFoJtSkAgXgcwfjGvgFRiLWUqm3-n39-b1vBwEYzDhaD-NBzybIj1jz37ErQg--Uh68Jt3gX_HNw8FteR2hElpzBBwzitbEu5TLJv6spFrxuooJ11gNjjBpvbLw8D90S6h_MFb4J83VReyQGOpd5QhZc2SeiRVE5JsXF6vQMyhAzY9iU8bnLppCzEt6aq8dn56146ryGhhEgeoP_OqrWOSEkO4k4luJtXECX2PE4cE4QC5sV9zJTaeFkhS-vAw5g-3iC-MM1f9tdNORp7AHdu4MbOog2fsSmt_-H90Vcmn9yTn5BU8urq3Oekd3OGJV7vdbk98WyCBoKvgojFqBhnhBhmcvHi8NL0ywwasI07UzycAjiHov7Jl2Gq8fVNRhgOJJRqntlceWKYpQHK4XWgxuYPjQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 271,
+    "coordinates": {
+      "lat": 34.0466766,
+      "lng": -118.23855599999999
+    },
+    "features": [
+      "bar",
+      "karaoke",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs5bsrmvHwoARhG4XEJVsD_A",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:40 AM",
+      "Tuesday: 6:00 PM – 1:40 AM",
+      "Wednesday: 6:00 PM – 1:40 AM",
+      "Thursday: 6:00 PM – 1:40 AM",
+      "Friday: 6:00 PM – 1:40 AM",
+      "Saturday: 6:00 PM – 1:40 AM",
+      "Sunday: 6:00 PM – 1:40 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17298164081229262468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Grayson Bar",
+    "address": "351 S Broadway, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Lively neighborhood eatery & bar with an indoor pétanque court, snacks, cocktails, beer & wine.",
+    "phone": "(213) 201-3838",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt7WimEvGwoAR_jB4MtNywYk/photos/AWn5SU7ylh2WefiGLD_nn_Z2Kv0ijsGSCwc-CaiYEOfKs-UC-4IjnY6kiBjuTUoQ9Gds_GO5DBK9kDIRjP5y6CpKN4WC9SiNscPILawXDyBeTMdJpeiKlOVvuEolvuBahvS3JtISC5u_S2u50i3Nm-hYBcRVwI1MfdMiSVGGAap8_bPbtPFtqukjiuZY0kAn042rJ4Bc-jn3SYegLvP5ihzKqLHOQJ0rrOgT64xOyt0skUM7ZJZZ_sFbkwrTRdCop8pjYFtVXzt2YceI_bPQi_f3gYxFGcmoGzNzfAWSHUwbegb0Bw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 168,
+    "coordinates": {
+      "lat": 34.049977399999996,
+      "lng": -118.24936079999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt7WimEvGwoAR_jB4MtNywYk",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9926341305111687422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Normandie Club",
+    "address": "3612 W 6th St, Los Angeles, CA 90020, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Moody cocktail lounge in the Hotel Normandie serves up creative drinks in a stylish setting.",
+    "website": "https://www.thenormandieclub.com/",
+    "phone": "(213) 263-2709",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCUNzt4K4woAR-z4MIi0ONo4/photos/AWn5SU4WwDlgOELhkgk6nKyKJBuuN3cLInsxvqL4z9ker53tYM_ZdtznNFQ6rYGUmdTqbxFfaydmbfAqG8JMx1tHpII0Z6mJ-m6y95seJQadBKxrHTf1atxodb08lx2NDDjuwvLJe6xUGv8GyKZ7XtIBi0lO4eipcl_K6_Jo-grCDikvgm8ZnzF1f-T-xjVuMQYX_iCC0c7sOwgG8TnhbtO-ZkWSnWi8tGzaDHruaI0h8okgm7Tq4m6QyDHrchUc24LHt3LakjZuOUBLe3ogFhOZar2AWzRzuMyfyhOKlljIRH9xZg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 642,
+    "coordinates": {
+      "lat": 34.0634563,
+      "lng": -118.3008976
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCUNzt4K4woAR-z4MIi0ONo4",
+    "opening_hours": [
+      "Monday: 6:00 PM – 2:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10247393589135687419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Love Song Bar",
+    "address": "450 Main St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy lounge offering up signature cocktails & live music in a subdued space with eclectic decor.",
+    "website": "http://www.instagram.com/thelovesongbar",
+    "phone": "(323) 284-5727",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJV1_EkrGwoARvj3I4zlbyMA/photos/AWn5SU49Y-G1KJ_geJ1fxIolu2VeoxIpGUMHweBhEHKpl8-PFAx1mIacULrZjAt0S6Mmr4zB2BG8nhcQHWtswZxggmvTMFl0vnugX4q__FL0I-kGEFjSSFCmF8DUqBhSKYhT213HguKLyk__7KvgU6cdi70C309OU3FVGuPZ6Srn1LkoEcRwq4w_rEQbWhG3oyftq_-GLGltpEoBqTImnPaGFLDDJRKI9COv8Bpb3ypInfu8MStFcCYNngeaJFLoZoHUR1BYQC1ORom5N7eve-ebDHW84fZT5mTPfNUXU5Yvdux5BA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 143,
+    "coordinates": {
+      "lat": 34.0470379,
+      "lng": -118.247999
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJV1_EkrGwoARvj3I4zlbyMA",
+    "google_maps_url": "https://maps.google.com/?cid=13891453354817109438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Big Bar",
+    "address": "1927 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip haunt with an old-world vibe serving creative cocktails, top-shelf spirits & elevated bar bites.",
+    "website": "http://www.alcovecafe.com/bigbar",
+    "phone": "(323) 644-0100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOQwd2K_AwoARdHV02kF0BJg/photos/AWn5SU4O4Fj6pCKOOGLu_LBdW9gaWGHPfxCQoFeQ0VQFJZqKZwiLxcr8KFFWXzXyWjma5cSDRvOsMoSdDwvxBVc1xHNqyGLwmYYpjwmhQ9BTujD-p7_BdgqKm0SP5bCe9qI4p0sbuuMyUC_FBbn19qd8S84tZ6a6qC3kXpLnvh7H_5l2AZzKdbjOFqhFMAcuCHwG1ucKYqC__wTrua711W3FV_zUhbGCL9unZPUOU_CtwsyANoXIfH61glMx8oZu3wpJ3QUs92EAE8vOoezqxDNW1RAmlKIO-yPAkX3JrrMo74hYsw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 159,
+    "coordinates": {
+      "lat": 34.1062205,
+      "lng": -118.28778399999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOQwd2K_AwoARdHV02kF0BJg",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10954008019858650484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Library Bar",
+    "address": "630 W 6th St suite 116 a, Los Angeles, CA 90017, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Handcrafted cocktails & gastropub bites in a cozy setting with book-lined walls & leather couches.",
+    "website": "http://librarybarla.com/",
+    "phone": "(213) 614-1900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJSOuYrTHwoARTMd9zqezC_Q/photos/AWn5SU4XoUYA7Ia8MVpAxMyer3H1WBOiFf1zYnnmIXroPBkLlh3XJst3JCy2VuCQpzL1Q88BTqOW51UanN9fyifW2fdbYmgolDlYsQkrTh6q3qateIWxO56jtZj5wm3lSZH_1ijEvtgXSDLdDX88AoDzk6JqZgOq12b5RD3Ff1qkswbzskKT2boVOjyCl-RaMosERew_GGv7pSAZUmm01G0n0ZoHsx8Gx5XNO_BkbD8uRbGckwAejvzVkF9Zez75SqIMqD3w6VrnEBM_JxjzOEBnOVeZB8jF6ta_wuD5AluXAHpZJQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 952,
+    "coordinates": {
+      "lat": 34.0491361,
+      "lng": -118.25645559999998
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJSOuYrTHwoARTMd9zqezC_Q",
+    "opening_hours": [
+      "Monday: 3:00 – 10:00 PM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 3:00 PM – 1:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17585346703303493452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Spring St Bar",
+    "address": "626 S Spring St B, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy bar serves craft beers & gourmet sandwiches in industrial-chic space with a dog-friendly patio.",
+    "website": "http://www.springstbar.com/",
+    "phone": "(213) 278-0044",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9YuGXjXGwoARAzK_DHu89WM/photos/AWn5SU4fUQA6yEN4ssD29MSZgqdg7HcmMWw_LjpDRnruhzyq3YshL_MoxH_UUnpNEgRbilfmCo-93m-wM9BacIzIm1KAlvMj9v_FDJj2UdvZo1UeDJ8oVADisjvBFvbI5JxP_DEYshypvr2tR3Dfm5fvHkJhdS5ZoYXfYRBDOpGN7DSTAKzOsy5e83cW7tU_q--xJQ69ay8SL5T5tnW55FX3RiHgP1-nNBIoWYf1bkmu8a8wJQ7S9aPX7nZsvHzPSUHWfvHv47BMlmlXxrtpAbvU9Mz1uHccC58l5jfZPsK6yFybrw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 258,
+    "coordinates": {
+      "lat": 34.04509780000001,
+      "lng": -118.2513307
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9YuGXjXGwoARAzK_DHu89WM",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7202870415729832451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Broken Shaker at Freehand Los Angeles",
+    "address": "416 W 8th St, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A South Beach vibe exudes on this rooftop bar with vintage flourishes & inventive cocktails.",
+    "website": "https://www.brokenshaker.com/",
+    "phone": "(213) 612-0021",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFV_xgLbHwoARMdc5sY4wPhA/photos/AWn5SU5GjG6kGQZUwrGOLKt66OsbNDFZpVzqaVl_rwVreYTKvMyTiYIRwk-QI8t48X2y-oCqla3JtWtlmVqw8NJu5WpOddLRD8EdUhM8FTO_TQQfcl79ojoLMN5TCAO6LmWXLzAftwffYYB9Y6UVBWOFNTYYvwhjBaVEVybevzRXV-UiDMP8YxfCfeIPRZ4Fzx6_U5U4DP-m9zMu95VjuKV0TKBtULOb-5NABi8w0jlOjqwtbUksb8-opVZCZXjgUaWtBNw83ZqKVnanpXg-MBcnEoZEO89I-93PFkJCWW5Zd5rc0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 811,
+    "coordinates": {
+      "lat": 34.044755099999996,
+      "lng": -118.25645559999998
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFV_xgLbHwoARMdc5sY4wPhA",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1170426342579754801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tiki-Ti",
+    "address": "4427 Sunset Blvd, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "This local landmark whips up tropical drinks in a tiny room covered in tikis & Hawaiian decor.",
+    "website": "http://www.tiki-ti.com/",
+    "phone": "(323) 669-9381",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOw7tO03HwoARpYVvqyQzimI/photos/AWn5SU7ysXKDYtjCySSG2D3vOTyHLdjsloQZfy8Bm7h5CbrHP8T9Ge9A8KEdfyAFjk3C7vO1gTIdJBcJPo_6SsHuFLQtIfybch-g1BMiPAVH8qX0nw8GYY0jwYlSfkgC_fBfA4dFssuQavt9B-dVhArMpEfRtHUNa8aedctrN1qaJzgZ3shtSJQ6tG_qpOOm3U8YPAbF24NTbKkxuy63tYNfug1H8rmudeHIX33O7VllFW9RikGX4RDbKo5d5RUCw0E_7MDGJzhiqT71daMctbYe7jprI3ny7WQJ6wLkYBL1VVLrEQJs3b4pZJqshLiwAcRNM2xQrILsghEYR9EwQYpCgFhw330SWTXFZ9s57jmJtp4xGgLQ4kXHrypTQi6EAL30M1OG6d8A1rAnfoYh9Y3vsBubEPK2FJ01lhyK6piuNhD3Y810JcxdbvO-IY_MJ6Y6/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 751,
+    "coordinates": {
+      "lat": 34.0974753,
+      "lng": -118.28578230000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOw7tO03HwoARpYVvqyQzimI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 PM – 12:00 AM",
+      "Thursday: 6:00 PM – 12:00 AM",
+      "Friday: 6:00 PM – 12:00 AM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7100543995091060133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blue Collar",
+    "address": "361 S Fairfax Ave, Los Angeles, CA 90036, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Classic cocktail den with a noir vibe & old-school light fixtures serves up traditional drinks.",
+    "website": "https://www.bluecollarla.com/",
+    "phone": "(323) 274-0560",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJK3PMkjC5woAR8TfOtzHt7iE/photos/AWn5SU5VV9UaGftQ4RyxIcgI0Yut7Z7agffGDXFqMCKv4Aa85oS8D6CtObIl0pwnTeY1YG7UqcMQqEcxD-B9dEAPERuyDbMMHJu9P5UbZJPLBN2n6vhR5-hT2BnLCa6bysxhhsBGnOFkgEXnsY_BoR6b3cODJeil1nF54QAkuPWV7xPcIe0XzHq6Yw6UmYvzszR7FbjC67L1OlM3x4M8mx3v2G8HRDGd5ieVXd5S-aqVDru5q-5Uq-OijTR3y_VzwF1UJdBkKDXKc86rljWjhPaZVz3xr9qXrvstn5w_fCWjPJFgSw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 225,
+    "coordinates": {
+      "lat": 34.070409,
+      "lng": -118.361673
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJK3PMkjC5woAR8TfOtzHt7iE",
+    "opening_hours": [
+      "Monday: 7:00 PM – 12:00 AM",
+      "Tuesday: 7:00 PM – 12:00 AM",
+      "Wednesday: 7:00 PM – 12:00 AM",
+      "Thursday: 7:00 PM – 1:00 AM",
+      "Friday: 7:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: 7:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2445152445501683697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Henry",
+    "address": "1228 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.barhenry.la/",
+    "phone": "(213) 988-7208",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTxNVCtvHwoARP6HA_wpcSVg/photos/AWn5SU7oob614xsG3XcLoDpHk68_AI0IwqPjyd2Yq8NUd_iU5beFlw61kJKHxmrvwCuLnMmIc_xEK-1EZbDdVZ3tmqcF1kUBiEnp7ZaB2O6pSAGUyZ5Sz6KxBa9E_jS7yCxgOCEKVMURHobYqRnqT_OEBYw4m7-2IvY1h54acoXujosTvkn0kSOeAwVrq77W_ajPGTWCwOmG63X95AZMbMcYB2BaMRIsNeTuttZ6wj8sL-S3-PRLi2TpCqh1Sjt6bsbcLHkTKDaNlTrug_IgcP3-69RBjBFpkwlXtGigmu-S6sEh8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 177,
+    "coordinates": {
+      "lat": 34.0690343,
+      "lng": -118.2507302
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTxNVCtvHwoARP6HA_wpcSVg",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6361717150947778879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Caña Rum Bar",
+    "address": "714 W Olympic Blvd, Los Angeles, CA 90015, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Rum is the star spirit at this sleek indoor-outdoor bar where an annual membership fee is required.",
+    "website": "http://canarumbarla.com/",
+    "phone": "(213) 745-7709",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9WyHlLfHwoARc_0kqEVS0w4/photos/AWn5SU4DLFn0i_1iygW7Bj9Yu3f9KUJWDhzag2b8gvUMm-wRj64tPVMO5g8zIWqyS1eOu4g11wNXL9PjLPCneBvM1tWJV8jC8DXywRYUAkw-B_Fv2cgU7rYfWyKv047RQAm3FLUsgC1yG5jGI1Vb6xAAcMLgewWIP3XALhL_HeDIVGcuDkCldrFUd0wO8ld_8CAGfEcLwn9AEEDBw8c_zJZYIoXdXgxCrYr3P10hj_cjgTuu440Spc52TxUn5hlLkA2xheK5DcY06KieIBJPXbdWP61oJLSy1XLuJQGpfsmFAW-e8Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 738,
+    "coordinates": {
+      "lat": 34.044129399999996,
+      "lng": -118.26325979999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9WyHlLfHwoARc_0kqEVS0w4",
+    "opening_hours": [
+      "Monday: 8:00 PM – 2:00 AM",
+      "Tuesday: 8:00 PM – 2:00 AM",
+      "Wednesday: 8:00 PM – 2:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 8:00 PM – 3:00 AM",
+      "Sunday: 8:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1068287995744157043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Perch",
+    "address": "448 S Hill St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$$",
+    "description": "Glamorous rooftop setting with French small plates, handcrafted cocktails & grand views of the city.",
+    "website": "http://perchla.com/",
+    "phone": "(213) 802-1770",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqbKnF0vGwoARREUrVhYGqTU/photos/AWn5SU4NzOmXwHL2ycFZ4S_ubH00h-MhvdipZvEzBI1C8hAL8umhZxke-M2iguUraLRiQkram-VTpgiorhuw2CgNlDA3E_7x1RwWAi0KLGQoYpCkiWRfXTaS8Krq8vg3hJQnNK40sj6vomE0Dehk5WLPUzV3KpLNa2jxdHfyQHvat8njPX7IslBDZypp2Q72IU_h9ZXMTl0genXJmIkAauRtOLXFRxZcV5S2ZBFN8X6njfyinZRSPEMsz66lUmznIaCwNjGf5u_fCLQb3BVGli2sjXZM1NOMSZSI-iTfmJEjchw9pw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 7289,
+    "coordinates": {
+      "lat": 34.0489961,
+      "lng": -118.25141069999998
+    },
+    "features": [
+      "french_restaurant",
+      "brunch_restaurant",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqbKnF0vGwoARREUrVhYGqTU",
+    "opening_hours": [
+      "Monday: 12:30 – 1:00 AM, 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:30 AM",
+      "Friday: 11:30 AM – 1:30 AM",
+      "Saturday: 10:00 AM – 1:30 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3866628448079004996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Redwood Bar & Grill",
+    "address": "316 W 2nd St, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Festive Downtown institution offering pub grub & live music in a sunken pirate ship setting.",
+    "website": "http://www.theredwoodbar.com/",
+    "phone": "(213) 680-2600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQSwgGUzGwoARhEKotmw64n8/photos/AWn5SU7jyJqydkViQlADxMYjeNCdzdffBwjOerr2Ar9FY5YAJ5kdW6RxyXsjWuWLbOv23mH5Mp7SLsw_nRGgv7l-cICzu9wm0c134KtY0amk3d_VnrWiSOdGYlluH615eXtZVF3ErNuCCOCx-kezPvyleD-TpaPfo9-8rqnJ_fyjkGxlzIn1InhuG2QXI-IunquSkmZlXZ9KCQ3QVHnQzt-aqb7R4x3ztW0aejsuteovUTTSBbbmSV2vdMSnKyhTPqIERALRiLsYFdvfpgl_KdaBsbS7ihYjrenbJQdYPWvX_VaSeQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 901,
+    "coordinates": {
+      "lat": 34.052731099999995,
+      "lng": -118.2474087
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQSwgGUzGwoARhEKotmw64n8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9214992026148815492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Thirsty Crow",
+    "address": "2939 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Handcrafted cocktails & a long list of whiskeys in a saloon-style setting, plus a lively happy hour.",
+    "website": "http://thirstycrowbar.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMYBwBj_HwoARQUs97ZF4MIU/photos/AWn5SU7t5KqhfLUZOF_zYUBpSAOTZSFFuVsMhU_vpY8lUh12SxQFAbTNlHUt9hS5UINJiSMWHyKLr6tgJaN_jrnIRq04qPkejCeDwxo2ACpkagtf15_w-l9YTVw5TlwQE6gG6q_dhUZiKqZgZ3nL0gvodbn89eyU53WIyfZzT8xH17hLyU3GQh-Q5vjNJTZpMR2q7Wream_GAMgWrYonKsjvnnLKFartduYkQTjJXCg_N0FB9C_diDmTQyp4BPCPD3_V259wlr3rl4MsKGTiHMT143rZYHuz8B2evLTslwdWHMBz3w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 346,
+    "coordinates": {
+      "lat": 34.0836876,
+      "lng": -118.27374539999998
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMYBwBj_HwoARQUs97ZF4MIU",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 1:00 PM – 2:00 AM",
+      "Saturday: 1:00 PM – 2:00 AM",
+      "Sunday: 1:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9597303374072335169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mignon",
+    "address": "128 E 6th St, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Quiet, cozy wine bar pairs unique pours with small plates of French bistro fare, plus happy hour.",
+    "website": "http://www.mignonla.com/",
+    "phone": "(213) 489-0131",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe8tyojXGwoARi1awtzaWShc/photos/AWn5SU4SEQ_27w_Au8eZ44uwlH4yNJ5x23bSpBb4_g0thtz_y3r-0fIeXBxt7neEjRxmHojxe1Ahh-k5DoI6Qge9HJ2xDMegsLnfFCQj4HSwTAly20s2efgTzdqlcfgX-cOBcTFABQoM-0pQu0eDLv-c85SiuBTk4t19SSNRytbsEqvxHyveXHQn1XUwOZIdkuJl8LSQYKsNZZhCFjm5HrKm8AyszIUNnZtLZGQWjWpOPSZRzJrEM4QNXMPvOalWbrWgLCuJ7pbwfmu6xMrRMHG-H3st6Tb_7kT5khBDW_rSEgvoQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 34.0446248,
+      "lng": -118.24932659999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe8tyojXGwoARi1awtzaWShc",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1678318972903118475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Edmon",
+    "address": "5168 Melrose Ave, Los Angeles, CA 90038, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Swanky, art deco–inspired spot for contemporary cuisine & classic cocktails in pretty glasses.",
+    "website": "https://www.theedmon.com/",
+    "phone": "(323) 645-5225",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhVUQTrC4woARkW9zZcRmSX0/photos/AWn5SU5bzW4LB9XMseNLylLRUMXoJCcgiiES4FOKwlBwSKugR9h0JMKihHM0lY8m9wqLMl1ag-MwSP26kVJwHgymqUnjT6uAh1dcvnB4JAq6flnVPFMAHDQOsDUf57c2BtMHqpLZYkmUMaN2u8GEoXOFiTAUraLBEdHeJuQc-VHR0mcV8B2pHbPiof26Qx4enq0Xi_56vTcVjmmg4zP0fxEwri9kaMfCdyxhjOrXYCRMLgN7h7ujWc6bCmIY_79udJyn6VlKVNBInf0A7I8q3AhBbVXF6RRoGPfB5aPgkXE9nvi9gw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 381,
+    "coordinates": {
+      "lat": 34.0834048,
+      "lng": -118.31320389999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJhVUQTrC4woARkW9zZcRmSX0",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 4:00 PM – 1:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9027859921742557073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Burgundy Room",
+    "address": "1621 1/2 N Cahuenga Blvd, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Tiny & dark, this longtime hangout draws the rock 'n' roll crowd with DJ'd tunes & a laid-back vibe.",
+    "website": "https://www.instagram.com/hollywoodburg/",
+    "phone": "(323) 465-7530",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOTIHzTu_woARfS71cm5CCcc/photos/AWn5SU74VbnmQJyL3brBnxP-A9yYIY0SEPlFSc-ShgIKZgFuKGFkZU7Mu9JIW2UYuad3-9qt9R2b3DF5rD3cNwf8fYXGFG5oYz4NcP3JUdeT56BOwlmz6M_Qntsdpn5k_REGTJdODH_Qo1ixk_4neQ6euIfP8bMUxwJpawr1ClZMHEQTr1cpYpjt9unnrbhIq1DDmlJFTtmMPlfXH32YXuueLRN8vTmKSZmwzgEkhx7mWVQAdPMa92QoZuuw246dkCwuXz3_gNHrtb_Jc-tiM25ZcGjtdmJNaT7HzfbVahReyY_DT77qwB1XvaJxY4LrNEGZqga0-kmglv_U3nl8Zpnl2dXAW8Tg_ktYz7kvwq8k3zEHyq6qfCB-XhLaU8ILpgxLsxnCgkCmmXzkhhzqmobfZ16sFAuMM7OEvCeECNC6ZddLop0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 217,
+    "coordinates": {
+      "lat": 34.100378,
+      "lng": -118.32976260000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOTIHzTu_woARfS71cm5CCcc",
+    "opening_hours": [
+      "Monday: 8:00 PM – 2:00 AM",
+      "Tuesday: 8:00 PM – 2:00 AM",
+      "Wednesday: 8:00 PM – 2:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 8:00 PM – 2:00 AM",
+      "Sunday: 8:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14342067530480561789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Little Joy Cocktails",
+    "address": "1477 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "PBR flows at this jukebox-fueled, proudly grungy bar with pool tables & a punk-rock vibe.",
+    "website": "https://littlejoy.la/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt5HtNB3HwoARC6mznosTLXA/photos/AWn5SU7vGrrhzrptCJKtYSifx1WSR8PQ-18TqhMsGCJ7jOdUcpk0X1kDD0BPi57scGrvX7vZfxs0E9X-oTIqRn9xNmHwltXP7MHiw6VEFUaTigXVSfD4yfzaw8U9ljSk9JLAOWKkKkX3DxdfK8zToKFA5R7adQp6akYVVAXKyL54FFIsYayQODEKp9-5AmdvihbtsdQKbR6etueIFAKhAltFKUyAYggsPxyBvwWg5ND9Wl6pLFsFXY82CpZeuaJzwBC_7vT-NT68QbZjwtgVajzb4baEn30zaLqM3MuziO_RARPrZA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 335,
+    "coordinates": {
+      "lat": 34.075662,
+      "lng": -118.2544047
+    },
+    "features": [
+      "wine_bar",
+      "night_club",
+      "sports_club",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt5HtNB3HwoARC6mznosTLXA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8083138396583864587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sunset & Vinyl",
+    "address": "1521 Vine St, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "pizza",
+    "price_range": "$$$",
+    "description": "Hidden cocktail bar accessible through 800 Degrees pizza, with 70s-era drinks & moody vibe.",
+    "website": "https://instagram.com/sunsetandvinyl",
+    "phone": "(323) 329-9656",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-ygA3Tm_woARLItqPOizJ8M/photos/AWn5SU5VhbV5w094eB9SGcW-hEhlLia1THje6wDX_rEnl-WQjUaBPPldxuGM0JBVfJgxwx7r7gAFnGxP8gC1wt8J9DnzSCgWu0ZX_hzamqthVxlSSaoOqIAGjagwcnhX5Is1FS_r1dH9kgCh_-HKdlDEw9OlO7QygcxO-UUsDjXvmJ4X-ceaJS4NMetkBN5SkxOq1Xa_oqMdImUq_RyzSytYO3RAH8weeax9CT3VCql0Aj1CZOV6FNV4oljn_b7pcoSUCg10mSZ62uxASbLc_FiUlJ2WSVUFb8_FE9CCX7MT_ApNRg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 216,
+    "coordinates": {
+      "lat": 34.09888,
+      "lng": -118.32701440000001
+    },
+    "features": [
+      "bar",
+      "pizza_restaurant",
+      "night_club",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-ygA3Tm_woARLItqPOizJ8M",
+    "opening_hours": [
+      "Monday: 7:00 PM – 2:00 AM",
+      "Tuesday: 7:00 PM – 2:00 AM",
+      "Wednesday: 7:00 PM – 2:00 AM",
+      "Thursday: 7:00 PM – 2:00 AM",
+      "Friday: 7:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: 7:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14062406171515063084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Everson Royce Bar",
+    "address": "1936 E 7th St, Los Angeles, CA 90021, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Polished cocktail spot with a backlit bar, banquette seating & bar bites from burgers to bao buns.",
+    "website": "http://www.erbla.com/",
+    "phone": "(213) 335-6166",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJISSAeSHGwoARcYfGTQ9ryy4/photos/AWn5SU5JvdWkT2U_tkjjq97mnbcENaSUwLydFdJBrkF_PYcGFvf-hlqYSoEj8xx6bQTKnai2eJYgtjD2tWGdQedzMJJAiOXRN3olGfjzn2BfB_rzORpO5pfP386W3JRBChxdI5jOw-ofi1COKbp7bpmPjLfhhQINtIHgkgqDYsdmIaV7r_XCxJZXw0pf9ZIM3rvuM3ewyFo1fXgnePNKlEigUFT3ZlTdPYVgYFr18lMfaoZ3smtIpPfniATJXkBubkrDykIRc-ujpTRRhSrYqu2LbAR7aoDZA3qAUR84vOFmmDCVDA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1073,
+    "coordinates": {
+      "lat": 34.034388199999995,
+      "lng": -118.23258670000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJISSAeSHGwoARcYfGTQ9ryy4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3371906459490486129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tribute Hollywood",
+    "address": "1608 N Cahuenga Blvd, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://tributehollywood.com/",
+    "phone": "(323) 450-9005",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1cWo-z2_woARNF2wrig5QYU/photos/AWn5SU5j3VtawnoPOIWvDJioDHAvM7LZdQCrNWumsKTBX9MtoSTtcY_F8Xw4iBWYPRBAIq9kxrBAYhNGME2_OILMEvOvp7RDT2gHfrYrJMQvAASsuoNHMh5wzmTpOpGuBVkOQYorMOcSX9ndDvTJiZ24I_l_WN-QJrWLWPF1R5XjnOhhk1yDyQpUu0MseMZpPrb28bTm09NUKOOn-cH4VI4nF1djUqarCvU1Tn7Zud3kgXdbd7Et8Bru6TF8It3_1qaC710XPaJCMB6D2R22Tq4Hro8xsoQWzMM9RvQ4JMsADss_rw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 136,
+    "coordinates": {
+      "lat": 34.100112599999996,
+      "lng": -118.32927779999999
+    },
+    "features": [
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1cWo-z2_woARNF2wrig5QYU",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 1:00 PM – 2:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9602018727422876980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Slipper Clutch",
+    "address": "351 S Broadway, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://theslipperclutch.com/",
+    "phone": "(213) 201-3838",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt7WimEvGwoARBru9zCa03t4/photos/AWn5SU7hYfDLUvD1Hh8t0FCLiYNwHsbtyAl-XNhryd4KdeM3liEpxq2yn-6FDZnpy1UM5mA32HvCoVY8nxiAUGa0hyk3_wjOr8IhqcV0yxwtVSKF_a7AK8c9xG7E-eW3j66eNbT6qs020by9Jk7e_abIKwPh8S2a4WgaJ2kCDSTQ1jDXkO4xFThduXQNgrch4aQFGkSeahu-4HxooIDba1Q6QtzzjajWFgJf6wFd6PofBOVudCeZSs8_qtIyweCb0fF6H-JDs1RCPQHWwNa9n2a_D0JgpB8JUWy3ScFy1AJCmunIAQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 240,
+    "coordinates": {
+      "lat": 34.04998,
+      "lng": -118.24937310000001
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt7WimEvGwoARBru9zCa03t4",
+    "opening_hours": [
+      "Monday: 8:00 PM – 2:00 AM",
+      "Tuesday: 8:00 PM – 2:00 AM",
+      "Wednesday: 8:00 PM – 2:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 8:00 PM – 2:00 AM",
+      "Sunday: 8:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16059471399986510598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "No Vacancy",
+    "address": "1727 N Hudson Ave, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Swanky, shadowy bar mixes sophisticated cocktails amid decor recalling the bygone days of Hollywood.",
+    "website": "http://www.novacancyla.com/",
+    "phone": "(323) 465-1902",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlU0Ogzy_woARU50hhruvVYs/photos/AWn5SU5jhLECA_FwPm_UXUf7E_pcCwWK1_bZfFA_X3-UV6PhXu2svuXRB5TVLPgukunpXqu6ONSZ3hMYxXMtliP2NdaihhRWngn1SHSov-LvSgGVu_AlzoA5yP-_qbv0NcHtJEC5AdhOHEsK9-el_g95e7VQ0NPcuPoMex_xg2qtG7YBjWBZW6Yta-5H_mialHFcaJVG-Q-ConVNGlYhHRRBdT44h-S_gDGUToOtR5nIU2MKIe4UZlnT4rt0iIvDhb4Gvm8Ihcmd4Z5H6oR1eyCtCcSHp5B8hcZk6-1K3A5eo-jrXgr96qFGaHMTUAW9SXg84IL7K2NBqUzmtblyJT-YZ3QDCvClhmRuRVbBg1AeHYV4tAYbuyWY5XnNXc2t0zQthlt2qMBenPywk3KwdC5pIEMe9CfqZVLYbYL8Qjoib_Ix1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 772,
+    "coordinates": {
+      "lat": 34.102263199999996,
+      "lng": -118.3325205
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlU0Ogzy_woARU50hhruvVYs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 8:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10040124164236483923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Obscure",
+    "address": "1356 Palmetto St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://theobscure.com/",
+    "phone": "(213) 513-7521",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf0_fSW_HwoARrLe6E4ojeHg/photos/AWn5SU7cpyxIHKJvY5nqzAg7RM1nBXELomfdclPyK7zcypIpDE3A0aeHyGa7YUlQneCv9olZ1mvFT2Zg9Wr_f6cfXRe2ZrfqrrCZfn7ntQTtYhbhTqBCR4W1CPLGl7JP3trf3qTTALxfEC8cSdLlluicqKSJdggh9PG04p4U4u2r7abAGWF_gjIsBgSsgzZ4QG2Sn4RB577lARvbu2G49_dTHtynIWyG0xdSZa7ZKZec79vIbXG6YbWvdOAFBhT5IR2lUkZktQSmc74JD-8efINOaogNeJgCPcwsWxJUJ8Yke84cU80iQHLifZqWyqiFGa2qUbSPpgu2N8WJ_4CjVCxPlDz5HWZVJjDFtEY8dzf_79VSneVZ7VqNk2vD5WHoWlbTBBXUy8j4K6aIyWqrmFV0plEfAx1thzw7U2rvB2u66y1uDp4/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 267,
+    "coordinates": {
+      "lat": 34.0401518,
+      "lng": -118.23098449999999
+    },
+    "features": [
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf0_fSW_HwoARrLe6E4ojeHg",
+    "google_maps_url": "https://maps.google.com/?cid=8680727357700093868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Jackalope",
+    "address": "515 W 7th St #200, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hidden-door backroom of bar Seven Grand, specializing in Japanese whiskey amid a moody vibe.",
+    "website": "http://barjackalope.com/",
+    "phone": "(213) 614-0736",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI9WjVLTHwoAR1jD5leBjYPw/photos/AWn5SU715DgwEy47dNhqFIux_Y1GOHSITWldQjNduwyog_WbxWs0ZbodcAY1xbZXWatazWLZ86kDs_DYW-DnyxPLqLZF6HQ_YwHea2B-6jsp9Z3r1DAJU0Yy8VAscwisGyXjU0EeVFNvgn9RFhqatfsGJ4hnekt0pzDSNEa0MQ1leaoVfGPHQk96S3_Xot919Sx4I8qFvclgzNcm5DEhPvgG5s15Ra5hW34NqSH8YK6mxaaHLSEC5PCIQoU8l9-TUopfiXRNq3TkOYvZunBImzKG8Dm0AeOkj4Y9NS1e9tCnIm7CCQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 122,
+    "coordinates": {
+      "lat": 34.0470535,
+      "lng": -118.25590899999997
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJI9WjVLTHwoAR1jD5leBjYPw",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 7:00 PM – 1:30 AM",
+      "Friday: 7:00 PM – 1:30 AM",
+      "Saturday: 7:00 PM – 1:30 AM",
+      "Sunday: 7:00 PM – 1:30 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18185645111562023126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Good Times at Davey Wayne's",
+    "address": "1611 N El Centro Ave, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Funky '70s retro bar with era-appropriate garage sale decor, an Airstream trailer & backyard BBQ.",
+    "website": "http://goodtimesatdaveywaynes.com/",
+    "phone": "(323) 498-0859",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl9fwEzi_woARA9c1iEzQS4s/photos/AWn5SU54Mu3rLYX-pDdWEwrJF_y70A98gIjTp_TJG4_pdn_vczFax1pEeUjp8yOqhOji4lyRhakxeTasTNgH-RH_dedJWzwngZ_i4LbSw0R6ZXlYjKZXCnZqTgGhT2u5-2cE3ZfxqJmQ8LN9VfMbutNPVI1382wTVCO2dDduE3SzGoEy77S9HAZLDvh-lMUXsw_OTR3G45oK10of74Yl4vSOIV0iB2gHdcQZAuQA0kLBKozT3iiCnuTj9M8APsouSqgjv0qmZL6THtuLVKQltEWWvgNDZEXpRnew2ROzCnVtdbXme1JeimQ-aS7nU4LUIQe1jxohYWAaWiYBVOlt2DRPCsvyWFImXmGOFc-0jRCoTPrVGXlR4_nWbqAijTmx_CprgBpWNNdAM2BZAiApVcNnkNPI4bSqPGp_vjge_ElsNL9DqosM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1558,
+    "coordinates": {
+      "lat": 34.1002939,
+      "lng": -118.32397900000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl9fwEzi_woARA9c1iEzQS4s",
+    "opening_hours": [
+      "Monday: 8:00 PM – 2:00 AM",
+      "Tuesday: 8:00 PM – 2:00 AM",
+      "Wednesday: 8:00 PM – 2:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10037345221646604035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Del Monte Speakeasy",
+    "address": "52 Windward Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Classic cocktails & live entertainment in a dark, circa-1915 spot with flocked wallpaper & long bar.",
+    "website": "http://www.townhousevenice.com/",
+    "phone": "(310) 392-4040",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXRuIsbm6woARD0PmnPNp-Qs/photos/AWn5SU78NAL_Xjf0r990shJpHtDmXMy0mN6Lr_F-BJvwXk-EFf4JvrgNLXAHT98ToLTEi5w7TEGnESGqqAcjxgiRuYduR5-9VxJVUGXNhmoCiIjv9gyS9WPT7yXIb5ugIIVxBRWIS986dYZhk61v1xsLXhwRjpcXYB6qtz6Cx2K8udoSdKY5XRwObejJLtGjmvirOB8QmnC9gDO6uLnDqts_YupHpSTW4HlPkJNKy6kvw39u3gO2yplC8IruQ1QFmjUP9y3Y5b8_YtJ8BX-b73zxAGCPNxLsnpj8sxyUgzawKIfjCshTziQZdCF9LOpt7KoUdIsH9DfdMFoaBtlG3IKrj0qMdNefo33gm3YPWKDXf8KBvX9ardbkftGbTOqh_40bpymAfvo261twHexIJbe5dTMqpKv2pg2IAhErjknrq16aUQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 133,
+    "coordinates": {
+      "lat": 33.987262699999995,
+      "lng": -118.47266119999999
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJXRuIsbm6woARD0PmnPNp-Qs",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=862837298648466191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Black Rabbit Rose Magic",
+    "address": "1719 N Hudson Ave, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Hideaway for unique drinks & Thai-Chinese bites, plus burlesque & magic shows on the weekends.",
+    "website": "http://www.blackrabbitrose.com/",
+    "phone": "(323) 461-1464",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV3xsfDu_woARPqRFfDwevKQ/photos/AWn5SU6GO7GuX0dtPr3HvdwQOyBZQwiq-Ldg0p08S07NcEyirW5a0JhnSPUoZQpkb17_x6AFPMhm3AydYwtzegbMXyUigiEbqsm0Vv3wpYAYVP4nmRB_Gj5zzR9my9wSn8ppato5zeRYHiS3PT7s4-Zj7GLqpthFkKuYMhurmB07auRxkfkeJTdzfy1A33Ikj5bff8_y1-FY2FxQJOcAgOqe_w3neYMvyU_wAcHoxtyklaqnIEHkb3f8MqtT8wV-dlBsVIsm-BZ0xWAseuEgAmoEz7XWzbqSE2NXwZkcwJqEvNHrSg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 644,
+    "coordinates": {
+      "lat": 34.101771,
+      "lng": -118.33216809999999
+    },
+    "features": [
+      "performing_arts_theater",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJV3xsfDu_woARPqRFfDwevKQ",
+    "opening_hours": [
+      "Monday: 6:00 PM – 2:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11870395962973594686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "R Bar",
+    "address": "3331 W 8th St, Los Angeles, CA 90005, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A password is required for entry at this speakeasy-style spot with karaoke & rock on the jukebox.",
+    "phone": "(213) 387-7227",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8UFxk4G4woARJg4zKoUQcdk/photos/AWn5SU4ZmYozjaHGaMJJBAhBldNaLalrcvh_kUMuissjGczWfmF1rj_wLPbgJU11qJv8QUvyUCkBfd4DwSdesCOgoGf9jUhPpDfV3AAyf1euz4vgMNREArRD59aJBFgoQRJzM2YT9eXhbH9ACYUmb7zkJKstyC1mDZZ64n-CgC8KrtwQut_G3txgJ5vs2VDHLl5D24o9qpv3_oLo62YV3WWqFRXF4yMUpNnWmvhq4b_A3NHzEHwfZ-adbTw4R6l8qHKsjbR_YDxDE_u5rotWhuulG1vb5eKeGn6K-hw-iJ2JOgKlow/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 674,
+    "coordinates": {
+      "lat": 34.0578724,
+      "lng": -118.3011151
+    },
+    "features": [
+      "bar",
+      "pub",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ8UFxk4G4woARJg4zKoUQcdk",
+    "opening_hours": [
+      "Monday: 7:00 PM – 12:00 AM",
+      "Tuesday: 7:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15668322742723350054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Rendition Room",
+    "address": "4349 Tujunga Ave #2, Studio City, CA 91604, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.vitellosrestaurant.com/the-rendition-room",
+    "phone": "(818) 769-0905",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgTc4-xq-woARydf3tzB1QFE/photos/AWn5SU79kQj1Cftnjm-60RG4zuhVVoLgU1AHjttZDirkgsm9dp2p9PJYasmdfiHMGPkdN2S008VvPivrgutLf6g7hQuKNGfGDvlz-FgSf9zGCLASQx4C4FqPo5zjIZcSZLz4fk0HXI5eT6ftAz50kpw5Ht3j3CyzkUQtTbGvyQJ7Jel37-z4ar5ojP7v8O6uFQ8NGUt2QhcggmrlSo5bfJ_Eex00haLicTwzw0yBYWkuKYwt7lo6zEwRu5D5_oNKlVicjVrVNM_w1bx-OBzZByLCAzRaYpXONNR96p9Mfy47OTjkTA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 131,
+    "coordinates": {
+      "lat": 34.1488523,
+      "lng": -118.37913759999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgTc4-xq-woARydf3tzB1QFE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5854808367686997961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Escondite",
+    "address": "410 Boyd St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "hamburger",
+    "price_range": "$$",
+    "description": "Snug, atmospheric bar offering burgers, microbrews & live music in a patio-equipped setting.",
+    "website": "http://www.theescondite.com/",
+    "phone": "(213) 395-0482",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCRF7wDfGwoARl-jRXUeT-fk/photos/AWn5SU4kFjnOMKXVXsa5WlQfip1IwVu28La-bHdlRE4AKDR8gaLHud1gqf1rmmGcG8naw4vuop-eDEJcxpCePDbG8EqXOkdvH9bAVBWmwukM7QEauC74TPO8q3cOiQw4kCihHm4fQgo6c3N3UEaV0405A5l5xJ2uWEmGZWyh5xhLBLVVt8zGPfPpeGhB2iLQTX_G960CCij57ump7ho-9LFXia7cp6uggoDFwGKxzhPHsczb9Kc3XIVcHMbx15tIVddxDcmCVddbyzWBNgqkorb2aYnQwiNn_JVUj_mW5_Zk5JjcZBmIROGI09KwZKXY4E0WKIJW5TOV1W7zWuMipl2cGCnDpaZJS0K4PoLwEloT48EExjzAZulO77n3EX-6Yrc0pySk6AEU6foL4jShAYMi7na-hI7jwJkbKELFG1oQuR1wkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 698,
+    "coordinates": {
+      "lat": 34.04609440000001,
+      "lng": -118.24216870000001
+    },
+    "features": [
+      "bar",
+      "hamburger_restaurant",
+      "bar_and_grill",
+      "event_venue",
+      "pub",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCRF7wDfGwoARl-jRXUeT-fk",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:30 AM",
+      "Tuesday: 5:00 PM – 1:30 AM",
+      "Wednesday: 5:00 PM – 1:30 AM",
+      "Thursday: 5:00 PM – 1:30 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 1:30 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18012590119371008151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Rooftop",
+    "address": "550 Flower St, Los Angeles, CA 90071, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Rooftop bar draws a high-energy crowd with a heated pool, waterbed pods, DJs & panoramic city views.",
+    "website": "http://www.standardhotels.com/la/features/rooftop?utm_source=google&utm_campaign=google_my_business&utm_medium=organic",
+    "phone": "(213) 892-8080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYTpqjbPHwoAReolc2J84UY8/photos/AWn5SU6aXYG-myCHB-M5obo2s430tQLhWgsOQuJe1NI1zeRsCoYF4TS8DU_lnkKZiqieiAqlh9TB4iuy34N1YU7cOjqPtF_b7UjAJOolnyXOjyS9vywmUR95CkQH3woLJ6HK8QuGBZfVXmMu8U0nThSpHoEWZc34qd0yNMWBfLSlTyTSbxgoBhz1o62N23MNx44fFczQ4DFG7XUTediWjE60_515d0YFlbhbRBjEd8DPQFJXjIDjIhzqQ3VpU_azx_j4u5-C-vp3LVCr1l6PEjSlRikVxq8S6tlBmMqjLUSkwX9Nz3YMDq78haNGwXAopN6BjcT-tHeMX4VCgNISfLUhv2xKmLGj_GlJZJor-AVCZC9dR9tozjpbDv_O71L_USKKiEOG-N-mC5VSqdhr_zkI7h9wkndwEccbXeuIJqpM_Q1OUw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 476,
+    "coordinates": {
+      "lat": 34.05016700000001,
+      "lng": -118.25714699999999
+    },
+    "features": [
+      "bar",
+      "swimming_pool",
+      "sports_activity_location",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYTpqjbPHwoAReolc2J84UY8",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10327097679718156666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Far Bar",
+    "address": "347 1st St, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "description": "Chill gastropub with American & Asian food, like burgers & sushi, plus beer & cocktails.",
+    "website": "http://farbarla.com/",
+    "phone": "(213) 617-9990",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe3sg60fGwoARrYfEF5S00FI/photos/AWn5SU5V3JZkTSJtEW3F31RrTnXiz2pn6ztDrHqjDhD-HRogPrA40pVRuEznZZePRt3K2NalRoUGrDamRqpdDdqREbSpKKd1kFdaMdpq950A3PIg2LygIdPKb09mVt6vmKY5bFmkavH5TCiTB1V1Gr7sOLXPtKnckPZaXVaxaA60sDyA5NGd6QjjfxwimfMG-wGNgGAx3I8DFohk3hiuyxyHcfXHQZmig_4hL8sS9H5SpokTlzbz4zDt9advgTPAo-VZmTQbboE5BTTvSrQbRF7GL9g8oaZPfeJrGb0hTvM18iF5blsPp6s4wz5Rg9jYKtlsK7QBiv7IARaMwA8IQAY3Y_24WriNQjHtwGq4NfL7UGeLjJI5O2jUZK0m6MBdvVmL1NHtbEflBLHdS4-n9U1tH6a-EkiCIoSMitWEh4m4KmA1GD0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1389,
+    "coordinates": {
+      "lat": 34.0496354,
+      "lng": -118.2395974
+    },
+    "features": [
+      "bar",
+      "asian_restaurant",
+      "night_club",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe3sg60fGwoARrYfEF5S00FI",
+    "opening_hours": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 1:30 AM",
+      "Saturday: 12:00 PM – 1:30 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5967468054412822445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tiny's Hi-Dive",
+    "address": "12012 W Pico Blvd, Los Angeles, CA 90064, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "website": "http://www.tinyshidive.com/",
+    "phone": "(424) 888-1388",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk7LSm-C7woARWH7ceVjEN5I/photos/AWn5SU56yddraoqTruaZpZO-cQ2IbpATgHLI-2erKYF3pFxS91qtsOooonjbyfqhJL4Ts2PHcGLy8kUi9YRZpiFqvNVuASkkqOsptNu5SXFZG42Ech3oOl1OJMQF1KVh9WAV6VqNOrdef_T62jwM77C-FCuM1VT-6O83kb7f5Tx02gAeN0WlIBlj4nTXhQMGdrFBv3wYAR8HUgJ2XoIrvJDlBzAaVSIzvChnuSv7rVeo6yGGuMyDauRMsC9hWPP8AFzghF5j8RSLJ1TilErur1IXpwZ0164KuQcvARYTm50Xz1wsmA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 231,
+    "coordinates": {
+      "lat": 34.0295316,
+      "lng": -118.44941279999999
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk7LSm-C7woARWH7ceVjEN5I",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:00 AM",
+      "Tuesday: 11:30 AM – 2:00 AM",
+      "Wednesday: 11:30 AM – 2:00 AM",
+      "Thursday: 11:30 AM – 2:00 AM",
+      "Friday: 11:30 AM – 2:00 AM",
+      "Saturday: 11:30 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10536105737537224280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Speakeasy",
+    "address": "25 N Raymond Ave, Pasadena, CA 91103, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Dark cocktail lounge with a vintage 1920s vibe, featuring a hidden entrance & secret password.",
+    "website": "http://www.speakeasypasadena.com",
+    "phone": "(626) 676-1205",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjfzzvnHDwoARFn1EkX_wgKU/photos/AWn5SU4B7bg3evT0RudKHFlKVCPrDvIfS2JwWkHI6cm9CEdKhQ_ckG2Mtb6vr3oYE0vLGKchbIcegc2oYoneutyLTd_V1iMKhaqnKF93k18iwDqCzAztfayD_ri4KwzTiL21JNUpOASJnO2mGjjKH0L-3RovKaVbZp1vb3S3gpbHBxjcBRK8Wrm-_1SoC7cAqTRNZzPjaI8w8fSrqxIANb07scZpdBIv7xgqRM0e7fIEpDBDU6A7brlCr8h6m-Ko_S5x0uNbrTzl387_6EoO78eXKRgwu_ZIs9Ph5Aw1bANehZnNQqdwH-PwR_2pL5tJX0a2T9tLsMIi5SjNcDlE0aryV5FjUJjfrsKoINv43xE-cpgVhhMkFlU-_cYG_5DqDWbXXU8dS7MZW4jjk8qqIY_hhRYFiYbuPVUGcWiQND_7CCIGq0so/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 335,
+    "coordinates": {
+      "lat": 34.1463234,
+      "lng": -118.14907609999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjfzzvnHDwoARFn1EkX_wgKU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:00 PM – 2:00 AM",
+      "Thursday: 8:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 2:30 AM",
+      "Saturday: 6:00 PM – 2:30 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11925796243965771030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Blind Rabbit",
+    "address": "440 S Anaheim Blvd #104, Anaheim, CA 92805, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy, dark speakeasy featuring a secret door, imaginative cocktails & elevated American bar food.",
+    "website": "http://www.theblindrabbit.com/",
+    "phone": "(714) 724-8418",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM1LyCjDW3IARmfcsEtdP9n4/photos/AWn5SU6UDcVK1rdNQaaiUjF6QOFqpolLasYtUmAQjD8tvlMFKrxg9ymhwe1eBC-qAtcE_xovM2YDPuBclTYdX-Z3pzG7VDLHij6h9CNQfuvCzt3f3Pk5mz74FFQ9OOMX-nf7RrEDg84MF8kJkgr-T7fLIUXyl_ulSI9zzeVrACGGTvLYljEeH3TmTMGEOTDSiRAATO-A09AilLt_KqyyYY_vtavnE3yXowfYtrktejmmhw7D0fgad8DTWjzZOl2Mx9wv3Xr5JwsY7U_YjvZ0Mo1gnjZgvSooRctgOSWO40-MdT_y1Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 694,
+    "coordinates": {
+      "lat": 33.831449899999996,
+      "lng": -117.91186379999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJM1LyCjDW3IARmfcsEtdP9n4",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 4:00 PM, 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9148587478191241113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lock & Key",
+    "address": "239 S Vermont Ave, Los Angeles, CA 90004, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy nightspot featuring signature cocktails in a chic, vintage ambiance.",
+    "website": "http://www.lockandkey.la/",
+    "phone": "(213) 389-5625",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnWa2XGTHwoARND_sUcp8E5U/photos/AWn5SU7gfw0wFB2oiDb5xaMwJXU6zZsf43a9pgfYGUmJ-OWGIxMmKXgPzJaocROK9zKrNGo2YT42yadmrSdbzBJ33NaEBpQEA-W_KGZlktuVam9r-USsxZ3vd-UVek5ROEoHhbidN_LHFqdil3RPpsnpE9UtEBIkK3XZ7vrPioqsnL2Uibd4YTE_iRgt6hNMInyH-ATh0og6AsyH0F7u4wD82d20dUotlqkGtU04P5xzGn3irg_NtaiFoW8AKMqQvR8Ekk8i1X2ch4Ak1NcizmLnDmjBU6f3cTdFXgDkf5PSDSUxFg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 807,
+    "coordinates": {
+      "lat": 34.0693708,
+      "lng": -118.2919591
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJnWa2XGTHwoARND_sUcp8E5U",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 7:00 PM – 2:00 AM",
+      "Friday: 7:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10742066744608440116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cara Cara",
+    "address": "Proper Hotel (Rooftop, 1100 S Broadway, Los Angeles, CA 90015, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.properhotel.com/downtown-la/restaurants-bars/cara-cara/",
+    "phone": "(213) 806-1027",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4V4DBfXHwoARx3FMc9CBMRg/photos/AWn5SU6WMnTbJdn2moqJS4F2yzujwJegDkZDh0IwusXTgyBMEiCIU_QnOszBQq9s54iWUoA_K9PNjt1CsPp-avEdM7Yt_YfhJwcJQXtOj7C8MmZDaj0jh-NEgTZ2eJhAQqt6NXfOfT5mzEL20A-ybLCI9VtKLq2Fwq0cOPBzMPzCjXuztaXkfzDJ7BcwALAfx3DFWiIWD5DRYP_lDKza_ddn3ibpaG3APZlSOTyLDLIV1gmurh-h0M5KXXmZvY2HK1w07-Fg8v5F1slxKyOnrY3zkj8Gc96WLGjhN0lDRioP_SzVPQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 569,
+    "coordinates": {
+      "lat": 34.039315,
+      "lng": -118.25885199999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ4V4DBfXHwoARx3FMc9CBMRg",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1743317263056662983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Florentín Rooftop Bar",
+    "address": "617 S Spring St 8th floor, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.florentindtla.com/",
+    "phone": "(213) 262-8659",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJL_AyNsnHwoARcRWiux40Ycc/photos/AWn5SU4uCYCFfNOGmSkNlX_SwA39QaHTLNk5L5_2Xwkni20CwIbIBgHl3T4OYINpBRzSCWlkEpMHC8E1fytLTsV9JbM6JHac3O5QnkSsVaj9hI0swO_MSetUmdI3eBfCeTF1MtbyZZAOLaNPHzqRrGPKpZHWsQkHvYxmsQgNFxZWEaH9Lv5MWoCu0QRW0Lq7xXT0KBcKL2tsZz32jDL7f-K_Pob9Z0uqN28nab5cVD_9VpYrzcJdTB4bOzyf09shll3ydoJPuY4_UyUMW2oca7NOUmAPmghVVQ-4oRxa3m3RISID2sISD_iK004jn8urNi0TThpin-dFT6igLp4oBd79tB34N3HiQwJ-MnkWmzjZq96pQ9G4dnjIgEbCx3bIZIHJUp6TSSwetlyfmkRhYuVngzUz-oib4j5tVf2olrvgfM6DaAzR7_fP4A9UzhecIjhc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 102,
+    "coordinates": {
+      "lat": 34.0455499,
+      "lng": -118.2515947
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJL_AyNsnHwoARcRWiux40Ycc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14366821592890217841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Rooftop Beverly Hills",
+    "address": "9850 Wilshire Blvd, Beverly Hills, CA 90210, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Unique garden-style eatery with New American fare & skyline views on the Waldorf Astoria rooftop.",
+    "website": "https://waldorfastoriabeverlyhills.com/dining/the-rooftop-beverly-hills/?SEO_id=GMB--2-R-LAXWAWA-2&y_source=1_MTU0MDUyNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(310) 860-6798",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeciEAPa7woARn30jNcXOM3s/photos/AWn5SU4PxwCKHytR0b7vwp08HMp09ocBtPtEw5bS5LuHKVzMyQJuX3go92yQSXre7owV6b0IAbyg9nyJmqPGy8ycOmJaXLQEGWOIO34diYt_aO0Yr-NJMb3HuTFpFyLtY8uK2W9TSLOLVhE4uS_UU7V_ZYcqa3Shl8ctskkzAsfPOhQJO4-PtTMbeM-CtmfoTOfvOzx0jyVEqAOr5zRWzmt72z_6SA8rQsaaukJgVz5lIox-LI2ESRL_ev2wJrpuWIrB9w_IxAQQPwThYvvNIGsOq84M1iDTrMZfIXRfJFo7A2NGjg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 893,
+    "coordinates": {
+      "lat": 34.0667177,
+      "lng": -118.41146010000001
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJeciEAPa7woARn30jNcXOM3s",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8877666636872777119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Desert 5 Spot",
+    "address": "6516 Selma Ave, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.desertfivespotla.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_Uz9gX6_woARgiGsiTRsAvU/photos/AWn5SU6-WWz7j1ISyww1rslgdY1MymTCqXOwckjQCrwgZ2opuD1HcIGZYW8B9f7T6rsRcpnp0k_YvSa7zmj45XNtX9yiDGSHey9OYkVN_uFHhUS11i17JsIx78oNno0ie7jVRuVWsapPPVdeMo93U5lRzvnTDMg2NfPyzXCorlbRINo3t3zpqKElMvJEeK8pZ7ItSdsZUhb35_c5FYssnRD1yC7cTpYmkp29Havp1yd8m7W0cajJO87o5dW2W1SH409wGry2hA-x2cUoQM1psQx6iBHEc-nAMOChKWSnQTNKNCig-Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 286,
+    "coordinates": {
+      "lat": 34.099649299999996,
+      "lng": -118.3317056
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_Uz9gX6_woARgiGsiTRsAvU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 PM – 12:00 AM",
+      "Wednesday: 6:00 PM – 12:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17654792462149624194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Hollywood Rooftop Restaurant & Bar by Madame Tussauds",
+    "address": "6933 Hollywood Blvd, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.madametussauds.com/hollywood/the-hollywood-rooftop/?utm_source=local-listing&utm_medium=organic&utm_campaign=tickets",
+    "phone": "(323) 798-1681",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3TqJbSG_woARK9mayyO078I/photos/AWn5SU64yl6l6Xm4r_B7RiugKd81fPZ3bTWjvSPuuoIJ5eSqu0N3GVIWcL6F6C0h1wFN-Mrc3OeqnoRv9pDpbru25YyLPtJjiNcl-wRml9co7JtVMn8pWB0roQnQ8rKK7r7md4j8bqcj0zwvvOewHxTAqcUJFYXzEEK8O5e571vGrb9RiAzpHdB8xc2euY3USDlEvdWb8qjU1g4m0YlOpXnoqvPbyfG5vSrU4Q3d750B-5B-iPvKx1YzG5XoypP-GZm1ulDhXzbn4Vg7rhFpt6X6ABTdAZOnGAfRKaNPyot7vQLeBw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 188,
+    "coordinates": {
+      "lat": 34.1017167,
+      "lng": -118.34156879999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ3TqJbSG_woARK9mayyO078I",
+    "opening_hours": [
+      "Monday: 12:00 – 8:00 PM",
+      "Tuesday: 12:00 – 8:00 PM",
+      "Wednesday: 12:00 – 8:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 9:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14046643828624644395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "71Above",
+    "address": "633 W 5th St 71st floor, Los Angeles, CA 90071, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "High-end eatery, bar, and lounge offering modern American cuisine with panoramic views.",
+    "website": "https://www.71above.la/",
+    "phone": "(213) 712-2683",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg4Tqa7PHwoARrWA-2kwYfDE/photos/AWn5SU6SIkOYLy159srCYogwPmA-BQT__JupVS0BQmgO9BNhUvIeKBoyZ2VkZrcTnvMgt6ZgElFBGZuFFQ80kYN1T1pr4dVDPqNYjeHyBiSUSFm4URmyuaq7O_dW0TLyDnaGJl1we30V-0bepDG8PG9VLnmOcjquiN5QNC1wYlRSHNULno4a5chvdXgJu5rT5Bra_lvZi7VMIK0zCvpB1xA0h3yPeKrThX-zpeVx7apSFgSuhEAuE8NWOflEqdhMy0T8PTn9iusy_s8Ky7UF9sCL6MQDSX14mfriERLsdXuWUNPaOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2692,
+    "coordinates": {
+      "lat": 34.051029199999995,
+      "lng": -118.2544174
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJg4Tqa7PHwoARrWA-2kwYfDE",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3565751723328692397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "High Tide",
+    "address": "605 East 4th St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cocktails & tapas served in a cool venue with a funky patio, an art gallery & glassblowing classes.",
+    "website": "http://www.hightidedtla.com/",
+    "phone": "(213) 221-7317",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAQBs3TnGwoARvauNtz79NB8/photos/AWn5SU5z4jmwDqygCXDqK0FLYdsymteDYVRVxnfjLr7lnRlL05BmzoOXeDGGEiDIGKmjCjF5xPtuq8nQKaOsPMp2_OdQF1od95sJAlnHY6z-_sOA3ynem_4CHQutLEdRaXvxC8MTVsbtl8lFoU0bgLONwTU19lhl73-uVmdm6RcBRXOc3f_8Uj0Ue_IvCOHgHh5pmi1QJCJV2PIV9Dan0rpZIYvQq6vA390-BNvsNjn1zpQM4f3AlH5uKyBmjjLS7FXQLI_SlC7gbouMdH1md6ci2t33NeIcRLAdoHVAn6w4yMrCeA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 144,
+    "coordinates": {
+      "lat": 34.0445074,
+      "lng": -118.24034990000001
+    },
+    "features": [
+      "event_venue",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJAQBs3TnGwoARvauNtz79NB8",
+    "google_maps_url": "https://maps.google.com/?cid=2248700559774034877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lemon Grove",
+    "address": "1717 Vine St Floor 6, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.lemongrovela.com/",
+    "phone": "(323) 962-1717",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMcgqL-i_woARtlyjQREYQt0/photos/AWn5SU43RVHQDWnhpbpZqftV_gcogZzqYfdJ91hbAYI_nCqiyY6tjAPX-nA8gjJkwW1CTJ-KFXWYJBefJOzwYdJ7raAaCFyZ5QGP4-OH8l3HciPsWMITpKDdHsgof_p9DINvHepzKEGVz5y_vXkCaOWjlT9B-zaSWT-DX4jw-APKVdgbUjpuWeuaLzcP4p7g26ydOPNaubk2kN71by5ulK-l9KcLyjg0H2Q_5dndBOeIk3VWEW3JuOLwyTq61lXyfdhBrljzlj0wdpL1lUzhzGiAYKai8B2ImDSRyRkNgmbLz6Rarg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 156,
+    "coordinates": {
+      "lat": 34.1023616,
+      "lng": -118.3273158
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJMcgqL-i_woARtlyjQREYQt0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 10:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15943332093239712950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Flora Rooftop Bar and Lounge",
+    "address": "2130 E Maple Ave, El Segundo, CA 90245, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.florarooftop.com/",
+    "phone": "(310) 405-7925",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk_xk4Ha3woARi52v2Jeir4U/photos/AWn5SU7c4YIzBwz67bO9O8JXPq8995NPLt7Lxgp7KMvV2tvx1Olwh-lx8m_N0OVk3_4LRpv5BzDq61tKlxkJWWhFy3Qz_m6z2ZVrlMu5heK2qIcQZZJ2xm779rY8Z7VBhsS0g4kQUIQ_vCsK0PExqSiRSJvQlS9aVYxhSRAmKYy4WER2Pzqtwx6XCVnEGgnxcCXAfBNWqUo1o06gyK78cGSEZ5Amephei7uj05OPCziu602_LiNFAt9XKrrAb_C_lmXhrgj5Wc1EgE5FylGQUS8g_9z5oRWUlNDstFoD0S-aUax5wQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 264,
+    "coordinates": {
+      "lat": 33.9266698,
+      "lng": -118.38636640000001
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "night_club",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJk_xk4Ha3woARi52v2Jeir4U",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9633096901027929483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LEVEL 8",
+    "address": "1254 S Figueroa St 8th Floor, Los Angeles, CA 90015, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://level8dtla.com/",
+    "phone": "(213) 886-8860",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2Q-uvgPHwoARdlUcVm3bJdQ/photos/AWn5SU4rBLztRhHZgy-fIZB2c0MzlC3tokfwZhmF86HdgPFGAl-vmtIgb80R5eVQDSNLTKg3fVxpdJ40-CBPP6xJV3UXAAoqs6y3gVAc6aqlEAv7sYqGM_tklTOWtaYzQIKdliNWI71oRTTlqsSkkjfcRifsSp5WAwn7doBBqJjmW5BhQkBQdf4H9EUztzVxdb9JnU53G--a0aKpM1mE88oK395LWgYMmLsrSjWlbR7PbvNHhUYM_wA3MrVtS996VR5MsA8pfRFJUvv92EFU_F5J9B-8UNd0N3XYdhnTYF6xw9k35g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 339,
+    "coordinates": {
+      "lat": 34.040927599999996,
+      "lng": -118.26747660000001
+    },
+    "features": [
+      "restaurant",
+      "food_court",
+      "bar_and_grill",
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ2Q-uvgPHwoARdlUcVm3bJdQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15286865772821632374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Propaganda Wine Bar",
+    "address": "950 E 3rd St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "website": "https://propaganda.wine/?y_source=1_MTAxNDI0MDUxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+    "phone": "(213) 947-3200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_cxCvj7GwoARAiEeBxv9IpQ/photos/AWn5SU4hNmiB0T6rl6FbiaJTFf62XSXomOZJ6JliaUP5U-sJVcTsS6yJKnWd-cV3eLYtH1kl7cr7BQylPCJ8E2mWI14ydrbZ9mUieuwgyIbEdGPo0B5xFT1cWQ-W3Nf4Wq2RJtU4TJHST9u9FbwtJ_R6OhUT3jiGOiLNSMG_Rb6Zxts2h8IKKo8AP_oHfdMTSS24acIVDikYYWt095Xjqj8OvKxj8NskHfOEewnBX3C4Ovh3EPwnGYXGP2tPWjkE4WZ2_Gmwmfr5ywQ5T3agwn1Sb9ohRO05tXLpf96hvSqy8wBRgQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 155,
+    "coordinates": {
+      "lat": 34.045786899999996,
+      "lng": -118.233556
+    },
+    "features": [
+      "pizza_restaurant",
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ_cxCvj7GwoARAiEeBxv9IpQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 3:00 – 10:00 PM",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 3:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10674372359346856194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Garçons de Café",
+    "address": "541 S Spring St UNIT 114, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "French marketplace & lounge for dress shopping, wine sipping & charcuterie & cheese boards.",
+    "website": "https://garconsdecafe.square.site/",
+    "phone": "(323) 304-8399",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGY8DwUrGwoARg54laB-pNlk/photos/AWn5SU6kmV5YdzM-ryPQah6HHeHQHTviE5DrRaiAY1pjRxA4nO6_ksqImRtljSWOErYpWXPs0RlOKBaXtYBWu8oKGOfRpCd6G5N8xBTKc27nqZJqz3n2o4bCJ4VluI2UcP6DmiwFC5U9WMRt4-J6ZKMyBE-TfzWWQqT4F6jqj0VpBuyERLAXjkhZorh9hK4E9cXVoAjdIpLqfMjC-UUuwmVw3AWpzPB1vquP072l2LUV7U-xkjgMdCBoI3KYwiKCuFBqnIHQ6C6Kb_-ImJw1oohhlIhjTDUsQIOOcRJS9ftIcZD3Xg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 152,
+    "coordinates": {
+      "lat": 34.046988,
+      "lng": -118.251414
+    },
+    "features": [
+      "wine_bar",
+      "coffee_shop",
+      "tea_house",
+      "cafe",
+      "bar",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJGY8DwUrGwoARg54laB-pNlk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6428511470474337923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wife and the Somm",
+    "address": "3416 Verdugo Rd, Glassell Park, CA 90065, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "http://wifeandthesomm.com/",
+    "phone": "(323) 739-0058",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNQRaUu7BwoARTNZltpv1wSs/photos/AWn5SU71uzfcbAiYPNNnccGvjjcF1YhddsUW_cV85VqZ_vZdSl6reMn7BHHnIDjfS2mKlvwQSVscjjeEarcznZfv8wTlWf9hpbFsB_uZvMCcp0OgTTu5zEg2W2ou7bAdZ1uJ3gnPtudRM7bhrmkIDT_ZWsn5E7PmSefSEwPUbGsJ3SAKeKSBPLzM2ANWIWTpEPmVCTIbCMxcuUlTAY-GQTm5rsHzWkh9KGTwM_F2PdhzSlY6X5ivAwGpqtH8YqpxeQxVr0dm9fgRpwJYDw7B3Sz4Z4gQtSR2h6LRjJfzYoHRyu_bIg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 167,
+    "coordinates": {
+      "lat": 34.114089,
+      "lng": -118.2349127
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "event_venue",
+      "catering_service",
+      "food_delivery",
+      "american_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJNQRaUu7BwoARTNZltpv1wSs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 3:00 – 10:00 PM",
+      "Saturday: 3:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3153071263264921164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Melanie Restaurant",
+    "address": "8310 W 3rd St, Los Angeles, CA 90048, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "website": "http://www.melanierestaurant.com/",
+    "phone": "(310) 498-6676",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJz-sHaei5woARwtttnXMwQVE/photos/AWn5SU5t3Lo0nTp8EISSRuGU8Ytzx0gHY9Dtti13C24PhGgBhFW5mQs6-BEPiV_jyhxKWQr_kopu2u5ZYxgnN-yhXIlec-a0b8uRLlipZC1pGpdRJl6hzsu-ptK-3gI4dBt4qRbo4umAGsHfrGx9H7U2bCPzeOatb46AxP5E2jYNqAt78JZttduoJ19L5TyBXIvqEMNI6h0uxHn4Cvb2L7HoELZ366Eaz4qp5YmpoY_xQMJJc490Yizp2m-D6-hKN2FUGNZbBCGNwsGbbBY2_fJWfSa4DMIxwsYVlI0YX7IbrnKRIbVodSjbuSaoEisjpXhjF69AI37Pz7Rr-7Aw_DJN_EbgzhUZE4C72-_gBFSfFaAc8CQk1Mi6XVEYCpCFNZWRYStSISgKodmGehNoRTsSS7Secfbu-UZZFt_dXwhd4Oc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 104,
+    "coordinates": {
+      "lat": 34.0725155,
+      "lng": -118.37050860000001
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJz-sHaei5woARwtttnXMwQVE",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5855014263678950338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The 1917 at San Antonio Winery",
+    "address": "737 Lamar St, Los Angeles, CA 90031, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.exploretock.com/sanantoniowinerylosangeles",
+    "phone": "(323) 330-8700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrTgJBw7HwoARgKLuu31MnU0/photos/AWn5SU6MM8a1FT2dSDSlBdYPG-E-UvZ6HrrXpFzy7CT2FXPd6hHQGRxw2hmKSrAYC53zybEDuD-VBNj0A18Y0wPjcNdmOKIy-Pg26DTv2RsaZxDUIMBx-ff8Qy7v6IdYwiFjE5GxOsjz6KdZqoMRRuu5Bl0sKP51uNQ25J6ODRrD5aMB4F7Gmv1KbAvRMjmZuGkITArMfdVKaLWR8J5QtuRPcvNXJcNWQrlLXLlOSYzy-kZBv14WJXU4Tqsg2S6qumftWVDqosO6TmXpWmdD_EWpSUyfILxQ6yF8LvegnyyOWs2ewg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 131,
+    "coordinates": {
+      "lat": 34.0642833,
+      "lng": -118.22433670000001
+    },
+    "features": [
+      "wine_bar",
+      "farm",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJrTgJBw7HwoARgKLuu31MnU0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 10:30 AM – 5:00 PM",
+      "Thursday: 10:30 AM – 5:00 PM",
+      "Friday: 10:30 AM – 7:00 PM",
+      "Saturday: 10:30 AM – 7:00 PM",
+      "Sunday: 10:30 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5592710415171625600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tabula Rasa Bar",
+    "address": "5125 Hollywood Blvd, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Beer & wine-centric spot with shareable snacks, eclectic by-the-glass offerings & craft brews.",
+    "website": "http://tabularasabar.com/",
+    "phone": "(213) 290-6309",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXXQITVa_woARlg_znCRV3-c/photos/AWn5SU5ohLPruN0HcqEMgo21JsZRBdAzu3eh45Udm7ZUnU5bY6yUsdWkqlhfosGfjlnr5IL9V00_vpEDHtI-zTeNkNWQTn74zo-TgMxfzKFslVHC8eMKTvubiFu82vJZzodBue1jBL6SD0X431PQ5JJ36oYtkbFvmYnZC1VtNFLYJP3Z5lw_Mxca6XmgRZyqqy3XbzfCt77Gnuw5RpwTjZp1HwolGX8QPxaw4o4Y2saEx5AoogEeWUHk64FBObZZ6WTGb3q_iHUWKy_XpZD8VxftfYoo0PPEnHuOjYh5p0DHvyVnpg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 322,
+    "coordinates": {
+      "lat": 34.1020101,
+      "lng": -118.30149120000002
+    },
+    "features": [
+      "bar",
+      "liquor_store",
+      "wine_bar",
+      "restaurant",
+      "point_of_interest",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJXXQITVa_woARlg_znCRV3-c",
+    "opening_hours": [
+      "Monday: 2:00 PM – 12:00 AM",
+      "Tuesday: 2:00 PM – 12:00 AM",
+      "Wednesday: 2:00 PM – 12:00 AM",
+      "Thursday: 2:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16708166758308188054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stir Crazy",
+    "address": "6903 Melrose Ave, Los Angeles, CA 90038, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://instagram.com/stircrazy.LA",
+    "phone": "(323) 433-4933",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7WIEQcq5woAR0RM_28q5Kz0/photos/AWn5SU7JpKSMPDte_0ALTbUcUbE2o7UQcxI5JbakCNBTuPJGfmE9dF-Ey5kkkRGijTOWtARvPi2lvez7NDi-gLd-pBzlOezl1j536LZ3c49N8o3kZ8RhoXtltK8MnZBnoZNFbpRK7yqnhfdPzDz71NHojQikGSo3EBSztVURZK5QoCXpoTIKwNvgfH0twOqfeCj5548Kx2PViXETi21LCyhNJLwoKZSA-G9aiVUSVcyevzGPN3iL95xaXWMrSm-I8SVI8XCaMcQtM1koLOhcvHV3umcJrK_QlxuDr0233JlQ-vgjkw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 245,
+    "coordinates": {
+      "lat": 34.0835568,
+      "lng": -118.34182469999999
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ7WIEQcq5woAR0RM_28q5Kz0",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4407820941225038801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Augustine Wine Bar",
+    "address": "13456 Ventura Blvd, Sherman Oaks, CA 91423, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip spot for wines by the glass or bottle served amid vintage decor including a circa-1912 piano.",
+    "website": "http://www.augustinewinebar.com/",
+    "phone": "(818) 990-0938",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0V8uySeWwoARiOu1BAeRCdU/photos/AWn5SU6Hkmf-z-6yezpKh3Qbw3q4b8_DRIqIj7-dZg32EjXQv4Taf0cHi-4Uas5_zXfkHc2_ck9Bvbko_vsuRs9tcTsOSbu4XckOBO8857_3QXboIzibRk0Gr8iLp5xCSab4e5Dlk81iSbPbxO-Z1DR7PRNG6CPxpmC8HBgcy5b3bddnk2BvuJHcrLOeaCzHPr5-FOMUj6dp6n2bsHPnz3LMX0acWD_Ah2AtG0pxTqYHdqeOIfNVSVyeZbMcEX5L20IDESKj3zGBWsx_UErUE0zwMer---9r9K4xcRMnXKksbAVn-Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 197,
+    "coordinates": {
+      "lat": 34.1470658,
+      "lng": -118.42686130000001
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ0V8uySeWwoARiOu1BAeRCdU",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15350960264198876040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rhythm Room L.A.",
+    "address": "206 W 6th St BSMT, Los Angeles, CA 90014, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A subterranean bar rich with history, offering regular live jazz, occasional dancing & billiards.",
+    "website": "http://www.rhythmroomla.com/",
+    "phone": "(213) 537-0394",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTwsCo0rGwoARKKzn_4khivA/photos/AWn5SU6jb1gNYpkTWS_RoVNoQjfYUOdOJHmZOrbceoPMq9Ihf96w_pm97iZbymSUM6eTiv1L4ib9XKtsuB3ELhEQ22Luo9ioDk7oh0w-Cc2oyfYAn5VshVhL58oAG_TUQFErF8l7WHXPN-cape3mLzaCL_20al-dx9OUYTOBNuGCtk5o_8qAU1ioNFae3p1laW1lXuRvgyZnTTWszuujVPwchzJBe1Gpf3QlofsadMW9Zw2yTM6OJgj_M_NStI6EwHmAKEHpABfHBLAaMhbP72S0WyfsJoMy76-GYbX7Gt9kodtkGw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 714,
+    "coordinates": {
+      "lat": 34.046040999999995,
+      "lng": -118.251384
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "event_venue",
+      "restaurant",
+      "food",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTwsCo0rGwoARKKzn_4khivA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:30 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17332702992476384296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Catalina Jazz Club",
+    "address": "6725 Sunset Blvd, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Intimate music venue features the biggest names in jazz & serves drinks, plus Italian-American fare.",
+    "website": "http://www.catalinajazzclub.com/",
+    "phone": "(323) 466-2210",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpQFEASW_woAR5uyTP1jNcg4/photos/AWn5SU6XFj36U2JPUlUj_iRc2jFPRUZO267TeGGzzGTsiLa0Vu1ndXiZID4rCCjyskky4N9Gn-_vaJWhsE7BHvD3C7IQuS92u989Kq75pF3TcT4mNcLe7d57L9vBtaHAsIJ4AQlwOXevQ_2rYsGuY7swV8QVJUGnRaytYb2VEiOb67_wwULCcq3w62qoJthJyx-yPef3WcKiX0zdOgPYdVLaIPM7eK-UEs2PFK9Y4DkWmF2qx3O6H4raYhCyAmGaeEoRldQPO1myZTc-to3XFdQuB_KJd-SefBG2Pt9V69lBjUvVHDFrZEdDn-iB7G-4Ldk5f8qinpuuf5IJEyZXxShBH17HP8P0o5P9XbDi4Q-nCyC_p56BMqZyvbg6rjNkQG6acEEIxb0FSWQC2wY_o40KWE-4Kh8PnItJhZTiNK_V1dzxkH0t/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1036,
+    "coordinates": {
+      "lat": 34.0983963,
+      "lng": -118.33740990000001
+    },
+    "features": [
+      "bar_and_grill",
+      "night_club",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpQFEASW_woAR5uyTP1jNcg4",
+    "google_maps_url": "https://maps.google.com/?cid=1041120242783481062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vibrato Grill Jazz",
+    "address": "2930 Beverly Glen Cir, Los Angeles, CA 90077, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Owned by music icon Herb Alpert, this refined New American venue presents big-name live jazz acts.",
+    "website": "http://www.vibratogrilljazz.com/",
+    "phone": "(310) 474-9400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh5OU23a9woARNVT36S9qIIA/photos/AWn5SU6rQIRdTc5nnNP-96E-NjwmPHVNFovjwZ734_aVz7J9ldc9FDRdCb7mBRa51w7wCeRMQNYmzH5jdkHavN3-SWM20SvrvkodgLG1O8iZIxWocS2DKlpUvCRexmmv1_cr_dPd0dBLNnof1D5NA-7DXCt8Iz6OeMbIh9BnEa7YAGm4-5j4j9g1hetZ7EU0mqmmbHcf2WPe4SqATj_vxBTo8as020XtmlXxUxgDHTtqvwyc794cUUPWrJoG7RWiZ1kAzKEb5zJRuZ9h0qdQ1My5SqrzhFAUH_VbDOewtI2XutA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1228,
+    "coordinates": {
+      "lat": 34.1271774,
+      "lng": -118.44359619999997
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "american_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJh5OU23a9woARNVT36S9qIIA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9232495990130824245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Stowaway",
+    "address": "416 S Spring St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://stowawaydtla.com/",
+    "phone": "(213) 278-0049",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJabdB69fHwoARYVLhd3IdVbM/photos/AWn5SU4LapXGu1E5-HpeLLB2ns5afZAYBL24Wgv0XDBi0WoPmvGMXtJZsFS4PbgfW3RrFrRUA_f7fJi_dcfki-OtuBW4kCnNzclwHbqeytle5Od2hC3XI9GwX0zeIFY767zo124h607KCSkaBwD82_4vd0kcEatoD0Wk-iK2C8jsAXRf_IaPupU0bgGyTV2T6TZizf_Dxb3T_78QAM23NfMU4Zw15eskHa2w-9rSJIzfaPXmcnKpTmSsU6CfPF633AAA1NXyehNreuKrh3u5IMrw2bCxYwJikalrkYrQY9yl8DBWJQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 105,
+    "coordinates": {
+      "lat": 34.0483875,
+      "lng": -118.24852399999999
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJabdB69fHwoARYVLhd3IdVbM",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 8:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12922267083284238945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Baked Potato",
+    "address": "3787 Cahuenga Blvd, Studio City, CA 91604, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Storied, pint-sized jazz club also offering an array of baked potatoes in rustic digs.",
+    "website": "http://www.thebakedpotato.com/",
+    "phone": "(818) 980-1615",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt5oTyEa-woARLiU7qc_GAIk/photos/AWn5SU4-J62v74DgmlpIZZ4fzF01PM5xLHmo1gRl0ODkFoPp993tfrXWnhG-fbLIe8JU7jjur6VhAd0IluUOrXRRSMT-gQzhmOS__815DKA5s0yTQ22MPJElc0KAN_Feb9QC5bQMyWu1n-6GWLg46zhhNVg9mSx_mtaijOz_jTj2gnVFmdzQaTGwxphk46jQGb_cRSnen0VgG8x5jyjb8hGdJHtwqgy6Iq0wDK77z63gZhtiArPnnrOsZviAY22TMOC4o3I_m0fYbfntwhJcLjrAQtgazOn806U-E0LytPK2DPIwbA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 958,
+    "coordinates": {
+      "lat": 34.1366571,
+      "lng": -118.36312939999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt5oTyEa-woARLiU7qc_GAIk",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 1:00 AM",
+      "Saturday: 6:00 PM – 1:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9872108978395882798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pips On Labrea",
+    "address": "1356 S La Brea Ave, Los Angeles, CA 90019, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "This wine bar & restaurant offers pizza, pasta & salads plus live jazz nightly on the patio.",
+    "website": "http://www.pipsonlabrea.com/",
+    "phone": "(323) 954-7477",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd_-k3P24woARecKGBiLBJ6o/photos/AWn5SU4FWnDYjV5Otni1Jahv6Bx4ndm12CrfzeLhX-amluY3UJiq2w-Ief6SypiRYCU8Q7Fe1gq1i6krd3uOPbNppe0nkSaQQBpi0jDuJn3mTa5s9i8wyp-zSN48TnP4GjSmKJNHss2sXRmPW6uLehgU2T5eZDpKGP92QFXvtFpdL9dxX58YzLIpZJaDnJgwq1_3Yxg6fRqNzhMsogNJcd5NnO0V33kvBZLJfIfnzn4RnATsJCB7p4Jf2mNnQhKNCQN8_NnsldJN2il6PtEhzcoAn7tWjAxKF4KpGxdDJeNzpWYueA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1325,
+    "coordinates": {
+      "lat": 34.048483499999996,
+      "lng": -118.3441935
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "american_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd_-k3P24woARecKGBiLBJ6o",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12260980862422008441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Grand Star Jazz Club",
+    "address": "943 Sun Mun Wy, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Chill bi-level club offers live jazz shows, karaoke & DJs spinning everything from '80s to hip-hop.",
+    "website": "http://www.grandstarjazzclub.com/",
+    "phone": "(213) 395-0031",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsUqWcFnGwoARrBoxHWFNqxc/photos/AWn5SU5c5L0whQtOKKV8Mu0sDLghDV8IVvqmTn_qNJfOwqpYVQIusPvU2VcXJF0GkPTfK1puSfQ7J40meSqEhQrMHsrnA3Ef_L5IahLx8pZgz03YZ1WlKb0Z3bONX971NYN2Z-ao7zK3VPgbgP9sIPvvoE1sM-LxRATavmdVR6d4UaJyKs6ZSRgr--BvNN8Mzj1EcBxo5yTA2d2qKr_UWRdXUMogy0Nhsdv4OHgJuVtF6L70UJkosTY6ZC-coQrWFdU-xcLlkH3idlZYdnnH0Ch8LNaD8QXMxQvUAcIQTfXtp3ggvhxIBh_jElq85QlcfqtNO5W4ZaQPfxj6du1p71rnzbeLXmLrlqrzvUa5v0vlFv62y1IK7Oz3ogdOBCsAaz7TyI7UcujxK-Zfz1ONGR-57XCCwIdroEtMuKMrJ2u1mfSoc3c2/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 253,
+    "coordinates": {
+      "lat": 34.0650806,
+      "lng": -118.2375528
+    },
+    "features": [
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsUqWcFnGwoARrBoxHWFNqxc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 PM – 1:30 AM",
+      "Friday: 9:30 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1705541963386788524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Lighthouse Cafe",
+    "address": "30 Pier Ave, Hermosa Beach, CA 90254, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A jazz club since 1949, this spot now hosts an eclectic range of bands & serves brunch & bar food.",
+    "website": "http://thelighthousecafe.net/",
+    "phone": "(310) 376-9833",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQfl9_XizwoARoeuHmdfCNSo/photos/AWn5SU4meD1GFZZN9MYEtlxFDX_zumLJJtnwblOXYGTCnzN1j_Bf8eBix2Q8v2mApEjz1Kz5bPqX2TaRpE58cDGb-h4JK_G1MPfcOnN5ytNT538v3Wg5GaZf45z6mBlKh9nJhFRu4KtyRlwXqJmOT5H9uVA0Z4V98MMn_NvQ8rkyXFgVPoWndUVy0lxrgt4Ew_RH73apm_ZB-fCh80LD3-xIVLnAHiPd1KJsiLP3cpIpvwao7Gyh66T1hswfyuF73aCItfRMSeIFcW3gAnNYPLsAwhWNVQOYR2jaPV0o0rwQssk0eULfkO9IaoO4WYLj7BRIgahCejI4IjZjJnzgwtnU_h-HFmlTivY5vZ_H8_LtEfxatI07UaR23wXUZOMzEafpSMJ1nn4iIJ6bJnjIdfknTzf1_S1sIslu5HUQezYjMi7VnOj_/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 985,
+    "coordinates": {
+      "lat": 33.8618245,
+      "lng": -118.40102890000001
+    },
+    "features": [
+      "bar_and_grill",
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQfl9_XizwoARoeuHmdfCNSo",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 12:00 AM – 12:00 PM, 4:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3041551354608216993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sam First - Jazz Club & Bar",
+    "address": "6171 W Century Blvd #180, Los Angeles, CA 90045, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sophisticated venue featuring live jazz along with local beer, wines, house cocktails & snacks.",
+    "website": "http://samfirstbar.com/",
+    "phone": "(424) 800-2006",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ78I4KCuxwoARb8bDDhDlZNs/photos/AWn5SU6sSWOTlBPrlfXLimyQeqIoBsmqtYHFgj2uJq6iVL7uKVaZHgcLxplAO_jCY4JrRbaGACaPbx3_Nay-OhV7igaGEb0v_6fXebg0if5WS_rDDiEgG0OKvOBF1zvwF8USVjpGIERxuH7a92i5aAxLB2bKIMTdA5CnihHRoLShzF3Gez1Dm5aO1jDB8tfaYJ74v6xOfPUZNHLS0khWMty_mDKUhvR5hullNYnpRsu3ctqf2clvrkJgDok4ukxpZg9EXj9RMNVyt9lL6QP_tdX4ZySEhzYccMr05FN-kDqMjSCeQ_p5-qf65dp0ashtEAjwbk702Ysh_ZovlgZ7Kgr206cW8bSBAzs_m-AKz9ExON6XGcvwxqZH6FDk8bqWex2QXpjMfL6ChPn1ejieEtlKDgd1_xU_RzwSAYwhOsTd8wVpPh5g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 194,
+    "coordinates": {
+      "lat": 33.9458234,
+      "lng": -118.39337580000002
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ78I4KCuxwoARb8bDDhDlZNs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15809012449107232367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Riviera 31",
+    "address": "8555 Beverly Blvd #90048, Los Angeles, CA 90048, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sophisticated lounge offering craft cocktails, DJs, a garden patio & live music nights.",
+    "website": "https://www.sofitel-los-angeles.com/dining-lounge/our-bar-riviera-31/",
+    "phone": "(310) 770-1654",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqV7KJLO-woARRNcWy_xf_j4/photos/AWn5SU5_FvQsva-xFk0wnbiWSRfLpJTc7cboA9rENY7I6p1RkYpySLVO0_Mu5IL4g8BMRWMwIN09fc5SXUd-M9jhs7C0_SYzwscQZ2fvpu9awn1Ep5ly0nitXX0byI2T6ljwOdQXsUz6igENqeqaPFx8lQeXpTYX_ufahBmXmII6SRofauUHdB4hMrgeWikW67F9_7wsXb7q6yerfWPqHHbvpm-4-pMPwsf_dedaqM65uqjUUcYWaL3fDqcHKntOb8OAtSc9__cSWsig5RXrI442zFSgcpia3f2IZhfxgop070CH4w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 269,
+    "coordinates": {
+      "lat": 34.076398499999996,
+      "lng": -118.3773313
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqV7KJLO-woARRNcWy_xf_j4",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4539171013779707716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blue Note",
+    "address": "6372 Sunset Blvd, Los Angeles, CA 90028, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://bluenotela.com/",
+    "phone": "(310) 855-3750",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDQk6bAC_woARAOqf2DAdloU/photos/AWn5SU6yTTlZSiXTt0a5pi5fpNf18AxpjX6FsrbjKq0RLZdiTRCcxeHES8QEVP4zCUIY57-uCoU2Ghe5Q9yveEoaLUvSCE3DsVlJzt-iScZOsd21yEZj3NG7nGNNMVmqqVKdOYbz3FwrBN39G32SCGyUm1ncQ2j1C7EQJdpHUnOlBFeCUGKMZR8WWdknaj62Fv5r3i26Mr_n33nfD9WuZfaLV7ayoacajKM7N4OhaD3NQ4CLTHN3apTz45c3FsC_c9BjOyxwxXGiEJzpOouumDl3fuXl1ZzMFzh4u1IETmlLdLyNZNRFQjbEQcl2cQ7Q4KeuHyf92sQtAWm6JcQzxdh8t2cT5KO54nuAOwFWHUVBQ1QijPqjIpOeKdPGKE7gaV_DTnFXhb1Ta65Insg_CYU9Y1cryfs7MZ4N3SBJKr79eSeQ58A-MQF00zg80Xr0zghh/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 34.0977163,
+      "lng": -118.32870709999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJDQk6bAC_woARAOqf2DAdloU",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9625913349181008384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sassafras Saloon",
+    "address": "1233 Vine St, Los Angeles, CA 90038, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Mixology-focused bar & event venue offering a swanky take on the Old West theme for private events.",
+    "website": "https://www.sassafrassaloon.com/",
+    "phone": "(323) 450-9337",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ41YenDa_woARL0VZGKz0gjk/photos/AWn5SU5mFcxb7BgGX3g_0Y5aJMcc_wbh9OqbV6_doucDw0V9uQTRWDR7PwsUkoFPsVUJYvfmnQ5_sOs6kgMnmJLOTmzcGilKmgDon2OyGlA0uDsIcbtxpBbMgKzYAcEzVZIkSmiYW94COW63bvSqhqGgNNXVIA5ZEw0PywuOjlzxsoW-5lWxxTtpsYZLfp04L90-rdOcjMwBSEl5vsU16EgvpmzGRGEqTJ3zL_uF8WDa9YoACWcQA0jO22VnGTF_gnl3xiNNmXdpfZXDBXCdjSVkE6oD_mCV4VWkq1vkV499QpBnDw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 543,
+    "coordinates": {
+      "lat": 34.093532499999995,
+      "lng": -118.3268432
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ41YenDa_woARL0VZGKz0gjk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 7:00 PM – 1:00 AM",
+      "Friday: 7:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4144143627114333487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Continental Club",
+    "address": "116 4th St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Mixologists whip up craft cocktails at this luxe nightspot with leather couches & a moody vibe.",
+    "phone": "(866) 687-4499",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ78GEOkrGwoARwbGitYQLBWQ/photos/AWn5SU7VnevW40zT9nzE-vHbkziht6eqFKhJLbbTiGW4oPa5EfVAADUmP2WaWwrpX-PhEcqZL5iCVT4u_t4D5PtKJb1OPeJxMfR4pbXnbtVs7n8XXd5amnRjntjmTDwAf6h3WybM15N_2plZWdWsqIvNBxmLy4r-hXm234xTkjFT64binFmdaGwND0HIgDtocAm6cCjO42jIf4Wbl516ZHRxzhM2fnsWwkYTNlIttTC5XdjbcNSYmrS2MM4zjCkjeG_KEI0mMyrlPyMrAjQ_VAecyzqXl-alEjUML6m3X1aImcvEDA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 528,
+    "coordinates": {
+      "lat": 34.0484297,
+      "lng": -118.24787119999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "event_venue",
+      "sports_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ78GEOkrGwoARwbGitYQLBWQ",
+    "opening_hours": [
+      "Monday: 8:00 PM – 1:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: 10:00 PM – 2:00 AM",
+      "Thursday: 7:00 – 11:00 PM",
+      "Friday: 10:00 PM – 2:00 AM",
+      "Saturday: 10:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7207179443287273921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Old Man Bar",
+    "address": "12517 Washington Blvd, Los Angeles, CA 90066, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip, dimly lit bar with focus on spirits featuring a vinyl-music playlist & woodsy, lodgelike decor.",
+    "website": "http://www.hatchethallla.com/old-man-bar/",
+    "phone": "(310) 391-4222",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTe3q8Wa6woARGrkJ93RvTb0/photos/AWn5SU6IeGetBrGFpwFn7IbZ2Z71e8AQYDiWnjM-vA5wiaNBLkU1oOJpnKdfnuX54rpI_VH1-XY8Sud7aXIjlCecMaUGrtGJ3fpdUnRgEipn5tFQhU8oABDJa1p_KmLPOrdb7G-7LHFvlo_o70J2XTHckO5xG5vMUp83x1cKJXbFfqgkxhuQE_pkC29YEGUrQzSj9OLeX9uzo2I7cHHCsjFwFc985UeDHubMXqsP9-tywXabXTBpn1ghQPkNWSZorLxEjXBFD8T6molzpT24-NkxA9YDhYtIVqKhYInrUVDuIr1mAmf_JLP6LaNureuIZvMnLgOXGcRE9hJEjzxHm8fkvbPHuvNqYLYvK9E-3H17gpaVGOVQNFb0w76CplbC2Gmp7DS4TXbzMNYLAriVPwM3fmHBIn1_BNFH868Tq3smhUQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 33.9970216,
+      "lng": -118.43158849999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTe3q8Wa6woARGrkJ93RvTb0",
+    "opening_hours": [
+      "Monday: 6:00 PM – 12:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 1:00 AM",
+      "Saturday: 6:00 PM – 1:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13640681394526599450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rokka Whiskey Bar and Grill",
+    "address": "6746 Greenleaf Ave, Whittier, CA 90601, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://rokkawhiskeybar.com/",
+    "phone": "(562) 693-7039",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrXkg3UDTwoARvUrQQ_PtS7g/photos/AWn5SU7B7fE5O_22iCGDEnFz6RPyh7BeHCidYq6oV__BT5fPpMTBMVQZl40Sc7NVS2mcnC_k5QDzNUcmTD-XlmnfAKYdSI3hdUmYW8wP7FWbEKEo3AAlQ5XuiS5E66h4QmuVlgq_Zs5ZfcACKtx90QRSMyfyMZ3tnohD-w2hHHlEyF2fyhY9uWsRSpmBzmE8ur2nSHK-WUOvp-JcC_1NNXfvyCpeLPYbJ_UforCACdYDNsjHwgnNEuZUp1euMkXJZfLxPpCBMfoC6vqBRJjPMvUiPJYeq2llrmE7-cM7vGel6ZI75kj2-g4XDud5T33Vd7eLS6rpKBqruLKBTscbjCQGqdSxBHLKZLY4GJTQRa8KmPHyjK8XErhI_AEFj-ou6mHRxUKufkNbQrNeXY1-CRJkyuzlVqym3jx2XNLwHLOnI7U4PS4/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 389,
+    "coordinates": {
+      "lat": 33.979500099999996,
+      "lng": -118.0370427
+    },
+    "features": [
+      "bar_and_grill",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJrXkg3UDTwoARvUrQQ_PtS7g",
+    "opening_hours": [
+      "Monday: 3:00 – 10:00 PM",
+      "Tuesday: 3:00 – 10:00 PM",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13279969555302599357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Blind Donkey",
+    "address": "53 Union St, Pasadena, CA 91103, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "An extensive menu of eclectic whiskeys plus beer & American bar bites in rustic, exposed-brick digs.",
+    "website": "http://www.theblinddonkey.com/pasadena",
+    "phone": "(626) 486-2379",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE7xUkXHDwoARH5MgT_4Ni_k/photos/AWn5SU7pr75x1h_JXcl9qD9k33Uq1ag3N0APtwwZliQjdtiP_OCtYX5qBaZ8NqsQeJeLdPIV7ZnidDD0tLbDopvtBMPCzD0rfVasKKHSTWQZC8H8Yl69KKn47r-Dc1CmM_uYBdRw7N2QeEjvJFzFnXZl1q5nE_ir6nr0F--PqAYbm1lXqv1BhTgt8uuo7Yh1BfbASTSOQ2Q_O14ov4JTLPUfDbo_KwrZfO2h82VctJLfs4kV83GJuTFyHhHN8eP_ty8vSQHehTy6EdaV8zyiukJOj4N1xuOinwvkO2VIAn93sJzx3---x8FCOowxMvQtvZIKDSACB65V8HaMr2yWNhQ5m__UGZAgHSG2O7bXgdl5nfVZmyCvNJiIT73Z2UqaDwx42cCJ45-csFvkfsrls5nvTn3vPDUXgORyCYLjP43IG_P4AA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 845,
+    "coordinates": {
+      "lat": 34.1468816,
+      "lng": -118.1492946
+    },
+    "features": [
+      "pub",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE7xUkXHDwoARH5MgT_4Ni_k",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 1:00 PM – 1:00 AM",
+      "Sunday: 1:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17981481323107226399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Forman's Whiskey Tavern",
+    "address": "10149 Riverside Dr, Toluca Lake, CA 91602, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Casual, woodsy spot for grilled meats & whiskey served at homey, communal tables.",
+    "website": "http://www.formanstavern.com/",
+    "phone": "(818) 760-6900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWfAZ9DG-woARXTdXn75oDw4/photos/AWn5SU5Gu3aiKUx6CKvuCcbSPNk_52ZPFG7jsf0FLBNTi31Cx48UxSW5jAxlrlJvIU5HplRR8NfPS8yjlwtHlReXWzcK7s1cqkohO9I5Fy8sZz9ojtQod5PEK9e9tUSl095DgxNWZsF-hVIEh1fT5hJnRhqtCReIs0HTeH4UQMPGQg0oZmBxPG5r2Tpx91O7nDv50gScOAoLIIvwA9OHt5zQrpVkayQAkOceYm8Xcwz1RH-iuwplyJ6Et3Mf_S8j556386Hf04fxpGWTWiHPwH_Gz1Q8lVEA_ppZDL-0azmVbWePZ0jI7zENNX1LgKZDJv338mraDM8Fmyy1ch255lcliwP-nVrlMvX6WVzUU_uDTbgRu-QFB_M_Gy6fThhiMRQlXNBaauiVmEtN4CVZKOFWJvqvEyhih7SDIOUCJXvnqRIKu27C/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 853,
+    "coordinates": {
+      "lat": 34.1523994,
+      "lng": -118.3523335
+    },
+    "features": [
+      "bar",
+      "pub",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJWfAZ9DG-woARXTdXn75oDw4",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 1:30 AM",
+      "Saturday: 12:00 PM – 1:30 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1013143609108019037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bacari Silverlake",
+    "address": "3626 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Upmarket open-air lounge surrounded by trees, offering small plates, pizza & a large drinks list.",
+    "website": "https://www.eatwithbacari.com/silverlake",
+    "phone": "(323) 986-6763",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ___D30fHwoARymR_1Ylhtto/photos/AWn5SU4xDeTQ8myTjjCsbNLLOsPYiHRCmEUxE-HbFRYLCnsNq-RnxVGQc59QmBkotkMczpAuEF_dnsJOwyHS1ZErA-YKJOEZCNpA5WobPtMwUJd2vI5oeaWqQ4842u-pSRNQewl1hXFgpreKDduUQ3OEIbd69klPfy-PLtYnQXIXlspzOQug8_PAQD3YKJB5Dfwf9hUPkmRbivjMGVQ71zWiDYSui-w2Rz4JYszJ77cksApp92kWQYFfhj2ZDFh5RtMMks9G21zLZINE0DDCcv6pKUpWtaFs82xpJCMH6LzfB3bs9A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1459,
+    "coordinates": {
+      "lat": 34.090119699999995,
+      "lng": -118.27758039999999
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "brunch_restaurant",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ___D30fHwoARymR_1Ylhtto",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 PM – 12:30 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 10:30 AM – 2:30 PM, 4:00 PM – 1:00 AM",
+      "Sunday: 10:30 AM – 2:30 PM, 4:00 – 11:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=15759891190649939146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cha Cha Lounge",
+    "address": "2375 Glendale Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Eastside spot draws a boisterous crowd with foosball tables, photo booth, DJs & a thatched roof bar.",
+    "website": "https://chachalounge.com/",
+    "phone": "(323) 660-7595",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuxOrry7HwoARloIzezcC3e8/photos/AWn5SU5Df_o_Uu9_92123ngeLaP2vsNXG6JlDmn6iNTLB4jSAN0AMJHv94mAPmBVhAa9JPfVbiHIM7pqGuD5vi4vNhW7GPzkWSSAKJGij4WaYczqFms5zF7Z5oPfAvr2V-NBxv1T-WdGFNdqJ1Y7e716s8n4D8YB9wKMhKSmh00r9od8y7khK9UKH0lRWlCJ2UGV-kPXm0w9u3GRszG-BGbXDIP3cSeFoA6J4g-lyTgfCA5z9do60HM7ML3t_F_uPBxXUYAL_1u7gNTmeQY2VijXVk4kkZyCNO7fJcdZotuDF9ogvYUd7u8ulpSoSjOw3tCIlMWlDb6CuXtEXu38Yk6N4GsLzhPKKK0roBj_xke3ddz49Nn2IKCyiXUaeKsQEgpuyTgNcj4MALQ2-n_gKOoHHEZI-XNI5VcmcaU4MmDtczg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 420,
+    "coordinates": {
+      "lat": 34.0993602,
+      "lng": -118.2595171
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuxOrry7HwoARloIzezcC3e8",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=17283973382231261846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Ruby Fruit",
+    "address": "3510 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://therubyfruit.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf7uGlCDHwoAR6zTb332HhWs/photos/AWn5SU6bURosSs2FXFAQuN1s6tb11KAcM5wP7lw1oz3q1FRFXfW--XVmhpugCVVW-kZ_CcXA_RPB18TqHvbtgIbeCnR88oHaMY1RYeDKe_AQ6KSTBMGj74zKIrm8lrcQxEPPkaPX--3A7wcrby3cfY9fIpEonyDjAILc1IO4kVp96ESVsE1I3SOBkU0_21ZAwSN3jkDiVRDLs74t8jzNJvHhOJ2SH6wuKZpvepfUx_R2osdzDPXIBJoQSHTk0LqfB6sXZY_NkB30BeGS1SfR8ROs1JlAUm2fGbcvVrVulg0INewuMGxxjDxFir-YYOYOx7bwJR5nmq-HzOW8jMGwGYqUFK6IMJDGXyM6EOpXuZCXi1JBUbqwHfEEVJmQYNcUAWYLTDF0Avcz-R0Wk-GW7H8gULH9eun1V1hgCiRD29H1EiyjevuQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 121,
+    "coordinates": {
+      "lat": 34.0888679,
+      "lng": -118.2769866
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf7uGlCDHwoAR6zTb332HhWs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 3:00 – 10:00 PM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=7747747708657153259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Drugstore Cowboy",
+    "address": "4330 Sunset Blvd, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.drugstorecowboyla.com/",
+    "phone": "(323) 741-0004",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXWnlR7nHwoARMT_-gmjC3hk/photos/AWn5SU4SQk6Nh8xzcHyY_7kUkx7o4Z8gfOUYUTkVWJDIwe9fH64d8UTy8k3S3GnSYnoO2SjHP6AmcZ61R9_5tkDDryrH97z8BpJk4Ab4JMyrygvlrP2vEun5mNYEJZwM5aLUAUHtNGKi8WYrcCRtQFbmVj5MpbOjTwnpKitDxcjNgzhdTChzgYJDXkpLNLIDu6PbYqvLlJVQp_3X1bv-brZLL0Uz_jNs8Fqpc55ezRiyWijt1GJSG6xUxOLV-E9lAB4U8QWzZWrbLsdUjrXhMgoY58EdBBqbKYVztTG5xLQ0H4Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 130,
+    "coordinates": {
+      "lat": 34.095135,
+      "lng": -118.2837281
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXWnlR7nHwoARMT_-gmjC3hk",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 8:30 AM – 2:00 AM",
+      "Sunday: 9:30 AM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=1864141049908051761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Black Cat",
+    "address": "3909 Sunset Blvd, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Upscale American gastropub in a historic location related to the LGBTQ civil rights movement.",
+    "website": "https://theblackcatla.getbento.com/",
+    "phone": "(323) 661-6369",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlWQz40jHwoARksV_oqyYK5o/photos/AWn5SU7vgLpMfuQUBoO37S0kh7JvQvUIQ0K6XNalWrGvLAYx-eL4I_RAidLax1IN-GP89ABTZA_l2NmixE1agngwNYSFs5Bw7EX5qcCBX0J50Pj5DqG_1cixOHzT1p8j7GXtxZfeiq2t-EtsSq2UePrjFrTVXVdGV2DMfq8pCM3ps3cGhjOCZ0i2bguV3vrv86-4FfFW4vUpaJoLAw0B1O9nBsKL6F5M9ZFhg3P1Msgf2mOggx2h6IO02foCSsXDDnzRjAGFDLo_0Eq1dAI_m9xxrPqIuhJexYTiWkAArAHgZLuq1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 664,
+    "coordinates": {
+      "lat": 34.092078,
+      "lng": -118.279745
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlWQz40jHwoARksV_oqyYK5o",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=11109140773067539858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "4100 Bar",
+    "address": "1087 Manzanita St, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Chill spot pulls in patrons with handcrafted cocktails, inviting couches & an intimate atmosphere.",
+    "website": "http://4100bar.com/",
+    "phone": "(213) 784-6595",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZamsN0nHwoARg4rVx5zAB44/photos/AWn5SU6LFObxt3UIcZhFANRfAobxM_CsFtbnPffyYpcxgjqNbcpwH-wkjtdtrsfme-klW4A6VdbXf99DPUMw7DO1tShX4qCkTcIy_AJb7-_rJy3ti6PyQhTODIDTgtoTeOVwSZ15RL9rHCMEFqpyZhdhguoH6j284JUeEzkpVEvvbQzirzHqwMJhgfc3cjue74BKahNcnmC-V5r94VvwmlDiozfFy3mjoc7deID9ARtxKf9CTbDyPDZze85YwK2EG924dxiOwfYnGimpV9QL8PcWV-QmlE5DvMKrNYYVRHvldd3-OA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 418,
+    "coordinates": {
+      "lat": 34.0930087,
+      "lng": -118.28150879999998
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZamsN0nHwoARg4rVx5zAB44",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=10234360457822833283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Flores",
+    "address": "1542 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Upstairs sister spot to Adamae with throwback cantina vibes & a patio overlooking Sunset Ave.",
+    "website": "http://www.barflores.com/",
+    "phone": "(213) 266-8006",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlSiO2YPHwoARUaXxL_wD-Gg/photos/AWn5SU7Rsa9KIjpuIi5nGH_XMMj-DMpfWWRI8WBcV33WJ0AMVlunX1A2DBM1lvKW3SayXkr_82AR3lw-fEuvfimPDrgwTYmr2sB9b7_HHEYscNV_1fYYAf96D6bD2akXp4OEFB_lE9mpCwNUbxV0t92lxXUcmTyHw4H8rsm6dmSM6f5dLpZz0hV2nWCuB-2gZIQikdCseNAZNWa6p4Lu6bvdRLhynO8Ef78rvyiU_VGomtK4_mnJUBR95qcLzBv1V0ijKB-vonYidZCFpB_5QXU6OE9NZx4311NLI-BKjKKNxDKZjJMfy4XNV3z1zUoxxu3KJz8RqbaPq-1hSZDY7lS605PyCnVYB__Z8wseFChS3cANnhE7xScoqVDm4yYYn0H8HtwBkT68Kptm8GckQXw2_Izhqd0aS6mLAKyC4yE7VYJTAJkW/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 344,
+    "coordinates": {
+      "lat": 34.0763647,
+      "lng": -118.2568436
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlSiO2YPHwoARUaXxL_wD-Gg",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=7563799955839755601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Red Lion Tavern",
+    "address": "2366 Glendale Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "German spot serves sausage, schnitzel & beers in a chalet-style space or on its rooftop beer garden.",
+    "website": "http://www.redliontavern.net/",
+    "phone": "(323) 662-5337",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbcBHsC7HwoAR2CzNmyrxAl8/photos/AWn5SU52WRneBXxjgF1hDvnxXmtLV-iSJ_W7ZejP3D5GhZEwWdVE52apomIO5yBJ3OZN4J_XuAH5AVpbrKQLu5DhD0WrVNpeo3WiXhGlNDVp9VDnGOikzMmFCQDXJ03wvLVOjRE0SupBroaH7iUzkdujjJWvyuyZAoSEEpjpczOnjbdngVXqL97WRTquRPTcCtvCKVxxE1_RgjgBaM-SEV28UgSJ3ok1obFHG3x8-Ax-LfbBzTn8raPthzXewThaEbtgvboQkJskAnG6_8W5Lfe7jG9lLKOnzvNt59ivShWpoaCqaeGblP859vDpvWKQBoxCjbZVsT8ZZeY2hbFIlA9tf7qVZkCHnL6dJf8QWDCNFpOMKKnumoKBPNdANJHof1sjNFKXDt3mqY825oYWd0U6kbTw7OimpYFzu4TtSm7Wr4m4CXwY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1521,
+    "coordinates": {
+      "lat": 34.0992197,
+      "lng": -118.2589248
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbcBHsC7HwoAR2CzNmyrxAl8",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=6846299548861410520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The High Low",
+    "address": "3000 Los Feliz Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://thehighlowbar.com/",
+    "phone": "(323) 741-0287",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc-ZDrtvBwoARLlXdk0_0lUU/photos/AWn5SU5dMSVOSsPjf1oBSAS8A3l37finajsQ3fvw5LJ1FPV5PFeCHtmHpysdp4SRzBUlroRL5CAQoJfCD0qxKOfsB-VCjvtqAxdXnxjWniXoamjzx77tveuP0rKzWhqXoSwRjCQ86THRUyh1gPyDPm9iouTVEm09OMs56gQxtbmqNgDom4_a1TK1tC6pbdbkESyH804pEwZ4gIUzItXI0WZv0HEck9aTM9CXA98rsGwJMfq_55LkHCPNWa0RkD67fyWu4QEs7PaNkFqVz-C56arIitGAU8hwZaoxSPk7_a5IUwyMQg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 141,
+    "coordinates": {
+      "lat": 34.1252166,
+      "lng": -118.26469870000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc-ZDrtvBwoARLlXdk0_0lUU",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 1:00 PM – 2:00 AM",
+      "Sunday: 1:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=5014182382767265070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bigfoot Lodge",
+    "address": "3172 Los Feliz Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Lively bar with Yellowstone-like decor that serves novelty drinks & hosts events, such as bingo.",
+    "website": "https://www.bigfootlodge.com/",
+    "phone": "(323) 662-9227",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3Yzj2enAwoARlaV1YXyBjR4/photos/AWn5SU66xbNKHMz3Yv5aqr2ZY1DP5K0hIHq11ndJ6Cb8h7RcgPRnMYK__Zz8FuFE4ROVUIZdT6Ft3vWlL9IO5olUkgJ5Q4OjxNJUGcApMyJ0PYBLqonS3P9junKk-tnNBc6hLliUsdv6aP0nPfFU4kchWIjSYHGYWXkVMjZWZ75XyXjft-hjB6CLQpGuwbjDH4hMXkXBIfphHlOptPV9EVnAMs1g8b4pBfM6i-Kt7bTuaf6iEDnU3C4i3upH5oUUOsDbLt_HeTFdbLjPK_0OFqrzswJ1FEQ5aQ8f-MxX29NDei1I0A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 312,
+    "coordinates": {
+      "lat": 34.1234876,
+      "lng": -118.2679658
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3Yzj2enAwoARlaV1YXyBjR4",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=2201558164065068437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Bandini",
+    "address": "2150 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sexy nightspot with eclectic list of natural wines, sour beers & saisons on tap, plus small plates.",
+    "website": "http://www.barbandini.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLf5GtxDHwoARju2gRZGgMaw/photos/AWn5SU4a7cd18ErcfTNybmLmLUMhEm0jtK-9Kb2beDW_G6_NF5ktiFr2k5YwqPdXh7iIphvtJXWJ2TqobQ64uHT61Zqbfr5nAG33uO43nBftiXEqwaOKvMT4E3X4ja-V3TjKgBnNLVUuZIB1bVks0ZA385774MnCX0c56TtzsRxdWqyzhKkoEGxGHFHd31A9aqKtxoIoaYfHSwqBkzDRGr29l2VEh4fcsveuijAIMAAp8a_ZG5h0sIkxvMhKRdSY_n1ULA8v59uxI7EY_YsZbMNAd87ErQjfPBWqFjE4CabyGgkQJQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 240,
+    "coordinates": {
+      "lat": 34.0773082,
+      "lng": -118.2654713
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLf5GtxDHwoARju2gRZGgMaw",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=12407874994181303694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Silverlake Lounge",
+    "address": "2906 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "No-nonsense institution showcasing local indie rockers, plus comedy & drag queen nights.",
+    "website": "http://thesilverlakelounge.com/",
+    "phone": "(323) 666-9636",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcwQ1Sj7HwoARCMF23jfZc_Y/photos/AWn5SU7sjjOGQKRVNciwcKJUYbdJEpeNPUVf-aqtso2on5WHqKtthfhPzuklwK_bkNC0pJAWZBFZWKVKs2Ea5DpymsZ_UKcl1VYGPqc_UwtWh096O5Li7n1VfPNOQhOC92XAciNnUDeb8sJwpCScLT4aUXocLaJucNqkRdf_igq8cUDdpUYfudelZW4Uw4tPFMKCV8TCcULaJD_G4RulkUg26Fr_FMUcQL4-Q87w1HFos52lt8SICsTXQG-Dpr5Rvai-F0loMKpd9OSujcZcfgKxFUXgJwEE_oX5qH0R7Ihh1bA1Fw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 296,
+    "coordinates": {
+      "lat": 34.0829163,
+      "lng": -118.27364349999999
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJcwQ1Sj7HwoARCMF23jfZc_Y",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=17758776589630750984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alma's Cider & Beer",
+    "address": "904 Virgil Ave, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.almasonvirgil.com/",
+    "phone": "(323) 522-3362",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoxJ4y7XHwoARxIywkoVfDnc/photos/AWn5SU7U3rriXzAFwpouJrNZgHXsM-NNFxiLpekkn63kChmezBuZJP0SOhFE-8XHNuBEiEWdqlf9G_1fjWWP1x0QeB_521nA7PYS10uM_E_Yix3Ettu4f0914rx_KdTB77g1B0Ud_3hwyYlS5IuV7G7joMKnv-QVyElXqWX_0NB-8DwZjlgQoSPDyLJdbXNhrJB8WfdqATTyixTsCN7sj4w0kORsX8JBtVbHtJGjWBhHqEnXaRxjTuTYCI5gPACpy1x9dqZooTIUlfkBElinxflhO1UQe3CzTkGk8_AWjDdbnf7aGQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 113,
+    "coordinates": {
+      "lat": 34.0878935,
+      "lng": -118.286745
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJoxJ4y7XHwoARxIywkoVfDnc",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=8578899367483706564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jay's Bar",
+    "address": "4321 Sunset Blvd, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Gastropub dominated by raw surfaces offering whiskey, craft beers on tap & comfort grub with twists.",
+    "website": "http://jaysbarla.com/",
+    "phone": "(323) 928-2402",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJL7iB2negCDsRLCd9GudVz2Q/photos/AWn5SU7jraC7kSfhq__qHbGXSRoTh6yLYYypONDK23brY-g6hvwcpFBOo3XwRsiT8eH69-ahi5DFRL2k0UyWk2_jrBW8AGL96ClKM1T67TNTWL2ev_SfaxIKjeMVh5noXpc1cCQUG-kZ3lGV257hcyJ5QzDEC1Y-OvPqw5Ef1qUnzf6rxnJaLmIX2GqazZLQkk6Wdg2KpI2XNywU_U4NUTvuqvb9vZX_T4ASyIzDoxYc0Z4d09EcSU7x2nUH_yTNR6SRkkMU1XFkCqv1NtWoMkhKVKTwwuXg-SHm9uuwULja6MaKpi9OAKiCd9nTq-_99p7EdPv7XllBJNPQ5fprytYo0Iip3MW8P7SHgZvfPa6oj0Psu4EsrwyIlSDOxz6al2Ov5oKNKTgDINkVGP0AmhzYd6fYzY77i3j8bcSpO1jx2a3-h2c/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 195,
+    "coordinates": {
+      "lat": 34.0952264,
+      "lng": -118.28303059999998
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJL7iB2negCDsRLCd9GudVz2Q",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=7264119175042115372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "El Prado",
+    "address": "1805 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy, wood-paneled watering hole lures locals with craft beers, select wines & vinyl music.",
+    "phone": "(323) 905-2739",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa-yZkxvHwoARF8aDKibbOtw/photos/AWn5SU7RxHBGQKuJL6BdU3Tw6rXvalWjWnc3C5cC9W9-5jPuV14Cz-4lV2HBe9LphKg7ZnBodZ6AYdfKBUjr1r5bb-Y4xz1lMw0hw10UbIiJQZaJCpJb_MJzszXtGucXVQv7re4XwESLFThZ12ckJOEpqmVfc5OLlAbjpN37si295k7_NeoKd2G7_vqoZavDgacuDinc3wtIFWQaT_LqHFFF4CYFng98ZeMe4TDE7xhptAXpDOjp90ZP8Pg2PGp3hDTt0dNf7nS1VuTLRHgPPV_XGXhXR0j1LqMiauOMk_zENyYeu3h_pzIcwfF5NzJNeE74nsl9ape-NmmZOFAwo1mC8UF8OW1Zh-nJp0DizehnNXyrG4yUOElT0QIqBjDMcI6lzcv0GBkJVI8wuy8x2p6s-TiB9yXaz-CzaSTI_q2tM9pFOKM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 231,
+    "coordinates": {
+      "lat": 34.0778909,
+      "lng": -118.25951489999999
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa-yZkxvHwoARF8aDKibbOtw",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=15869237193961883159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Dresden Restaurant & Lounge",
+    "address": "1760 N Vermont Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Plush, ’50s-era spot featured in many films & TV shows offering steakhouse fare, cocktails & music.",
+    "website": "http://www.thedresden.com/",
+    "phone": "(323) 665-4294",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJX-TMlq7AwoARU9VRnuhSZtE/photos/AWn5SU5kXsp_f1sie6ClSuUiRM76jZgPpJSZcbT19k6E8Mwbodfah7cBWPo_M7-5CNNBFSrr0KT1LeWhf2tFtviegoiYlJXBGJGQfwzVW3aJVu0V7cYJSydc0L6ILe7YGkt54xIbm-UpiiLMoijt3vJTQg_6kbqADvOaNIG4pSUL2NSoVVS7U77OGipubk-fZ-OuIAHS0Ey0yNFcMbXgxtI3GpGJ5B8KwvdUY5eXXDyYQxrPAvd3Oo3yZoC8wyViXL4KOxktcONxjYd--BG0qTWFn22FiMpMrP9GJFreRSShrsTOKQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 819,
+    "coordinates": {
+      "lat": 34.1030898,
+      "lng": -118.2915462
+    },
+    "features": [
+      "event_venue",
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJX-TMlq7AwoARU9VRnuhSZtE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=15088838760593478995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Harvard and Stone",
+    "address": "5221 Hollywood Blvd, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Buzzy bar with a factorylike vibe offers inventive cocktails & burlesque some nights.",
+    "website": "http://harvardandstone.com/",
+    "phone": "(323) 848-4146",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF9gaJFe_woARxjngyfp9qBY/photos/AWn5SU5l6rLXkmVgf902YKtSPxzWVm2mkk9zjf-o2FeHikkwPOBSR6xRMmJWx_TRx897-PZDuvWGZv2dKp2DZU9tBDmJM-VQvzKD5MPjx7BTuEKBs5l7D7t-HwerSZsztCE45FTkTaosy632pxdmSdfNZA4SbxkIOTTuxL0bhHc6XIBEiete0MhhuuVC9aF8zusoQeQ_PWYBue4gY9OXA1Ko81FI4Jt6yyGHOI0y5ib0M01w6ITFA1RgPGC9lxpUeXmlbzCxDrzIRcRSywDpRDXfZDL8P9I7Z8MedTDITtzlEkU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 582,
+    "coordinates": {
+      "lat": 34.1018877,
+      "lng": -118.30429409999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJF9gaJFe_woARxjngyfp9qBY",
+    "opening_hours": [
+      "Monday: 9:00 PM – 2:00 AM",
+      "Tuesday: 8:00 PM – 2:00 AM",
+      "Wednesday: 9:00 PM – 2:00 AM",
+      "Thursday: 9:00 PM – 2:00 AM",
+      "Friday: 9:00 PM – 2:00 AM",
+      "Saturday: 9:00 PM – 2:00 AM",
+      "Sunday: 9:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=1632693381004016070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alcove",
+    "address": "1929 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "American food & craft drinks in cozy, historic bungalows with a leafy patio & an upbeat vibe.",
+    "website": "http://www.alcovecafe.com/",
+    "phone": "(323) 644-0100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDfqmKLDAwoAR7AYkI-Myjqs/photos/AWn5SU7m_4rvjKNUfisEqxjAyIlhes5NzeomOJ1FD_H4A_l0FUWBlZSWp6hbZhqyiOsFFHtbyWbj-z06HOLogK8VkfTSIS3EPd9yAj3TDdydNg3lqdlln80-n9aEbCeuYS8LMRYgxZFnx4QRuCh8tvW0Rz10QCNUok9HE52REMc-KHQjrCE7iv_ecxfKQrd2nj9id8oFcGDC9PxeE1bSijYdOD0k5KBJIJTCFWVXP6CM9RFAUBIKqKCNOs2cbE6FLzJfV7SVc77oksaTzY6VFba9hd8U_dHN8ThCKyFd-z1GJB19cQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2041,
+    "coordinates": {
+      "lat": 34.1062307,
+      "lng": -118.28775830000001
+    },
+    "features": [
+      "cafe",
+      "bakery",
+      "breakfast_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJDfqmKLDAwoAR7AYkI-Myjqs",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=12361873978307118828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Roost Cocktails",
+    "address": "3100 Los Feliz Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Unpretentious pub with crimson lighting, old-school decor, a jukebox & Thai entrees.",
+    "website": "https://www.theroostcocktails.com/",
+    "phone": "(323) 664-7272",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpf8IMOjAwoARzJOhILAGGnc/photos/AWn5SU4Z071xXNp7gIALU99LKSo01MxtupihVJqkRdTwM-zDliHrMYQBCAafVAX5Datn7tRRV0M9KLAuNOSsM_uKo2GQVMjn8H-hjtDCEn-ZfAXDdE4_7V4EAOArGXOEG0pCQnY-lHdKa7on8fAZxwZUyoFDNrZkHvCZdyBgKXpPNjLsPnPXYAcprKNzSN6ONMyeyexQOacpm2ccdUhcB2dIvR4fsG-X90BNlVRHBcbSVI5RmAX4pgqDX8--XzMxyN4XlDAbsSAIYZ4HF84YluwTrPjQdxvrMv11XIW3a6POJhNA1KyQza3SUWjiuv0DoGTBNwUeaublHY1_NV3zRRhWlfwp4gNjS9ZJP2X-d78xBUf4ZPrYvq81OmM3jBK4xdBHRs2UD_GVAKNQM10NTHhqNhkFt_uzZzOKRCnW3NJvY1lP3Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 303,
+    "coordinates": {
+      "lat": 34.1243222,
+      "lng": -118.26658610000001
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpf8IMOjAwoARzJOhILAGGnc",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=8582179393439372236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ye Rustic Inn",
+    "address": "1831 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Lively tavern draws a crowd with budget drinks & bar bites, including wings & weekend breakfast.",
+    "website": "https://yerusticinn.shop/",
+    "phone": "(323) 662-5757",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ95vH4LHAwoARqL4GoEKAbtI/photos/AWn5SU7S-SY3Tm4VycnvudgSZE6kbH45wOGRNCdShngnMHkq2McodMSNrI2MXA6GOXRAfTOG0c5aXlgJLeiGYtvKog3hZJkGR-9kLgBE6vJkOxp1OZUMd_lhp0LBuAPiYU6I9RuM6dOusS8zsE_jqNm7wNarKSNTHFfgBjMi_Ab2XHC0E_w1KoQIas7CYR74kIkWnEV4rFRY3DTx-Ho4eqhlGpYc7W85Fe0_DIH-ppJHrvo33IAMq5Li-EiG64Gk8d7rN8PIdtJ5EmovrgH60nMV83FvuAddUS0oSgJmzZbJN7MfWw_9uTyLA2mGBO8ev2Gq_9xPS7f73r9NBW5boJt6RVGpOiLrPTcUwXuEsN_qSVJb3cP59XodljpTG1jFjXLMurt7VzD4EczFkjYhkv4AAurhaU55SnLwfW8RUOcuZDI8zg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 652,
+    "coordinates": {
+      "lat": 34.104352,
+      "lng": -118.28785699999999
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ95vH4LHAwoARqL4GoEKAbtI",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=15163198019044032168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

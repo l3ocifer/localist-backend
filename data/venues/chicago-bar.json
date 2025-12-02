@@ -1,0 +1,3395 @@
+[
+  {
+    "name": "Gus' Sip & Dip",
+    "address": "51 W Hubbard St Suite 100, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://gussipanddip.com/",
+    "phone": "(312) 736-0163",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJafbdjLEsDogRbvlpF3IWJqM/photos/AWn5SU4cqzUrXhcJlQn7-S9qn_cbVt6zOoNfSJs8Vzhj6-wNySchNDoQ4Kx30ObhKe4h9QY0oeE2xjnJZo61etgZdNSiv1qYK-khQ8e295ZWwFNIdq9njZErKHv2GqXVeSHv0zTGeZGO9SKGAgRLyWjcq7gL4gICOXSnl2EFkEtkvJ_kRzUiRE5y7ZP2dmijMuP1mpGgwTwrHp72Rw-6CLcL6k-X-HfQid2Aeyl2ax5xBTiNLpy-d6t1lZgMETxlTjfC8DvpmKwLgpVPOOvronN_qHrHQkZ3k82MSJu6M4j2uebpHMjV2aQ4tcil8ExjWu-wn8ooAGuKcc0qVhflyvEgl02snWb52WIEE3s-kx_SO-wTdg44_Coz_31aNbGBN1atY6z7aRtv91RR8lPKs73J2oKiz71Mi8NdE2-2mNPs7xjQB1P3/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 2206,
+    "coordinates": {
+      "lat": 41.8899298,
+      "lng": -87.6299476
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJafbdjLEsDogRbvlpF3IWJqM",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11756108556572162414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Pendry Chicago",
+    "address": "81 E Wacker Pl, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.pendry.com/chicago/dining/bar-pendry/",
+    "phone": "(312) 777-9000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFdNS8oYtDogRca_RrBArRZA/photos/AWn5SU5CyCKV5--P5LrFwR6ighDnwZCgMdPnRLn6zgxyfZldfen2QCev4Vs9pptYjIdVi3haNeeaTO_TBDDjMdF5qDYIg8bBORqCywjtw3qbJhw9ncVKhy5oZKaymn1XkXnHjxEfCjcMCmkZA9bI383t_XjzfOh0yBes8RTXVJqUtraAnvVMWgHYYgp36Oup1zhd2OVx2SFGn1yeTmwwOrdfQ1WmyjrfImIdfKEcDrLSmr7N8U8HH6uA4AF_ShlkIcgfak5IrW7sbemffDtC0T4dLqhlpw5Be09qoFyUIJA3iYSlhw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 116,
+    "coordinates": {
+      "lat": 41.8867378,
+      "lng": -87.6250203
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFdNS8oYtDogRca_RrBArRZA",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10395762665473552241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lazy Bird",
+    "address": "200 N Green St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Stylish bar inside The Hoxton offering craft cocktails & live music amid prohibition-chic decor.",
+    "website": "http://lazybirdchicago.com/",
+    "phone": "(312) 761-1799",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSS4mYMAtDogR5RSSvQvzP8Y/photos/AWn5SU5agfNNR7RCvg30vV20V3r0YThgCo4V25WHfhHU5GpIFr3-EwafW5u9N2FHpOusOxtP0fhYZbWiyD3E6W4PuAmHTotjZt495AzzXshiOsbCbSgeE9mS1OTep97lurqW98Tk_2uQHdXfCiOMFsx6LyYn6oSEd3PUodn8ISPpdnHO6kgpz3BZ4sZDDeictAqH6TYvK4Dj2gt0bTAsuCWA-iH5sNHgdlFH0xDrQamnLA1atOHzPtvZibx2zSxcYU8q3Shf39XYCxT6hbJIpNB6VwaF9x_-0YADoJLwFaSLjEqueg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 494,
+    "coordinates": {
+      "lat": 41.8858183,
+      "lng": -87.6493369
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJSS4mYMAtDogR5RSSvQvzP8Y",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14285403774793159909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Meadowlark",
+    "address": "2812 W Palmer St, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.meadowlarkchicago.com/",
+    "phone": "(773) 697-8070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIc0jUIbND4gRKT85LHk-mpM/photos/AWn5SU6o1r-AMxojoirr49Xd5V94LP_OKnu5oORjK_2GUyhNnxp55MSXTuGkZLmhPFjGQRqZeb0h3hGaONWDogYq6-9kIi6FXRjcx7tSwAw0NbHePB_PfeDv6PPqkjQ1hVSZqW7hFedyQTLNz2FpA6CxvEU6TQ7-4Wps8gEmCs1_OOGWov0lfhDdLSM9qkHb_06LoGTy8NSTM67dId8FG68ShmfeA_iIWiuAVoRahUvhN18oaULUiJCqwGdNPn1HnVwTarQLjOOzf9JkHa77RGMwCv-DKX_f3lsLbc0c9xSrNN_xwQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 273,
+    "coordinates": {
+      "lat": 41.921816799999995,
+      "lng": -87.6978042
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIc0jUIbND4gRKT85LHk-mpM",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10635882160142761769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Best Bar",
+    "address": "2233 S Wentworth Ave, Chicago, IL 60616, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.bestbargrp.com/",
+    "phone": "(312) 265-0570",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-ZqP8sMtDogR7Q8a4e3AJOo/photos/AWn5SU5VvCGG0rubCs5NueWq7l34JGKX9GC5yiQuCqLWSRcVR1rsQbcEpMeg4vJp3tMfDPFRor8jBTnhBn-KCOJdG-W53au3a2XvkmBz5saNtFa7WFwjlhmRcW_hSOBmhyzYfzwLDTEHsfE7S_-E5P8RPu3g9LvpvpEoKaXdXynpl2FHvnLcoS5QS3gO7fStnpJp71QarMoulqxXlq6pL__GQxP9yQVczqUdBYXBqYG-w_UFzVOD52LTGDdyXTZN5A2d4BQ4KKPhqibYw4Jqu57NXVo1vlFYHu762f0D6Jq5SC1AZv8-Atz_r98pAdL8VH-ow7Lk6qkKLxxaimwUkDmF8aE-laGzr49w69sGSjrxf0g0e_DPcwcoGhzLBWeehmSGITfXswu_J2YOaDtMMytP_nw0vI4gV3i5w8KX_82z8B52dQyw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 346,
+    "coordinates": {
+      "lat": 41.8519101,
+      "lng": -87.6318275
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-ZqP8sMtDogR7Q8a4e3AJOo",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16871822231953084397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Arbella",
+    "address": "112 W Grand Ave, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip, lofty lounge where intricate, globally inspired cocktails pair with eclectic small plates.",
+    "website": "http://arbellachicago.com/",
+    "phone": "(312) 846-6654",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-6dlubMsDogRavEceBs79j0/photos/AWn5SU7sCo7cECmKg0j-jPeorisMbwPk0cjuBpGGQCjg_HbfI3Lbp9ShGpiV0ZA98FIW4tzOh4i2ohgB9vM5Zf4Qbk29k0CvMvgK_rxgCT6zPOOjdfTyerp_-tjKUEB3GXSN0MLPjWhCzWmJQl5GO52JdkHjBwb_rwYWZnjQAsYar3PLe3fJ6O9xb3zra-0Zj57v97rHg94r8oJjn3dvD4kjsO6Rku3OHwLRGmiFL-abJvhnm2NtQpsWhYXebkAKS1Q1w2W1no3QzcvXrikxOeV4mxaeM9nhAX9zCQeO9zjNAbv3WQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1241,
+    "coordinates": {
+      "lat": 41.8917487,
+      "lng": -87.6317748
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-6dlubMsDogRavEceBs79j0",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4464821069749743978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sparrow",
+    "address": "12 W Elm St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sophisticated spot with Cuban flair serving rum cocktails & craft beer in a 1927 art deco building.",
+    "website": "http://www.sparrowchicago.com/",
+    "phone": "(312) 725-0732",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwUe92k_TD4gRNJ33OJuJQ-M/photos/AWn5SU4rkOpwMz04fgvg5cgtNuYAQByVokOv7W__YQVuPSefR8cMyMAyRONpgs1gn8mHBfrizxmCIM-5m7AWo2qp3j9X1R3YpAF9FaR92N_MaxyHQnedCPFevUm-lW3ZMqMmIwv8Ar-oAe_7zQyIBiGulY3kJ-fvQDtAW1ffk6cxWWIJ-qluc3EHmOPshnNTT6P3xN5WsPExqN9vuwkt6Lj7GX5YXoOsWGQlYkNFSG5L9hz9ZAZNumNfiXHqfv5YFZM1FjKQw440-ZVbsvzO0rABVLBXlCBkLXyGB43CGYJ4bTdU6Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 766,
+    "coordinates": {
+      "lat": 41.9033574,
+      "lng": -87.6290542
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwUe92k_TD4gRNJ33OJuJQ-M",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16376083969817943348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Three Dots and a Dash",
+    "address": "435 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Classic tropical cocktails, rums & house daiquiris in a retro Polynesian-style setting.",
+    "website": "http://threedotschicago.com/",
+    "phone": "(312) 610-4220",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiX4KgLEsDogR8gugSnSptzY/photos/AWn5SU4nsMTAX6z0z8YB6ejNUBxaODyUtIRNj1qpVMaj-2faq0G_1NdjM0wa0tm6gOVaOR_XoXisVzdqFaRFm9rkC2XY2wSmbrcn7gj5pnX_Ze7QYP3nEl0LVe0FSKWmqpIh4o8gY-sCuWQ6DMy5JgGJUEn5F-Hi33M429i1OXtDIRqVnadOQnh90tUszpVUwTw6Tfovr9zDunnkrILXFeQ3KwAhFc6bwFuzn3RIlm8kr4Dx2sV75GHXp37XpaUYjf7tBcK5ELaT-6p0TH2yFKayhdgw6tx9wt-thrImMcxjRete5w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 7596,
+    "coordinates": {
+      "lat": 41.89031190000001,
+      "lng": -87.63076679999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiX4KgLEsDogR8gugSnSptzY",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3942806315719461874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Pearl Club",
+    "address": "495 N Milwaukee Ave, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://pearlclubchicago.com/",
+    "phone": "(312) 602-0304",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIzdsoA8tDogRXjtnc5Jf61o/photos/AWn5SU6TpUevOhds1rT4YNUQi1Y5IYgSCPflUW3bywLmd5ZztkFVexv3NHCQJ2r5U3wyvO33q5XP_nRhR3T4qyuHRAnP5KSY0L6dD__xB3V3HZLn9qSW5rFJTlsdkZwjh_EK570I3nUTmg4h2-c7b8M8gcU2VL81EVFt5zxlOJaBDLv12mpnrizNIn69g2LDMJss_Lu9MvrXfbR7rJUIeLjTj81q6KLarZMUql2-h9Y0emyMajW0nyl3Q5n9X6Y4DH2xTZi0FzQSfgVeWTc3MT-RDlWqi6XJVWeHT8lRgP-0LKUr2w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 225,
+    "coordinates": {
+      "lat": 41.8910398,
+      "lng": -87.64708379999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIzdsoA8tDogRXjtnc5Jf61o",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6551435165546527582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lemon",
+    "address": "1600 W Grand Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://lemonchicago.net/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoRAZTz8tDogRTwjwD0GLdL8/photos/AWn5SU6Hg96Ippgdj30wkGhZw8CXqiMgxVbMhu8thvqGVbL3LFxbqBWumlnPa2XmsrpTfAfZfvfgle1PtPWXaNGwx2toWe2w8A5H3xEf4L9FiHDD0nZ0oRNEZlEpOEviFbZ4fUOZWzuvbk087GIsz-V4ZhOTh1vMgPq5SbMjnhbx9kWS0nU1KVXfe_CLSwk17I-1tB5F8R-5sGeEO_ejYfSIzPBgLMMRMZIq0qmPzzNypg2B8q_BSiyt7_ctlV4RMr5RUMh5eRNVlhkRWaxWJ-l9Gg20HW0t5k2OP6toNwICR4s/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 139,
+    "coordinates": {
+      "lat": 41.8912118,
+      "lng": -87.6673793
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJoRAZTz8tDogRTwjwD0GLdL8",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13795804670099195983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Alderman",
+    "address": "1163 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.thealdermanchicago.com/",
+    "phone": "(312) 243-2410",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLYvdFFgtDogRSiZp6-anEaA/photos/AWn5SU5DVwfSk42Yffk9grLTzys5Am90O6mubCxoH0DTUC_H3U4sTE9NIb4BO0SZp3YcTUnR6YyuDHbxg5inodu6SascOAaIOndztfnyhQ-utgZPhfyYadyaezf2mn220xy2kaqi209-DCMq8dkcK5MeS-SnvP3C8f4erZIe3FOeC-cBJXN5RWnCIBCiWf0Lh7gPNcOBjlAuLRdypns72F4JoB8AO4xT8DIhKdoUs6AtZCnWelhFD-Pngkrh2OQmMQtM-KE96VweMOmO-8wdu_N4DFTgjMnNnFPHf0XWhaM2cu5wEg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 123,
+    "coordinates": {
+      "lat": 41.8578109,
+      "lng": -87.65559379999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLYvdFFgtDogRSiZp6-anEaA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 3:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11534184730906404426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Bamboo Room at Three Dots and a Dash",
+    "address": "435 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Bar in a hip, tropical haunt with premium rums & creative cocktails in tiki-themed presentations.",
+    "website": "https://www.threedotschicago.com/the-bamboo-room/",
+    "phone": "(312) 610-4220",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJr4wot9YtDogR8agGTf755GU/photos/AWn5SU4G93lF5mC_BO8ar6afJEoi3djpMdBvw-F6rXgY0Ia8N3MnH69Td6jFs3chbtYi9hOhQu6DhRmF92NO4ZDpSDjPYOEhUv7_WREzCpBmLhjtn7T-S371Cm2jHXcUAii7mmJbFdR-VA6Q2lqW-TalmXA5ibY51BONWWzGbE09XifxHtN41M9K3Ma9fEeArD3gwnPY2h0TDTlFKDHDGOLvoxd6WlfiLwMuSd5GC5kCfQikfr-SQGo2yXOYje106-Rmtn94a_THlUxg4hmKyq7kbn5Fgb7aCwXVCPdnJN23hJwhuw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 220,
+    "coordinates": {
+      "lat": 41.8903369,
+      "lng": -87.6309053
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJr4wot9YtDogR8agGTf755GU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7342268163130042609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dearly Beloved",
+    "address": "900 N Franklin St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.dearlybelovedchicago.com/",
+    "phone": "(872) 313-4415",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmdmiCQDTD4gRb3LwMOLn5lM/photos/AWn5SU7oTUj4X6SP0xxUPrC4lIoJmdw2VlsTIbRBM7BSfpYXk8YxXYyk7Cwktm6w97pOz_QKLiWZnYcY38eNjE0HrNQqecBRLfwqFNtzGOLT-vJKH7lwYO1hWCkgeT6qjrcmwgi6XshdpBOP4TDjzLEV2h7O7Vuh0zpfXhKLm5fLLkfCtVIjUnMY8mS82OwBcNgsTMXg0cJfbeiH_ccEnyPRDxW59d2LaEoRksnXNhJQpbZT1-Nh8W9YeH7tEaJ0y6qcbIfiakduvetf1Ctq3SI1V6YNOYiFtAlUrrntHx7RG3p7IrPeZiI7TU1ob97VcP40xg_hWGFclwe7F3FT58NOjtocGLYeIV8Xyi8I3lnCe95FM-AuYsBpUwNTL7j5XP5fdnXCvRqUYWDJHu9YZNiucNswKKMIY8TCse9uBLLDyWxZimlm/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 483,
+    "coordinates": {
+      "lat": 41.8991979,
+      "lng": -87.6361378
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmdmiCQDTD4gRb3LwMOLn5lM",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6045774508461159023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nine Bar",
+    "address": "216 W Cermak Rd, Chicago, IL 60616, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.ninebarchicago.com/",
+    "phone": "(312) 885-8249",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy_2x1-8tDogRAIykimdI6vA/photos/AWn5SU5wrFc_u0Fz7eXejDHuPRxlDjvWLt0tLC53vKICLtPeRcIt886hU6FSWPPhUGTcDD_FbslPo7gWuuWBzGuVBzMOejcdWWroJSCjmo4tecIYr5Maq-j9pA4Q1FMM_grcMnh1dUe6P8UQ9B3fwsKQHfPI-Uidvv9flJcElEM62VCow85YUvJ8SoewxGT4ahmHxQIct9Wt09TIO9Cyx-4HU8uKpfadMjZjqYv1NM8y38Pi8JQNtwNDOLdzAwisUvjClsY6M4h9TQ9P0M8ptGl27dIctce8MlvJfubz_p8xOCd4lRpzJuvLo1Wi5Big5OytCJN6JJ_U1PPHub6cxQAaOBZxrAyyiq-HIW6400cMc4LzVOxUD7SSvMJdLZ32ulx1GtD0h2Ml-sDXY3iuEWMYRVHQBVXVdVNsR3PmyAQ9ZwI/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 386,
+    "coordinates": {
+      "lat": 41.8531609,
+      "lng": -87.6325399
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy_2x1-8tDogRAIykimdI6vA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17359767323197869056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Broken Shaker at Freehand Chicago",
+    "address": "19 E Ohio St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Creative craft cocktails made with interesting ingredients & diverse eats in a hip space.",
+    "website": "https://www.brokenshaker.com/",
+    "phone": "(312) 940-3699",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJn3m9mK0sDogR3IveoCioFU4/photos/AWn5SU5Y5Id-GJAoCQGJYmrJCHWYRG3QcTIiub--pFYXCjROIErLHrVzPCeO9tc-3yrmwZqk1ch7pVpaTq7O9ZYklhxhn8mHPIgpttGtZkkqhFLx7HK4zflNfQa-hHmgOw5ld1O_wmjKH1fQtOP9WmnrWLwvh1hv6t7T_MJEIgALU4443RnH-ltPOT75sfH9I1_8AcmI73IiOYEtyAi0YV-E2whT0bImmda51wLvaqTc4mo-E2f4f8PA0ykCHNWcCPv_IpPXB0PVyG9YPuZzIeLaE2bzPCtWsOFVQXlFzQZ_U98nEw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 762,
+    "coordinates": {
+      "lat": 41.892300299999995,
+      "lng": -87.6273326
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJn3m9mK0sDogR3IveoCioFU4",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5626588201920400348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Berkshire Room",
+    "address": "15 E Ohio St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Acme Hotel's cocktail lounge supplies specialty drinks & New American bar snacks in a snazzy space.",
+    "website": "http://www.theberkshireroom.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3YEGma0sDogRkq1rGH3cdeM/photos/AWn5SU5Fi_k2UGgCU1crlgw0ckOrT_127m4Rn1fsDZgzKXxgFSE_-m6gEYU9c4VpJxYcydLV4WtG8Z1yBN12mBzmmWRxzhhnKRF5ru-fGKlsWFO4uKQnZkb6uK4SQDKXVarXWL8z0eI0akt6khUnC-s8bACml5LiS5CM86XV3m4rXTvpEwWVKzoLU4xhqxYcJFNr2aLzUOd_8MiclHTHDRiTr-8ycgmI41GIU3hlfsTnS3AmrCg4zxogEtXZLgOP8I5qAfsJuDslhxlaUUkClSedvb-c6Xt0yTdnKHSri8Dt7wsHRw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 476,
+    "coordinates": {
+      "lat": 41.892249,
+      "lng": -87.627499
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3YEGma0sDogRkq1rGH3cdeM",
+    "opening_hours": [
+      "Monday: 7:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 7:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16390248848723520914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Elixir Lounge",
+    "address": "3452 N Halsted St, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Classic & modern craft cocktails are hand-shaken in this small, stylish lounge with low lighting.",
+    "website": "http://elixirchicago.com/",
+    "phone": "(773) 975-9244",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBZT74K_TD4gRxgnJs4jSrjM/photos/AWn5SU7CqwskXhreyY1vZIPkhPsq7k1p4vapdwyFB3KVGOr4kdP0ck_IB4N9iZ9V3RWH-letMAXfDAiy3xBDR5xWuSa7bRRKT9yth2CHQ-3NckuzH3VGstlMe8SgWUXnpcbGFjh4Mp2iGVaJLd3FgmTfQ6v_vh8tusO3dg8-dHnmCdaC52T7vS9eT3xvGfCkd4L3lIKGQQTMmcC-x3EDRLCn5BiHm03aw9VX20lGMNH96Y7nb9qQaNano2QA-8VNl1pgdMHLHjpQvFJhIAHRwz3G-0WWOvW_UGItRve9yfJteYcuZZ4o0Dl7EaUWolA-L26UUXuJGUL_2vrU3V1WY_6YwxoSexkwaSJ0RotmPhyIl_E-lNnJc6OvSUXzDAnMNvCvVHURUCGQ4M-52E7Dp82l_ZkiqsMjoshHqOSaQ1JMd8LRL7Bd/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 200,
+    "coordinates": {
+      "lat": 41.945179499999995,
+      "lng": -87.6495595
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJBZT74K_TD4gRxgnJs4jSrjM",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 4:00 AM",
+      "Saturday: 5:00 PM – 5:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3724145426455660998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gilt Bar",
+    "address": "230 W Kinzie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "description": "Lounge with vintage library decor serving the same upscale American menu as Gilt Bar upstairs.",
+    "website": "https://giltbarchicago.com/",
+    "phone": "(312) 464-9544",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0bBajbYsDogRhY8z-LYaZr4/photos/AWn5SU5qlKE7cTeO3RizHXn0yaSDnORxq9mt_oSzz3dX75hwcstlKdr3ZTKA9PrM48A3h6tAhuXnXfYXq8I9zFTLlt3eikqKGX50xyvySRr0C3PKbFbkBhLDqDE1YXWDgBsUyCEh8P0TUYdTJvjUhlkrfkevAuac7zMW288W4iAcgJ3Ol531vdU2buZYZ5a3UHnx16alGGKywmhZJLmIxWdxbyGLKuZyFZC9iCL_VSZTDRxjGRgbOgx7QpcsqfuYIxQTiG43oCMq7ef2ejdwQhMEuYG7Fye1RDvq_kEXwx-mJREmGw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1819,
+    "coordinates": {
+      "lat": 41.889286999999996,
+      "lng": -87.6353347
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0bBajbYsDogRhY8z-LYaZr4",
+    "opening_hours": [
+      "Monday: 4:00 – 10:30 PM",
+      "Tuesday: 4:00 – 10:30 PM",
+      "Wednesday: 4:00 – 10:30 PM",
+      "Thursday: 4:00 – 10:30 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13719682687981293445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bisous",
+    "address": "938 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.bisouschicago.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5fYLgnctDogR2Oi8Z14g8pw/photos/AWn5SU4Rd-lxzX78LQ2MtkWTu5iPVrwix2L4ML660IapWDjtM4gS4gpwVGaLcR4RLTJQU3kPTPI3x189aVWWSai_v6eIWP0Vqx0ZME_mLz8DfWw8b_1W4joPwpN3TQY515ulVTmp9F_1MTbISZqASrmFtrK-9Rld5_pJ2nuo7T8Bb5BfKH0QdZHxdeS_xI8w_Xycco_28y8QOipJg2e0uc4NGI9OT_k0K2obTLeauK8O9TWAiWvcBtWvAWT8MCXCpXeeSKSsUN7i7jnyQbHxg1mJ_II0Dn-gd47DrQSYkj_18wf5Fw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 188,
+    "coordinates": {
+      "lat": 41.8869882,
+      "lng": -87.65145539999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5fYLgnctDogR2Oi8Z14g8pw",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 3:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11309137204120185048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nobody's Darling",
+    "address": "1744 W Balmoral Ave, Chicago, IL 60640, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.nobodysdarlingbar.com/",
+    "phone": "(312) 544-0993",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzaiJj9jRD4gRlnu8EbFa-MU/photos/AWn5SU4dmddfLg5X80n3zPJ5WK0DZwtsggR7ZR7PRQ4Af0uWuPd2QvoWL33VRSKx7hwKEWKxMDqBChC-ANGaDygPntclNJEv21yFCGW_m2Zrt9He6mZM2eyb7xNOcIZFMIY3YsU6jQSCSXR5d6S810gM9W-XLsTHiLiz3le7O7otVlSNAmEmNyjiMGG9-Cfiosw5GI8e65wU3qshXkmp8dariqt5roKz-Vmml3TcVTDeY6fYnO1aswdsQnUw7yECLUPxQg91-g_KJYyfWWb8yE3GREHvNeWkk-q_E3IqlKSCPOc-RQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 383,
+    "coordinates": {
+      "lat": 41.979854599999996,
+      "lng": -87.6740945
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzaiJj9jRD4gRlnu8EbFa-MU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 2:00 PM – 12:00 AM",
+      "Sunday: 2:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14265251536249322390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ghost Donkey",
+    "address": "415 N Dearborn St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.ghostdonkeychicago.com/",
+    "phone": "(312) 530-0223",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZdqO8bEsDogRZz7yaALnNH0/photos/AWn5SU4tT2tMonO3CDQUDJb5lwnHGZ01_L8kJ_cSKh7qeV1qqsAjxF6JGChlv-FYMfIT4s4NGoG29vhJus4eTFZf5zG-93iuNES-NnIFdqPRHygk5w_14pd1_b0LI2I20IQc--IFYKf7-c_G8fR4IHLa-acIZ_lr1YX6Qrdo5BdCoAPeWs2nTCYcj3fEbK-t2V-N_M4uRwvgG15JNQ9lGdELw_wdcm_yQUnxV-1HMSnTnf4R51Dc6_Agn8ma-NpILcK42DrMhNKiz1iJGLBMIec8fTsrpwvxrvnWi8E2rtjM3AfStFcFFIbiopt3Cmfzeln8cPXV5HcXprI1WG78ygweExEzXvBgsGyDot3f8Wn8EnfhxqsOcga-u4alnzeF_BzDlsPevboieNeZfPq61quVXbhOdbMBHiPVzNRI47AdlJg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 167,
+    "coordinates": {
+      "lat": 41.8897858,
+      "lng": -87.62941339999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZdqO8bEsDogRZz7yaALnNH0",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 4:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9022089951066603111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Hi-Lo",
+    "address": "1110 N California Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.the-hi-lo.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJN1dow27TD4gRqIKkOsHLnEg/photos/AWn5SU6Zhqz9hoDE4xIFNx7KBr3QG_x4ccc4nYGoE1nbg_IpnPdc2a3a-BCfrIJv_5Zo4Vutfkszd7bIpoj2Sk0WNDa7AJfcHFVbpDGgKraKEk_YGGGkto6KoUNe6gH66-LIvAAFypecERv5WYCLb4dPrbjzOBmNu71Z5JFiJj9IC9U-S38DVh4M_LikuKIYxwA8QeE9edfKdUZDoA0hXeg1b6qr-fhzUHQBBnKPG9ixOHMokHB9YMBkuuVfXGtcelIwj1_gtT5JbH_QbRwam1IqbCo_nhjSPgvcC_6UVi5AVpPlUg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 307,
+    "coordinates": {
+      "lat": 41.9015017,
+      "lng": -87.6972267
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJN1dow27TD4gRqIKkOsHLnEg",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 3:00 AM",
+      "Sunday: 3:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5232280897870660264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Elephant & Castle",
+    "address": "185 N Wabash Ave, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Chain with a British pub feel serving beers on tap & classic fare, such as fish ’n’ chips.",
+    "website": "https://www.elephantcastle.com/en/locations/il/chicago/185-north-wabash-avenue",
+    "phone": "(312) 345-1710",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7zwFga8sDogR48o0MWz4Jes/photos/AWn5SU41YnXbW48y7Ssfw1thse4Zhojmv1PIIPhtiLI8acm4u8dcGBdv5vwKM-FRkQrG8sBbWnHlGl5gsUdNHDbwDrrmhBLeo0lkltXA3BUC-ZzcgyDwOl_r90hVgajEy4pRMU2m-EFHDrZVJIJDZ6uL1szlBvX_MEyigR_yQJGErVkJFyL4ZAo_Stnalj-aULzKHwwgJF_ixotXjMXClsOYRGXJFREX1KTRJhIJOe5NMZonWhY2ylxniXgb7MEQ5S3IGUpaexxClI-i4y0cArn3Y5RmAfY0F-nbmrb4RXbY0QAnyw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2761,
+    "coordinates": {
+      "lat": 41.8854526,
+      "lng": -87.626024
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7zwFga8sDogR48o0MWz4Jes",
+    "opening_hours": [
+      "Monday: 11:00 AM – 1:00 AM",
+      "Tuesday: 11:00 AM – 1:00 AM",
+      "Wednesday: 11:00 AM – 1:00 AM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16944222316617059043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LH Rooftop",
+    "address": "85 E Wacker Dr 22nd Floor, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Three chic levels of hotel rooftop drinking & dining with indoor/outdoor seats & sweeping views.",
+    "website": "https://londonhousechicago.com/rooftop/?SEO_id=GMB--R-CHILHQQ&y_source=1_MjY1ODkzNDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(312) 357-1200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYTTn_a4sDogRVVaRtalmGH4/photos/AWn5SU4MaBPC0ICDEDHgoLyOLJ7rKmAb9lOaVuN11cOjdxGhDnwePCgjy5kDbpIIzRtXZCMEkEtmnl5fLGwETJ3gcHm0aZIC1bKR3fUp6If25JOFm81S_nef1kVIdJkamjFkWSgpVlIUo5MxYY8rG1peJACDbuJvCGo_YnVHyjiXDNZ04RbDQvZB0_bVQodw3LUL8L2ACx1Zy_EgHH2GvT6tLe2YIiw4Moh_nFy2DQmEz74kpMj-78yv3afMo3FDTWybMVzOC93103BeSG0uNABwKrTAWxW2-UYjuDbJT1jIakshZvknnYZdWcGX4mq10gUIi2lX_b2OqykXrRLZIRTdcg7byXHY2dkxqLZMR10oQ8pVsTMhZMv0KeZYIqlT7De4rOaO13IQlMcJjQNPvdRqp8DIkNPj8vwPV-spKr5BY0zbbH3tqoQrTgrD4N43tQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 3576,
+    "coordinates": {
+      "lat": 41.8877738,
+      "lng": -87.6253083
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYTTn_a4sDogRVVaRtalmGH4",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9086125127301682773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Delilah's",
+    "address": "2771 N Lincoln Ave, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Bar with more than 300 varieties of whiskey plus movie nights & DJs spinning punk/rock/ska music.",
+    "website": "http://www.delilahschicago.com/",
+    "phone": "(773) 472-2771",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSZTigAHTD4gRF4MVV_BKBBE/photos/AWn5SU5D8kIVRxNRYyYNHDequpkIebcX77Of0QgTINN7s6n6zxxmwMQY0N_Yi0et4X0xxoK-mQTuXD1q8xFCUGGS5Q2oJSK73x8q8SS88lEPXcBOHt6hbuZH0NFXy6GH-Mj_BmwNdw1Xg2m3zlAIR_MuRtvuLGJ7YIs3Zfr3xOFMG-N6veoMw2mMH8WW2QLVvRo7fcOnaMBi0vrlhekaROZ7yddpxlXKAxfSSX6d7OCwzDPqyYAOo3sSnE1S61rQNjRijC2TwPuKr_o-CLxsfk-Mt_YZ0l4f0W_2DAjWV5-jGHn6Kg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1139,
+    "coordinates": {
+      "lat": 41.9323599,
+      "lng": -87.6579984
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJSZTigAHTD4gRF4MVV_BKBBE",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1226187394665251607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rossi's",
+    "address": "412 N State St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "description": "This no-frills, stalwart bottle shop & liquor store features an unpretentious on-site bar.",
+    "website": "https://rossischicago.com/",
+    "phone": "(312) 644-5775",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcWzJBK4sDogRZYF6rJdvmuA/photos/AWn5SU5xFHrWU-8KKaG-vSJYQ2hEviT5DUr0TMMmOR7M-2lraT0MWBJK7J-OjPWGUihkt0W4l2xPyo_PfECskPE5KK2Iy4Quj6s-FNPUku81lNGetOOWLMxbIm4q1QuuyFec0Fpxq9kMgwmTzpF7ciUStPv2LsdFoKabSZpz61eYjYC8kQ9wCUAhVUX9eY5up-PVLeO5Z9YlH9zMwhkNbXouvt1Bo9PwooQBY1X10ByooA2c4Kki-eJVWBdwwWtCwgLz90mPxXW16n_AbvI2ASwhqQ0c1g9FJR48TMUqdCqW5Us7YXv5BsdVkzXwkXC6rydhsfdb50myl3X0uhlDyws-lRTWUJEekD0KwD1M-JvLYoPb5Smd83Wv5OWGFwwMaBkJxLqzWvTgflvjt5eJlARYMefzdFrKLDNStK3QeAnCgNEaqaVJf_xAF_DoIwb_hEta/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1211,
+    "coordinates": {
+      "lat": 41.889730400000005,
+      "lng": -87.6281508
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJcWzJBK4sDogRZYF6rJdvmuA",
+    "opening_hours": [
+      "Monday: 9:00 AM – 2:00 AM",
+      "Tuesday: 9:00 AM – 2:00 AM",
+      "Wednesday: 9:00 AM – 2:00 AM",
+      "Thursday: 9:00 AM – 2:00 AM",
+      "Friday: 9:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16184370908133753189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brando's Speakeasy",
+    "address": "343 S Dearborn St, Chicago, IL 60604, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Intimate lounge/club delivering drinks, karaoke & dancing in a vintage space in a historic building.",
+    "website": "https://brandoschicago.com/",
+    "phone": "(872) 327-3334",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI0RHOr0sDogRLAa8Yfyy9a4/photos/AWn5SU4tBY-I25PIJgxnz3hSI8jHppqNc4yTr3pn0k-uP0atOKegojaLMqWYnNgZbBS-RfY3830U01nPZ2YDMqiMBk43IiGo5w2MdrCMcnBFhmZ5U7dktv-Q9Nil248WC9APGJjLlkS2DGTRFHcvypDILel073NF8XHg2SBDXH4e5FmrcXab9x6WdLud4TmNT3flzZgtR1ohmrb7SCa6iVB3ZVKQfszIUYqJg0AN_N9b5BhGVHFfE-QOJSrIMdo2FjwU1YCgAuK1xcQ5CeHRtYU71O0mnvb12LCRE3h1dd38uPxdog/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2043,
+    "coordinates": {
+      "lat": 41.8772786,
+      "lng": -87.6290105
+    },
+    "features": [
+      "night_club",
+      "karaoke",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJI0RHOr0sDogRLAa8Yfyy9a4",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12607179528934786604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MONEYGUN",
+    "address": "660 W Lake St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip, understated bar serving traditional cocktails, plus creative New American small plates.",
+    "website": "http://www.moneygunchicago.com/",
+    "phone": "(312) 600-0600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl4qjZM8sDogR2QZVDh9Cgfo/photos/AWn5SU4mPcq2PDla_0DNxd_P9ulZYEObGJH7JDpKyMnNJcQLopJ3lhT7_nHr9gH6bw6h6cub3ZNNRDqacBDAKfIxLE7jTo0G6KcQRzA1MVXYdR73EZUHG2IOByxnFNJh9zLUnA2kQs8nyIovY2vceY53vLxpiUB9PiMLK3RMHYPZXCw_RD70scNEMufzphWmXJZCA5OM3yxBLDX-OXAuyLCCtg5x_zAMzVN_kX8ix64RpeJ6SQb3SSxkRFO_GNXW0vJOb_y2_JXcYef_eIBdHPe55RV8CcZIfYkEwUom3ZNPlwN9VxJ9lFTQMfCakKp1gi9uLiGIQ4l6LzqlVXvkrA34qY9YBx_djp9cgiy3v3xEqKCydd7TRtGPUMN3ZBb8sV2jUnEJDYsiHO2o1DLJZ99TUYH49JHrwxLUAJxdCd2doidAA4tp/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1048,
+    "coordinates": {
+      "lat": 41.8858416,
+      "lng": -87.64517029999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl4qjZM8sDogR2QZVDh9Cgfo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18050781482629531353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LUXBAR",
+    "address": "18 E Bellevue Pl, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Sliders, steaks & salads prepared in a refined, wood-&-brass, 2-level pub with a patio.",
+    "website": "https://www.luxbar.com/",
+    "phone": "(312) 642-3400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrTfew1HTD4gRX-yR9FosV9E/photos/AWn5SU5HGo15od6H0x6e7Jt0DKFHAXCyMZ-UUKHJIc_pMXfXjEg7r7FuTK_HDHKFL9i7x2HTd8lKzDrV7a8S_ZJ-R3_hyJ5C3kmb0l0llnYStvgL-HIksut0Gq4fcvjaytNfm8uuIte1DPNDIHHlX4uIwmbRD1dQh-5Proh8N8m8T74GETaFby2mc0ZkkmugLK0_-MPmKgBAu8jcZaKqQ9YzJveQ0XggjHqopyw38Nzc65QBUVQzHp-YBl31yXav6ptdyc-KN-XJFSR48cCjDV96UCjwt7ZGOmWCAU0EcNNmG5Uayg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1972,
+    "coordinates": {
+      "lat": 41.9017752,
+      "lng": -87.627623
+    },
+    "features": [
+      "american_restaurant",
+      "hamburger_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrTfew1HTD4gRX-yR9FosV9E",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15084574246062648415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Storyville Chicago",
+    "address": "712 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Po' boys, gumbo & jambalaya, plus cocktails, in a hip venue with red leather booths & chandeliers.",
+    "website": "https://storyvillechicago.com/",
+    "phone": "(872) 279-3331",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy-bfKmctDogRgkWuRiriCTw/photos/AWn5SU6PyKcNvxJ3eVJsNSYQZWFI22l-N-5EEmGGYvghSi9ze-ITNHXDz9np_jbpNiILoe8ZL9Kfqqg5qi606_VmwinVhizvyhNqpej5By5Vw1SwDXPOexQrwX8Vz0ARY-9n4vHPRk15QgMKdSWYSiKFip2i2qxvepOKOxl5uSoQXo4ExUi53LcHUTT8Mu72Gko6ppkHBXTtrdL_w8g2cdW8dEtTVs33UIhVwfylsT4TZfEEK7F8cRooPWh8q5r3fdPtNy6SLXJzBhd0XGvO187PnretHkDIMXl1u3uBsaluvVk_-A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1883,
+    "coordinates": {
+      "lat": 41.8952564,
+      "lng": -87.63154449999999
+    },
+    "features": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy-bfKmctDogRgkWuRiriCTw",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 3:00 PM, 4:00 PM – 3:00 AM",
+      "Sunday: 11:00 AM – 3:00 PM, 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4326237588268402050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Gatsby Speakeasy",
+    "address": "736 W Fullerton Ave, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://thegatsbychicago.com/",
+    "phone": "(773) 883-5282",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd3IL_A_TD4gRNcTHXFBsotU/photos/AWn5SU4KIfDGocDqnTQ8Uhkh_KX_dJ6eGaM0TGLRbJNTiFTa4_iyi_eWL7TgkQCaA4I7Q00kjiWVsoIhEU6CfLAnGUe7Nf0dHYUvbeHe6_XlL98FvuZDZJLZObaiFr-iSFhveLBkbs56X1xj4eYDlPFaFCDfbGvM2-s14zwhJHWwThJ7tbNM21VcvxIjja3J0_CNjHVaJ-HF9t6rmh12eZUqW7hCnM7q5dkZhVeoBG7aF-8CejRnSoyBWEHXFT0mIBLaNEEvcE_yldgPMCvj92-WW2CtWAJEAg84QGwVd9kWIr-KN9_ZgZNO3Q112qO0TtLprr8NbGVN9L3uw7HlmJNx2sasXifak1ks6w94nGz5blcRxcxH1N6vE7Dm5y_KPhU2tRydlqVeZAeNfpJ6dsMENNwwQLppIJSexGmhJKRc0ySK_j4/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 141,
+    "coordinates": {
+      "lat": 41.925692999999995,
+      "lng": -87.6478693
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd3IL_A_TD4gRNcTHXFBsotU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 PM – 12:00 AM",
+      "Friday: 6:00 PM – 12:00 AM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15393985568715555893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Drifter",
+    "address": "676-8 N Orleans St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Speakeasy underneath Green Door Tavern pouring craft cocktails & offering live entertainment.",
+    "website": "https://www.thedrifterchicago.com/",
+    "phone": "(312) 631-3887",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxyOjRrUsDogRER62aX-rNJE/photos/AWn5SU7cB8VffdI70p90w47gM3-pMSwJ1Trb-3TJbT-tCdX2CL5KiL3qF7MpaM5VxADyFiTpc3s9D1_EVh0qvEeYTLVlVr4-LxepXMPCPcVsq9Kt8j-3pGAQiVtWiM3HZOiRxS4bJu1Xr5UYnxYetU57F4MAnrH4gscOTi0HZzT7PFfrGr_YOxffJTP3GIIyAIqfGKBEWXcUjuwUr0UOSrQ8J_8jqOx8FriyMl6jW8_HKGShBwuIaaptyzGV_Rtu9fxJtW5urkPQh2Sy1372paMiTKcTh5qo8iMvVHjsxpmlHoW4Sg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 806,
+    "coordinates": {
+      "lat": 41.8945627,
+      "lng": -87.6374065
+    },
+    "features": [
+      "bar",
+      "wine_bar",
+      "pub",
+      "night_club",
+      "performing_arts_theater",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxyOjRrUsDogRER62aX-rNJE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10463176398011244049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Watershed Bar",
+    "address": "601 N State St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "This basement bar resembles a vintage living room & serves Midwestern beers, cocktails & snacks.",
+    "website": "http://watershedbar.com/",
+    "phone": "(312) 266-7677",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJR62ag60sDogReIs8QYL5ePo/photos/AWn5SU54-EHIkAagKFrJuenSWoDUTYgxh7aOKcIJGQPE3T7R2AYLre9UBb-EGRgSncbAv8eKI4fSjdiFxA5ZfnDMPnkU9SWYa8j6hwEF-oo8XRwCrjRY9_phSvEYB_iI1YlJ8yTvOAiMIhHB3DPfS44hRuA0SnKiiTfFlMkljTqvHg6kDJ7CUDEwN4M5d-SESkNwSiULyWCMBeQozKqeKM0cXuTPSKXhZqfD5aRFfXpx8HrjTnAHX8kR5IzF1h0xh3vwtzx_q1l9W8WIf4ty_7JCsS1VKywF4pb1hRgZtZsUeJkXbw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 239,
+    "coordinates": {
+      "lat": 41.892672999999995,
+      "lng": -87.627871
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJR62ag60sDogReIs8QYL5ePo",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18048449844522814328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "No Vacancy",
+    "address": "509 N Wells St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.dontnvus.com/",
+    "phone": "(312) 500-6666",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJW80a0KgtDogRQnr2pn9IkH4/photos/AWn5SU4TonUhpq6z38lS0n_sx1vKRXyxLsFJcWiPt0eqBEbbIxWrkW-iWunoRHxVRtBAhlw9sZQ-TlaKjGRcoBgLqoJYCo3g7IjSLOpcJZBZ6AaJsjo-78m_3Cmpl1RQfw5pI5iRLIu51gl63si_LpH74FqNAGezPKx3tJMLlBG812yyOx_WjnTZ-ozQiqGAummDaBfy04A0McsNEZAyQAenaEqjUnTzyX5GTiE9NrSl1YQdaI7_TdjDPl0N801LVjKmfpa_7vj1QW_9FKgKfLwqDP0w-yvBHRBaZDDbPRyVrG9ovw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 246,
+    "coordinates": {
+      "lat": 41.8911525,
+      "lng": -87.63369999999999
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJW80a0KgtDogRQnr2pn9IkH4",
+    "opening_hours": [
+      "Monday: 4:30 PM – 2:00 AM",
+      "Tuesday: 4:30 PM – 2:00 AM",
+      "Wednesday: 4:30 PM – 2:00 AM",
+      "Thursday: 4:30 PM – 2:00 AM",
+      "Friday: 4:30 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:30 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9119868958524471874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Long Room Chicago",
+    "address": "1612 W Irving Park Rd Ste 1, Chicago, IL 60613, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Relaxed bar & coffeehouse with a large, rotating list of beers, a photo booth & a back patio.",
+    "website": "http://www.longroomchicago.com/",
+    "phone": "(773) 665-4500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJadsZl0fSD4gRq-qid8_bqCM/photos/AWn5SU4ecKgPPssBUUU33ECKl7yGMRYiC1GM8eGmed1Krg0pTU2hG7r1S4oXrVcQrMn9oKTx3b5jir1fc1-7CdJRucguXSwget_SY32ZXTAFQltNjQ5BxTU4xQWDmA4YWntl_a9PFNCd4_40zfehyvQH9rYqmchH6YUfOBdA3hNdgmH_8LEnYyLi9oACgQHfGVipN3vVf5c9oWPPh-gmw11oAIATzPH49VittGMJq4bLDZ8VasgVGV_0OzeBNCaz5_hMmoO5I3ycWrN9Cu2VvbH1YrkacNWYjqFI7ooNAdx-R0v2Dg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 736,
+    "coordinates": {
+      "lat": 41.9544231,
+      "lng": -87.6696958
+    },
+    "features": [
+      "bar",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJadsZl0fSD4gRq-qid8_bqCM",
+    "opening_hours": [
+      "Monday: 8:00 AM – 2:00 AM",
+      "Tuesday: 8:00 AM – 2:00 AM",
+      "Wednesday: 8:00 AM – 2:00 AM",
+      "Thursday: 8:00 AM – 2:00 AM",
+      "Friday: 8:00 AM – 2:00 AM",
+      "Saturday: 10:00 AM – 2:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2569545271526746795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Scofflaw",
+    "address": "3201 W Armitage Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Gin-centric cocktails, craft beers & pub grub served in a relaxed urban-rustic bar with cozy nooks.",
+    "website": "https://scofflawchicago.com/",
+    "phone": "(773) 252-9700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYcVJ42fND4gRrlDhumAWX5Q/photos/AWn5SU6YGZADSF2YuS__vwrsLzzpRxc9zCXQCYsRQEMBNzwYDFtXek-RmIoOoHvIHYlsLT68wIWOQ2o8p61HKFzHgjXLexwrioJScL8Irst7s-ljHYOur2KbzpUBFSgAKBojze3Sd0AO8vBC1WlITk-kqDHWvIDQwA8_fO6VtMSBAHADhWFGOxVge5kh60jyNGQwqlRK2VsRqY0mcsmMSr9XvwHJWIqO1nyPxVnafqJolrOGbGhGI0SYBT1BJbZkABEMz28Bp1D1UZDQDZbUSBEZ9ubEHA6Uw4gIyDiiOTHfbbcB4lcVTh6cI6DzUaow8RxmWLKzVX9dKiHyz1r7t8vJps0peJGS5ZP-b_HwuxLrD06LMGKhv7sksJ_MCfQrcrffVwESLZkumOCJb8YMRaCZHBceDLzm3Qi4uyzPbMhMB1HmZrql/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1514,
+    "coordinates": {
+      "lat": 41.9172977,
+      "lng": -87.7072039
+    },
+    "features": [
+      "bar",
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYcVJ42fND4gRrlDhumAWX5Q",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10691288645108846766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Matchbox Bar",
+    "address": "770 N Milwaukee Ave, Chicago, IL 60642, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip corner bar in a vintage building serving premium cocktails in a narrow, intimate space.",
+    "website": "https://www.matchboxbar.com/",
+    "phone": "(312) 666-9292",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf_8gMyvTD4gRXzOM84x7uD4/photos/AWn5SU6L_QP-KKeVDkZfND6RmE1Z1mq-A_Ku3kPhh5kISI1Ckvv-y5EefU668_u9eajh1nV87CNFABpDoZhOGOTSsigPP0bCmUI42fBmMFgSZVjrNG4gt3AY0YmQxFmTOmsY4jX_nMqtI6mpuc2ID2whAiCl4iNRSxaT9rlgSABQ4QSIkPGxKN2pWV_dMlQIv2RJ9J-2Oi-qjEOAg1YL2vSHl_49IHAGu-4QGQijqphvtUcz-fPx0QkrvUL3oxuqLH53GIgho-hw3vxqnriwPt_-7jCAukPWq60tPXRpRHLTW6Z48w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 538,
+    "coordinates": {
+      "lat": 41.895682199999996,
+      "lng": -87.6547963
+    },
+    "features": [
+      "bar",
+      "pub",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf_8gMyvTD4gRXzOM84x7uD4",
+    "opening_hours": [
+      "Monday: 3:00 PM – 2:00 AM",
+      "Tuesday: 3:00 PM – 2:00 AM",
+      "Wednesday: 3:00 PM – 2:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4519498071377982303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cindy's Rooftop",
+    "address": "12 S Michigan Ave, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Hip, stylish rooftop bar/eatery at the Chicago Athletic Association Hotel with choice seasonal fare.",
+    "website": "http://www.cindysrooftop.com/",
+    "phone": "(312) 792-3502",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeYbaOKQsDogRfJrgIMgDNvE/photos/AWn5SU7syLlApF4GprsKQQTRcTSPTpp9CJeNf7kUCdWPXu5yfrEuDNlnXdt0qyF0UJqhvw7ZnqRYstAnUZH1Az6g06vZfgTheQMoCtOz1LBq-hXRITxrtSOVaecpnwtIUbwzfSzuhGIezDXVFceF33JJ_cMcTxpU7Q_8qDVBe82vFgr5lcwW5_O99f7HmnziDJU6woyqPLySrIRycLJ6FSWprfnvZBrXfiR5TUXziPWkjGFaExfpTP0jb_1mfGI2tyTJwn5N-NsEF3e9ezl7Qeakj_bwTkdafFKb3sxWqSeIH0-Xem2c_gx423Kp_NwNwnJAwYqJpa6JosK38_wARKlAdwaaZkrQFWhIplEQwiAWDSXL6LAf02scVZSooq7VL6hNQLXwEiBExaIW2kZJLM38r-5ZZo-b_gVQA0OzjUwW9PN5XDg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 5300,
+    "coordinates": {
+      "lat": 41.881662,
+      "lng": -87.6249684
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJeYbaOKQsDogRfJrgIMgDNvE",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17381083969962941052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vol. 39",
+    "address": "39 S LaSalle St, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Hotel lobby lounge featuring bar-cart service & small plates in posh digs with law books & sofas.",
+    "website": "https://www.vol39.com/",
+    "phone": "(312) 604-9909",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ624Gj7ssDogRGt9wLvHrf-Y/photos/AWn5SU6qpfoLvk5bUrgT8nWdKzOIpEB-PlNExNCocZyFKuIJ5SkW20SzK24Mmi88dOgpUXenn_RZ9z84iWTRqmxV_AYDN9G4hx_lHCmRaSsw32MJK6TcIn0TMY2vzdLr4ayFCmaJ81Gm05fKQUdzNmIr4QlAQpeUo-JRLtxng2M-VulcNOLZdYP2RHxr9AXonrhiDeL_f_AQ_ROPm2aspGLPaOjUd7ra2wAcmIXjiIkH_PxlFt5hljd018oRrpsYa9UyaSmooENfl12xUdb_V6oAK1mL5GtyCmHZQhlos72kHs5m6g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 341,
+    "coordinates": {
+      "lat": 41.88088940000001,
+      "lng": -87.6321311
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ624Gj7ssDogRGt9wLvHrf-Y",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16609253371864473370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RAISED | An Urban Rooftop Bar",
+    "address": "1 W Wacker Dr, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Hip indoor/outdoor hotel lounge featuring craft cocktails, small plates & a deck with skyline views.",
+    "website": "https://www.raisedbarchicago.com/",
+    "phone": "(312) 795-3444",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXx374a8sDogR2ZjAxYv_Qn8/photos/AWn5SU5j-yQkmVBC6ghLsNxEXrNVOfHzTX56cYXzc6X8BeuG-3-iAySHfwS1UtOVM54k9FmGbDdeK4uIvWvGTfiZ_j3Assky2g9yvHVP347gHJBM1ZCF6t7sTtHZlEEA6GU1Sjtv8kUc1PRmej2uozvx4Y4gLqgqBIfdxjHZiF0jkEIgQzfyahZroUdpTg0tX-YmiGlmKknBw9RRxI6ffpqQ5_vP6zctUOI8FOeudCI7k4qmYSKB7Q2FHoSx9OzAtQNttIzihs8RE8dMEKs7EwxzLyCChmTDuq6-8jfBMjAZn6BcIw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1510,
+    "coordinates": {
+      "lat": 41.8862369,
+      "lng": -87.6283636
+    },
+    "features": [
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXx374a8sDogR2ZjAxYv_Qn8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9170172767063021785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ROOF on theWit",
+    "address": "201 N State St 27th Floor, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "A summer hotspot on the 27th floor of theWit Hotel, with skyline views & upmarket cocktails.",
+    "website": "http://www.roofonthewit.com/",
+    "phone": "(312) 239-9502",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJH7aA-q8sDogREB67iM5kWks/photos/AWn5SU61GVnjI_-hxzeS6IIXLfyvlCjmX18NKyTL5tofMoR0ZiMXc35t6TtHE7vDUphGwLIYJEn__k8APLJtVD9m7oNNCerQKuRyggCOHbxuivct78UqaoyO6NaxTihV4Yvwsd3kc5ciptx16_6ijRlDfvc5x1Ol6-RvL-D1ndQrFXEgXC8ZSaHz8zWyQGHWlDxEzOdYTuqTboKod51LeeqeRY59lefisRcxoRs5EMiwkUvBbBCVDh14gkMmZRI4vY5eUrx6xC-G4gXuC2HB97B_kRap44tx-62dr4zW4vgCwAVmlQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 2153,
+    "coordinates": {
+      "lat": 41.886041399999996,
+      "lng": -87.62762330000001
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "event_venue",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJH7aA-q8sDogREB67iM5kWks",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 11:30 AM – 2:00 AM",
+      "Sunday: 1:00 – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5429763138968559120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The 101 Bar, Grill & Rooftop",
+    "address": "101 E Erie St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "website": "https://www.the101chicago.com/",
+    "phone": "(312) 667-6800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZZ-5q40tDogR40QYi2bjdEE/photos/AWn5SU5nYuwwjCe85zrXbyMIjmcyiJ3UUNJ0zYMrmjyW339Uu6Ie_CLDfMejCFeAPhy63vdUDO7GPn3EJ_cch4Ft5EOxFKHncW4wCVgAJQKNidyo9e4aUY1qPf7yYr2Ndrx_Xao3yxxmyT9yp9Wr4sj-b3ROk-F1TvINmBd8SFtS1Xfthpybj5-gEpsViEwK7dthSphc45Gmc-qwichsyxGJgtWKYsHuqEIL4fDAWy4Hu_VQnkIIxpb6BjgwzoIc7Yj8U7aZJI0_e3k5M_GCRBLsVc1mWWGVmU2Uw6GVtRgBdutA5Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 310,
+    "coordinates": {
+      "lat": 41.893893999999996,
+      "lng": -87.6251557
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "bar_and_grill",
+      "bar",
+      "event_venue",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZZ-5q40tDogR40QYi2bjdEE",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4716644739323544803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Riu Rooftop Chicago",
+    "address": "Riu Plaza Chicago, 150 E Ontario St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://riurooftopbarchicago.riu.com/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=ZCH",
+    "phone": "(312) 363-3480",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuej609MtDogRsvEWIPEwDuI/photos/AWn5SU6fi77N4Q3f4HD16yx0RIiTMkUuOBuJBGeujIxUjThn_Ftd-3f8TYJso9m3bN0xmHekgG4SDlO8RCgW9DQw0mawtuAzK-ia-a3NXu4ZdghJogVUNBimyM5KEW32kE2eD79f78kXw8TgQjC7AaURStuYSJDHgKFhHunGkUKjBs_PLhpaKKg4vgDOnZHjp7RSsM3nuAHRvBMhp3cSucYximGbq4GlKoAp4eShBoxiUDtU9PMdTwfsQJJJQdv8PLeshvjeQJ9W8U-5x6QMEldgSdYhE8ENve6KdTJGoSn4LOj3yQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 180,
+    "coordinates": {
+      "lat": 41.893563,
+      "lng": -87.623511
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuej609MtDogRsvEWIPEwDuI",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16289010714429288882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Seville Chicago",
+    "address": "243 S Franklin St, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.sevillechicago.com/",
+    "phone": "(773) 339-0362",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs2_UYQ4tDogRtCCLI7Pepbc/photos/AWn5SU7vH1QCN-sMmaETqYPZ44hC7oiVWouMSuMvr3HaaRj8fr93BYVpwPKXphSLLI188QUPsyx36y5-75WZP6bSdQr7Q4E5WQtuc6YOF48f6T2kdY__cdxsTHUVuj7trfQ1f8IxH3AhZKPWOdgDhIoueX2yH0TR6aKlVZl3LhqCb76QgxbTtwWeSzh9SHenPm_UqV13kM8AN3awOUgy9g0QA9obKz-0f4BWPOMRxElG10Yn74UKJ6PUpeedl0df3HIvMWtafNaWbdxNwVEJPS68Tq0J--zS4csojSNjdCMpISEZ1g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 180,
+    "coordinates": {
+      "lat": 41.8784345,
+      "lng": -87.6350425
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs2_UYQ4tDogRtCCLI7Pepbc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13233227941074903220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Z Bar",
+    "address": "108 E Superior St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Posh lounge for creative cocktails & global tapas, plus a terrace providing scenic city views.",
+    "website": "http://zbarchicago.com/",
+    "phone": "(312) 573-6888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHQVwOVPTD4gRRHF6Oa0P62M/photos/AWn5SU75h5RwukLkqsQp-zIftJXgcOyH7viv0Xuxt66kRQEut3GaVyPeRr-plCQHWMTX0jqmGHVqsaKOf73aGhOpFnOITe8WahIMv1kqDlFhDF60db6B41jQJJAB5Rxg-ZLQveGrWC9BYAlcVDJ0zZ6vALopUhLUv0jMjUKajfKOMDihIgKbT4Kts3CNbQcefBA-YVGAmVRI7oXI7XFWffcDOPaE9MrUKqRv9Ls-B2WVGTwJJ4t_WcCYqwcYohcH8BJ261CKU8O_OxJ-LafMWzjA885wU0MLF814vADuiwTZNGWP-A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 510,
+    "coordinates": {
+      "lat": 41.8959833,
+      "lng": -87.6250762
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJHQVwOVPTD4gRRHF6Oa0P62M",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7199865665949954372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Terrace 16",
+    "address": "401 N Wabash Ave 16th Floor, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Skyline views inform this upscale, seasonal lounge serving refreshments on a hotel rooftop.",
+    "website": "https://www.trumphotels.com/chicago/dining/fine-dining-chicago?utm_source=gmb&utm_medium=Yext",
+    "phone": "(312) 588-8030",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJA6EvXa4sDogRmjTfKum06wM/photos/AWn5SU4SmgBnyDXilme2FQb19gvaDrG73zdyDXSQCzVoqFilRUx1kNaArcTfRTpz35qcsldCqvuJhIO0tLX3AVHlOy7S7Ico5nMfUbBq5ps9NBLE4cXO04rVbfO5qFKdvgA7PK3ruQNK3z13u255edwURzMZR8DTRdyNZQb9EghAooqaY2FS6ciYluA5xS0ztvsIEkGB0OTyG_AA95Jaqjc6m_Qc7Ik6DmS9gJeX7geKpWkv2xi_gNA2aq99aUqUQ9nSdLSxztF4QMBEBAROHbLZKtdpL9Pw-RDo5c8z94nf5J62zA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 739,
+    "coordinates": {
+      "lat": 41.888801199999996,
+      "lng": -87.6263094
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJA6EvXa4sDogRmjTfKum06wM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=282518315180438682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Time Out Market Chicago",
+    "address": "916 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "50,000-sq ft. industrial hub for chef-driven eats and cocktails with communal seats and a rooftop deck.",
+    "website": "https://www.timeout.com/time-out-market-chicago",
+    "phone": "(312) 637-3888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYXDdCxItDogRcZQLZaZpZJI/photos/AWn5SU6fYURwbpOhliB-hNy-_xcnOxirzQbFxFSyheLVaIoByv5IL9_HGdoIO6lhkcYzj6SzvGb2xwsZasRBq_ZUwdZXMShp5D5LhnBalaJR6M6JG2VjCXqf5SZvAimIdWfl6785zikin4tTzts_Gv3nSo6bejL2PVquqAUkKY38CIUzGfpG4Oh0WiHBEqpTcs4VAV4woyDvKHbbeoO4UVy4Sz-6Hvg-76Yni-gz6vm7ZINkk0CbVPcO6QrSjnzg0pvUlAh2e5KRG9SW9CZA_HhIoIIT6bUlSRohvWRCoUD4zRodsg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3938,
+    "coordinates": {
+      "lat": 41.8868872,
+      "lng": -87.650454
+    },
+    "features": [
+      "restaurant",
+      "banquet_hall",
+      "food_court",
+      "bar",
+      "market",
+      "event_venue",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYXDdCxItDogRcZQLZaZpZJI",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10548672390589289585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aba",
+    "address": "302 N Green St 3rd Floor, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Posh destination for elevated Mediterranean fare and cocktails, plus a lounge-style rooftop patio.",
+    "website": "http://www.abarestaurants.com/",
+    "phone": "(773) 645-1400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHy_uxjQtDogREgbDgcjizn8/photos/AWn5SU5eqipQ0Gj84ym_-155EYRfm-kgz8gWSKlu0YIHHx6Ob-JYma-Psf7rK_COYceEhVD6wzubuXOtFycDJm6IW_4M1aNs3IUAqJzix2uQXfCEXHxRxyIHCTNvS1JTN9hA3pCj6ND9-k_Yi6HWNagL-jwX1cmUp1dC6GFh9RIVObk4nZrM7PIyW0xIvHGf3QvqPW0YRM0tSFr03W0Q7PM8sFf-cqQ4l6cP_Jx7bLHVMd2RSKIhRGj5uL12A94GSWvsiGHgWPR8bKJhY9hEht6kSQuYmzP-Ol-PLGdsezE60eRCiw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 7784,
+    "coordinates": {
+      "lat": 41.887004999999995,
+      "lng": -87.64885009999999
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJHy_uxjQtDogREgbDgcjizn8",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9209547638817621522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Boleo",
+    "address": "122 W Monroe St, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Chic South American rooftop restaurant & cocktail lounge with a retractable roof atop a hotel.",
+    "website": "https://www.boleochicago.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=gbreferral",
+    "phone": "(312) 750-9007",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ624Gj7ssDogRPt3VP8n9jQs/photos/AWn5SU789rkR_jo5SIPhzgLkayS2XnOkz2qJU2uFwuT3mRANQE4IzvxXlTwT53Ay8qxw36jR1NylBdpuKifr0kLyfrYHJ5fATodcY908_ez1AbGIBxQ2CSJPBx27W-xHsWnUEOFMNa2puQjA4JpLQikmSBtukWcy9SxfnawKgOqk2yq-IlLAjqzqetzBKhyZNY6jQV7XToPS-IO4x0LwKcZaNzHNMypdc_3EYnWvPIcNGbhqazch4vuA6OTru7bQnTxNwEm7Wmn3y5OL5wey_WtLGx9b8GVolhiRbyD6Ah6HAmFdmhVll2_sFeaGhTPszpH8eKyM5cKT3p2rV5UMMuuQFJ24fbJWmvz4pEsO_xUt25WaUcmfVAFbO6yIFRKy6iRIQu1iW-UgtXfWfchd9qxpF8UkS6OJMf_54gTtAjNyIG2ziA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 549,
+    "coordinates": {
+      "lat": 41.8808801,
+      "lng": -87.6317553
+    },
+    "features": [
+      "restaurant",
+      "night_club",
+      "event_venue",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ624Gj7ssDogRPt3VP8n9jQs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 3:00 – 10:00 PM",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 3:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=832600546934644030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cabra",
+    "address": "200 N Green St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Chic hotel rooftop for chef-driven Peruvian sharing plates & ceviche with craft cocktails & views.",
+    "website": "http://www.cabrachicago.com/",
+    "phone": "(312) 761-1717",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRdBgBtAsDogRyPCWhE3hjeo/photos/AWn5SU4xz80Cb4BGI-I2iltY_6oMUILShFHbNgyiYe2iBaNkhrlto40eUz2h9Be8d0wTRjOFspu7PMTpfHL1YhEE76xLYpLFiFeTO_DBc73GxwyeQblsSWWjkTGbwgCw6sftJorZqP0q-zZ-q9_LIJRppfS1f7WOoTdLFaBf1_WfJ2KNFtXZEGuJv8HbWYCF26HDZK22QGbhoGyeJVk_xRDRFiLjfN1lfZMU1ch__1tm9H85gOz4ugLyZIzFEE7c3RsT6SN8DjMGqrouFHpImjxDzc3me3IIkqm5s5bOCNfMYrPi1g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1794,
+    "coordinates": {
+      "lat": 41.8858604,
+      "lng": -87.64907070000001
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRdBgBtAsDogRyPCWhE3hjeo",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+      "Friday: 11:00 AM – 3:00 PM, 4:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 3:30 PM, 4:00 – 11:00 PM",
+      "Sunday: 11:00 AM – 3:30 PM, 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16901412699644555464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Aviary",
+    "address": "955 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$$",
+    "description": "Swanky cocktail lounge with intricate drinks in super creative presentations & clever small bites.",
+    "website": "https://www.theaviary.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3e31ltAsDogRZ-NnsEKpkTg/photos/AWn5SU7yzU_unom5Hnavl7_r80Cgl-RM1owZ78aJH7XCi0AU1pCNvuSJhXfP28PUObxLVRb-PGzJabPzat17v3HqK1WGYVFacs2QTo5Kr_9CfYR8cCpGjLMJ-lRqiRAaQSkslvgFIzB7Y8NYG1WT64HfoSc0bmF_ghD44yp1Z08tzoy0XDJqGbXUL5krTHvPHgP_02ZAXH-KF7wMbhid9uXozL601MPSxL1BpDTG0omz9P1mimnO-gSwmdXSzdoTYLxYzZscH-N7Qz74hbVbsI9LvEWY6ls52byL8WV-N6jHoKk19eEPe4VenL_K8wjKUzF9Ga01I40jpqxFSU8g_Sh0g2PfcJeQ30P1V2m1DN9o3VejyHBCV349onvf23cmSv6mFigyYWt0PdmSDYjBUfKue16MG0ZI9NPW6XgawAQNKtr4y8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1443,
+    "coordinates": {
+      "lat": 41.8865074,
+      "lng": -87.6519833
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3e31ltAsDogRZ-NnsEKpkTg",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 4:30 PM – 1:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4076225241639543655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "HOLLOW LEG",
+    "address": "948 N Western Ave #2, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://hollowleg.com/",
+    "phone": "(312) 450-5867",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl_q8KFMtDogR6vQjDcXQbXM/photos/AWn5SU6KBJT3XLQZk6IGK1E4m8LtoCfvjTMHql8crRfMiKHqXn3faOIRh3u6S3tJ312dS5UMoIFgeQ1EfWOs0Hz1z5Kgaj847Fm2UCmeFV9sjXzbPBCN3IKRG34ouQ90LIYjelLToI0RnStgQQbY2okPsWZ1Zobs05hp2a_UclLR6QhJ26S8VpR8xK1x6UjCXDoYV3YJ6ZF8kKcmlT6GbESt3FRrnkYmy5l5yiHAchdpHOO1sXVnkgkGg_x_0ZJwck1xD-Yp86C3mQj_NhYUnadmbMY_5qicEIlw6NlmsQd3j8M/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 1302,
+    "coordinates": {
+      "lat": 41.8989937,
+      "lng": -87.687299
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl_q8KFMtDogR6vQjDcXQbXM",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8317533631570769130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Apero",
+    "address": "4160 N Lincoln Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.aperochicago.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTUzWgd3TD4gRg7VD1ameT2M/photos/AWn5SU64m-cCtjSgKSYasZ2PZb_pMttwvpu0F3FD86oPyYq6tcIgpQDufN-NlCdIxQaZK5tr-UVimi6xBFif4r8jQ_erorNGLasSAD7Ihy0Rfe_4v_bx_rEzLCMuUfiK0k5bu11BTSBzTiUEXADJU3u7kLjWskPYFX8O25vG94eRs4-P16NFc_Be254C9Kw3mpSE2M1ItwbWuCY_5Dw_KBEFLa29quanjAseE2QowdOL12sVSrNmRyN_X_CsuMmLKf3fyVWecndGlJxGWka71TRvqGP62ne_64XIpZHmfglgeuruB94-wpdcJuDoJvI64Z2_e57T_3pU4AMPz3DHrzHxSWsrBhVylTIRyOr6nFvDwIOxYwDWB-6PHyKaycP1uudh_mSX5jFMruGo_pRVjzPrY918PXq-G5_KfIAS9EovAm5Au8Rf/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 146,
+    "coordinates": {
+      "lat": 41.9574929,
+      "lng": -87.6813584
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTUzWgd3TD4gRg7VD1ameT2M",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 3:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7156112785179653507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rootstock Wine & Beer Bar",
+    "address": "954 N California Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Loungey local gathering place for pairing wine & beer with gastropub plates in homey-chic digs.",
+    "website": "http://rootstockbar.com/",
+    "phone": "(773) 292-1616",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV2NsiKrSD4gRJWTZ71R0h9w/photos/AWn5SU69s0gpFBDkVAJm2UBEbhMx2c7fBUENaEFn1ghGUoYcEaNODRqyd-2Oeuh-L2-Qp9ZFEtbFF6S5Jk5wVEzzM5fglfOGGm_iToz_Xb1LZauOxWjJUW4fn2NNMLy5vusO4Q0CWcQOdFx9KZ1QKhnv_6D9R5x-CKQ3Vj09d-VVX33bN-sDhKs4CPZ3zfrB7UjuXpXGrhCwNPdD6_WP8ZBiwSQXU9TaxJRB2EoeHXiIbCezcdmyNevnhgQGSQ9epV8hkUq1AtQNHAkLVMGsY9eC5h5GwmX04wVEUXWp1akXjiSf8H1uzHk_irKvWPP2uiLuSVoxl2xa3r8mMTY0mDT8hCS8ybRVIA5ADPZYOacwwdY0-9_NdpcpTGUs_Gr70YSFBErdiqwvPfxe-ZVLSARBHHwD0QlHF7ZuytHvGz-HLX0jvD3n/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 466,
+    "coordinates": {
+      "lat": 41.8990434,
+      "lng": -87.69705619999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJV2NsiKrSD4gRJWTZ71R0h9w",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15890797718350160933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Tasting Room at Chicago Winery",
+    "address": "739 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.chiwinery.com/",
+    "phone": "(312) 763-3674",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ76nqJ03TD4gRqoioj78_co8/photos/AWn5SU7wBVgow-O9gvPQ5yDzJr2wPYbUx11Kselr-RJCQURfdI_Woc2k16763oJof1S8OiAMn8CxjX6VfQQuRZ66JYJ-TUz0qaPo6P_qT_w7Zx3IiBE3RhKWJZhe-bScDZXmmvz0fYnzFUPuPRoWkUEyNepuu9U8cWE0q1ZQzioU3uE6tWr6kjkWJCSEEjdiyukR1gC1yILv5QxFhYx9XMcUrSTqkoCKnN1wXk0h0HtPOjeYZX_CJFLXlrwnMw3R9xUki0o8b-G8ykuy-BgP3gyGzrYy8BcNi2QvH5z7QxbhQB-ZhBSneXPCAIN1NGdKOgYqMKufsDhqLtk-wG8Ty599O2L21GGB9O9faZhClTueSwK_u2l1L0YQUneF9f4-UAw4u5p-P6BnSvJOzzIjYGRI3LEMnVfpOcG3YKOyA5YU6g2yxA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 117,
+    "coordinates": {
+      "lat": 41.8959706,
+      "lng": -87.63106499999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ76nqJ03TD4gRqoioj78_co8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 2:00 – 10:00 PM",
+      "Sunday: 12:00 – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10336394186750199978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Websters Wine Bar Chicago",
+    "address": "2601 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "An extensive wine list & an eclectic menu of small plates in a cozy space with outdoor seating.",
+    "website": "http://websterwinebar.com/",
+    "phone": "(773) 292-9463",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTa5exeXSD4gR3E0CMxIOz2U/photos/AWn5SU7QOeEfRzGLVxKumrcJ8RjVbY3ljWYLFs0B8SpwDwOTPRJLgCJRTaPCjcOcGUOrLK6zQhFShHq-J6lWuUNN958APYgiYxbUibZ71WNNj-cyCFt0HxZEEjC8weTX0hFt8ANliOtcbmzpNngmMrMIUyjRRTRTrCU6e02MPnuBb2xFnVm7CeC4k0xNTvgVVvAWUybFOarB9BcTU2cHA_X1kZnGcbgf6rZQE_KP_0a1wP57-jurjR4zITUKMiwB1FAMViwiynA9l8_RX6TUbN1IC5v92w1Ta1VYzO64X7c6OM0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 379,
+    "coordinates": {
+      "lat": 41.9289723,
+      "lng": -87.7069424
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTa5exeXSD4gR3E0CMxIOz2U",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7336097789337816540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Le Midi Wine",
+    "address": "2108 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sleek seller of a wide range of wines by bottle or glass & craft beers, plus tastings & patio.",
+    "website": "https://www.lemidiwine.com/",
+    "phone": "(773) 303-4884",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlYVXVrbSD4gRt9EQju2OUYg/photos/AWn5SU5TqpR1NTA5Ms_0ohSI-8IRScErE8SS238az8d4cqHUTi9o9qZXQUOj-TPUCPLyOyZ_U5kpHibGfjuZrUHmVIk0wTG1zb1tPvjU1I0fEXizO9Te_IqWti4RdgU8PSCmCFAlSM9UgzfiwPrEjpEvwAnwiP4l45_F73RorsqYpQ8cxKyanETYjvMW35lspljerYtAxPKKtNVNlAE1JB5VJsohbKO_tVbsTqB0FxK3kj-3CEdFxCZZgx9tFTDnqsH5t3LLRcOhwWlGSOiS24OituSNlGrFX3u23WjZxHJ4kXp2TQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 141,
+    "coordinates": {
+      "lat": 41.9033121,
+      "lng": -87.6801256
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlYVXVrbSD4gRt9EQju2OUYg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9822789413213622711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Good Funk",
+    "address": "180 N Wacker Dr, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Natural wines offered along with charcuterie & creative bar bites in a trendy atmosphere.",
+    "website": "http://www.goodfunkontheriver.com/",
+    "phone": "(312) 929-3185",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEzAd_dAtDogRIN8ndMsRTTk/photos/AWn5SU6VZv4HjI39P76YHyis9OesS6bWUHo9pgIVRwsDHBYiVYO0DsMObZJiTfeGO9QHubTsOPHSOWniIHPV18xMEPZY_5zVt-PBrCc0bzZEpeQzWIHl7YrH2hGW0weV16G7IH53vJ6i5PjOZS6T6NFGM7Ov6cSpRr_VQCEihywQTTR-3VcdLxGIPrHv4ZT4CkP5Hw1j9YsL_mXl1BOpb1Z1n-0Ef7SYE2tgAKtcBbwbYsZ_sJle0_NyieEV63QkJAeaEzbaG74uuGCTDY1ujxy3yeRGP-axb5WTpFF4J8YoI7PN0A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 132,
+    "coordinates": {
+      "lat": 41.885104299999995,
+      "lng": -87.63719929999999
+    },
+    "features": [
+      "wine_bar",
+      "coffee_shop",
+      "cafe",
+      "bar",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEzAd_dAtDogRIN8ndMsRTTk",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4128975998893416224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Sotto",
+    "address": "71 W Monroe St Lower Level, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.barsotto-chicago.com/",
+    "phone": "(312) 332-7475",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ99W2x_YtDogRT6V67jyFnJc/photos/AWn5SU5AjC4ccL80wfSmmwJM6qhUvzgHVNyqlu43mkmCCs6buCz-d0gwDG_nO-B_5cf7HY1P-CVWTtQTU_5U8cC9uysUSrCYvfwLX1YA6thzCiy1HUo4sP4R1BSbtgIFm0LWepZ85EwJ5I1o7-VLf3KZ5C32D9NtKk4uS0wE_qXrFMXVSUiAU6mhzNBoQttDdeUgurG7jhm5T2HDch_Ig6D0yFY14T9BItDCCeNe8It1XiVTojQcVcrzYrKHm5tL6WKYUwyjJnZVpntvEORcEW3TLhiesDmv5ynT4e1O7J6p5VbdAQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 101,
+    "coordinates": {
+      "lat": 41.8803522,
+      "lng": -87.63011259999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ99W2x_YtDogRT6V67jyFnJc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10924753292839527759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pops for Champagne",
+    "address": "601 N State St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Cocktails & an impressive champagne list pair with refined bites at this sleek haunt.",
+    "website": "http://popsforchampagne.com/",
+    "phone": "(312) 266-7677",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRUaRg60sDogRrA_dnDjeqA4/photos/AWn5SU7SQ0VsOknE0YeUEsQVUeccZnpb288lIj6Vhmo6QzG9U_WJf1AAQ3DGw4d-zrmCQ3kdc3mudMRmUvMGqLjTBloh2n23qJqByXiY-72rFjfPw_GdiJSib9pbKqJXa_dcb8Q1e08-ubeT808zp0H7iOcjU5IRPtELtTKHNZJIgmhXX7XE2f6Jyg9J1wM-a72KYPNmXfcincMx34xy0SsgfUgrNdJE4KE-8wy6h50jSfYt63zvkdcmpiZKBeMvVpOBYqi0SV9XPQShWu1-DEEOUCOIFN7T1Zo_5C3fSBQY7vImOw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 581,
+    "coordinates": {
+      "lat": 41.8926251,
+      "lng": -87.62794520000001
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRUaRg60sDogRrA_dnDjeqA4",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1056338447349649324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Barrel cheese & wine | cocktails | Event Space",
+    "address": "2831 N Broadway, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://barrelcheeseandwine.com/",
+    "phone": "(773) 857-1065",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV_iT8sXTD4gR3smZi4h_8pI/photos/AWn5SU4LAJmyXbMcUu2kreMR_dZNfJw7sHDoTSSd4ijLs3pViezkVkQUESm23Sw6DXe8kSnQ7_q0QL0BV_VBCG9slHgy27-XRzo9YRCC5L32_cIsAYjZ2M0fgcmg_uDYF0_aKD51RQcaTIeNNtk9IYQRTZ71q9hdwwNCY7kgEq6gRjFK5LIzwtsum7d67NNgpL8mMkKBfW5iLI5V70Hhxlm249dd8BDe069vLuzHZ__pz2j5qdf58Eu0YFE9t4jCi6456CAt73AsDkjZ_b8-PwJmnL762oyXhQroouBBruTsvsRZ3A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 214,
+    "coordinates": {
+      "lat": 41.933726199999995,
+      "lng": -87.6444033
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJV_iT8sXTD4gR3smZi4h_8pI",
+    "opening_hours": [
+      "Monday: 3:00 PM – 2:00 AM",
+      "Tuesday: 3:00 PM – 2:00 AM",
+      "Wednesday: 3:00 PM – 2:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10588665898335848926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "J9 Wine Bar",
+    "address": "1961 N Halsted St, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Global wines & classic cocktails are offered alongside light bites in a stylish setting.",
+    "website": "http://www.j9winebar.com/",
+    "phone": "(312) 982-2488",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt64NKhjTD4gRURdBELDpnoQ/photos/AWn5SU4NiMMEbZY-_oic4TuwwRxSU_uWehxJ2TAE0PA1XQW_3cDJRnrp6SVi2ebD8MtO9mLSjt-3-YC4ty9WdPlaNr9NZpYCoyC44w_7H8rdjD1cCeDnzCd5OIn_Kl1paP3IkZWJZ5_oNtxkzmB-Np9wcGfsZOkHBIAy30ip6eE1InZ7-VUYPCg23IU4jWOEfdAMaEu4nYaOZtgtDM57_QzrkJkBAhiOmTVZqekFTQ1tEZiEOuDbuNYHZtZeOzWD_39s6-g6ej3OWWgRMBqy9Rym6DnS6nljHp0GThSbVP_KO1SHAA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 234,
+    "coordinates": {
+      "lat": 41.91775,
+      "lng": -87.64833829999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt64NKhjTD4gRURdBELDpnoQ",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 1:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9556332401722988369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Printers Row Wine Bar and Shop",
+    "address": "719 S Dearborn St, Chicago, IL 60605, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Rustic-looking retailer offering wine, craft beer & small-batch spirits, plus tastings & events.",
+    "website": "http://www.printersrowwine.com/",
+    "phone": "(312) 663-9314",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvYPieJcsDogRFKIj88V4iZU/photos/AWn5SU553zMvIKoEUlY_LQ1OPLIGzqIqNM56CEQYq8C1iWdv99ikEliSpPH5wNsQOrNVib1TFKb_MJVjkOrFB0ZonyKyQMBbkYmnTQrr6ylgMEIMkvxA3Fmu9VybdgPEDmFTrQR6b_T2Tqjua2nMrg-MuLFoVQnBIswbLE_WbwWM1Dvs8rw6DMf5bBFyC2U49asLI6qE2mB6Du5dposibjLQpi3j4AVyKAp9i0r0PYtr73mxRT1twsjmZEtQv6bLacR6arttJYxJxdLoi4F2UXrr2WfEuQaNKCk86ETLEGazDwTLoA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 291,
+    "coordinates": {
+      "lat": 41.872978499999995,
+      "lng": -87.629016
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvYPieJcsDogRFKIj88V4iZU",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10775276375043711508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Industry Ales Brewpub",
+    "address": "230 S Wabash Ave, Chicago, IL 60604, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.industryales.com/",
+    "phone": "(312) 496-3624",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC8mFu2wtDogRB9tVDcUCgTI/photos/AWn5SU5kJRar5i9R1KQWNtMYAUbyqwZQGJp7q4Q7iga7_G9G0xVpHh0ecVqb9XzZl79Tj5QD6Kep7WSg3obSlpaOWaQEOoUv47j3e-i2zPM7rPVTAwRXE9x1M_pe6-QuVQa_NFMXY8s8BS5OVXEQhA3BXYQcxaDZe5wpWtsjyGGevh0ilro53QseTPXZ2BLQiEWTEy1IQBSUWEFiTPdmA1pJnAk8wLbCYAZAvABZ97W9aY5YCSfG9W4g8XBPxS0R-MvkE1cL_KrMnEX9NgnXxHRL04O56kmxbLrdVlXqcJGwkvIPTw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 318,
+    "coordinates": {
+      "lat": 41.878661,
+      "lng": -87.62630000000001
+    },
+    "features": [
+      "wine_bar",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJC8mFu2wtDogRB9tVDcUCgTI",
+    "opening_hours": [
+      "Monday: 3:00 – 9:00 PM",
+      "Tuesday: 3:00 – 9:00 PM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3639193019247614727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Dearborn",
+    "address": "145 N Dearborn St, Chicago, IL 60602, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Stylish American hangout serving seasonal dishes and cocktails in architectural digs.",
+    "website": "http://www.thedearborntavern.com/",
+    "phone": "(312) 384-1242",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-XdXNKUsDogRW-m5g5Siao8/photos/AWn5SU6ZWVlyugPOzW33m6vr7NzTuvomGaRjDCsX7Y9-Zx6QjcM8s1RDbp0P00Hxo1J6ebv77t0uIdmVTZyEGKX2hTB8um7ref1Z-Umu42W2bAgobCYpuSpg7qio6KbncmAvERI5JRKRwcymffafwZ8JawUbrPBb8z9ayrWzCgmtouJ3P-_vpT6zDDDpNUXuSxoGEl0faODaDrzI6SXn_jDrW96mybDebU4PZ6jZ_Q4x9XhIa3S1WCgaBoxyuC6sC9reToN_pRnlC9twsyMBwifR631mxTf3lF8EuOIfTwhP6jK88A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 7740,
+    "coordinates": {
+      "lat": 41.8843373,
+      "lng": -87.6292766
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-XdXNKUsDogRW-m5g5Siao8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10334251053703883099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Andy's Jazz Club & Restaurant",
+    "address": "11 E Hubbard St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Live jazz (with admission charge) featured in a classy, intimate lounge offering dinner.",
+    "website": "http://www.andysjazzclub.com/",
+    "phone": "(312) 642-6805",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp77lDq4sDogRpoHbNJEoye8/photos/AWn5SU6cQ7ub4iVez95sKgjMTfwKtggjXZnIYvhaWHGyVBLdYsG86hFHv3_-99pzd0QWflGTALZRLhQE1bdmgaTDI9ixdrk3sGrFPibFwHudk7l0RZ-uUqhiasn2d1olhLuLqyG1KCiVk2hmO6UrmvyYL4Sr3YREwvvYagxnzrEdqDYaEK_6ssnJHORSvY2IFdAegJDtVCkmoKPf0vVzyVuqNWt32Jge1el9aQQcTf1Bu5i_CisCXsTLS5ueMQCN2Zsp2vv276EB-7ScnlvkBsN6xd7yB-hzOwyRqB6C9WuAmh86x84tZ1fVZV8gZRntT3Y7yB0jW1m-d6lw88rS7_tQzBUmVKanDX8qcRfNbAII66p6IZ84t4pbHuwNKmnNN-NV0Dhdd_JFIhkcpMqXXwlHn8dX9ct9FosS7WpIJ4Wybf2U38OS3Rvv7BTePSQ110v6/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3746,
+    "coordinates": {
+      "lat": 41.8899495,
+      "lng": -87.6274762
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp77lDq4sDogRpoHbNJEoye8",
+    "opening_hours": [
+      "Monday: 5:30 – 10:30 PM",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 5:30 PM – 12:00 AM",
+      "Thursday: 5:30 PM – 12:00 AM",
+      "Friday: 5:30 PM – 12:00 AM",
+      "Saturday: 5:30 PM – 12:00 AM",
+      "Sunday: 5:30 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17278386049505788326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jazz Showcase",
+    "address": "806 S Plymouth Ct, Chicago, IL 60605, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Long-time (since 1947), 170-seat Jazz club showcasing local, national & international acts.",
+    "website": "http://www.jazzshowcase.com/",
+    "phone": "(312) 360-0234",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv8jkWJcsDogRduxB78O4BM8/photos/AWn5SU7ngdA-qK6f_LIt25e8vYUWv5faAvgR7t66A919v8sdetauBDKTZrSsp6yr1uxoSRLx6txpTH78Qp5CoQBwe-VGB2bTTD8G9vGYrvi8wrXJID8y1kBMjaZZCXmaiq2srv57xiAkkGZOJsAX5krhjyAz88zwwNMOrKkvF5JtpGVWcPj0sy2Nd8A1SUdmewJnWR7pogj7wmAMf-sJyo9y2cxUBdYmM7UJ3vbBhqiHg379X9qSpLf46T0kGQdhKt6Q3knWxd3BKIhPZfHEa5aCTE5cNBczY53s9ETgfWvK1Ucyv9C9O-Grl_2LT0fG4uTjT4e_-fpVDdJyCvFhl_JL7nuFBlkllAMDtCQspgg0qJx1BieN5VFV649s5vQfeV8HKdbESzq4AeJCyorUyJ9rFg8oB-eMxjFZnw3XUbMuznkBbK0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1119,
+    "coordinates": {
+      "lat": 41.8717786,
+      "lng": -87.6288922
+    },
+    "features": [
+      "performing_arts_theater",
+      "night_club",
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJv8jkWJcsDogRduxB78O4BM8",
+    "opening_hours": [
+      "Monday: 7:30 – 11:30 PM",
+      "Tuesday: 7:30 – 11:30 PM",
+      "Wednesday: 7:30 – 11:30 PM",
+      "Thursday: 7:30 – 11:30 PM",
+      "Friday: 7:30 – 11:30 PM",
+      "Saturday: 7:30 – 11:30 PM",
+      "Sunday: 3:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14917251017430133878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Winter's Jazz Club",
+    "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Relaxed, intimate venue featuring live jazz acts 6 nights a week & a lounge area with a full bar.",
+    "website": "http://www.wintersjazzclub.com/",
+    "phone": "(312) 344-1270",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc08qw1UrDogRVCCFCLQ-9yE/photos/AWn5SU6gutBnmzXTjGn1PUpZt6EKEm36aK1tNHT5543yrna0n8Uof3wlp06QuUU8kPi2aWdBz4NBjyc1XIxaSZIlBC8G4JioJg_mGFhJ9FQ75sTrZebYb35gLDneJKCQFnTEL4X8r-VT8BWFh9pZh8Kjq-ixCeJN4vFdYMGc4GynpEQyNEro1GfFdLnQQTvRQOsEfpBRuEoQdr6KpIrwX4dSiS--pnaoyJ9cV2clIR7XF0pDoIJbknAsQvxDf8TVyBGL9279Hye8PssdAOcy8UcW-L_bpoaPs7RbS3YWXlF-gdF06A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 814,
+    "coordinates": {
+      "lat": 41.890802699999995,
+      "lng": -87.6172033
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc08qw1UrDogRVCCFCLQ-9yE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 6:00 – 11:30 PM",
+      "Saturday: 6:00 – 11:30 PM",
+      "Sunday: 4:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2447493865457131604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Green Mill",
+    "address": "4802 N Broadway, Chicago, IL 60640, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Swinging sounds are on tap nightly, from big-name artists to local late-night jam sessions.",
+    "website": "http://www.greenmilljazz.com/",
+    "phone": "(773) 878-5552",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5ywykizSD4gRX8IVtWSf3OI/photos/AWn5SU5IBxw3IZjs2H-mYaVyJTMrSWB1AWoM55AerHZDk7saZjkppDpIxVBBXS_IqpbtwCFpWzOkK9TMPZgGTCEb61Q2IG__kqvv89R955aADJtYDxlODp5MBdENpPFmnLhBtSHlARRraNX12V38VdIX44p_fyE3AyqcmxCp2A4PfDMzncjhYUN0l2Xw1v52hlVls9ulJpVjEkajBNDmzlZf5zqQpDdqkJ3vAuqDugkscGOrS2qzWYF-hhoWhCkLGc1gFcXAhof6kSWpvDrMTh28yuugHkwvz18P-o2hRKcQnL2klxbm5y4cvC4evOQWotPToWnTqXbQoNODbt6k3hxDuWs4T6JMFh-g2ew-1_RtrEJB-aqACFKG4w2XJ2y1iQvR8JcwsM97AVzUpYpfLGmYRfbL7mQ6NYNQ22tjBAO9Hzg4gIkSpnrY5G1REfWF5A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 4446,
+    "coordinates": {
+      "lat": 41.9692028,
+      "lng": -87.6599222
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5ywykizSD4gRX8IVtWSf3OI",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16347116002331705951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blue Chicago",
+    "address": "536 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Late-night blues club with a casual crowd of adults (21 & over) enjoying music & drinks.",
+    "website": "http://www.bluechicago.com/",
+    "phone": "(312) 661-0100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJezvnsLMsDogRLDrqWcT7SRI/photos/AWn5SU4C87h-kMXfh8uBcYh8yFcbb7Ew1DNtnMfSIreRByr_MzMXYLajetdBjxGEZKbhzChctSaxgUa9xtxNz69ZvtWemvk2FaXYKoDVPds1UnEvxOFk6OqsgxxrQgh9ztc_qlsWVNU5IJ_mhyV2UDiDfLmDMy9CNzKyBw7qLm4X2Z7KkM-HD7gdwWecpiZm8Q8OBapNLX99iCPQJHMIj3uR_zHJ5lSonmur3cHx1QjbvL8fGKxgSZ_ENZ6-6dNDW3Z6ZbTiz4E_gd1_QGq_qkipxN4lNZFWiy4rC3VtNGPPgRLRGyvcHb1Sh00Q8XrtRLcYUrUvgXNnz4HbqgEgFBTaAg2Iqsv9_MO1a3IGRE2_-RKwmvASRNKJIkHcISdctQo3xGd4-40GuBYdTFB7Fzk5Ypc-rZCzMlu_sYYMEc9j9ng/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1735,
+    "coordinates": {
+      "lat": 41.891976199999995,
+      "lng": -87.63146599999999
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJezvnsLMsDogRLDrqWcT7SRI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:00 PM – 1:30 AM",
+      "Thursday: 8:00 PM – 1:30 AM",
+      "Friday: 8:00 PM – 1:30 AM",
+      "Saturday: 8:00 PM – 2:30 AM",
+      "Sunday: 8:00 PM – 1:30 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1317861186723265068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Buddy Guy's Legends",
+    "address": "700 S Wabash Ave, Chicago, IL 60605, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Classic blues club with up-and-coming & famous acts 7 nights a week plus New-Orleans-inspired grub.",
+    "website": "http://www.buddyguy.com/",
+    "phone": "(312) 427-1190",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdUU4_5gsDogRFWnSasIW-uA/photos/AWn5SU7Xxh6vrAqgTBEJ7zv_zEHtsu65jKc1d_yULj9hNR447Bgm522w6_8XFOJZveG6DBaG4lJf1nEUEF-nIf1QOFFIrQSc5-iAy0ShnTlb1iE2ZqFSM_1cUJTehvCUCOj2nQwlhXejnUn4lqRs9dthoxBUMVByntitgaKjdI4dXQZYssPAZfalmUWC_h0hvh3vDpx2yqAIvYrIeScAp3IGPjg7nnZhXXrWpxXH7pHUgna3pXycXZvnG1zPFHKtTmJ2XQ6qAgS28po41IcNNU9kKi3GOBotD2_Eia83WoMJdQe3Xw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3526,
+    "coordinates": {
+      "lat": 41.873022,
+      "lng": -87.6261904
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdUU4_5gsDogRFWnSasIW-uA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:30 AM",
+      "Saturday: 5:00 PM – 1:30 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16211294832945162517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "House of Blues Chicago",
+    "address": "329 N Dearborn St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Rock- & blues-themed restaurant & bar serving Southern-inspired dishes, plus live music.",
+    "website": "https://chicago.houseofblues.com/?utm_source=GMBlisting&utm_medium=organic",
+    "phone": "(312) 923-2000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ05UHzLEsDogRSZiv23eq-Mg/photos/AWn5SU5_qQn0mFdM6Z2pGExGIjHLzwzbPDiWyAmvYylxgXxS-f0iPiLKImUk9ET5lcvf38Qy7PRUIcAFIpr8Zb6natTdTyKqeVAOUtgfzGAJvtEqtOzdTD4F1Phpmn7ZZVUPDkT1Z51ZPUOb1i363uOFLsmab2taF6QY_rxwmCVt45AU0-PPN4WIlHGYz2HJewMT9qfALp_JGZUeKPtJCFSKogQmyaDKhXmSYj1mMl-09anpzxC8YNzJO15PnIE_EXeEmWCxIYTTm4hM-R1hQyK4yVL_scDP5IsbhmZw8e1vFwL63Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 8796,
+    "coordinates": {
+      "lat": 41.888275,
+      "lng": -87.6288411
+    },
+    "features": [
+      "banquet_hall",
+      "wedding_venue",
+      "concert_hall",
+      "auditorium",
+      "night_club",
+      "event_venue",
+      "bar",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ05UHzLEsDogRSZiv23eq-Mg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14481512033573378121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Bassment - Chicago",
+    "address": "353 W Hubbard St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Live cocktail lounge featuring regular live music, signature drinks & a secret door.",
+    "website": "https://www.thebassmentchicago.com/",
+    "phone": "(312) 386-5778",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFzfFcrYsDogREyO0d42z55U/photos/AWn5SU4x6q21bHDCpwcylnXqK0DSnvfoU8vmjx-scOyqW1DYSeUEo_Ir9q4UWgl4Etj5KBq1RmKF5gn4ldxCR7XpQETRggVNsdIachLMXtXXKDmTZNFjAva16mYDVuDViLt3ASt_vGQ5CbVlSZYujtgMeb5sSS6OLaJodRemgu3hYt7GZK9WU9QE9fTEyhTxGsKveTYzo-A4WQDYS904oC1rELkksPU8dw_ND-yCHFctMYnltju0KfYg3bhlm64VM6Hv45WzXGNo82bR0j2F4Rr1oABSPgXqh1i9kWAnK6ZcqlaYKg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 890,
+    "coordinates": {
+      "lat": 41.8897738,
+      "lng": -87.6378787
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFzfFcrYsDogREyO0d42z55U",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 8:00 PM – 3:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10801799651451478803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Howl at the Moon Chicago",
+    "address": "26 W Hubbard St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "High-energy regular live music shows in a popular bar chain featuring novelty bucket drinks.",
+    "website": "https://www.howlatthemoon.com/chicago/",
+    "phone": "(312) 863-7427",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf6m9-bEsDogRcgm9nf2Dtho/photos/AWn5SU6RxMnOsvAxVIwFPf00ZEgNoQo6qSCHMPHobAmWiLOY1alMCYikjafr6tkE3sTfHMJ0sQgMxBYJ-HPwgsV1wxVCxDzAPWJZULpD79WlnTGv8yPhDOWEj03Ma-X0BQzi8x7id1f5c_n0AS4mi6pt59rWfq-RdjNzNmjmgAMJj9U1lHrCzt4wjxUdmuHNGzgLgtdwIqq2nrJAmzv9XRnGffEsMvp4_uQ4djGjVxkcuLoVFoFSQypQF5zc-FQw4CZKSfTP2RWLb0Igkqoi67VUe5ydvQQ1XMpiFoebWICT1x6fkg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3697,
+    "coordinates": {
+      "lat": 41.890257,
+      "lng": -87.629165
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf6m9-bEsDogRcgm9nf2Dtho",
+    "opening_hours": [
+      "Monday: 7:00 PM – 2:00 AM",
+      "Tuesday: 7:00 PM – 2:00 AM",
+      "Wednesday: 7:00 PM – 2:00 AM",
+      "Thursday: 7:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 7:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1924871016043841906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hungry Brain",
+    "address": "2319 W Belmont Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Low-lit bar with retro rec-room furnishings plus arcade games, a jukebox & other entertainment.",
+    "website": "http://www.hungrybrainchicago.com/",
+    "phone": "(773) 687-8230",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdwtKFmPSD4gRXU9en6OWBQU/photos/AWn5SU68h6cheIPkV3ofBIYAVFah1lFBwt4U7iW1MxX-KCurdz6rfCdeQMNr8ERcUVAky-41daiT9DX8-Fc7odgIJmw3GVRxzsOYxJ0w1SDGvElZqfEk2xZkw7EQfn9wGhCEyxwVzAxe04dzjn2i09Y1xRRe5TL88la0cb7FkquCt3A5QGTPlTj2hwegXvfqSHad1LrAhGyqAzt_y-YbBCFfd-hrldCpkjinWrgbn77ZTETwJq6tZwaKrdZXCjybRzhwt-yJdUm45_sPZ-c0kH56l4X1JfM6HJXHkfSdfaDZyGGHfQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 248,
+    "coordinates": {
+      "lat": 41.939368699999996,
+      "lng": -87.68645370000002
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdwtKFmPSD4gRXU9en6OWBQU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 7:00 PM – 2:00 AM",
+      "Thursday: 7:00 PM – 2:00 AM",
+      "Friday: 7:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: 7:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=361860974570786653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kingston Mines",
+    "address": "2548 N Halsted St, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Live bands play until late on 2 stages at this rustic blues club with barbecue & other pub grub.",
+    "website": "http://www.kingstonmines.com/",
+    "phone": "(773) 477-4646",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8b-ckQXTD4gRSiZPBswZmnE/photos/AWn5SU7vPLxMo7EpFrgZSYQlu3CSgBL0gkMTg_dRvej9p1gMTKj7BeK9nElAAOkN6R_YWxIr8SrQSuuMFU8t2PVL6j7IDPaOlFFlCtBmUl7jotqvrkFh-TVJritgf69ZRjUsEhszjod8O6hAznv6kohvCfF4XCDjf9aYvjrIFzicmsiOIVU9QUvit-JmBRzuonhLB8hV6wEygKgUM6ySaxFKF5guBMybuLYYA76tt-YavRS2Gqt5qQdRGLQ0JVO1GOj20zNTZvvubHyF9yuGLWbz58oaV2RiVBIuRmm7yGkaEifR1g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3733,
+    "coordinates": {
+      "lat": 41.9287006,
+      "lng": -87.6490441
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8b-ckQXTD4gRSiZPBswZmnE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 7:00 PM – 4:00 AM",
+      "Saturday: 7:00 PM – 5:00 AM",
+      "Sunday: 5:30 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8185883636769171018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rosa's Lounge",
+    "address": "3420 W Armitage Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Longtime family-owned neighborhood club where both traditional & modern performers sing the blues.",
+    "website": "http://www.rosaslounge.com/",
+    "phone": "(773) 342-0452",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ484gBWrND4gRKHIPWs9Olmc/photos/AWn5SU5_TE7JbA1TllaUdBE-buz2pd6ygvblYfO5LD9u0uWWVQlvN-Y1yOPXW2Ew4JaSv_Uo9WkyhBESD5dGNoFZdsbeEEOmDN_lDaeGqI06jGD9sW5dn7CHquQZlmSf85lSTxb3tdDdx2OhuOw3am-oyCIqbSsSkYwX_DEHRf8L84t4RSsd_F9x1HhAcU_5DILnAHWc_1uaHE_ISdVtov01l7WgLkQqkz6M09Yxj6VvHwtRp0KOIFWPQoKWTANb0xUbxNxIWXHvncpLXeNyFKsCqeeNTvIWemWg6ybHv-b44unyZmHCzjo50uVFdA1ZXOFzR-9pRshEB6CK1AIazQt6Ju9v4chSdgyuufkKCHmjPERfkYrGPb7wEIywzFzqkD1d_TEQyxKrigmqYgBCMhSfCku3q9hSPDdsXoCw1OcVpQs/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 796,
+    "coordinates": {
+      "lat": 41.917544299999996,
+      "lng": -87.7128166
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ484gBWrND4gRKHIPWs9Olmc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 PM – 2:00 AM",
+      "Wednesday: 8:00 PM – 12:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 2:00 AM",
+      "Saturday: 8:00 PM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7464240084889334312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Le Piano",
+    "address": "6970 N Glenwood Ave, Chicago, IL 60626, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Genteel jazz club with an old-timey vibe & live music serving small plates, global fare & cocktails.",
+    "website": "http://www.lepianochicago.com/",
+    "phone": "(773) 209-7631",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJW0fpRvDRD4gR3tAJvzroogk/photos/AWn5SU4ZuW_jNY7pUmJxyTqjAlT3RUZIY63TzB6FURBoZm6kb_yk3dBagvPSvVrdfnxTkbDaHWOX9Z3AX2sT4TCGNly2z5fgDamA0YbZ10GQ30HPACVkeWKFE-W6weZnLADYXBefZfRC1gNhtVVkTEUV2d-ykSouuj1sxpr0Uj6TNrjcAW9qd3XusPNIUyrFrejD7P9jILmOSQrz4xYQyLADXrDgsJGUOnQ90JVz7R4qndQNnCE4KH24q664Zi32NBBB628ApkLA-uco7iue-1RrJkTgrioKb5T6tZuRnJJ1fLuNNujQGynqJA8bC2RxD7twL_GuK6gDDGmLBTzTucmvRhoMiJ6e7Zbb7XNDuYQCK_WjUlUYMV7OqTMiQCJq4SLcbGA2C4LQ77GxYNdxQlfdLFH_jvV1HY-sF2OrWovwejw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 414,
+    "coordinates": {
+      "lat": 42.0087316,
+      "lng": -87.66633139999999
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJW0fpRvDRD4gR3tAJvzroogk",
+    "opening_hours": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=694372631579316446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Foundation Room Chicago",
+    "address": "329 N Dearborn St, Chicago, IL 60655, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "description": "Upscale lounge with rich decor, offering drinks & light bites, plus regular comedy nights & DJ sets.",
+    "website": "https://locations.houseofblues.com/foundation-room/il/chicago/329-n-dearborn-st.?y_source=1_MTU2MzYxNDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(312) 923-7050",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuxzb0bEsDogRY0_Z--o0pLU/photos/AWn5SU467Fq57LhlAi06BrmS9_rYsd1bUkfbrEMceRX-E559NaMi5dnQQzpGtroZDt61rL7ScSK3RW_kMZBd9iogE05lMrsTZuuO_7u9w7k8ACUepvaWU_BQvndB59e8QZupi8Pr6aECVzPIzzKUZrQ126cJD9WuDkmHOq0j2fiAa3hAsuEtEn1ztmInUHeI95YjdoszGj1fktyi75ltncNsTKcyIqWMEVbvlZ7oNdienXmBwYlzRo7SPWNes6G7ZW1rDIFIqLhQNYP-l2Tk_F1gs6RaZDXvBRCokOceqY3UFj2qGg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 211,
+    "coordinates": {
+      "lat": 41.8882037,
+      "lng": -87.6292039
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "wedding_venue",
+      "night_club",
+      "event_venue",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuxzb0bEsDogRY0_Z--o0pLU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 4:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13088644600897818467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Untitled Supper Club",
+    "address": "111 W Kinzie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Restaurant/lounge featuring creative American food & craft cocktails in space with a speakeasy vibe.",
+    "website": "http://untitledsupperclub.com/",
+    "phone": "(312) 880-1511",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJm_I8DbEsDogRgw0_Rgq8PLE/photos/AWn5SU48Taq5NvtQLH-XeYWllzjkRf_cxD-BTBmCrRbPvTjhtK7OqlkAFCmBbdGmksPooKjT_t5KugA3RsaCJs0MBfWF-ivVJSQ2tJ8OvLqB8OliH7Qa0jxRmjJq-KeNIfLZAcd0wF_wbEvGYKUUiWeuGxCHJNAsq31o83Jnz4sOMVacyg7IVMc6vwB3WJSHrW41tjDyklu8z-mwYKwtWd6jyBsYPCIs6WDb_DEXqnwgBRxtZODkMMt23VFz7ASK5iAcSXjfTuSb8yGUTr6IK_DeE-9QOKL-Vm7VKf1QD0lNR5OkgWzE9Vv5h6j_GcTpBICQ2CaMmGd3DJcJ6PA6cD2ZvBFBwdjyyj_wIOz4s2nGd_VIpINiMqy8dK7Vur2yBa6BMgvuVQLimMla6HO-4JmVqLS4cY3tZmfq-kom4qCXLxyS6A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2957,
+    "coordinates": {
+      "lat": 41.8888206,
+      "lng": -87.6316528
+    },
+    "features": [
+      "night_club",
+      "event_venue",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJm_I8DbEsDogRgw0_Rgq8PLE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12771289395630116227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Slightly Toasted",
+    "address": "22 N Clinton St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Funky spot for toasts, sandwiches & pastries paired with whiskey, craft beer, cocktails & coffee.",
+    "website": "http://slightlytoastedchicago.com/",
+    "phone": "(312) 920-7398",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-f8z7sYsDogRU7f78oYAKA4/photos/AWn5SU6WeRysJHH2jQOoE7_nd7JFzvbd9mF1jK4XkDewaase47f6qZ1QWMy8cyu14QyaXA7y5slfIXnXBy9WUgmqpV9pgdcEfaAsce2bn6-nJVgXkK0zx6dvZ_L0zyZGW0IbjlzJcs9iDb6mEmNluEoQcW9ZVTO4rziaGBlKdztrMpx4iWKqJbBHXCj8fUzIJ2RQad2Oqq_Mr0uPeSRxEHBv6IxY3yDetFvEcoruy6rsXDQIWy8w3ZADBHhbZlsYfHRwNA_odE3tpCWEtO1SMOCb_U-ovEkYgjRnDo8aBUm8LSJZ0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 364,
+    "coordinates": {
+      "lat": 41.8824347,
+      "lng": -87.6413706
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-f8z7sYsDogRU7f78oYAKA4",
+    "opening_hours": [
+      "Monday: 3:00 – 9:00 PM",
+      "Tuesday: 2:00 – 9:00 PM",
+      "Wednesday: 2:00 – 10:00 PM",
+      "Thursday: 2:00 – 10:00 PM",
+      "Friday: 2:00 – 10:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1020065895201617747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Franklin Room",
+    "address": "675 N Franklin St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$",
+    "description": "Creative, wide-ranging American menu & brown booze, sake & tons of beers in a subterranean space.",
+    "website": "https://www.franklinroom.com/",
+    "phone": "(312) 445-4686",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY1wQ3LQsDogR9klvNGYb1Cg/photos/AWn5SU4grwLXzO8mWv0z9niqsnwnA2PYf2cf8u6haPbZcpbj8H9dghdwjTce7YbNQ2iHVxLggeTofghQCtHtVLPLFOf-OFeC9N_T15BPMDhI5VhdHG4kvI-JOGms_yJC07VuDw9I95PiIt5sxHGsqF2pty1I2WucUXez2m3YdLhJivW3Hf08sQ7lZ36YUCV2ZRTUzqAtoKEseiYaeas1qTlZyFrzSgbL2W-fQYouuaHA_02luZWSnecOBitpvlKJ1I7QX8Qr-BYUrQkbdpSWq1GRAPniVhYVxC03TpEHEimWr1IKaw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1080,
+    "coordinates": {
+      "lat": 41.8944251,
+      "lng": -87.6354612
+    },
+    "features": [
+      "steak_house",
+      "seafood_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY1wQ3LQsDogR9klvNGYb1Cg",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2942006582360099318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Whiskey Girl Tavern",
+    "address": "6318 N Clark St, Chicago, IL 60660, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.whiskeygirltavern.com/",
+    "phone": "(312) 344-3190",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-wOuf1bRD4gR9FbRx1pl8JU/photos/AWn5SU7A0nstfpecaUUV-h0MFBbk0No3LAFdoy5zkCfyOTWhH2c5WWYdw-_32j_r4-hOWjDlPbTpVy9z0vBJFzk-uyuOAHjGe7k_EVTFnwD2jqOX0JJ2oFyBWkVJCYNebVvv-IC3A0_VN0liZlOo7KBkluXN9wMNyn6GgPpPa8aOMx6iotYTgWrwmksG5MOEb-W_HbNDToOALW-qRBSjUOmgMHoioWH5Mun_sdn62lSd8q3E-02L_LIdtRoQERbTQlRKb9efcIusI5HsulzQK0My1E2oQX1toJ2cCIPfJ-kk7yoe3A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 247,
+    "coordinates": {
+      "lat": 41.997071,
+      "lng": -87.6706924
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-wOuf1bRD4gR9FbRx1pl8JU",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 11:30 AM – 1:00 AM",
+      "Sunday: 11:30 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10804246946635667188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rebel & Rye",
+    "address": "726 W Grand Ave, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Relaxed lounge specializing in brown spirits & craft cocktails with limited beer & wine till late.",
+    "website": "https://rebelandrye.com/",
+    "phone": "(312) 766-4146",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHdmcws0sDogR4tFWTBpG9v8/photos/AWn5SU75MvcPkOS4VM-KBj0qCz_bZ5fTYMYDwdKt_0qMNOVXSYkpZxJpyelv45Sj1pjKTpmtIxQb1IIc2zgimOBrZiZvlGPGjvYBZSJs0KG7wAT1k3zo1aL3g_glF2IW3X-q-zXkGE2q_59_I_pNBbmgpe7diQV6QjvekcjAy5vtkXmRQtrZBhTnZmu4PoR7lzqAwSzrWDqUAyBbb5QZTrhI4TQaX1qNv68nkNzru7Phv2J4Qloj7jIcPPGNTRo6UHH-LCXsTJx3inmxDnkfmLASaUFjAW2obAR1A-o7bEiBzEryWQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 162,
+    "coordinates": {
+      "lat": 41.891394999999996,
+      "lng": -87.6470038
+    },
+    "features": [
+      "bar",
+      "wine_bar",
+      "pub",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJHdmcws0sDogR4tFWTBpG9v8",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 1:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18444006402706297314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RAMEN-SAN Whisky Bar",
+    "address": "219 N Green St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "ramen",
+    "price_range": "$$",
+    "website": "http://ramensan.com/",
+    "phone": "(773) 645-0085",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiaODD5EtDogRMD2u1Sn_YVY/photos/AWn5SU40_IXFCB6XYqU7oKNd15FlomXD0D-NMnvMKzeEJc1NxrHuYUyRGMr7APH_gZq7YWeT53rskXydNpff0_eZ3r7xlJwoLi--gGJLOsjcnNuSFYaNtNPgaf_WuKLAaDpqK3QBO1wrXMpioxdeAKV1rUku1dk_GUJBgfLMPyEyQLz8x_thfzrZZCu8n07olERxcxGxMOoTyDUGHB9pFTVljHmZ_x6ZDbpZs_hQdIOva5xJDfSQFKxq1StcCOUvDGK3gRi_pqXfuyay9ntsd8p_LYV6l0mJh0tJt1WPmILcUHSm6Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 5746,
+    "coordinates": {
+      "lat": 41.8863134,
+      "lng": -87.6485094
+    },
+    "features": [
+      "ramen_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiaODD5EtDogRMD2u1Sn_YVY",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6224536715146444080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Desert Hawk",
+    "address": "2049 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.deserthawkbar.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJD38KERPTD4gRhO6vjNeJ90g/photos/AWn5SU44ouVap2iaGsKPZ_VtxUY2djT8VAZpxcw6NVX94woVyi2dYgireMtcWMSvAO0ADw-eRjE4jtDX3gsuR84F1LHU14rv3OtQMnlgF_nhPAYVLlq3tlXawurZDN19o4uxjBihA0KMuOFBq7PwAnHCH2TPzN8mYDrtbvPlA5FuTNtUiFJNeLkcQwjEoLLDcvYOi7dyyjciczrO5fjajLvmuUUgCWyo7-NFUUOr0HNyFgu5DmHJzUCKze1iDuCiHJW4vKMmQtUX3Y6bhBGK55c6Su-CyOmReuf9J8EnOEIoq1Pk5g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 113,
+    "coordinates": {
+      "lat": 41.902886599999995,
+      "lng": -87.6791762
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJD38KERPTD4gRhO6vjNeJ90g",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5257822648849657476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Northman Beer & Cider Garden on the Riverwalk",
+    "address": "233 East Riverwalk, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A huge list of cider, plus cocktails, offered along with European fare in a warm, buzzy setting.",
+    "website": "http://www.thenorthman.com/",
+    "phone": "(312) 877-5212",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-0CO_hPSD4gReL500g9ykXI/photos/AWn5SU6KzVRAAMXGiacPorN9KDGSG4pyLBYbFqMfol4jXHzy9SB3KjfDcmL8e3On71yuQ3lPeELDWYlAlKxowg1Y4SF68RUTg33Gag2Eb-Z35ipSb9QZaOlzKJy1E9cjd9nVidskCl8ob_aDanhEl4Ks_uJQ5g2RRAGhov29zBf_N5Kiho6Fhl5WCtjFpIxK3jVLkhi2aNYXF_FTk6tGf1k4CadAEiHwHi67qekbZI-vc53KqnF0PDXmXammiB-WpazAWFJUu5eHypctleqZksEe6TgdjZL068FvYTSwJJqDS8A5-GFynw5P-NKuL3HmFymQsDWjNROuWf6Xpg4DusO-Wu9HhmcWBhpT483OEj0_lgi_hc0HICppiHrnlCX8DS8SxKh_KqDt7e0PEgVX5a3MIYoAy4hSv95B2MQHLsuQwrFNlwezG06otSUh9Kdgj-V8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1336,
+    "coordinates": {
+      "lat": 41.888306199999995,
+      "lng": -87.62137969999999
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-0CO_hPSD4gReL500g9ykXI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8255505004227772024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CH Distillery | Jōtō Sushi",
+    "address": "564 W Randolph St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Industrial-chic lounge features cocktails sourced from on-site stills & snazzy New American bites.",
+    "website": "http://www.chdistillery.com/",
+    "phone": "(312) 707-8780",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk1_wbMYsDogRetsg_ee9jLE/photos/AWn5SU7RrNQFRxmDGN1_fQYYlc8J6JdkE-SY2fupBX3on5qrFeALFvP4QCiG5gPEfnOzlUvFplzSxwOBwUYw6emY1HgornSwWtuWUwe-dgsndgY6ebemkRXqDQexNHM4zs4mqfNnsem0IVRvCdWL5H1vroBNQTzjE-aICM0loRbtEqT4Iu2EXS7qb9eOkVJLO_Pt0d0GRguLq-Cz3pcr2Up1DTVrR46ieJ8uwzi5z74IpYsHsBEkGTUUxtffBq9UFZAD7PYZxlzVfDnhdmjxuYHYTHl-BCi9mfAOfLlmLz6rv8XJqw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 506,
+    "coordinates": {
+      "lat": 41.8846382,
+      "lng": -87.6422109
+    },
+    "features": [
+      "sushi_restaurant",
+      "bar",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk1_wbMYsDogRetsg_ee9jLE",
+    "opening_hours": [
+      "Monday: 4:00 – 9:30 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM",
+      "Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+      "Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+      "Friday: 11:30 AM – 2:30 PM, 4:00 – 10:30 PM",
+      "Saturday: 4:00 – 10:30 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12793809445534620538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bangers & Lace Wicker Park",
+    "address": "1670 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Elevated pub grub including sausages pairs with lots of brews at this rustic-chic hangout.",
+    "website": "http://bangersandlace.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLRbpVM7SD4gRGbrDwLRHcrQ/photos/AWn5SU4ztVPxCt0HiL1Fbulkgon_BsNhajW0aZO62PSglIpzCPcqB3JepC3VeyhCLtmQpL9QjswDSh9IEUTjU20MPO20stlRl3mOd3R4ZAKe9BWawZ_ZFoVfJPlcWr25xFTEEq8BRrTx-JRIXTk4B48lW4x_ZxNGvhEFMY21ObGNXl-Fg7VpWlbDpa7RI2VC2_vSUBQQiU8MmdVXhOyJkKRNcnVvIJkV46suvGKDfhlef5YDoUeVTqYm3saIMEGT_eO954HzLFOpQj1CacqyjPIUJjuCQjyA7szFGg-jnG8RdkWNTw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 895,
+    "coordinates": {
+      "lat": 41.903453999999996,
+      "lng": -87.67030199999999
+    },
+    "features": [
+      "bar",
+      "pub",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLRbpVM7SD4gRGbrDwLRHcrQ",
+    "opening_hours": [
+      "Monday: 3:00 PM – 1:00 AM",
+      "Tuesday: 3:00 PM – 1:00 AM",
+      "Wednesday: 3:00 PM – 1:00 AM",
+      "Thursday: 3:00 PM – 1:00 AM",
+      "Friday: 1:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=13002533915825781273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Revel Room",
+    "address": "1566 N Milwaukee Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Bar pours house cocktails & craft beers in a quirky space with vintage furnishings & walls of books.",
+    "website": "http://www.revelroom.com/",
+    "phone": "(773) 278-1600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj2AcQsfSD4gRdCcdxJddLRs/photos/AWn5SU5zF4oXUgBwb2pDf0GtQQbOWR59MeAAkvFIyvVVUAbcqqFMpG_LfVU8H1A4It378veZPyxmiKOcnjolu5ZzCL8f5q0NxkJFmUmQZHF5vaAkap31I_xhkBPqDv7wMZp4MdVVYkUJMRpxcrm_vJ-Dh4gC1nItZQSM5t8jhq9RIHbo3ywVfUOlMLBNeuSrKhH9GLiwk4_plddC-mahsc0pj2WtMZtUFdnA5OdbJ_OZLdjcrU7fynOa9_WRFmkI7id-oNC70MmAaJYG20OF83iicqWaqLhJgSpo4C2ME9BO-dmgBvPP_vrJjAyj9-IUchV77g6dOTcWgL6ltMULrcXJgf633_FKfxnxYyIns7D0i3Y_TpYCZXUg8NwYXaw0ZbI1dxxO9VzoQgPr2bg-2fhsVdw6j7X4Q1jwoykQuW2snY8psA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 561,
+    "coordinates": {
+      "lat": 41.9099091,
+      "lng": -87.67696470000001
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj2AcQsfSD4gRdCcdxJddLRs",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=1958324319387723636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Black Hole Bar",
+    "address": "1942 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://blackholechicagobar.com/",
+    "phone": "(773) 384-6886",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKdnIeCHTD4gRGoJkspk0pAQ/photos/AWn5SU5iRA-qvHCGchEmD1IjfXEcOzd5ncoz9JsmozQSWSMO57P6lEcHt-HMLWy-b7vGlXQ_L_4dAjGSM-hIy5SXqxQt_PtrUGuaR0Et0apJSjIkoD9qV7SAWCgx_kpyKud5Itw-cBCQbMAGY3aqgqxtgoRgdjuTG87DAZfAPLbdC65yvcAluLnSbtBhJF3USo-WOZkgGA2CB5MX2fBEac1jg5uPKkbolE2JS5CQe6_dbO_xFZhMrhpGV0UNfPP5vQgNXoIdqB0OepC-u2u-WdfxZMpuNM_Vgw77WgvWE4ULQB_qoA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 104,
+    "coordinates": {
+      "lat": 41.9033514,
+      "lng": -87.67651289999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKdnIeCHTD4gRGoJkspk0pAQ",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 4:30 PM – 3:00 AM",
+      "Sunday: 3:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=334450107059831322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Up Room",
+    "address": "2018 W North Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Intimate 13th-floor lounge atop the art deco Robey hotel with chic cocktails & sweeping views.",
+    "website": "https://www.therobey.com/#the-up-room",
+    "phone": "(872) 315-3060",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj5vOqLjSD4gRpkE-Q5lvcVM/photos/AWn5SU7w8O1W1z-_86s5yXSDnAz_L--Hf7x2RR851Ie4im7GXkUnvLW4INSXyw2h-xIe-Yg-xeUNilb0S2rxga25A4DhUrbwgxAF8x42BrRdV3jTejHGGhR1b8GfubSukwdwfh6SNmeyM00pET8YyGp_DtiAINbTYgoiGG-aeZ_Tb7-N6K0Q-8LNdkxKB_ioNvVI3Akj5NKrCZeuAN-jU8we7MPk7trsoP7g1W0EMvvv6vCXQf6yfsxSRYCI_Izoi-oqjHfeu_bsv45_Rwdj3BdQn8oNkkcjg56S04rl56HHiK_fKA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 523,
+    "coordinates": {
+      "lat": 41.9106167,
+      "lng": -87.6781778
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj5vOqLjSD4gRpkE-Q5lvcVM",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=6012709681565155750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rainbo Club",
+    "address": "1150 N Damen Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "website": "https://www.instagram.com/real_rainboclub/?hl=en",
+    "phone": "(773) 489-5999",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJne-d28nSD4gRea659m_EFkQ/photos/AWn5SU5xL7-mn2Wi7UiHc90nJGevHI-DdV0ojmM7YnUDRad4OGW8RhSM6tLDAEBe2T0Z-2Wm2xnDOpas3CAJ94ZqML1bPkE-DpUUydxkHz3aN656_CamysZV2jOtREj10FKDx9RMVLO0XzUt74qkMJpo4KnGZUCAbWiKhmq4LZZC9Z6Vkz5TM-jCF9t7SwSyycgLVkuLx4kjQsRlOXg8qclk1kuOo27wop6UXBrfE2XmKd1ajBCa3LnKPUoGzQjUr70MXqxkwlMe3ZjWVk8G1-LJp00pTxDrwwyAEc47w8MeeOHwettYWIfdQneDeJTK1n8z9JgnNE0WrEm0NbNHgDeY4L6NcbIP1aANtsf-Td5O9WOtHqDCKsKYHwET1gYkCn3u3rKwezUL_YXwY0Why0LYXu-fiScG71X1KDdW60A8vPUSow/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 364,
+    "coordinates": {
+      "lat": 41.9027654,
+      "lng": -87.6774691
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJne-d28nSD4gRea659m_EFkQ",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=4906324829226511993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Hurley Tap",
+    "address": "1645 W Cortland St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "http://www.hurleytap.com/",
+    "phone": "(773) 697-8976",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMxZoFxXTD4gRph6FRLVBub8/photos/AWn5SU7HLBpK2kE2EDy5nYQz-yjmTpfT2teBbVenLQmBR23G-dShQCDFCgWQkrmFIwHc6LGEAtupD5hDHAHv_VGUE2bkNavRbcQGjil7B1Cql24-1Ht-AdHceZcxBUWGzpP-MbT8hUSrp2j4JtWLexlXaAs3ai_lRMEt36G46q-dwuN7yqgRao1LGb9g7P8SLBKTZNHRALSL9_PxN4EZaqg1qxWe5IKGecL1ePjFG9x2CUBFvEOnxgCdWAiB1knqhJPxovHO1EniZGI-O0EiSZfDy01db_MykU4gjI1gbSJSDqjGKLz2jR-8qyf0n9vqcN6bdXfLecfr9kYm46VqBt55l-nAtTQG85uTiJVP3BLG7Ayxpru9GvoeASIJpSy4aEJQZaj4Pyo36RIgoJaLCemA-nygeC4Ii7k__iXRcMQFDvqOmPU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 129,
+    "coordinates": {
+      "lat": 41.9158313,
+      "lng": -87.6695797
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMxZoFxXTD4gRph6FRLVBub8",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 11:30 AM – 1:00 AM",
+      "Wednesday: 11:30 AM – 2:00 AM",
+      "Thursday: 11:30 AM – 2:00 AM",
+      "Friday: 11:30 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=13815145578730167974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "SWIG",
+    "address": "1469 N Milwaukee Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Lively bar featuring daily food & drink specials, plus weekend DJs, sports on TV & a pool table.",
+    "website": "http://www.swigchicago.com/",
+    "phone": "(773) 384-1439",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk6Xb98bSD4gRohNq2uKmnR4/photos/AWn5SU5bXcwDmPGftIf2ZqlANn4Q2YiyCv7_6gDC-Xvc4-l5yjdAm7EIUHvMhRxZSA8pAuszpVb0GwqH_aoPKkhK3LF7NNhD_6B5JydPRFhbu7WzbJyeDbhxAdfbJkPSUpGZZY2bLlsQlyRmIcqMQHqJbYpfvEovg1llcPLHqz3qgn-nwBw0bwiOI0PO3wuYxw4eoNoHuA3PI-DNwV5MT0cn7ILtCJey7gzyzzTPy4n0rjiLUTMKagKHxiR_i8mn1RK3dfPcsRJvcUkIEXlGhYVm669stA7mlVTxhM6sNrNbdtHZ0jzC74NfhhecwmYbGazo2YB68oHOEseaP_nF5YS_BQxYHGMSK62AdPemn8esBNOJeGubFBtR7BCtmkgFa6iZOYPk4rKCNpkM1HKx3yQxWFyYq6NX2HgauAOwRvw2aR_gYxpv/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 416,
+    "coordinates": {
+      "lat": 41.9086997,
+      "lng": -87.6744362
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk6Xb98bSD4gRohNq2uKmnR4",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=2206102885738615714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Estelle's Cafe & Lounge",
+    "address": "2013 W North Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "hamburger",
+    "price_range": "$",
+    "description": "Art deco lounge with late-night hours & a menu of cocktails, craft beers & burgers.",
+    "website": "http://estelleschicago.com/",
+    "phone": "(773) 782-0450",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa4LkpbjSD4gReCyjuHvE0d8/photos/AWn5SU4G7dkz81CE9WNAO2SHdnik7Xpximcqf61EsqSF1ZW17IQjE6yXOtJSpQq5sCet7SZAB1fUkCTWk_7YzEgSRsagarYWM0RvNggVO_78DsrrZ3K8-HjTC1gCSOLwZUhU5mPjR0QoA6NnoSNW7QyrQC4IaNtOxFP2pQbtbjDa5EmMSAwROni72tMyki6AH8IPl8WysnuZl-imHMBvOwFiPhFe_gzXYQR8HNu-9ZFNCkvI2GYHJkH57iJgHiujUeyapskhwmzFcqSCJp07Z_C8uCCEm2LgtwqldJkzCbRtFJjc4g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 668,
+    "coordinates": {
+      "lat": 41.9103194,
+      "lng": -87.6781056
+    },
+    "features": [
+      "bar",
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa4LkpbjSD4gReCyjuHvE0d8",
+    "opening_hours": [
+      "Monday: 4:00 PM – 4:00 AM",
+      "Tuesday: 4:00 PM – 4:00 AM",
+      "Wednesday: 4:00 PM – 4:00 AM",
+      "Thursday: 4:00 PM – 4:00 AM",
+      "Friday: 4:00 PM – 4:00 AM",
+      "Saturday: 4:00 PM – 5:00 AM",
+      "Sunday: 4:00 PM – 4:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=16127887776248179832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Map Room",
+    "address": "1949 N Hoyne Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Map-lined watering hole touting more than 200 global beers, plus travel books for browsing.",
+    "website": "http://www.maproom.com/",
+    "phone": "(773) 252-9351",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk6WVC5XSD4gRxhZ8j-A-loE/photos/AWn5SU4n2oP2AiGqkwWoiWyXxXLMsOAupQBkaAicTZcUkNFaPT-pvOmd0VqWftJHXqjMfg6mJ8b0Lovjl9x7K9nlPactSAHYS96kvyznqjVDbAjGAFS7MqDfK1KUbJuhRlnMDxvnE2QgLdrXbChCupKnNJX5Q0aJ6tu5hjC97YHk7M1pTDc81wS7B2l--IAw1pe4qPMQuU4X7LdzCfY1lJetryk2kcsvtIpRa5iVvux4yqwqp7AUVhtyufjIIaRQRwUlI4J4C4y6ZVtafXbaoSkeozC-NaFKSuWfPRuHuXQTiN0GI6_qaDtqirFg5iq9vuf2oBs9UeJ8GOJf0Ql8asMUydUCJr8huumLUvIsW53l-zPxMKAzlGEjlRJTuU9VaEoxKBEnOKSiDmxPYNu9Ty7Bls0w95udhj_UN7f5Bdwq6mxifw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1002,
+    "coordinates": {
+      "lat": 41.9176082,
+      "lng": -87.6798057
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk6WVC5XSD4gRxhZ8j-A-loE",
+    "opening_hours": [
+      "Monday: 7:30 AM – 2:00 AM",
+      "Tuesday: 7:30 AM – 2:00 AM",
+      "Wednesday: 7:30 AM – 2:00 AM",
+      "Thursday: 7:30 AM – 2:00 AM",
+      "Friday: 7:30 AM – 2:00 AM",
+      "Saturday: 8:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=9337720011600172742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Revolver",
+    "address": "1270 N Milwaukee Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.revolverchicago.com/",
+    "phone": "(773) 232-6678",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjV2JJufTD4gRIjoGx8BvOO0/photos/AWn5SU76l9F5ro6dmD7j0_j1Ur5kknIMmI2gR6GQ0d_G80lEMG-OXBJHLUPd32dQdaqnhXCrGr77qkomP3hnARh3BSIcY5j_W823Cnr4YHPdvNKDwFLmTon2fuxwTzjCmS6-xmdQKx8ZIh3bhHLHsfZa2NBzygClyuJ-flu7-PqKZL7onypv7KqIngE8ZKZ_cHFwLqiJJ2IqI0qW6MO66d78gluz8gEi9t_cd3daWE0n45QbbN_JuzWIR9Hg89hyaxCinA1g3JAOfhIav8iW81PcOfvrFrPe7t3AXur1la3CfCE0ww/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 232,
+    "coordinates": {
+      "lat": 41.904772099999995,
+      "lng": -87.6690744
+    },
+    "features": [
+      "wine_bar",
+      "meal_takeaway",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjV2JJufTD4gRIjoGx8BvOO0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:30 AM",
+      "Saturday: 5:00 PM – 1:30 AM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=17093535259448195618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Easy Bar",
+    "address": "1944 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Laid-back bar featuring seasonal cocktails, more than a dozen beers on tap & an eclectic jukebox.",
+    "website": "http://easybarchicago.com/",
+    "phone": "(773) 227-4644",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ87KAysnSD4gR9TRulBpTq-I/photos/AWn5SU4blwIBa7M2q5c2rw_MOsp33IcaxjXdYn1_h0jc53PtGePJHucnyf63DxPraXwfwqSVU6ayf0xRm6v8K9goGbODVWcLDTDzDNLSFHV4l1JhRzFmTVpZyfhOv_RKZ8qOrj4qHSpjCIE-oKPcYn9DOZ8GUZ6Qfhlzmo0Z-P3RK8lUX1uSMQls3fDcAAxNCujm6GsderVV6-uUT_TrNsITxa1gnkN0wZVxK8XOeZvqRo1oe-WLRQ1v9Tf3zfnlwQjDb7w9-_6CNDa2ccOJLJPBGGxkkEJvlXypiR8Q-QwjN5-EOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 445,
+    "coordinates": {
+      "lat": 41.903346899999995,
+      "lng": -87.6765946
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ87KAysnSD4gR9TRulBpTq-I",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=16333239847213741301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Queen Mary",
+    "address": "2125 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "An old-school saloon with original furnishings houses this cozy, maritime-themed craft cocktail bar.",
+    "website": "http://www.queenmarytavern.com/",
+    "phone": "(773) 697-3522",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQ3h88bbSD4gRpCS8A9UibSs/photos/AWn5SU70LkqYSBWF2QLr6_aSfldl0z1-XsplHXpi03b6b5VXZY0Jqo3oMK-nRJ8sLIdCy397ZzAQPYi2jTjIAhI3PtRGhTs34DeB-NEgUQkWqhNAnnJ0KtZdCNcOI1PFxxy7C7LIjU9gDJPSdKyJ54bkb_4WJDSPDHE4U0K7k1HvBfPpGsOOuT7tKEMsbKSwEyT23xiNz1KXbSXqGf8_q6prTN1jJ0rXqnYRdgWa84Gt-0Ao1LM-jBFYyLWnJcvXq23KUqtDF__H0--SvsnH8C_WQ_et-dHpKFJ07Ozn7EtzH8LdiZiXql_LsgmJIx_3OmiWcm4M0N8Qqc_83_xn6sNEr3FE3-ihBWxvnS52rbguDsLu4ed21wDK8nO3ec209TIjoutH8t7E11ADjT8G1QT1jgo5xjLKnkXB14Almw43WvoLfg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 488,
+    "coordinates": {
+      "lat": 41.9029715,
+      "lng": -87.6807371
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQ3h88bbSD4gRpCS8A9UibSs",
+    "opening_hours": [
+      "Monday: 5:00 PM – 1:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 3:00 PM – 1:00 AM",
+      "Saturday: 3:00 PM – 1:00 AM",
+      "Sunday: 3:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=3129195614378402980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

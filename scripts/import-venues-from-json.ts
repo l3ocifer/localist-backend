@@ -140,6 +140,15 @@ class VenueImporter {
     }
   }
 
+  /**
+   * Strip API key from image URL for secure storage
+   */
+  private sanitizeImageUrl(url: string | undefined): string | undefined {
+    if (!url) return undefined;
+    // Remove API key from URL - we'll add it back via proxy
+    return url.replace(/&key=[^&]+/, '').replace(/\?key=[^&]+&/, '?');
+  }
+
   private async importVenue(venue: VenueData): Promise<void> {
     try {
       // Check for duplicates
@@ -161,6 +170,9 @@ class VenueImporter {
         this.stats.imported++;
         return;
       }
+
+      // Sanitize image URL to remove API key
+      const safeImageUrl = this.sanitizeImageUrl(venue.image_url);
 
       const id = `venue_${Date.now()}_${Math.random().toString(36).substr(2, 6)}`;
 
@@ -184,7 +196,7 @@ class VenueImporter {
           venue.description,
           venue.website,
           venue.phone,
-          venue.image_url,
+          safeImageUrl, // API key stripped for security
           venue.rating,
           venue.review_count,
           JSON.stringify(venue.coordinates),

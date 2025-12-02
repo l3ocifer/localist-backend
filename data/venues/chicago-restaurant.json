@@ -1,0 +1,3544 @@
+[
+  {
+    "name": "Alinea",
+    "address": "1723 N Halsted St, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Chef Grant Achatz draws foodies with New American tasting menus featuring highly creative plates.",
+    "website": "http://www.alinearestaurant.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuyI60yLTD4gROwTWENq1He0/photos/AWn5SU4EB_yGWaX4LKoBSlLWelZqNjyc8bL56odX-O3kNgEemF1og_A7UzhLcAMGv4svfsBlsFk-btOv-Fa7GUrRRPIE9frHndNop8yncik5ppc2NSncyKpKfKDaXffvmC9DgIf2h9BoNatzH-_n68PIy8_S4RVIpW756DkEN8oRZf0Vaqb2bNt6haxm1m2Y5aBWyzt92SDm7OrRnTUkfBcAWrkaiFrIvyQ--r2KeQc43kt4hlrLpJP0jfvpnySBTeJGKpbe2TcMopic1-lEXDLYhHML3VDYEz3bgcGRYasf9KkPDA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2913,
+    "coordinates": {
+      "lat": 41.913435,
+      "lng": -87.6480552
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuyI60yLTD4gROwTWENq1He0",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17086012509503489083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sepia",
+    "address": "123 N Jefferson St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Seasonal, inventive, upscale American in a brick, tile & wood interior evoking classic Chicago.",
+    "website": "https://www.sepiachicago.com/",
+    "phone": "(312) 441-1920",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_0NFbsYsDogRHqnXKkBCgs8/photos/AWn5SU4lZ-rrDaY21KgptP_x0ZzI1D1m0QB78yZ92kdMyAYtfGZikBMo2OPw2hlTOQMADxFz5NcqWo8NoI6aUTD5mPnB9ParVgw2y7Ir0fWGzGz70o0nJ0j-nIBVLlkrX-VU-TMY1j9x64NAawREgramYc0Cnf7UmIV1zPcx9J6_ZOyxTvvIfkJrtxK89w2s7u90mJD7ZhUrCtOR0HRCpkPItGYlqicoxTTffDS8qzNdKmujRUlN-DZ9kQDH8URWNkCEOewFTjfO5w_Pj20qJB68GpiPkhsSXBejGUnSIWwFk3MTOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1484,
+    "coordinates": {
+      "lat": 41.8839596,
+      "lng": -87.64257889999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "wine_bar",
+      "bar",
+      "american_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_0NFbsYsDogRHqnXKkBCgs8",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14952586556187584798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Girl & The Goat",
+    "address": "809 W Randolph St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Hot spot where Stephanie Izard serves up innovative small plates from a dramatic open kitchen.",
+    "website": "http://www.girlandthegoat.com/",
+    "phone": "(312) 492-6262",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs8mbNsUsDogRUnpg-b_IK5E/photos/AWn5SU6jB0DHngkQePKtKYS9GBdleh-UmoRoasNPM7zXtxgyVJC130Z6U7qc3MWNHDbU2-ylWdeaVRMzx-6gh1T_yCleErhYMQPGA0ebiMhWSF6YfNPqEHjY4RvmxMSs5wxwc44yNJuG7ZSNxELV8p4uLQGWFv9ueNUjeRPJ8Fup577_WxaKowZumDAIjzGSCpznzRRvfMqVbzxaVikmJ1Lvmw-jxjT8FZaAJ2Uz4GCTOWen7wxDcATAK5xZsUQn_YT1LNUVrtfIurbFeACcG9JbHX66Cf-bONxZZSfEiItTObuXdA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 7424,
+    "coordinates": {
+      "lat": 41.884127899999996,
+      "lng": -87.6479354
+    },
+    "features": [
+      "seafood_restaurant",
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs8mbNsUsDogRUnpg-b_IK5E",
+    "opening_hours": [
+      "Monday: 4:30 – 10:00 PM",
+      "Tuesday: 4:30 – 10:00 PM",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10460675286346267218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Smyth",
+    "address": "177 N Ada St #101, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Rustic-chic venue offering tasting menus of inventive, high-end New American fare & wine pairings.",
+    "website": "https://www.smythandtheloyalist.com/",
+    "phone": "(773) 913-3773",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxRcpzSctDogRBKHyFUKauHc/photos/AWn5SU495WdFhbIiyikZC5vQ9FvFFaTDK1YB2-aYjzW_LINjLbtPc1GoRaY8VJcxPZDGk9tdg4ohFDJpGl8PfIjlR6T-q_Jwdbxg_iTew1wwTX_er1ss4zz24D2AVBKZ1IMgY3kHBaxtNd47BBRzLKasPtaafbENW3FXqRl_r-U0hQtuBLOKwgeZG1kSz5ozTqEajSXw1khW-WuVuI0HXusFrkq_zpjsnWFMs7tmZKawx9Nqv9dDBWBP_k4_2gxfGEdblg4CyWewNFiKyZI-OE3qbuS57n5h_lmmve5DYPBA877Ogg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1303,
+    "coordinates": {
+      "lat": 41.8849722,
+      "lng": -87.6605593
+    },
+    "features": [
+      "american_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxRcpzSctDogRBKHyFUKauHc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8626814694854926596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Boka",
+    "address": "1729 N Halsted St, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Creative American cuisine in a stylish, modern setting with a lounge & candelit back garden patio.",
+    "website": "http://www.bokachicago.com/",
+    "phone": "(312) 337-6070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg7aSMj3TD4gRlHUmzqlebUI/photos/AWn5SU6_NPUz4R-1kgtzixVnsQktVcn41JSLfn6kBHyX-VvwLkXLEoAnVJhnlqvcRppYOP5fL7uzp_XakMWm4BeALraBxBpCRAihDmcOktkiBXga7MTRzpHb6iieO_HtmD64hZkKNyHolMKBQGvgHAC0OxGWcccmZHVPZIWfuASObogBQ1s-oz6DNbJoHcC1H5xiVZGqdS02ZjZMan0kThjaPJxY0pRniOxtfgUhwhv8EdIExOoQYybl_yF2wKNSiiso-dGd1oFo9LZ-82ngxmlPXh9zKaRPZM0u-QrBlxKSOJmPUQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1954,
+    "coordinates": {
+      "lat": 41.913555099999996,
+      "lng": -87.6480103
+    },
+    "features": [
+      "american_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg7aSMj3TD4gRlHUmzqlebUI",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4786586062365816212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Oriole",
+    "address": "661 W Walnut St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Intimate, high-end kitchen serving an extended New American tasting menu in a stylish space.",
+    "website": "http://www.oriolechicago.com/",
+    "phone": "(312) 877-5899",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4_ovZs8sDogRyw3X3QCiI-Y/photos/AWn5SU4T65yMDPbO3uFCuEuraALSnYNaheGjiktTXvRV9O56xGxN90vUbmksyzR-_Ukw4WB7F2FWBi9PFkyB7jQrR5sa9on_iR8QYKZ-MzUI8cQ8JF0E44zOqFlZVKVOtYsMg5oE9UKkiPdsGnevOSRoTIETDu01KVaVUjNDCtBz0xEDrNMbMBnrDTQaG1hVUGx1L-o1o0_YJ5pGUcsDV3N6dyyjqz9SQMN78N4ACd71AndUnxLQhDNwkVyxGSef9F1c7qUQ5a5CcPUtQH0MydjwQ2vc56-m00Sr1wLLwDHgFsA1nWinia5HHPKe7XAyZyxPA0luu7kaQM8I-8f-WDP-RwxHkVG1_ZhZ8f8GZgC4zUsBWid8OtW8cwi6N9aXZSbUCCfy7Un-81DK4f3K4Guzs2wp0ziL22nTmTnEq4mXrIl2FRs9YaCyf6IWlf_8sQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 616,
+    "coordinates": {
+      "lat": 41.8861692,
+      "lng": -87.64509389999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ4_ovZs8sDogRyw3X3QCiI-Y",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16583276377513856459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Next Restaurant",
+    "address": "953 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "High-end foodie destination known for Grant Achatz's themed tasting menus & inventive presentations.",
+    "website": "http://www.nextrestaurant.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqdQDvtAsDogRMmlkDTCE-W4/photos/AWn5SU4UkkqR3pSz264wtW6K80C-69nU_12hP-I53ghLAFUbPN4rFLvAikDbNcrmoyrCw1hp5dW-4eMhQMDU_Y9P6hoc2pfHKQ8bYDLLx4TkdU_yJtkvPHwLCk9tPyn0Bq04hNJ47CnZBi1fvOI-ojuNMqQl5n7jrf53_ntLGNNKPN21A0-HpA6SFmkyRc3VxVxqCTVgWYF-jcvu0lL5nUqSxm9dscUxwrNj6TIcvLkeS_XZ8wm6yLpdnOZfIxH5HgY-jwuYfySklmWAkOFLQa4k9GtcvtBMvb6rbokavZ8QCf8QkQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 630,
+    "coordinates": {
+      "lat": 41.8866077,
+      "lng": -87.65188359999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqdQDvtAsDogRMmlkDTCE-W4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7996567955291007282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ever Restaurant",
+    "address": "1340 W Fulton St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Luxe establishment offering a fine-dining tasting menu created by an accomplished chef.",
+    "website": "http://www.ever-restaurant.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqUoVvkgtDogRLGIKXcfaiKk/photos/AWn5SU7bL7gLcNunvG0V2aZOgvan3aXMLz0dAwVC4QsBx0WxT9WIF4GIov1GtpXJ5y5RqWfmvnMZoT4br-Jx-PC78vXCHCMoY-HQNgPkOtuJQzF_ko87g2dQNLzwa7mEbEsQ6-RD2yC_xw3QCF1itHtzTD8OhWGadkIVyqLyk9gMnsCoIHwnz9MIqMXNk4IdKTeQW-P40lLe2vSHxOMQnHBE5DYl844LAlTt2LHtI7m0FY4K9z2yyOApePjgMMeaTQhOvcbo41bCrNOa18P9uF2_DPNz2Nn1anxaVtOXRJYDHPSQ8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 418,
+    "coordinates": {
+      "lat": 41.886931399999995,
+      "lng": -87.6604084
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqUoVvkgtDogRLGIKXcfaiKk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12216254539036779052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alla Vita",
+    "address": "564 W Randolph St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Traditional Italian specialties plated in a stylish, elegant restaurant with a whimsical vibe.",
+    "website": "https://www.allavitachicago.com/",
+    "phone": "(312) 667-0104",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEUAV9zMtDogRJbm6cdw59JE/photos/AWn5SU4YnoxkvXkxYII8peU_V6z_SiF46sFpGDD1HuIk32oLAJe75GuBGqqCEZn0h7cGL2Z2iZeLhIV8Wi_vBuygaopw_XiQ8d9x6pngOwqDUwYNmZ__LVkcFPdDCeFUFRFHD3zXfXJEPlPjgJi8kXhkqFayuij6AXnUMm8_eOqvpHYrQWFZqNuaXuelKuyMoPJ-m_AP9pnbIYe9gxz5V0icL8NNoTph5ryTji1hXiM5QO8pa2JauOyWDMRZ7uG54tFA3B5rotJP59GbDjyCJVaeDNo88tl1iU5roZY-GgdawJRQxCpANgPAFiYsvKovfwdNYqdybMtL-sB9QfKfo2FsxqsXKjMcb09B9OGiPc-YZwcJpPC6rbrdUceaYE0MzB8vZgNN04968ISza1pXyapPUVGWVaZyddlLJHg2I0zjll7-VrxL1bY3hieydY27eDGo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 4442,
+    "coordinates": {
+      "lat": 41.884577,
+      "lng": -87.64252139999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEUAV9zMtDogRJbm6cdw59JE",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10517094648780601637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Elske",
+    "address": "1350 W Randolph St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Low-key spot offering à la carte & tasting menus of creative American fare with Danish influences.",
+    "website": "http://elskerestaurant.com/",
+    "phone": "(312) 733-1314",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSWTvSyYtDogRE-4fa_DPwZA/photos/AWn5SU6E2Pxk1PtRussZDS-hpa0PpNgFDDSLVvl3ajVWhd4DSfp2sTqLJSWcrYHiAkkGI7Lwh9rwDW7UOx-L97dDTfev_dF0WtLArlsABhDer87QFJMLOWDsei-D4udrZUKBu0GEeSH7-hDAd425kG4qiIKkGqDKJIWN3KxXkQOYntjSJC5p59ltuFtI9JkxIqfKgjvjEr24qkssRL-4iijdnDbqhoEaILYbEvk9f6n6jhatw7CJtb6hS2dDibO7tTrM_HDWKz9Q12zkwSc2KTfKAGVBGuw4lpdWayhwaEDc3czWJw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 776,
+    "coordinates": {
+      "lat": 41.884467199999996,
+      "lng": -87.6609002
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJSWTvSyYtDogRE-4fa_DPwZA",
+    "opening_hours": [
+      "Monday: 5:30 – 9:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:30 – 9:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10430846843463134739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "EL ideas",
+    "address": "2419 W 14th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Upscale, intimate restaurant serving fixed-price American menus in chef Phillip Foss’s kitchen.",
+    "website": "http://www.elideas.com/",
+    "phone": "(312) 226-8144",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbbQglnAtDogR-Y6w6ETH91A/photos/AWn5SU6lSpoQQrhT8YN-M_hUkjzcFmwLcqwLLkh73SLkyn1wtH2yvkOhsL7KpNFo6XhsmMIDXFkts9BUms852GKM1fVzxqXBAiBiPxukJACVhE2FFqUItF6M53Pv4Sh66ZJ_0JtXAoQu62OrJwDD_HtuNa1iwbkINWc4sF8b4huXR1WFvhT-zAwnbLlkH-WZfQduNSoDPw7dB_ASkCtc-r5AhPG8AlDz1emApkgos7Krn43FZns77je7xuuaKR8Ucy17mdqFs-u2bdPgohJDXHjQnQ4th_CFXQtgX_m2a963kibG2nBlJEqa9k-4TsHbfJGw-k7jNjf23HWcE3lU14dJbH82qpdydH_f5QJH7T7kCXrfwSpdGWktAsqJXR2P27f2SQt_mBnV42Vf-LqjTik7C6hhUIIDUxGBYfmRhzSwlIsueQA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 392,
+    "coordinates": {
+      "lat": 41.86289,
+      "lng": -87.6868569
+    },
+    "features": [
+      "american_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbbQglnAtDogR-Y6w6ETH91A",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 – 8:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5834350941057355513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Schwa Restaurant",
+    "address": "1466 N Ashland Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Chef Michael Carlson showcases inventive New American fixed-price menus in a simple, homey space.",
+    "website": "http://schwarestaurant.com/",
+    "phone": "(773) 252-1466",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxXAHLdvSD4gRV6CF2nQJZQs/photos/AWn5SU4Xd1WC--x-fNZYA9IkKezhL4_9D3NjuW3mrzUfxn_d5rC4erpydAsMJkE8t5OiBQRxgDZflTCBWBMiZOKaylQ1xC9v1TUKvkd9GUzisO6DiN26HtwSOqQm7cbLcomNgHctuL1F4SSiDnemKFopFHHQLtuEyh-L1ywr24XadODy4GMkvOe8ukPkur1tr7tgaonNgWSNsygNqIpnXLTjXq4gQg-C3U7hEF-uqtGHk8mIqxtho4Q85mYxFnRP1aJ1b9QMes7T20149-4D-tM6NfG7NxuHJLewEDZcCJNa6pju8iYPK8ZcyY-NDnUefR_Q9e0hADKffzs-oa_fwKOt0pTnoWYBP9TIfZMi9MoS0TN88j7tHYoDmHGFzDSiqjo48pa-kCz1ddAFekRoawJA3VVaDSsoVkJh6UHF8aO0KIyCg-DW/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 298,
+    "coordinates": {
+      "lat": 41.9089333,
+      "lng": -87.66780829999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxXAHLdvSD4gRV6CF2nQJZQs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 – 9:00 PM",
+      "Thursday: 6:00 – 9:00 PM",
+      "Friday: 6:00 – 9:00 PM",
+      "Saturday: 6:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=821072904552030295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Topolobampo",
+    "address": "445 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "description": "Rick Bayless' innovative, refined Mexican cuisine served in an elegant, art-filled space.",
+    "website": "https://topolochicago.com/",
+    "phone": "(312) 661-1434",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ25jYKrIsDogRhv_ykBvwfOQ/photos/AWn5SU525qOeO_eZ52stK9Hu7dc1bBPH49FFaemzToWd_gucafjxQ-H9gYDsLhiab_MdZgf4tnspDU2_zYWZV7yTYT5KH_LLEeu3j7cymVH1TjCMawkz01_PKSmj5Ou-Oo2WaXs3UKmxe5OkVnWa4i6IVO_D-mVbYgJsKihIrNtgh1QVLV-kYYrqWAZoy09sV5BcYZO7sWzKcsAnIO80mCxbddKBocZbxDCw6f0eW_VVoetZcfl3kfRGQ1rr7amrnNLCMVOiXLwB9nZqlKYfK24gcCoecZc1dQ2B9jQKrrm-OaicXA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 732,
+    "coordinates": {
+      "lat": 41.8906182,
+      "lng": -87.63093289999999
+    },
+    "features": [
+      "mexican_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ25jYKrIsDogRhv_ykBvwfOQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 – 11:30 PM",
+      "Thursday: 6:00 – 11:30 PM",
+      "Friday: 5:30 – 11:30 PM",
+      "Saturday: 5:30 – 11:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16464298338946318214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Indienne",
+    "address": "217 W Huron St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "website": "https://indiennechicago.com/",
+    "phone": "(312) 291-9427",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgaWIsk8tDogRXfsAkui5JOM/photos/AWn5SU5_th25vnlv963PVj8NO0YN85Xxx8fZC5eNNVKAUOTkNKDo8l8dxwzseIDsGP1n9Ay5LDjYX138J2TxyuAZTplch5cmo9tuCMtr1GkjJ6mPAA5A6A_SkbWQiC16Pj_D-0wjKpPYdZWxtg6WGnjGeIiRuzfMn6bVUKc-R-AoDHCPsOOjLt0ainbFVpf8fkrdCyUSDUo2Qs6jgcJGDLCWBwNFc2CvczICSAs6ieOCaJ0wviRDy3oGFgr8Q6IikEEHvuNubbmZexpv0o2JvqO6wEnKYIYknMPabcLy58opXlekNl-dqB1G3ZV3n8VHnZYrdL-Z2DSUhnpsi2gZqpOYTqLSSQvTTjPBNQ6Rf4-Ov8B_7ECXjHBlC1EQBkt6xpMwrC2X6IqVCRU0iw1WW9MFTIsJyIRx3oUgXM8_HqJ6GIw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 708,
+    "coordinates": {
+      "lat": 41.8945578,
+      "lng": -87.63506199999999
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "bar",
+      "indian_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgaWIsk8tDogRXfsAkui5JOM",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16367411354304314205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Purple Pig Restaurant",
+    "address": "444 Michigan Ave, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "description": "Famous pork and wine specialist, highlighting the flavors of Italy, Greece, and Spain, with an open kitchen and a chic setting.",
+    "website": "https://thepurplepigchicago.com/",
+    "phone": "(312) 464-1744",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl8NTEawsDogRwXH-IVDyH2A/photos/AWn5SU5YF1ygozLjqAbhdiGPtmVtzx_FEokIBa94TfliTpoaVtj01bNB55ot3bRIJ-Axja0s7LtOgTOUcPR_ycdTuiz_MERZ7TxOr5pMmKMgCW6OPPH4wn6RGTizEN8Kv43PLwDW6z3ivVOzfMKaS29iD2sp8pPPVygC1klmnhh785ynM1i7s50hAMdGDZ2DM4QqZDD1v1-TB7nJGs7i34NKTysFSQyIpwJ21oQYn89naYbqHmPdXeMyT9vbzu1u9e2y0ZHNmrh8CeHSUKQi-6oR28DELJg55qGo7XmFLng0MH-q8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 7154,
+    "coordinates": {
+      "lat": 41.890738999999996,
+      "lng": -87.6245691
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "greek_restaurant",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl8NTEawsDogRwXH-IVDyH2A",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6926521177900741057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "North Pond",
+    "address": "2610 N Cannon Dr, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Modern, creative American fare made with local ingredients in a peaceful locale inside Lincoln Park.",
+    "website": "http://www.northpondrestaurant.com/",
+    "phone": "(773) 477-5845",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt2vvlXTTD4gRHTP-0F3Hnyg/photos/AWn5SU6V-x8dPUD-JMasJRVh8B3kzNocDXxSfshAq1ygNGh3pcpqR6Ez_TF7JzcSN7Ly99uu9iDqZtFHGVfFbk2CH_1w_xHfP5Vqo4CSKgHrhvtHM2MDWsLnEKwHtKAiIgwXKdp2PWGvc1QUtealn3dPMFU9iy77UdHZ1Oew4ZQtfXrg7j4yNR3ULF8vnlPRFA8OXZeR6etposmDwJHWjdZYQhXenZK0UAhK5U00uYQ9AXWwtNGCS7RRlyKz-QbpUAIjOJMXjLaqA9zJ4WWIituefKsFesKTunhJp8jq-7glIjczguQcLUvEp8ke3NH167LCCsLpgZP7tSNFUeXI8FaLueJyPAj3jIAwluuIcZiC47MRDj5f0XhC8oOHNIu3E3TCWG-uH2yNZ2343plrvM6dptzmjMi3B3szUvrNPxEcDvuFig/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 643,
+    "coordinates": {
+      "lat": 41.9298705,
+      "lng": -87.6374652
+    },
+    "features": [
+      "american_restaurant",
+      "fine_dining_restaurant",
+      "brunch_restaurant",
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt2vvlXTTD4gRHTP-0F3Hnyg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:30 – 8:00 PM",
+      "Friday: 5:30 – 9:00 PM",
+      "Saturday: 5:30 – 9:00 PM",
+      "Sunday: 10:30 AM – 1:00 PM, 5:30 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2927277488566317853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bavette's Bar & Boeuf",
+    "address": "218 W Kinzie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Upscale steakhouse with a New American menu in an ornate, dimly lit wood & brick setting.",
+    "website": "https://bavettessteakhouse.com/",
+    "phone": "(312) 624-8154",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyauRlLYsDogRE_Hnbxx7V8E/photos/AWn5SU74DPxS1naMPZts3NzSrZjI3-UsK7F40Kj3J1JzWUQHE7yoquXjdRWA21SvU6eAjfScWzbcdCmBfkWM0rMeY2W71p1lAQA-YqvLpDj-6G3MuV3185BNARWrMhn_Nrnfa-SuEbjI8DBcfNyXxP9Q2yBtf4pUO1Rgw1oCDxcSCYWDS4u1x6UWYeY8pNfH33K2nUZQJbNH6ZBvY39N3olp9dKdERLrJUqFEpkdcgaLubtW_xcB_tZnY7xfSEAAH5ABxx2YpRNyYbOTv3nIQCPCaYqLvfblsm8SP0Alko5eqTbE0A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3718,
+    "coordinates": {
+      "lat": 41.8892908,
+      "lng": -87.63488869999999
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJyauRlLYsDogRE_Hnbxx7V8E",
+    "opening_hours": [
+      "Monday: 4:00 – 10:30 PM",
+      "Tuesday: 4:00 – 10:30 PM",
+      "Wednesday: 4:00 – 10:30 PM",
+      "Thursday: 4:00 – 10:30 PM",
+      "Friday: 3:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 3:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13931739334360690963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "avec River North",
+    "address": "141 W Erie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "description": "Mediterranean-inspired eats are matched by a robust wine list in this stylish restaurant with a bar.",
+    "website": "http://www.avecrestaurant.com/",
+    "phone": "(877) 298-0592",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1TvaOWYtDogRW-IvvH1x_DI/photos/AWn5SU4fXMqt2qppwx01TLASvT8to2uYmKdu6nQf3YKyPz1IRQJzqNybcsg1OIvuXdCNq4oYjTxPalYXA-Esby8pX_KonA8cWyvGb8WFim9eEBTbE3LwP8uhLoZx-4KlKsgtZ9ZKNOMF6sO9iDlFul-Qv5EZRdDpv-0NHg8VzGyQbmUejoDHc3TM-EAM1s-rcFautsRaFWXqyMCxr5LjfYxznnoQMHbsOa3jkDR-B0jYhh3nWVda-MnjLs9xRfLthkVatge-uKV7W1NABy4fGQuVUxz9_2QiIDyjcrhjp-dEFVhQ2hV6rMsnhpigGxB1FRqVBr79j70kRWQh_uplTRkOkiwINpaT0G4y77Oo2SqOiRFV0Dl5-kY0bpNToXHOA-nOsV8AWal_y0QPThc13YrL_SfnAhdV_bRkNTusGVxaCgYnHA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 748,
+    "coordinates": {
+      "lat": 41.8938571,
+      "lng": -87.6329428
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1TvaOWYtDogRW-IvvH1x_DI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 10:00 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 10:00 AM – 2:00 PM, 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3673936180869587547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "avec Restaurant",
+    "address": "615 W Randolph St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Inventive small & large plates served in a cozy, minimalist space with communal seating.",
+    "website": "http://www.avecrestaurant.com/",
+    "phone": "(312) 377-2002",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNYrg38UsDogRP1lxJuC05hw/photos/AWn5SU4MqF_tkWg6SstC7WD3cupuQb1gnaMJ5HpHSeUpH9tpOEbf1VYiSXjBE7e2DsgoUAJlN4AL3-KTTyOtoje8lp5SryZIfvBAlXqHb2OKxYQ5Liyh9kDjIIyFc391Cf3usVMsnfFsXvb_QGlxwUZULmwDcpdV6nZce30YE3z7YoDW7ZN-LCBHpNOiQjGpMMSytjdf5cZ5XOL_HPI9RVd9UfppfelDjlDMcNAgJgCLLWaiDnFp_b3BX9ziPYbOY9sPi6fCI9IVv0wSftyaE7x3F11O62BeCJpSrDtTfzjKp1PU1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2286,
+    "coordinates": {
+      "lat": 41.8842861,
+      "lng": -87.643401
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "wine_bar",
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJNYrg38UsDogRP1lxJuC05hw",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 PM, 3:30 – 10:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 3:30 – 10:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 3:30 – 10:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 3:30 – 10:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 3:30 – 11:00 PM",
+      "Saturday: 10:00 AM – 2:00 PM, 3:30 – 11:00 PM",
+      "Sunday: 10:00 AM – 2:00 PM, 3:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2082550752516069695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "goosefoot®",
+    "address": "4520 N Lincoln Ave, Chicago, IL 60625, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Innovative American fare offered in a contemporary, intimate fine-dining space with BYOB.",
+    "website": "https://www.goosefoot.net/",
+    "phone": "(773) 754-0368",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvR53CQfSD4gRMnHOjEG07ak/photos/AWn5SU7E1Z9zStzfObb2UJS-7eerMJQ4PobQ2rYO-n2yuDQSnK0UNVruHnC4w6OTc1IopsOf1_hlPXH5swgsdfQUEqNiWdbLqn2CzkTb_mQBrLWa7kEgvS-crQNNZrMfI_2ukKx_MIo5Y5n6SK9mzQUYsGuzl4IWHV6xQfEfsw8eZVUdBCtIDzHCIg2I1DeZhMQyLdkBx-Xw6pqmv4eEuSZOcej8LFkWRjPrzG8tJo2nKuGW7_igmm-7guj-Y8f_fWy2AZVY0WIvfNcPm_95_eEYpLWkiq1ONKNOBrl1iSjfwxo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 241,
+    "coordinates": {
+      "lat": 41.9636875,
+      "lng": -87.6855624
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "american_restaurant",
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvR53CQfSD4gRMnHOjEG07ak",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12244641155518460210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Berghoff Restaurant",
+    "address": "17 W Adams St, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Institution since 1898 serving traditional German cuisine & steins of beer in an old-world setting.",
+    "website": "https://www.theberghoff.com/",
+    "phone": "(312) 427-3170",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ00KvtLwsDogR3GNih9CYiQs/photos/AWn5SU5gto_GfC2MAQ4H28Gh9-gBf3j7ap5_oP3sX8IC7njva6wc-oi_Nwx3wLtdlOZfx4bzyEwpFEUYZWbaf7A-6UiPB0mvd-dqsPnKXPppFoiGN7Bb9Uwn6XLLtbR1YXN0zERy3JyhtrmyTWuZ974376Kivy7uSZxQPqnLYCiNa98NN-t6xd6uTRszdXrkWmhgPOUhUrt8omojHU3G_j3d-u-4QemQPFkv1PD4rQW4IFkeCCSdVql9vLi_iV89iypdMHbV5VxYePN0qb5GaTEUCVZiQHFPAPx8RNJPw6P7ZLoBLA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 4985,
+    "coordinates": {
+      "lat": 41.879252,
+      "lng": -87.628406
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ00KvtLwsDogR3GNih9CYiQs",
+    "opening_hours": [
+      "Monday: 11:30 AM – 8:00 PM",
+      "Tuesday: 11:30 AM – 8:00 PM",
+      "Wednesday: 11:30 AM – 8:00 PM",
+      "Thursday: 11:30 AM – 8:00 PM",
+      "Friday: 11:30 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=831363627618558940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "NoMI",
+    "address": "800 Michigan Ave 7th Floor, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Inside the Park Hyatt, this elegant spot with an outdoor garden serves inventive New American food.",
+    "website": "https://www.nomichicago.com/",
+    "phone": "(312) 239-4030",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYc01E1PTD4gRzz8xH_xDLNw/photos/AWn5SU7piiFFUrXBJVsvR7UUrkPsU46W98PGIFetTMNwO6A4WRmu-m-RF1ZIgza-MjJcADFkYY6uq4VviuhnDJnLWsewQxJM_JVfm395f_qQI4ANXlgg6eCu9ATAKxQbH0ds_qBBXtApxhZjg97YF5fuyWBUS-LKMxy4b6emLD5l3xWpCNPKd9fCb2FfrThuD5pvWz3aMIpBtk9UxDELkc5vrVlJVbZ4I4lbCDLreekdLlx_AMMYy5c_WEH31S3tXo7cexfzE6dO5xt1bTyQjjl37TW1vhFX-3oPQR96Rs8fmTa3oA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 584,
+    "coordinates": {
+      "lat": 41.8971825,
+      "lng": -87.62514809999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJYc01E1PTD4gRzz8xH_xDLNw",
+    "opening_hours": [
+      "Monday: 6:30 AM – 12:00 AM",
+      "Tuesday: 6:30 AM – 12:00 AM",
+      "Wednesday: 6:30 AM – 12:00 AM",
+      "Thursday: 6:30 AM – 12:00 AM",
+      "Friday: 6:30 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15865130337453555663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Obélix",
+    "address": "700 N Sedgwick St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$",
+    "website": "http://obelixchicago.com/",
+    "phone": "(312) 877-5348",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuS3rXR4tDogRfctqorJ8Qng/photos/AWn5SU6t2jkbFDtl-eq7IC4zG9HKqwq0eP_FFKSoTWScUbUQx8JCqeuJuzw8JCnFmHD-RMSniWetYpPrqSfvu-NMuyR1A4Xy-BIphnW6lb6fASNLWxA3OiXOzoUDOlW3Kcnq4vziGWVUYm0y0SpSAHWYtkfRn3BTMeuZCYHjOj_wsg0wJhRdPOkXDGGqMmFkQZ_WC6WbinWmHOJCpfX0hE5iFM1vzoPUVDLbHiZ0ZK0XkYPiSdWSRzzPbkccWw-Fma9umTBwwYaIrmgvBRG-MxAoteZco8OCisqkQf1q9D0laCIrZ8lIUzCg6BjW2Ge6pvsEXM1FnNXfsGSn-ihM_UZh899K40XGB2tOBZlg1Pr7mAi2yGdR5TV2wDgFX-p89MZ6EZ24HKmy3UGhs-LzXkl6MFmzlf0_ekwb7ucH7ht_rzeyaR1reqzyxZVaGkMvTQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 671,
+    "coordinates": {
+      "lat": 41.8949758,
+      "lng": -87.63873339999999
+    },
+    "features": [
+      "french_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJuS3rXR4tDogRfctqorJ8Qng",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 10:30 AM – 2:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 10:30 AM – 2:00 PM, 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8665625739685186429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brindille",
+    "address": "534 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "French fine dining & a lengthy wine list in a sophisticated, modern setting with Parisian touches.",
+    "website": "http://www.brindille-chicago.com/",
+    "phone": "(312) 595-1616",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZZFRsbMsDogRRNQeQlolb8M/photos/AWn5SU7w7vAdMfS6QkFimNJL_Ua_phEyKjh9mtvAQLkDT7Jv4SN9oXc5up1nZeCmozB1WsNh72Mp-VyBNHO6WUSBs4nUUPdJsjEfinkOde8pyoKwnb1LOGUHaihO9TIJ5YXBSf33tjdl0ikkeW61tadceo8BkK7WASXVoRe2M7jV4HSOYUprjFlIXDvdk74qmfP8QQV4qirWHWLwQS5h4adsZItvOwosvdiEJGhKgesEEsuYbzJMqzbW4pROJtBW7puGNEFIZUTFJpCkKlXwpAPpugajrKVTRuWAVpiYWI7esvScSyvzNAL-D8X4Ae3HxR0cjR2gDWb5lyP3PO8LZeo0G8KFHVjECuRGertfrRhjhPTr1dhJAAsNtXK7Q7-M-8HRK76SFl4aFUhjnuE3TyIQ3kCXtdLSscjdAyZWBfV0Zq-gGLg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 236,
+    "coordinates": {
+      "lat": 41.8918953,
+      "lng": -87.63140899999999
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJZZFRsbMsDogRRNQeQlolb8M",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14082515629397431364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kasama",
+    "address": "1001 N Winchester Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Laid-back eatery serving creative sweet and savory pastries, plus Filipino offerings, coffee, and wine.",
+    "website": "http://kasamachicago.com/",
+    "phone": "(773) 697-3790",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJccHhHs3TD4gRxVcCWUh7-xQ/photos/AWn5SU6uOKZTcCFiqcUjTXyemq2BgiaOumlo6JvjUW4729o595V87PZHvDy7PaCKQaC30tyesrRLTpEsMO1epaE2UMSyOgr9p8UyLRPo5cRlXoWTDPz7t303b8i6NcqtoUKFwSrqUpq20BBoOnVz4rHos3m_fs9Hw6SxxifprPkiMLfgme0re0KgvUPhs8oR8-ZS-Czx9VoM4HX0YTuLiajTEiUV-wpuIp8U3P51qBQFBYDb_Ec15wL21mhBWEY4t9Fu4GmPQLHCMLMQaPUX5haJzjBqC9HSOMmmTar7D61uWKsjgLDEr8hZ681-4OQcbumElsC9Uf9tpPww7FN56eSDb6Y6fAN6vuIfZBv8KIVtoMWL0oRbyKJjJvxxRLPeei5UYhaIcQnBHhIJENbtjMKGYRb47cPg7XcM879LuPLOirgzjy5itRn9JR8nQJRN8V6L/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1892,
+    "coordinates": {
+      "lat": 41.899682899999995,
+      "lng": -87.67565189999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJccHhHs3TD4gRxVcCWUh7-xQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 3:00 PM",
+      "Thursday: 9:00 AM – 3:00 PM",
+      "Friday: 9:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1511937650574120901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Grande Boucherie Chicago",
+    "address": "431 N Dearborn St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.boucherieus.com/location/chicago/",
+    "phone": "(312) 624-3014",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJm4Gq6AUtDogRohxNMjrpRlk/photos/AWn5SU6Fszs0C865_NqBEno52WTck0XE_LOXq6pwqcCEKunne0ewcTB8PWEquKeXq2xUqACPTEj0U0apz3byeeijyHseZiMmnkwhsoH95l63eTImbaN6JryAIodidZaLQVZd9BZ5_zZpYdGEECslIdUwA0fi0KCU1x4dthuZfflSEYTpSd2Mbg6J7Te-XX6_RewQBO6DpNk-zhPqBJq7-Yx9rA8dbhu6Rx58ikbDZvAtBvPNdgrFgfqA83sVIeiMd0J3XJUdCaY9u9xXbfinx61-zIhoEF3N8rlj0C42No6sm5KBOQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1688,
+    "coordinates": {
+      "lat": 41.8901981,
+      "lng": -87.62942609999999
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJm4Gq6AUtDogRohxNMjrpRlk",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 11:00 AM – 11:30 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6433085553906621602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Publican",
+    "address": "837 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "A creative seafood & pork-focused menu plus global brews in a hip setting with communal tables.",
+    "website": "http://thepublicanrestaurant.com/",
+    "phone": "(312) 733-9555",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjTtBFNAsDogR8QDi0-RQXBk/photos/AWn5SU4tUmRx3iBFjX49yRDRC1YI8gyu65uwtGKyZpd1cCeLnM9aKSAudQxLFLKj7HpTuWIKm11Vl9VBqS1RkCjpD8Q8o82p32wqcw6LmFXNV6WAlby8nP4hd-pxIAgCXyHMI7e5JyZil1GWMqAFBjOww6_9tB7S_GV41u6m7dcoQ6WLh-65kTTw83M_6pqmfNV5i0CtqMNfqlIhrASMYpeEh_U0crduDMBL3uENjxYcYBByojonhwuj8HD3Aget_P8TIA1wIEn-t1XeC-imB8kvXvwU99ale0g-v98dm3-EbZItIw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2913,
+    "coordinates": {
+      "lat": 41.8866349,
+      "lng": -87.6488498
+    },
+    "features": [
+      "american_restaurant",
+      "seafood_restaurant",
+      "brunch_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJjTtBFNAsDogR8QDi0-RQXBk",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM, 4:00 – 10:00 PM",
+      "Sunday: 9:00 AM – 2:00 PM, 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1827424492543148273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Virtue Restaurant",
+    "address": "1462 E 53rd St, Chicago, IL 60615, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Hearty Southern cooking paired with wines & cocktails in funky-chic quarters with an open kitchen.",
+    "website": "https://www.virtuerestaurant.com/",
+    "phone": "(773) 947-8831",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdQBzqFMpDogRblcUhYQDPu0/photos/AWn5SU7w4p8WJUd1mXJEOcyen52R01ecuisCa_8Zgqp5_tAA--st1qgzAVlMze_5ozwvDGYHAIuSYB0x8OfwnbMl5gmkE2snlBhg2IGCZsbk7UJzMt0VnRmKQyXzZiNnSgil2wtvbTcWw4_LU5meC6auF4ClGsZJIyYT0X7mMlM6SDRfmdDJ0hKlAxTBb-1fMzPXyFTITazGvE9Oc5T_DxoRuiZIv6B2ScuT07x1R6xMqALkKfVv5xUCpKamypUI8JzA0pShiMshNXJjXhaTH7n60VwBKToma29zcsBllvWhfWDeyg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2209,
+    "coordinates": {
+      "lat": 41.7996669,
+      "lng": -87.58925149999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJdQBzqFMpDogRblcUhYQDPu0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17095105103248250734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Feld",
+    "address": "2018 W Chicago Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://feldrestaurant.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSwxFi48tDogR5dycH3Ei-IE/photos/AWn5SU662PsAMTQX7RhVw6T02P0xmYuG0_jxG14kVU0MfWykAjNVOIdI22Hzgj9iEO3z8d_AcCuSdurb-SUheBCqQvD6ZF6zFwLXAkmPLHdQJbNt8Afyb23qyFQWsxZKMPbaGXs92gcAHEcG1qUwzhB00YdWt6rMkdeBRvwu4shFxLxa063iVJlJrX87gFGcr8Bz3eEwuVItiCL3mEiM-LWH4bKeRpDX7clVQkeS8HM-gTZA7GGz9IRLNOFnbL4KghUVTEO_BDywqPr8yZEIQkxTNVl_uCNCRh8J6GMIsvT1FvMPHXuNquQMebDFI97qslYL-fgTbUUKiU-HD8i5O2VtMgdZlPxNl0VfwIDR2z4ctsdURAXEqgJ54VJLGQNsc6hjYe9RXhaz0zNjxB9wzTN67S2MJh9xZyRI-FkwT8T7YZE5Zg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 142,
+    "coordinates": {
+      "lat": 41.8961134,
+      "lng": -87.677857
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJSwxFi48tDogR5dycH3Ei-IE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 7:00 – 10:00 PM",
+      "Thursday: 7:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9365273294373969125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Crying Tiger",
+    "address": "51 W Hubbard St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://cryingtiger.com/",
+    "phone": "(312) 736-0183",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMy-h6y8zDogRT18B--Truvw/photos/AWn5SU6SU5zzFjtiWgCoZJRSrXunENZ0TO4B0EJfNEtBogoPqQR1EA25m8caK6jfr8Eaijmjbiq6_1cvPRIjUkeCNz5Puqox4jxOxklHANZD7binC4oPNlNvn5qIKQ4AjmBi1FWtu4UPJywlIV_2uL1O4JlC_uOtHhYCAB4Tp_XX99WJrUTL-bmgjqbNyZ1_XE6zctjHdhvxJWPnip1gmohADEDrg20B8zrlxvHFLOUIkaCy98g3etWfTp6fXas1K5a6GPp24SfCWOv1Hyn9ZQVK5eQZQsSIQ-q_dxvp3SnScAGY1g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 481,
+    "coordinates": {
+      "lat": 41.8898897,
+      "lng": -87.6298989
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJMy-h6y8zDogRT18B--Truvw",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18211127411922263887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "AMBAR Restaurant, Chicago",
+    "address": "700 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Small plates menu of traditional Balkan dishes, plus regional spirits, offered in rustic-chic digs.",
+    "website": "https://ambarrestaurant.com/chicago/",
+    "phone": "(312) 547-1700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_WkBLrMsDogR0cFQJVbq0Kc/photos/AWn5SU5lZaTwc8tfYTAY6sHZnRfhohlL_CNkVap2jGc02zKIUDOm_aQKcaqdDOd6ihew-9vAL_kFd-rG5O3LzJVlzCRejKcNZG9iZ3WbITxwd9uy7xXgJrP0Zjn01djVlEIao1xNAWiuxMNocjtV8QaaWbbd1LhnVLNswl1n24NlTBDg04nc8QcP8QsI2cNMzl_yX9unE6iOs7wpb6D_OWAvlqSP9ubOZzlSa903P6sYfZo8a2IUNdFPExvHWdL0GI9ywh_n0Z-pYmVehG37-2zpGSiB91T2hExTh9HuoOMBATk/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1058,
+    "coordinates": {
+      "lat": 41.894981,
+      "lng": -87.63158
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ_WkBLrMsDogR0cFQJVbq0Kc",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12092422655203918289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Valhalla",
+    "address": "2020 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "website": "http://www.valhallachicago.com/",
+    "phone": "(708) 222-7971",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa3XLkmfTD4gR9cSTo_vRhqQ/photos/AWn5SU7D149TbwofPu0i0mVLX6ZJRkIMsCK5xjoczdbIdFotRENClMVw8T1TLjJKrUVIlnqJi41R7jenzVopsMUOzSgiQFZpq-_r6LDHb6xB5sN3MVklhesS2c8CYq7ir9oTU_8CbpOTa4eO2IhApPcDnxuh7xw1H8GOUkBEHl4cCUky98HR1deYQEsDpL2V26BKTL_QAQ2XQT3J3E3xAFx81cvn_yKBisyz_BqI6cIdni5R1G3wQFhQKz3yG1WEy6c4YUKi5wRNI1p-HaRwshMUvtfB3afW2xXRiuK1i0FscBPa6oI1cUL7XuZmmRzSRapzpr8F9M95n9YqAzKyjN2_ULVsT-iIxlWVLfOHn6KAM13zXb0EifpcZD_DpTSEDNVOX64vLgy9p75vvvmGr7mV8R_bS94HI5BEbXR9AjLAtHJiD9bn/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 120,
+    "coordinates": {
+      "lat": 41.903483900000005,
+      "lng": -87.6782037
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJa3XLkmfTD4gR9cSTo_vRhqQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11855393947810776309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gavroche",
+    "address": "1529 N Wells St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$",
+    "website": "https://www.gavrochechi.com/",
+    "phone": "(312) 898-8925",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB_90xkPTD4gRYKkBDJQaY2Y/photos/AWn5SU519ijBq8D1MR8D5pP6HKwkAYjIMQyictkhGlYOmYDUC0HZoGwZIM3LbsxfWeTHkWoeQ-agFSsrd702OZWjO-WTbf4KbhcTsjUn_2zzikeqw2rUw1DKDlQn6gBuvw3QnqlPZsDiKpV2EmYqrCmau080fYkDZdhUT2AcsvGsOAq85CxesPi6mHR_grzuwL0uT-oKfi-N6IarrUU41aRBd3YCf_a63CBQSa_y4j-F5fDRs4wDbrg3F2aR3aHyJNhyRX8PFhPdmrmnqE0wQA-bdqOPUHWFrK5xmrMZFKfbH3Ck95GFJ5Ts642XLABCh62H2pIKlVZ9yAnuZ48brosdSsNy7RoaOsMzgKzBmcB9JTcvgY-sgcpk7u8AkS-WBkKaezKBu5POp-VFWr9ioqQ1ClQemL-VjEpGT5U_4-Ykuj8je7rRU21jkvE6Ynj6K-n0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 121,
+    "coordinates": {
+      "lat": 41.9099899,
+      "lng": -87.6344013
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJB_90xkPTD4gRYKkBDJQaY2Y",
+    "opening_hours": [
+      "Monday: 4:30 – 9:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 4:30 – 9:00 PM",
+      "Thursday: 4:30 – 9:00 PM",
+      "Friday: 4:30 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: 10:00 AM – 2:00 PM, 4:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7377769837721921888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Matilda Restaurant",
+    "address": "535 N Wells St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "website": "http://www.matildachicago.com/",
+    "phone": "(312) 754-0092",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV5RAKCstDogRe3Lp16i6fq8/photos/AWn5SU4CCZZJUjUUq7h2MRkBww3zmwqy3vUUysWcSeE3pUSVkOLLqI7zlFm9hiDhwM3vByIkrr8y_ELqA60dDDksP0l9jteD5Ur9AucYOIm7NF448c_Xf56EpNnconWtU--MTQJ4Sj9CIt_sAOd3Z7TKWuIaAyhqPn8j26af3QP2okoRjV9t1JAiSKcVi_uomCgJcInPjTt8_VuPiR75KOeSxOAqRQQpss-Af_ew3zklYD7OyUyFX8ZrfDTP7ufy8WYi1SPny-qXjgmF6_PpOKCD__dJoQ0bJVbQLiWB4PHTK_1qXQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1057,
+    "coordinates": {
+      "lat": 41.891888,
+      "lng": -87.6338054
+    },
+    "features": [
+      "mexican_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJV5RAKCstDogRe3Lp16i6fq8",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12645750038042604155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mirra",
+    "address": "1954 W Armitage Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.mirrachicago.com/",
+    "phone": "(773) 729-6214",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2aDnNwDTD4gRKm8jfoElHRs/photos/AWn5SU68LUqSTvEpn7nl35sJEFrmIgYEqIjAAmVz7HZbOySalIurH4or5mT6DcPkXwitWUaRASgGAK-EY6R0yf4t1rG08cwimKd0zo-JAAJ1o3gA5wCrNTzYRdxrH5V0E9L-YdQLLsPoZVgLCmptVaXhefNb4Ve5vK_T0uNd8OMsycah45ByJpYlSB0UYO2hG1OBXhXS-OLTqlzcrPYG4TAmLQzuATq0BAK2Yu32JkCw-oTQeRf3gCNmPF-3EtUiLciwPsqTYYlSLF4-rYW1yV-dS5kdjwx0gc13FxJv7qkbr15xMw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 282,
+    "coordinates": {
+      "lat": 41.9179598,
+      "lng": -87.67737819999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ2aDnNwDTD4gRKm8jfoElHRs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:30 – 10:00 PM",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 10:00 PM",
+      "Saturday: 10:30 AM – 2:00 PM, 4:30 – 10:00 PM",
+      "Sunday: 10:30 AM – 2:00 PM, 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1953759051445923626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brasero",
+    "address": "1709 W Chicago Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.braserochicago.com/",
+    "phone": "(872) 342-2079",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJubDq1jItDogRirKGxOV-tC8/photos/AWn5SU6CDku0K5nDQzKLa10-LNaaHVMt3lvXewkSVeMjMgU-vGhl9rNhALvW3-D_bps2gQO6Vd-kGdxRykIMck9zAjGwWYKx-4Ox567HLqll2fkyqRTiHRf8RjRq58jGAuItzoJMg7_NkA_4bB7NsJYR_tVTzlgT7dd-hxRXc0iJfo4_8uTvmRZJlgkgzvN2-E7RQNZnf7GbNYFR3Yp2bxOMx3h55ydU-SASzNwpYb3nEm8uJlAQV8aKobEu6m5wdrh-19AoJJi6lKYx7LiZmQkbsWHhXq3AlW3eU4b8ggz1x9czlw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 366,
+    "coordinates": {
+      "lat": 41.895705,
+      "lng": -87.6702143
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJubDq1jItDogRirKGxOV-tC8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3437511940900303498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lil' Ba-Ba-Reeba!",
+    "address": "441 N Clark St #1, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Warm restaurant with a striking bar & a terrace offering Spanish tapas & sangria.",
+    "website": "https://www.lilbabareeba.com/?utm_source=google&utm_medium=social&utm_campaign=LBBR-GBiz",
+    "phone": "(312) 985-6909",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4RQRNT8tDogRpvy_HdmzucQ/photos/AWn5SU56EmbIHz4Erqq5tMkRvTjjezSZkHemOxchsaHfzLzqlxIw732nN-hnx6odVqBwyBOcKpARgep-bqlTjGYgC3X-GcFyB-mUjX1HGmuZfHTQlmvJDmsfuhryUv9ZPuNLo8n-3vVPP2xZ9426u7u_KLkZQ5iQBkasrECJZQaONrkb0RRvLUQuP91DA2kZT-odIAAp-hZlb0Uhy91pdJ5n-yGeYjc965fNCsEYCbfSm5bk2s38qy7JgG4l4Hn4hK3p94eg9fIui0euiT9cfzf_-BhPS7ZktbayiOQPTWt-5MpuOw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1485,
+    "coordinates": {
+      "lat": 41.8904253,
+      "lng": -87.6307641
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ4RQRNT8tDogRpvy_HdmzucQ",
+    "opening_hours": [
+      "Monday: 3:30 – 9:00 PM",
+      "Tuesday: 3:30 – 9:00 PM",
+      "Wednesday: 3:30 – 9:00 PM",
+      "Thursday: 3:30 – 9:00 PM",
+      "Friday: 3:30 – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14175559047213743270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dimmi Dimmi Corner Italian",
+    "address": "1112 W Armitage Ave, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.dimmidimmiitalian.com/",
+    "phone": "(773) 697-9829",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAW51HQDTD4gR9ctCvVJQqt0/photos/AWn5SU5Q-6Jzy17iGR1U53FawO-uFvIoDTqpch8qWsr97Y-7s9b4w-VCduTQzS4YJHa5UuMTuW7bUDHyk97o_OPnDv2ER5IiWa6g_XBABJcv8K_NbBl6mikvY7QnpsZVFYpY5HtURYy41kjD47h1hG2yYh_c6TyrB7z_6dOVcpHlgIpsT1bVetVWG5plE9JFh1fNd7TK_yUFi-DZ2nUC1qROAfSWI_nm8RMswQ4W8i9AGn7wn57uLuBN1H6QCvFElaGhqYh1PC_8wF5AvfJK7IPdFbVBgd98Y3M2nvAWsqqHmcU-mQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 130,
+    "coordinates": {
+      "lat": 41.918192999999995,
+      "lng": -87.6559347
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJAW51HQDTD4gR9ctCvVJQqt0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15972667344715697141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wolf & Company",
+    "address": "1752 N Western Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://wolfandcompanychicago.com/",
+    "phone": "(312) 627-9653",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvVI1fQDTD4gRIxvG4LYyCNQ/photos/AWn5SU5kqXNEK_s45pnWov6BEFlzqT0FdrO_K8HadY__0IqtS-g_kNEUIj__U-w_nzb-b_b4UWpYZaU_9dqEyjqwd64VRzT24LtMMvYl76-nmSRELOAOe4sPBHIuj_mEBeexZOnXtjo6h4bxQIfXcK8_-3iM6zNxEsZbEiLG2cCqOWlNv5hc-R-HeSAzLLHAayAJtT6e5u9AjhHrAHyoWNYUd3nniRChlIFPn7CQZv4B0HBxWOz1uueM66foiHftCbMp18-WesRWxzW9yydfnPTCvJq0dEmglywVpXa6MbpdbT2u0CnH8m1zDI839DtNAsMD_ki9c4eSzHWgC_SChRpYX5EKJTPGJt8lavPXD7KBCignG92EDM27XBrpuSc_XiYdrCJPzXPK80AfCN8vOs3oTArG46zDg-AR4EEp17facNtwkaIlHoT4gsHVmvWVsQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 187,
+    "coordinates": {
+      "lat": 41.9138059,
+      "lng": -87.68777089999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJvVI1fQDTD4gRIxvG4LYyCNQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15278517496890923811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nettare",
+    "address": "1953 W Chicago Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://barnettare.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJaxddGbQtDogRaL28kJIZqS4/photos/AWn5SU4kTdPXNulKG-6UhMeYWDU7fmhh1dOOogBqE0xMHa0sbLB2UJdHG3Lj8y6OHpzmAiYW2bOLv5RYVCVL8KCybA9NXvM_YFqHPc8tvbtZ9-iFX-ojVy4RNdqeClSE5VvPFH9GYib0_e0BUvN59d51UFoPumszMT_2eWlFzRB50suCmKeWNkuyyddyP0d5C0daq1BN1GYbbvz7ikOEYi3p93B43XFmPA9PcVZ9H8NeuxxUIOOJd_FiqsIPEWsyWI7LISKG1GNBar3It1gfXFs0Fc6uCGJTO5Fw9vFG9W91uab9LQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 194,
+    "coordinates": {
+      "lat": 41.8957397,
+      "lng": -87.6766245
+    },
+    "features": [
+      "restaurant",
+      "liquor_store",
+      "coffee_shop",
+      "brunch_restaurant",
+      "wine_bar",
+      "cafe",
+      "bar",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJaxddGbQtDogRaL28kJIZqS4",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3362246714092993896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Alston",
+    "address": "750 N State St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "website": "https://www.thealston.com/",
+    "phone": "(312) 548-2556",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJm5ERKgDTD4gR63G4MYBFtJI/photos/AWn5SU5mTHzRWdozf9NDmCWkJapcD8XHA_GjUel0l0Lmz-DVtb4ku_5oKboZmBFtwP0s0Tx3PeYsP1p3SgqujXgSExvWYAOLB2vFEl3hzgDC-FdDyCVciSuAKXOde20c1PNR05ldnsvOAO3RQHNmfwrlo57RcGpaEybmx0OPwMTIYl9Kp0WxqVtV3sYavg8vNSwdZ6pwhgo7adf8s_afqUa6_KrwiU-EYlJ0FHaPApqqgBnfAzaF5MAj0sLcPha5CffUtPhCELniHrWzCzCqickCvHKE00kQGboY4Dmjdyci6i1FkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 173,
+    "coordinates": {
+      "lat": 41.8962393,
+      "lng": -87.6283284
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "french_restaurant",
+      "event_venue",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJm5ERKgDTD4gR63G4MYBFtJI",
+    "opening_hours": [
+      "Monday: 4:30 – 10:00 PM",
+      "Tuesday: 4:30 – 10:00 PM",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10571150642237698539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kayao Restaurant",
+    "address": "1252 N Wells St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "website": "http://www.kayaorestaurant.com/",
+    "phone": "(872) 342-2246",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXzLuIEbTD4gRtehH2kGdcbU/photos/AWn5SU5wDMWzQLALJy2pH22xzhivp54J21gyGm22vXsrWKvxjPcJAZ-MR3gbSBkVO84wd4HtiLqOIjl3VALsH0bP9_MF2of3wZQ-YCRqY-MBzTvvSgCEvajoV_XGpHsOo-UF1Ik2HVrq24vRSx_KWC_f2VYHRznLITESkpkZ2eVr4v3jrso2c9yIWCfgaQDt9ve2Ofl96G9_4sV0RgfNyaWMe-Ss-E9aWOyIRW9B6KjH_AOMqorAZDiEe9-xm9W7Fx6bj8qsHt5ysyofUkEabCyoD05TqQu0yXb3n4W1dSnQJDT72w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 740,
+    "coordinates": {
+      "lat": 41.9054016,
+      "lng": -87.63487429999999
+    },
+    "features": [
+      "asian_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJXzLuIEbTD4gRtehH2kGdcbU",
+    "opening_hours": [
+      "Monday: 4:30 – 9:30 PM",
+      "Tuesday: 4:30 – 9:30 PM",
+      "Wednesday: 4:30 – 9:30 PM",
+      "Thursday: 4:30 – 9:30 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13074404099393841333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rose Mary",
+    "address": "932 W Fulton St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Italian-Croatian cuisine is served in an industrial-chic restaurant with a bar.",
+    "website": "https://www.rosemarychicago.com/",
+    "phone": "(872) 260-3921",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5x1j00EtDogRy59iMkDkmBY/photos/AWn5SU4nq8Kh_-Qh7s4Fao9xH2bLXDXpIx85S1HipvPYM0UObMpALFn1XBZg09OIN_qi20hxUAg3-VVavO5FlD1w9-b8wQljeRLLVf4go0oK7lMlkqJb3ADEg2KNf6RL11myeoiPLdpnEdMxngRsEPAIjXD3bHD1qr0bncS9SUHjtDyUDIbwPccJoswxEMyVTNDRoLb50tEh98kdUVEimfNykH2HuCZSO2ViT2wMFH727i-QA_q3XKzvvBbGNJ2ygIjj_Giy7qnQbxgTS78n4sw19zV6JbUA2hyycpln1MRIGkK5Tg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1700,
+    "coordinates": {
+      "lat": 41.8869519,
+      "lng": -87.6511541
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5x1j00EtDogRy59iMkDkmBY",
+    "opening_hours": [
+      "Monday: 4:30 – 10:00 PM",
+      "Tuesday: 4:30 – 10:00 PM",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1628302229668798411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Warlord",
+    "address": "3198 N Milwaukee Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.warlordchicago.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRZHMT1_ND4gRLCLV9oCWtEU/photos/AWn5SU4G1X8ocYgmx6bdmucF414XnZCCI2g2v35nMZwCzRlhYHQrSx2xoNcKZxVNljSnx-hfAhM_cKcz1GO_zRk5BqsPwu5xFysVsNojh0ih-GVPVg7y4-J4IAMtUiwe-15KIAImYdazFILH6-HYCf-d9JdXffqRHUH5heq1UQGeU19KKr8It1zndD-Dj0EGYNPclb2CXFZYvImwOQcZWhc1V77tLwj0HXL0HYMf1RLSKF8mmzYeKjfytMUSFw8DEKCEbyWrf_Q6EALP0FSYrsQ6ueAi3EktrofOEvRpy_sgjj1yHQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 424,
+    "coordinates": {
+      "lat": 41.9389249,
+      "lng": -87.72398609999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRZHMT1_ND4gRLCLV9oCWtEU",
+    "opening_hours": [
+      "Monday: 6:00 PM – 2:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5022804965066089004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Provare Chicago",
+    "address": "1523 W Chicago Ave, Chicago, IL 60642, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.provarerestaurants.com/",
+    "phone": "(312) 988-0943",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJseVXOfHTD4gRZ3f6t3Gmkok/photos/AWn5SU7VzMExJyutWWjEzm5NVCZw88M_cE-pIgIL3HpU7aXj8UIIANfyR6RTFZ8RXAjmphmbxIZIRr2TwuWhfxT_7GMerNCD9JK9MLEDZwliwQb4snVltH_XFWcyBxf4MrGvFXaA3nRLW4bZnTaH-XFZRdxxwmycS-9eH1CCM762KXfFsew__aYIVADqAG_DHzQFB072k15b1__MSzKxp3LDBLAwlvonV-pZefYGLtYBoMt1qg6GcqGm81XnCuAi3XgQDV5d82pfvLDCOfOY-EQgcw0VrmmcRLZKr7vpxGyQvSI4iQQbYsnfrLjOxfbVxlGBRiCwQqOhaEdMa04f0MxGClqfVxh_0AexlAhBQry-i5Rg5ik9d-QKk1zFt0U9E1f6G0gUgN_8CJxRab1vXS5a1-r3jAbax2Tz5j0T9t5L-Kzo1Hce8O6pYh51G9Lpbfk-/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3610,
+    "coordinates": {
+      "lat": 41.8958899,
+      "lng": -87.6658611
+    },
+    "features": [
+      "italian_restaurant",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJseVXOfHTD4gRZ3f6t3Gmkok",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 3:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9913168737144043367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nine Bar",
+    "address": "216 W Cermak Rd, Chicago, IL 60616, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.ninebarchicago.com/",
+    "phone": "(312) 885-8249",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy_2x1-8tDogRAIykimdI6vA/photos/AWn5SU51JH78SSpLKe4RBD4oYxLsUyG_E4VM2cRPswHjtfvQWgl5dIUXbTFStop28FVbTKoUHGSM6t4u2nBl-YJ9tatkosYCvYvrJf-tEyxWSo-TaCwv6U2PJ2YKV5EFxp5TAfzHbmR5SMDSMkjzpKs-_V0K6p4_ggQ5Z5N9yJ98Iwkkmwqh13XBD-KxtSyNvauMGY22XauuLwNpmBNypJct0K9i4Kj3q6gAbiaSf3Pb8hZQvkaZSI8LqId-H-u1DhKLcGmyxZVxUFjCyUdmZdUOcC1mmtLVzwK2LT1T8MBcb8onrStQjm02xm2QiMc6jk-k01qUJlLvlnOqa1-KKmJ18UBg0xohmxTobmUYrAnSHbmHTmfYya2UwxRXAfCPuv_eQioP1A11pewMXKzY624UpIsfp-gOGmqrwzzSsi1Ws9Y/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 386,
+    "coordinates": {
+      "lat": 41.8531609,
+      "lng": -87.6325399
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy_2x1-8tDogRAIykimdI6vA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17359767323197869056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Taste 222",
+    "address": "222 N Canal St, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Stylish spot offering New American lunch & dinner with cocktails & nonalcoholic drinks.",
+    "website": "http://www.taste222chicago.com/",
+    "phone": "(312) 383-6620",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLcv1bsgsDogRQAyUkrD-GXg/photos/AWn5SU5VEnSw7ACPJoOE24IDfoPsKjOr4w8KwFepuceEW8Avrl0pDXXTL8ePPQooCATX9LaVcBNi_hkd5bzBnuAIFw_2wgd5A1z2Q3-yELVo7FeZNdgxXcV0jK4OVysCB5GqC2px5L5I_ArJ2DDd3wq7pIZsFnYk8a3_KxoTQKpA1Zl1jucvZCyBb-4rnsQ1u6Rv5qzAzJRQG8FqaHD9472ofVyN1zaQSeMrvUsCs9SIWBPUqJP8m7CHF5UQ59WP3ut7lQ0a4nQXIMx5mejUNO3TM5nDPQIlNHLzON-OHMKSu1geYg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 359,
+    "coordinates": {
+      "lat": 41.8863558,
+      "lng": -87.64003140000001
+    },
+    "features": [
+      "restaurant",
+      "event_venue",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLcv1bsgsDogRQAyUkrD-GXg",
+    "opening_hours": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8654228193295993920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lula Cafe",
+    "address": "2537 N Kedzie Blvd, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Inventive, market-driven food in a casual, funky space that hosts an especially popular brunch.",
+    "website": "http://lulacafe.com/",
+    "phone": "(773) 489-9554",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-7r5qHrND4gRgmIpiTEL5Nk/photos/AWn5SU5iVEJXOOpYypZSw-gIodav2pTQW3JJYEPaV0V_trYlXctYSBU7qdiEiymcKYyQIhuxsGirvstp-N1W5-ki-R_yzg1UDpI_Ic5SdeXYRuuWYGGR4YnoUtlPPvw7jNZkvnBbFqmIgbFNZUjmRuCcxW7AOhHk1wqn8lsqaqukxDQUuikFnkU2qAuKoRjIvGmaNBUFFNRGATyxzzaCaN7b-TDKdWiGm3vwbxTUtjaAmMOwXP2vPyV4Wl4u7cevvjaTL4bvi2Aa7C9cHCAS0RbzzfCCJ80iX5JRidXQec-4v7ISLg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3440,
+    "coordinates": {
+      "lat": 41.9276583,
+      "lng": -87.7067917
+    },
+    "features": [
+      "brunch_restaurant",
+      "cafe",
+      "american_restaurant",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-7r5qHrND4gRgmIpiTEL5Nk",
+    "opening_hours": [
+      "Monday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Thursday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Friday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15700686508302885506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frontera Grill",
+    "address": "445 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "description": "Chef Rick Bayless' always busy flagship where creative Mexican fare is served in a festive space.",
+    "website": "https://www.fronteragrill.com/",
+    "phone": "(312) 661-1434",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ25jYKrIsDogR13tC4wGGODg/photos/AWn5SU6OgzuJl_8lNWQFz4yHUbiK7Xpvaw2dciAYoWT3snWJuCty_JAMQwMdgpCogZCeMr5lXXCT212tEPMO2S2a0X-Z0acActYXPXHADf7dEecH4poasJKTZfsD2kjWXAOOc2hHKkJqifzbJsf3FPwymsm1ZIboKjrIYLpCq9NygD72LZxJL9wF9Dkjx8xQxEKgwxau1g-LHSl8Mej2QewuQLF7yoD_YJRc5cZ5Z4Z4ae8e97W1YSQKvrPNg03s_I4dW7ez4HE9rwMKvNmWm7_qgLcRq2mOD5FnJUBCOAJSbwj8Og/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3303,
+    "coordinates": {
+      "lat": 41.890520599999995,
+      "lng": -87.6308469
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ25jYKrIsDogR13tC4wGGODg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM",
+      "Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM",
+      "Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM",
+      "Friday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM",
+      "Saturday: 10:30 AM – 2:00 PM, 4:00 – 10:00 PM",
+      "Sunday: 10:30 AM – 2:00 PM, 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4051135207485635543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "SIFR",
+    "address": "660 N Orleans St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "middle eastern",
+    "price_range": "$$",
+    "website": "https://www.sifrchicago.com/",
+    "phone": "(464) 204-8711",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF5Jxe-4tDogRjL3u78pqCGA/photos/AWn5SU5PFcmb1l9UYoveqApGJgUhxVwSPNWUyVq9HPYZ1o7q_akhZlyhcatkVl7gSeHJ9JfxD9_Qp2q09VxPHTQhneCaPStLApX8ZggyXsmQNhhTTgjzsu4MK3w4rYQJh7uCQ8I6uhYAT9XG037pJYWpkuPg7qNbgRIRW9vXg0Natap9gRXx8fus59x2UNE5uI-r6Q5TFy-R-M0rZWu_xhyLQYJHZka4Cig43KSKv5sd3CtWIIiGtWTuHg519AeQafBy1TmP82ivxj2sMX6WmLvg4ic_yYAwBbJk6m_DeWppGFg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 433,
+    "coordinates": {
+      "lat": 41.8941356,
+      "lng": -87.63736999999999
+    },
+    "features": [
+      "middle_eastern_restaurant",
+      "mediterranean_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJF5Jxe-4tDogRjL3u78pqCGA",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:30 PM",
+      "Saturday: 5:00 – 10:30 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6919898247296105868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ROOP Chicago Innovative Indian Restaurant & Cocktail Bar",
+    "address": "736 W Randolph St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "indian",
+    "price_range": "$$$",
+    "description": "Swanky Indian restaurant serving elegantly plated, contemporary fare with Southern Asian cocktails.",
+    "website": "https://www.roohchicago.com/",
+    "phone": "(312) 809-6964",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBx6ZFq4tDogR-tC978YLipw/photos/AWn5SU6VHf2Q-76UYjEgTYSf9z4f_3lXO2HxBFByfVRWf7ZNtEtD39CD6gwXsjx9vjLbO2eMF4wjucBEmoMMt2n1GEZ45dXQqqjeb1ncP7AxUImKm-2j8zPrG9YvbSCCC2yRuWjsMBXOJhYAewGQjLD_rRzwMHnpeU8WjV9kynYSo0NuQX8umzhIohJe9fN04s60iuvp0ECx0c-8AL30dW12NN9KEBuw4gxcadLzz52gKFdwjPbs8wWGb6Ctoo-qkTmsHXGoh-_MQNaROugTxjDjQu5KDtQznrinMk2NqFVE9jXHfud3vxUMFULlFV12LfAIwdVh6hqRbdOokgUZqzPvsTI6BT9giJYylgpR9ktBetDTj-lFDn5hURBoLOLXNf9SpDYOHTaQaqWkxHXEgZyLIxq7ZyA3Qw1PVynbwG_4uzOI8btbDFByug7udrotQkhS/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1875,
+    "coordinates": {
+      "lat": 41.8846536,
+      "lng": -87.6471423
+    },
+    "features": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJBx6ZFq4tDogR-tC978YLipw",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11279841165756453114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Monteverde Restaurant & Pastificio",
+    "address": "1020 W Madison St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Stylish spot serving refined, contemporary Italian fare such as fresh pastas, plus global wines.",
+    "website": "http://monteverdechicago.com/",
+    "phone": "(312) 888-3041",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMViM4dssDogRdmIJH2z_Q10/photos/AWn5SU5LmTs8UgHG5WmlWDyDnm8ikyqO8mlwa72w1CMztN-_UU3ikBYkb9BeMlyi7aUluneFrhml-TN-vNy1kFM5udNJcMEH-FPeEd0M0ZLs89X0HicRz8Cw7URnGRG1tq8EqQ76D23zvFWVB25FC08gMIKNZcQgIDxbZdN2efi3x7qDI4J6Bnz591n9Xc_17pySDdpLr6vhRYM_KYsR08wG2JUvEnCtAOcxnOI9w-uCLTclYffvrDuVEHfEsetb6Yln2bWrn7MjGIIDfdMF8hyjQgmbmJaYnClUIMbr6zrv9Sy08w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2589,
+    "coordinates": {
+      "lat": 41.8818361,
+      "lng": -87.65296939999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMViM4dssDogRdmIJH2z_Q10",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6720495908809171574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Community Tavern",
+    "address": "4038 N Milwaukee Ave, Chicago, IL 60641, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "An elevated American menu from a husband-&-wife team served in a narrow, elegant space.",
+    "website": "http://www.communitytavern.com/",
+    "phone": "(773) 283-6080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwwllWkbMD4gRlB69I7W-dKU/photos/AWn5SU7Onja6vIb4sjB1KlQhh_U0CxV88L9KntW1qWEBpxtk4I0rszk6yr5q16JUqvFXpOhjy22HWKqhZeiN73gBuenrUltEbNQhDWCHiRt7u4JO8aVMYaWsY98Y4muSKlPwjDlNEUWMz0Y42gzf5Cwsk3OGgc_oc4znvVM6RS2cSbZPDfudTiPr1WzeAy4AW0kDip891wF7QRKMc0FwMOM7SAVjQ3ckzuwXwBh8y8XJ2dvJQulr5KDyv4GOusttj0l9_7Wdq4RWVKuzuq1vIjDD878ANH-6e-YBcVgdTnJ0_kN1QA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 867,
+    "coordinates": {
+      "lat": 41.9541155,
+      "lng": -87.7487216
+    },
+    "features": [
+      "restaurant",
+      "american_restaurant",
+      "asian_restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwwllWkbMD4gRlB69I7W-dKU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11922363798754500244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kitchen + Kocktails By Kevin Kelley - Chicago",
+    "address": "339 N Dearborn St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Global comfort fare like fried chicken & waffles, plus cocktails, served in a flashy lounge setting.",
+    "website": "http://kitchenkocktailsusa.com/",
+    "phone": "(312) 847-5543",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgx-juU8tDogRv-IOxRKbcG4/photos/AWn5SU7FRehWMJ4Fs_3gtRQs9W6ooepoRq6acHcCKYw0ghOOQEJMt01BDLe6WNA1XaiO3aXODs-iyjsJpPxFQVzFRVOsuM-8ThmRKRXH8ANR5iZYDNacPEnRn3htp4lAsAhLcivoasB0cECykqUmLnLx6LXAk5Z_ZBblA4afIU3nBUwlDCxN8Ujfc3mQGokWK4KfyRy1a5SprVI4p2QtS7ocpVjV7J5hSpfEBuHjiCnpJ3LKkW5k-efOX223JVAMQ51fRSD38tOX4S3AsFVVHlZoFO3tFjCKXwSlVNoqjmBxXN-CVg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 14216,
+    "coordinates": {
+      "lat": 41.8887528,
+      "lng": -87.6289128
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgx-juU8tDogRv-IOxRKbcG4",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7958031046481470143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fioretta",
+    "address": "318 N Sangamon St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.fiorettasteak.com/",
+    "phone": "(312) 897-5011",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY_deDJotDogRdrpCfcAanrM/photos/AWn5SU6ol4GZnyS11V_7Ux6o6OccoO-W8FbTjU7ad54tS1jERPX1BrMiZYLL5OOhV5dImViqm2UAOpds6Y6mRvfxdlw5Y5bK8eHApAdiHOHj2t2VXakMz0iOZc5vU6T5Kz7lGKnt9Ar1epAhSpnmhB3wxPQb45encYhKoGqsvXYeKLlQxNsV_Hxk_mhNWuG2rIwqDrZliJj21YwKY4yorjdVOla5F4QkvozPDe0YQBJFz6xPcUgXIZ8zzczK-qUl6LGNwfulrG-rGOrLfyh9ohI4TjiPiWHxuZzuP0EosZObB7Vw9A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 602,
+    "coordinates": {
+      "lat": 41.8873453,
+      "lng": -87.6511929
+    },
+    "features": [
+      "steak_house",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY_deDJotDogRdrpCfcAanrM",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12942811793146952310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tavern On Rush",
+    "address": "1015 N Rush St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Steakhouse fare, cocktails & outdoor seating define this lively, upscale restaurant.",
+    "website": "http://www.tavernonrush.com/",
+    "phone": "(312) 664-9600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyVWv3FHTD4gRBd-dDwlsr7Y/photos/AWn5SU7nWxdFjqZQYnaRstF12jgN1DB4747vgNQCaHk65hRhuuJeneR9higJU805AFg1y-9WpMq2dPqcB89piH45t67-HKlnRkYD1hGwROoS2vYJ4-8vMM7CNaLMRNHJ4nJ-Ezor8SQrqGDD0DCJNqUCtEb4nn_OFcrdhgyQf-PT0ogqDaboEkzwTRrbkGDvmJjhLZVPx1zpYvjaVmPSgqW9uTzwu6O5tsTSGcKFXZTpbwzMzlz6pMkT-it06H9HqxSxWYE-sgZnX4rGDZzL9FlXJPKW6AVSNS5al9TvV0DqI0zcMA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2154,
+    "coordinates": {
+      "lat": 41.901356799999995,
+      "lng": -87.62755519999999
+    },
+    "features": [
+      "steak_house",
+      "bar",
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJyVWv3FHTD4gRBd-dDwlsr7Y",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13163859021999759109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Luella's Southern Kitchen",
+    "address": "4114 N Kedzie Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Traditional Southern favorites are served in a simple storefront space with a weekend brunch menu.",
+    "website": "https://www.luellassouthernkitchen.com/",
+    "phone": "(773) 961-8196",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJU-kDchDSD4gRDWNk-3qo3jA/photos/AWn5SU6fOEz25HneKwCIQQ1ty--8VP8Ecr3OzDPnI8tJZU5FHMQVpk5yUW8fO-GATHb78-jRNkBIkmaBzBEieVi9gzUCqz7942DVIpn2aPZCJw_w3MAtclsaA0Vx69lZK2Z2g2ePPU-LdFJtAA527dlcz3egM5w6IpZ95spEUBDLG6LwSTn4ZflPpGPZwPnRswfv8ggQJelziwNupug0rZcKdkEePymJ8k1ZSTez-3wHhUIAH0Hry9RlTiSi74de7i7QXcnYkIhnddOEAAYrdAYqTIDQWF803ZvfgNUKd7LIOwQ-Cd79c5tY9ufKKRbb-SVPiUKr-Ywb9UoRuihUiTME1gBjt0OP30dUXdIwMw3dyAZrIBqW6kDZix-DkfnzlV3-do1D0kJ6owy3-nRKgtRgawj9k6zhS_8erNg8dWj1L9tzTQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1729,
+    "coordinates": {
+      "lat": 41.9562434,
+      "lng": -87.7083459
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJU-kDchDSD4gRDWNk-3qo3jA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 2:00 PM",
+      "Thursday: 9:00 AM – 2:00 PM",
+      "Friday: 9:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: 8:00 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3521437204807443213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aba",
+    "address": "302 N Green St 3rd Floor, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Posh destination for elevated Mediterranean fare and cocktails, plus a lounge-style rooftop patio.",
+    "website": "http://www.abarestaurants.com/",
+    "phone": "(773) 645-1400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHy_uxjQtDogREgbDgcjizn8/photos/AWn5SU5H90iKBSwBE2zoB9Yz7YGUbp6PAi87TrnvHM869y0R44WsLiQJCk2EiRqsvkV-FJo9eXTjyLI-uNSDI8qEUDBDsB6nH7RG9bksSgLQhPiCAQoKgFG14j1JoGJIIs89MacHTmA82X7AHWLdKOg2pHKlAWAX5o9_FX6MWYV5eJDM7tWw-C0Vh1tFBXOaO4sB00UQtnx8Kr3SoxtHG-CeiqXlJJOAnRy_tI4MBUYeIan5xlsu57YljFCFHmCt7D5fJAJNkGBiKjtYfGrTzuCPXNzMIV5PJlGBrRUoev7jIfLMTg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 7784,
+    "coordinates": {
+      "lat": 41.887004999999995,
+      "lng": -87.64885009999999
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJHy_uxjQtDogREgbDgcjizn8",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9209547638817621522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Asador Bastian",
+    "address": "214 W Erie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "spanish",
+    "price_range": "$$$",
+    "website": "http://asadorbastian.com/",
+    "phone": "(312) 800-8935",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk8Z5cdstDogRdMPc0yBZB5M/photos/AWn5SU5l5PUtBPCQMHjJqrk4GalKy-P14yb9C-JjjdDyFZkdcUnrl7Og5K1Ioy5ReKW_kZD7K6rlBUbD86k2b68fNiLCpZN-JPYSPqH3xZNypAWvLQFAitgW8wfhqyQ4cmR-OUuRfV3H6NlbiTk1sDkBXnl0GJyvM2facGnghVkSxvDomdjOyJFg26-ZO9zdTWReZBPoS9UbUndxZ3PF4N_Do4psLtZDu6-4sbsyquDbWu9Thm9h1nuVqWLRzT774X22rNyES5yT5PdbdSturRfEgsHiD0oSHaq6pwZxZ29lnsYjzg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 399,
+    "coordinates": {
+      "lat": 41.8940917,
+      "lng": -87.6348275
+    },
+    "features": [
+      "spanish_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJk8Z5cdstDogRdMPc0yBZB5M",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10594534645940667252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Dearborn",
+    "address": "145 N Dearborn St, Chicago, IL 60602, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Stylish American hangout serving seasonal dishes and cocktails in architectural digs.",
+    "website": "http://www.thedearborntavern.com/",
+    "phone": "(312) 384-1242",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-XdXNKUsDogRW-m5g5Siao8/photos/AWn5SU53DK-4i9qqD-h5lrA0vLkXToziYP384wwqdCf_cGAlB60th29h_hHyNf66_I0KS38fA8piPi6zP302upaPHQfvBCWuIF85-YYZn928N3Zi2E-c9I4i1Ipx1WuxfhG3i8dSBa2Yr-CbWK7CtX9JtZtObQq9SiLY0vYbavd15p_cevBZEDKJfQtP8m5suzY9IuapsF0TCj_TPOmbYmhF5sB-SKIu99IFFi_ejVCCYdjWo-EREI16JYwRxeHHZiWJwtta2qUcPT3Oy3ZYnKRyuHQNTgZzOLMu_kw0deArmppRUA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 7740,
+    "coordinates": {
+      "lat": 41.8843373,
+      "lng": -87.6292766
+    },
+    "features": [
+      "american_restaurant",
+      "seafood_restaurant",
+      "brunch_restaurant",
+      "event_venue",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ-XdXNKUsDogRW-m5g5Siao8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10334251053703883099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "No Vacancy",
+    "address": "509 N Wells St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.dontnvus.com/",
+    "phone": "(312) 500-6666",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJW80a0KgtDogRQnr2pn9IkH4/photos/AWn5SU5Cr0_EduZEl4z6WBPzKIQnUka83OvzyG5qcqnzZQ9CD0DGx6q5-rTigpjMlWAL4Yd5_TOAjMdE_4pNwL-wJ36txv7p1MTPLJDBuJEzv7w2E6WxiGefOoDwtr1TYlLIjspygyq8se8hQSPIfnwcf21IIlrBUlpuT1jexiqHawV_Sc4lUa55IUye48AUb7qs8HKqnwSfU6zhNlv9tk26zg63MHVlBFK_S2r1vt8aRYKBc0Ew4EEQ_ToGe1z11s3omjVfKZM8DJBEIJOdwVWbUjjcs9Qk5CMXP7oduqXjXaf-OQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 246,
+    "coordinates": {
+      "lat": 41.8911525,
+      "lng": -87.63369999999999
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJW80a0KgtDogRQnr2pn9IkH4",
+    "opening_hours": [
+      "Monday: 4:30 PM – 2:00 AM",
+      "Tuesday: 4:30 PM – 2:00 AM",
+      "Wednesday: 4:30 PM – 2:00 AM",
+      "Thursday: 4:30 PM – 2:00 AM",
+      "Friday: 4:30 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:30 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9119868958524471874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OLIO E PIÙ",
+    "address": "445 N Dearborn St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.olioepiu.com/",
+    "phone": "(312) 363-3335",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJi2YJHLIsDogR7Tx1Gc28YHg/photos/AWn5SU71WA1_Lwj5ggvkqGom0J7nt0ha9LtoyXmWPKOnQRMhkuInLlkaEU96UJx0czByUEf_GsO3q1Hj7Cu7I_gtZ14RzgSivnhTEYcrUJPL9-g1JeT9Kw6h_Kj6UD0AkcGLhA91zSCkOAdG1XXnZi25JUTZnqxGp_P0GWV4-gV_WGjM_PJkuXx-2pIZDow5KTnHqYEJ7rJjpfEn8t3VRBq1NV6EWQuRyQov_efKbXV1v1jzgT8lebScIn1QBa_qu9t2RvkZ2wFAtk8KbQ5pm_sgFojkJfGU9T8AMZ2QLS8X2ZgAIQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3116,
+    "coordinates": {
+      "lat": 41.890733,
+      "lng": -87.62941959999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJi2YJHLIsDogR7Tx1Gc28YHg",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8674140471397006573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cindy's Rooftop",
+    "address": "12 S Michigan Ave, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Hip, stylish rooftop bar/eatery at the Chicago Athletic Association Hotel with choice seasonal fare.",
+    "website": "http://www.cindysrooftop.com/",
+    "phone": "(312) 792-3502",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeYbaOKQsDogRfJrgIMgDNvE/photos/AWn5SU7fUltJ4yO0yFevagH4FHhG_eZEwWPHwGn-F2UoYoqnDVRyXQfmRLat0VPdWIlnmmFY3VdZw79u0aIWs8Vh5lt0xerQj07O3Xt8chbzLBVFFzJtbgc4IVeIToFyY0yLNwJ5XauJU6jYZguMY_JEgyR7p11mC30JSMtOThQn-byxyzdimMruRQObMMI94nhF37Dkgzza7TlrfgANXMFR9_M2Uj6LaEqOFp3T0qg7CvY4IrHx9wFhrhi_P4TeesSaYfX7rCdejNocidnmbbbWTxmy9yWgHxA7DQ_D3n06piXE4JZ1g0dYauquHTyXSL6QNxvgnYuEBgENqw7Bc8lZ6rKCeooobNG2ieaq1aVHtxbheMuL-bG9F7fxPa9C6uOk5l6Ov70wWtLOS9Z4yALualqFtinpT-hJLudGPco5s5YaStA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 5300,
+    "coordinates": {
+      "lat": 41.881662,
+      "lng": -87.6249684
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJeYbaOKQsDogRfJrgIMgDNvE",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17381083969962941052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Gage",
+    "address": "24 S Michigan Ave, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Refined cuisine with a selection of beers, wine, and cocktails in a lively space with Millennium Park views.",
+    "website": "http://www.thegagechicago.com/",
+    "phone": "(312) 372-4243",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5a8ra6QsDogRENtJLAp40AE/photos/AWn5SU46f5gd5hNiDByaybZhctscm29DY2ZJL5Q-_PWZM-7Q4bXOLtk2-F8l3hib37BOn9nCpBBaW50YkyfLoSDAM245pFK7p9jbL--P5c-kFL_8kdS8PvDUPGPsHh3gppSX8iAlBjRO1noQMhRbMjN3hRsH5u0U0V5udEhRHxA2jRMs0bhAV_-Md-gzOtTCJjhwPjPFgLTf7WEER9S8GaBdKAqc3ievKtFtqLio7FginRGc8ojW2B87h-5TQXSb4uUZbVxzz3C5WFJ1sWAKUWopT6IKbhUxnmr0Zs53GvSYh8MYnA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 4882,
+    "coordinates": {
+      "lat": 41.8813268,
+      "lng": -87.6246925
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ5a8ra6QsDogRENtJLAp40AE",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=130736374281788176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Seville Chicago",
+    "address": "243 S Franklin St, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.sevillechicago.com/",
+    "phone": "(773) 339-0362",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs2_UYQ4tDogRtCCLI7Pepbc/photos/AWn5SU6hUuDeOe9Reu-wZ2OrdpYWMZKVVcM3BaihmfAuKc1zKSk0Fk5S-tTYi9mekcpZ8g3YTJcKQAaA0uBh0xc1-zjVFVbUWcm_1v0yRRJp2dW1edMbFVbU0aw6d9SaHegsP2JfyDCQci7Y3WBfoKMlrQxn8vreLLHecmgMGdWMGfCpzep3GxKQeVNna1D3l0rq3p9mLlm2VBlGPLG_zlixCQnnRz6dqtyA3wZjlRLH-hAjpXdm5BCYiK9vOPrv2Y8BiMEe5ydgdp2WyDVX7PKsCH085h7z0HGpkI1fGiAHczE-nQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 180,
+    "coordinates": {
+      "lat": 41.8784345,
+      "lng": -87.6350425
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJs2_UYQ4tDogRtCCLI7Pepbc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13233227941074903220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Time Out Market Chicago",
+    "address": "916 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "50,000-sq ft. industrial hub for chef-driven eats and cocktails with communal seats and a rooftop deck.",
+    "website": "https://www.timeout.com/time-out-market-chicago",
+    "phone": "(312) 637-3888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYXDdCxItDogRcZQLZaZpZJI/photos/AWn5SU6OAsL714VYdTjidfLzeXtRO8wdaglhX9TttrHQ4O_AA1IzL5o0ppCozuqOjQiNSl3mMYEedmbA9gcNfejRAxSYMxoDYJBVZJGWNH0t-kbkTx4rdzhCUPqTyIP3vdfmSOxnYtMSv5PMTQsYoDIHGdb9rUzMXW2ATWuqK3LQE51Q992n7K9s1UaGiqRk-71_UdpScUqBBIwll7XEL8t6bRpI7Zz9_GwW5qnjWZP7txzh6Xr-fiRz-HMFTWDQa8C8I1Pt4WAHwur-PaGUlJrpHrdCW0aWLSYXzobeVqHMkv9egQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3938,
+    "coordinates": {
+      "lat": 41.8868872,
+      "lng": -87.650454
+    },
+    "features": [
+      "restaurant",
+      "banquet_hall",
+      "food_court",
+      "event_venue",
+      "bar",
+      "food",
+      "market",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYXDdCxItDogRcZQLZaZpZJI",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10548672390589289585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Maple & Ash",
+    "address": "8 W Maple St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$$$",
+    "description": "White-tablecloth restaurant serving steaks and seafood with a choice wine list and a plush lounge.",
+    "website": "http://www.mapleandash.com/",
+    "phone": "(312) 944-8888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE8GjKE7TD4gR9CouUZM2Gis/photos/AWn5SU7oyOIhN28kV-5brBWwwZ_BZE9AawU9upM_OROdqMD2wUw-BNCNrQyQsLaZfXPuacE07NXonEcvNPggkui4hmsLBg6_C0CLaFNp0sES1VOFBrsAnWrdMGLlbE7rk9dES_doPNmYSEdN6IBAEadYVmCMmHqLiPC-dt6fmRYRjNfGQlVsHU3y20U0iqkzXLIQ2Zjn13-tnyL6-D00bBqSCmSLsto5igbi2zCJeRW8JFJ5SQys4MNOqwQjerxJ_BPR5LUNMg7G_vmCycE3ayq2T-Yx0T4MddzsI4vHY8Ha5oM6jA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3978,
+    "coordinates": {
+      "lat": 41.9020389,
+      "lng": -87.62874719999999
+    },
+    "features": [
+      "steak_house",
+      "brunch_restaurant",
+      "seafood_restaurant",
+      "american_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJE8GjKE7TD4gR9CouUZM2Gis",
+    "opening_hours": [
+      "Monday: 5:00 – 10:30 PM",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 11:00 AM – 2:00 PM, 5:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3105854899375450868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RL Restaurant",
+    "address": "115 E Chicago Ave, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Upscale Ralph Lauren restaurant serving American classics in a sophisticated setting.",
+    "website": "http://www.rlrestaurant.com/",
+    "phone": "(312) 475-1100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcVWnFFPTD4gR4wHd5_rdgxo/photos/AWn5SU6xnzlPae0kJ5qRPE_PQ7_U107_JAZN1MRN-YenEa_2bKa8mGSUJG8gycFA9W4Ua-v7PFMpYFMvgAwCSJU-G9vrL-RKSmrqt94DzX8xPBWenhaw8yXS_Gehp4MKRIM1RBTlW1Vw5epD5PWaaf9hnd6fvkfpbmYfKDKPj758mEx6Nw6g-UdED6RPcBcUHQ9YuEOju-xmU-Ozhgzm1e7dn25L7XXwuuZX-ktoTwSXr3-ypnVAoUCBOf2NXXEiLit1Iwc72NmifXHdKGcXulkem6MBuWonqiZ57dYyf0SbzWS-Bxv8QV8Jqn_IrJlkyRhwJfWvE_es-1rjvQtNaNAfJN3Uo0G1iPbG9hdc-3nlr4TzZIHDDFHV3ixG0nnUiLZLV5G669OxpiQbvBl8aD8TFVC1vOuBXHcwMeeUO-goyIyyw48/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1450,
+    "coordinates": {
+      "lat": 41.8965408,
+      "lng": -87.62491539999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJcVWnFFPTD4gR4wHd5_rdgxo",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1910614736636805603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gibsons Italia",
+    "address": "233 N Canal St, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "High-style eatery serving Italian dishes and American steaks with a vast wine list, fireplace, and a roof deck.",
+    "website": "https://www.gibsonsitalia.com/",
+    "phone": "(312) 414-1100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd-VJcsgsDogRP0yORZrIpVQ/photos/AWn5SU5iyT4MYbKX_3lBya5sz5ID9OD0ACW4sh7W5Bt-MjdnWhl_szf4XgBqqdjUlMkid56ub55zlNqfr2WBlYYuWDwvaBNZBMmyh7Jt5-mS_dCHY_hN6Gt9CDWHiKBbiOKiKMkbrSyRu51y57OCkuIhJ5JL5lA7WvP6iV9qyvBRBsiJ9fS_lAY-cgA-pSdfggqqeSV19KAqgi9Ich0YT0fQOvoka5EqFnpS1tO2W3X5CgXaGCvjic_DbOkWTfY6Nb6KChZNTIKQazCzs89RYfdNgDspd-nZNAcEB-B12_eM0tK9Rg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3954,
+    "coordinates": {
+      "lat": 41.886594699999996,
+      "lng": -87.63957479999999
+    },
+    "features": [
+      "italian_restaurant",
+      "steak_house",
+      "seafood_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJd-VJcsgsDogRP0yORZrIpVQ",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6099501835260677183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "STK Steakhouse",
+    "address": "9 W Kinzie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Swanky, hip steakhouse with a nightclub vibe featuring high-end beef & seafood, plus DJs.",
+    "website": "https://stksteakhouse.com/venues/chicago/",
+    "phone": "(312) 340-5636",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8bLW37EsDogRcTtDZ9w13U8/photos/AWn5SU7A4TjNY744a0Jir4b0SNDUQFBOx25qZwRPc2nVUa_vJblNy7JACqTFt4ML7GyoC_IG_ycO0V5SArm5BnKvdyguVHevubbnLfkLn7j7mmuP2kugifewp6GtMDjvLpcY1Web21BdG533-hYujPWifLmdUeuV87BxOPeGnuwFJk1TF6yEcmBMV-my7f7S0yLH6sTRbxxxMeeuveH9fZcF0fo5pNnmyuEQ6ukz7-dWABTgUduXU2HJWQuwu5si6O8K85IZCtBWY7ACVFOhjFR6ftjJeQj9KnKIvrC_n9P1qZQMQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 13622,
+    "coordinates": {
+      "lat": 41.889026,
+      "lng": -87.628642
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "american_restaurant",
+      "event_venue",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ8bLW37EsDogRcTtDZ9w13U8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5754815119590898545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ocean Prime",
+    "address": "87 E Wacker Dr, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Upscale chain known for its sophisticated decor, long wine list & classic steak & seafood menu.",
+    "website": "https://www.ocean-prime.com/locations-menus/chicago",
+    "phone": "(312) 428-4344",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJP0_743EtDogRWv6-GyI8HVw/photos/AWn5SU52n_V5B3ZE1fUg_2BHsw_gQze7zqZwJOeeFfXPgYaBj1z4z5-qhATwljPQLpZtx4JcFKraqVQNC1cEPlWRdQiPL0CFpRsf8ZU8GqBuDhFHKBQNgDDJlIN1lCzUmIAx6UjUkfbXHlDRdH2V1cV5zzjRCJnQDnbitRDApfY4HwVjt13kvjWBgt5DbDRsOhKIBLzaOfnQrwDt5MG9y04Jhp3DtVHSGmYlXeiYujfovXG1cyn8ggMbL_vHON11Fn6T2y1lr2o0Gb6W2YYe-h6Kzpki_v3AcYH7CNnsZ0uNvg_G1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1379,
+    "coordinates": {
+      "lat": 41.8878127,
+      "lng": -87.62525459999999
+    },
+    "features": [
+      "seafood_restaurant",
+      "fine_dining_restaurant",
+      "steak_house",
+      "sushi_restaurant",
+      "american_restaurant",
+      "japanese_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJP0_743EtDogRWv6-GyI8HVw",
+    "opening_hours": [
+      "Monday: 4:00 – 9:30 PM",
+      "Tuesday: 4:00 – 9:30 PM",
+      "Wednesday: 4:00 – 9:30 PM",
+      "Thursday: 4:00 – 9:30 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6637527543006035546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Swift & Sons",
+    "address": "1000 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Swanky, sprawling spot featuring premium steaks & seafood, plus a bi-level bar & house concierge.",
+    "website": "http://www.swiftandsonschicago.com/",
+    "phone": "(312) 733-9420",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJscE8yNAsDogR5bdhEY-wBwA/photos/AWn5SU6uYyQZY8gcmLL9zo4rJh-dmb4gA-H6Z9XCztvan8NOhSzsxK2oNC_EXxixeTByGWWg55TDXEJVcNhHeAG2_ahlvfTro_hLifRYlmqZgZCl-S-daeGKPLzEYFZGXUqQI2RJYf6dELLWYLqc4vonMR3ecIkdXCPV_QOwWNqV06WzQ-jM2PzihcU1QSmNchU5A7eaLxNXjD0BZuFD8pyXP0CQt196Ogz28VlmUtkEcdDF-UXF8iglB3w7g6qeHyCAfd7JZorEStxnMgUiM4jHv5WlQ5oDnVVGR_rwk5IdVpJTLQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2049,
+    "coordinates": {
+      "lat": 41.8868727,
+      "lng": -87.65234029999999
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJscE8yNAsDogR5bdhEY-wBwA",
+    "opening_hours": [
+      "Monday: 4:30 – 10:00 PM",
+      "Tuesday: 4:30 – 10:00 PM",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 4:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2164453355403237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Tasting Room at Chicago Winery",
+    "address": "739 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.chiwinery.com/",
+    "phone": "(312) 763-3674",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ76nqJ03TD4gRqoioj78_co8/photos/AWn5SU4GKmQqgfWuP98Mw4u_WpZlh2DfoVrMr-t858-yzHrl7bYM8PeNCQcJgM3VIz0dci6NrX42ZuKav_bOb0Vw5dFZY5qJedIGpTRewpixiz2ZKWc_GK40n-z3UzF2vMwVMo87taaFtopuL2rIUcBePV6MjGvN-lwdrZVRl6Ka1OArhfrSA_sb1g6tIFXZUC7Y1_oudtZTpU4CypuAiFzda82kuwqwYT18ttj4pMvyLXvqOSEr6kFv7dK95OGs3Zz7gBPgz0HRIOllDTRUHobqvZP0AdROWpSJeykDIpEAD9uhgYwOELTTJS9DjHUN_IwC2Nr6BtZOWJkYfa8KPsHg4kNYixbe9aVKAYks_fPZgSwhzD-N1AyLCxaB-GKGgPEIntv3aAgQtRKGtI268lNyENgPLxK4SfSGifSE1KgxgSDp-g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 117,
+    "coordinates": {
+      "lat": 41.8959706,
+      "lng": -87.63106499999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ76nqJ03TD4gRqoioj78_co8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 2:00 – 10:00 PM",
+      "Sunday: 12:00 – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10336394186750199978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Chicago Winery",
+    "address": "739 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.chiwinery.com/",
+    "phone": "(312) 763-3674",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJ5wNQDnTD4gRzzlRcOX99ZA/photos/AWn5SU6WCoWDfFnhaZHouwNebKopWlfV2iYCW0T5ne_7MZHKVXRr1ShGZyzkT0Ov0jgpEI_FdVmFljM1C8-0cyN0tKzNLQvmpKvmkgPYjlXlSdkjy0k5eLYMo_SrL74ldl5UdEEa0w3QuHw0urs2CMZYRtRUb-J8V14sRaHb1wGpQ8Cp8CkHMJyJTKYN5I69OLX5XLh0M2KN3RvKzZDDtLZg8vEwdCwYtaTXkYYvAmYTOGvCuVqs4cG4PUpZKsItAZ56YEufzxfJpo3u8feyy4Pwo7fbR-tn1ZqwNc0o77YaSvs5OQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 268,
+    "coordinates": {
+      "lat": 41.8959927,
+      "lng": -87.63090869999999
+    },
+    "features": [
+      "wedding_venue",
+      "wine_bar",
+      "farm",
+      "bar",
+      "event_venue",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJ5wNQDnTD4gRzzlRcOX99ZA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 2:00 – 10:00 PM",
+      "Sunday: 12:00 – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10445534072629443023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Giordano's",
+    "address": "130 E Randolph St, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "description": "Known for deep-dish pizza, this casual chain serves other classic Italian food, plus beer & wine.",
+    "website": "https://giordanos.com/locations/prudential-plaza-millennium-park/",
+    "phone": "(312) 616-1200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh3i0BqYsDogR6yp0y6TFlOQ/photos/AWn5SU63shxPxgBtethwHz-UXikKHh133Z4H-MXLUUtqAviSP8bdCA48EF-Zd2Gdfk_o32x7bzaGHeHsQFpGQJXvU1-is68F_LlXyJ1IUAspfs7PR8kX9ImdfNlXgR8o85TZ5YwJckWmUevfKZftZWFJu9XEODJzTitS5QYTnGmT6Ml12TeB7U9T5Cdse20tX4XdsZo2laBfbsZb-61XOG-W6tvJ4Q1wpQDZ9lPE7l33mANYs34XEoSs_UYJ3y--b1w22zBT2Voef8nit4HNXgKFTPjf3VPZCC0LkZpfYKrH5VyzsTn4stsLf1IdlX9SscZBexhX3fRSYxPCpbz_i0znoiyWXApyvX7Z5rVWbuNwABbgUpj0LoE_zoF8QUdqVbSlJ_1fssbfmwCossCdY6X_pbi41lcoEFvSCwmRvjU7IInyF4m4KSP7oe1eNttX4w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 23753,
+    "coordinates": {
+      "lat": 41.8851301,
+      "lng": -87.62376119999999
+    },
+    "features": [
+      "meal_delivery",
+      "meal_takeaway",
+      "food_delivery",
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJh3i0BqYsDogR6yp0y6TFlOQ",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16471007048779442923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Northman Beer & Cider Garden on the Riverwalk",
+    "address": "233 East Riverwalk, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "A huge list of cider, plus cocktails, offered along with European fare in a warm, buzzy setting.",
+    "website": "http://www.thenorthman.com/",
+    "phone": "(312) 877-5212",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-0CO_hPSD4gReL500g9ykXI/photos/AWn5SU4CXMt2Huxy06P7oDFX1scQyu_198q6QbF4n1R_PBwfsjo-frVaOPXidVRcnVlQJzYx-3_WXKJgFPfv0tG-KLCzkYzP2ZleaCBzr52bv81CATC3aD7YRZRe4ZH6wiQeBLr9dkPAkvk2qa5-3ZboK3KR2jgFOUmF8vt5OXfHdj1lZ0hMYqM0tK5rKe7y9N_YtTK3sTYJACLusjQFA-z5BFCawrrIO9rCP7TJ48EAnrZqUE4dgQPrLW3y2nP8kNekKbklj-ZUTr11fC0wI3MmcaJaTga16QikaUZUY4B0M-sNJmlh8_YTd9mKBYjl08pudjUNakF91y7IA6qfYXwXphlm-rOA4oZnay0FCXfJ3vw06wmMwoeGH2BVzD5gdsR_AUwSdGSDOQ4KISrxqfYkogf4YChE2c3Gl3hEcM_tjq-DaYyYLOHPVefJCq1HXM9W/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1336,
+    "coordinates": {
+      "lat": 41.888306199999995,
+      "lng": -87.62137969999999
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-0CO_hPSD4gReL500g9ykXI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8255505004227772024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "City Winery Chicago",
+    "address": "1200 W Randolph St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "30,000-sq.-ft. venue with a winery, Mediterranean eatery, garden courtyard & live entertainment.",
+    "website": "https://citywinery.com/chicago?utm_source=gmb&utm_medium=local-seo&utm_campaign=city-winery-chicago",
+    "phone": "(312) 733-9463",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7ZBcatgsDogRVeUuWDAD0TM/photos/AWn5SU6JUpuoJ842VPXN4nrrhWp4vIFzLGBv32OK018iCrsmzWgu1_EM8-eJTTBgDKiREwUBVs4w9b5n8Z9sSKcu_tduRC1J1u58db4-QmvMKb6u_Omb6kYGduzeJN_y7yAa4pMteArC24a_bb91GJFmGlNZT3ytw54xsvoPjbo_O_TYMfK-6HvzWvmzz4Gl2qAlVP3DPzSbH-MrqE8Bu1SaS737u0DU-mANEkg0msdYOv0yS8H3b520iPVIqp2kHEe0T-4LOhiwZ3I2ydokQVpZQYoJ83dkaSib0070FbVN0SyuZA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1979,
+    "coordinates": {
+      "lat": 41.8845775,
+      "lng": -87.6570751
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "farm",
+      "bar",
+      "event_venue",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7ZBcatgsDogRVeUuWDAD0TM",
+    "opening_hours": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3733769072239633749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Mar",
+    "address": "120 N Wacker Dr, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "website": "https://www.thebazaar.com/location/bar-mar-chicago",
+    "phone": "(312) 820-6602",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrfMn-lMtDogRFrnP9YUR6Mc/photos/AWn5SU6Mn-fSSDb7SGmQ0bY1ZdS4OE8oNiez-P4OJrmfRv_2_nVPAwPRtgd2X5YoWJVQmt0mUjcNGuZGClOSQS8LciUJTsZKwZtFZm1h6mpZ8o1-M38pSEsy47B9brWCYYP3AWqF1cdj54z2bLqTKpbPjtHuCW29FzbJSIxQryvFpCwaS3821TMniRp9mer270AUfQX8lPV9XO33Xh9C6i7w1P_b0NC1Pbq5W7zy737dG9KXi24ztejZhl6TvTZAPrLC6SIQcttexhD1M_MZS-XBYNlOvKRXz3fH37dEp8Of4wQykA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1109,
+    "coordinates": {
+      "lat": 41.8840009,
+      "lng": -87.63722299999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrfMn-lMtDogRFrnP9YUR6Mc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14404782675196885270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Good Funk",
+    "address": "180 N Wacker Dr, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Natural wines offered along with charcuterie & creative bar bites in a trendy atmosphere.",
+    "website": "http://www.goodfunkontheriver.com/",
+    "phone": "(312) 929-3185",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEzAd_dAtDogRIN8ndMsRTTk/photos/AWn5SU4DxUyWKLqJzTk6sqwWDowS9lznXnC--t4pyV4rskFVtoX0zyp5DZG2x_VhxHEfB93DwI1OTLWRziyIzVanoFT0nsBnlPWnN-tV5jOLGwsxW-wiq93peI8qfTcMMTN416D87665UOiO4n3viRz9uRANHF1yEtrCLJUWr6zIEqY6k0UG-nBl9vEdCY12Ah0oF9w5vDSBu3txY5YN4TO49xS2hm-sPbBporzkCw4nyPTldet9lMxbQu9l5RdzEnkXG3M0kDWmts-XGzMF7J0RnAxdX-zJstQBihOsPl9VQ6f8Bg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 132,
+    "coordinates": {
+      "lat": 41.885104299999995,
+      "lng": -87.63719929999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJEzAd_dAtDogRIN8ndMsRTTk",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4128975998893416224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Elephant & Castle",
+    "address": "185 N Wabash Ave, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Chain with a British pub feel serving beers on tap & classic fare, such as fish ’n’ chips.",
+    "website": "https://www.elephantcastle.com/en/locations/il/chicago/185-north-wabash-avenue",
+    "phone": "(312) 345-1710",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7zwFga8sDogR48o0MWz4Jes/photos/AWn5SU4XA54W2S42eHb_IqVICiH9x2EJ5TkbRpgP8IfKXwMwluEvM_XD6jwLLgh84S7YY4lZxEplsoiV49SzHgrtYln9I_WqOjmTV3e-N1T0QvtQJ2kxpevwFxrsIp3zyeYAVQDZ7x5D8uMjwL02Q7KmHpcgCk_zvO27mBvar3KrapoffUz3Q4JQsCc2m8h7JXzk426SpAwhmbL6JNB5Vfu2XrO_2icizcDf_axf0DXt7BAt-C8J2UOaG134G6SW7fUoPeD9fOG0GrUyPNmbFMpLkvmK9wUW2jZwsZ18KlNKLOGpkQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2761,
+    "coordinates": {
+      "lat": 41.8854526,
+      "lng": -87.626024
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7zwFga8sDogR48o0MWz4Jes",
+    "opening_hours": [
+      "Monday: 11:00 AM – 1:00 AM",
+      "Tuesday: 11:00 AM – 1:00 AM",
+      "Wednesday: 11:00 AM – 1:00 AM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16944222316617059043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LH Rooftop",
+    "address": "85 E Wacker Dr 22nd Floor, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Three chic levels of hotel rooftop drinking & dining with indoor/outdoor seats & sweeping views.",
+    "website": "https://londonhousechicago.com/rooftop/?SEO_id=GMB--R-CHILHQQ&y_source=1_MjY1ODkzNDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(312) 357-1200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYTTn_a4sDogRVVaRtalmGH4/photos/AWn5SU5um3GrTbybw17XQb00kGUbdZroPjU2bdrNNVsERyBrr1m4o6Jv_xUKI6hCJXivkcItLr-PmbdK-LhHaipliUrkIfsyCgQvYhVMVCt-sSCN5RjplUP6uw_LS5o_ob7FexNxkAHi97XvH_1NGV7B2gtIjsnehG4k3TWTOhE0u4D2JMz8R6JOeE4y8MFXQNQBIodYLoakxphVuLC0-NETN_sbOIT-Iy4y5khEGdEqFwQ8rfBLcVbHv9_7fbG74hA6k0ZQl4cZYkl3-MGDEBevw1HIqQIMFTyBz0c8WiX9b6FJC9Elbm8tOUQ8dWAzux3eG-Ks06SzI8ayqV9cASt_IHKGiygdkMZQXdXEt7Oam9MQJB9DEuCbwpBvxTC7gfSOaBCQlitYXSq512-cv8MfWkKCTh_mCjLo7s3rWeZaLpwAfzxJVM1Ub7LGyktyJg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 3576,
+    "coordinates": {
+      "lat": 41.8877738,
+      "lng": -87.6253083
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYTTn_a4sDogRVVaRtalmGH4",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9086125127301682773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Industry Ales Brewpub",
+    "address": "230 S Wabash Ave, Chicago, IL 60604, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.industryales.com/",
+    "phone": "(312) 496-3624",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC8mFu2wtDogRB9tVDcUCgTI/photos/AWn5SU46kmN-0dn_3qgZQ6Qb7M6cV2_SN_3bXWPFg7Wr4JitgYRIE1o4A54kFrWD4pLQxkSpxVZBzH1TB6-kEmh4sRyQTKYTUHbnPolaRU9mztYmbyf1iHULKkoxOtD6P2vdaR7s13vjqXA4Twc_kUOpWCrqbAfxLPdZ1eJ3Jx7he4IW5WI1uexqQF91JYE2Nf8MRFV7SZQREvnMgiXDcvxucflACPlO_-NWabGKsUHwfhB8aIteMQU9KQEmYspKtsMskj2aQ9AoZJyCjmGvdKHwKbd6SRJxZghXz4oGEBrvGeecJg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 318,
+    "coordinates": {
+      "lat": 41.878661,
+      "lng": -87.62630000000001
+    },
+    "features": [
+      "wine_bar",
+      "pub",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJC8mFu2wtDogRB9tVDcUCgTI",
+    "opening_hours": [
+      "Monday: 3:00 – 9:00 PM",
+      "Tuesday: 3:00 – 9:00 PM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3639193019247614727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Three Dots and a Dash",
+    "address": "435 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Classic tropical cocktails, rums & house daiquiris in a retro Polynesian-style setting.",
+    "website": "http://threedotschicago.com/",
+    "phone": "(312) 610-4220",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiX4KgLEsDogR8gugSnSptzY/photos/AWn5SU7YrUNyol4fIXvPUVlLp1UrzixSQastf7BbEEnUL5GqO_ypSX_x-oc5QZsCUoBhLCuLHURazLTmLPOXDAhv5FYNkIlm_PNsZBPON93jSoE0i1FfUpcUk3UUA_wkyeO2FF7mm1AJ908tTm1l6qTlf4PT_COThfKK2xPHKUgGCxo-vYodeo6IHy4G_zVYYNavZbGdom7QgJwzprD6Xr3vuoUJSKMip4g4UB6hQeyKnMU6hhz_L2pZG0LpBxOFp3BOxevnFu6raDYTkJTWQly3vaYuFttwsiw_JJkN4jvd-1OIyw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 7596,
+    "coordinates": {
+      "lat": 41.89031190000001,
+      "lng": -87.63076679999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiX4KgLEsDogR8gugSnSptzY",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3942806315719461874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Pendry Chicago",
+    "address": "81 E Wacker Pl, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.pendry.com/chicago/dining/bar-pendry/",
+    "phone": "(312) 777-9000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFdNS8oYtDogRca_RrBArRZA/photos/AWn5SU5_1aMeslOsqguxPasxt2PEGdfYAl7BDrmEa4AcPijgwT64wt9iw3i6Z8NA_j75-FXmkvWzTjXrrITbt98xmgB8FFkmaM4brTrIKiLibmP11lj47q50DkM7IISibcymhRi605vYk3A7QKxVRhElQpCxdSoAZ0a96fzZdCbZlMZZtIdVdBQONuwx4jO4m_WXuFxQzoGSK0snkg6IKOJCaHGTkz7VFMI8ir7A5FUuGtwLNj3F765RNBkphJjJBb3KnxkwM8ZdZ3bD2UqYBXFmNsLvXBkN1A-jXQteMoTkWzDqHA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 116,
+    "coordinates": {
+      "lat": 41.8867378,
+      "lng": -87.6250203
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFdNS8oYtDogRca_RrBArRZA",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10395762665473552241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Omakase Shoji & Izakaya",
+    "address": "1641 W Chicago Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "http://www.omakaseshoji.com/",
+    "phone": "(312) 579-4472",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE401Wt8tDogRMbieVGZpvEI/photos/AWn5SU5vuwZujrwL-lJrfcCpy0ENeAgWXInUVHaitUHGGpX_I6xwli2Ixd6swH4PHbHFNITsVi8lOnwP6XqtBxqA5l9_g6u1Z8FbJVgABUSr3XCQKDG3Nk9UE5rW7eRJ4mwu7nbUkHVpFfflCYDStTZBny1x00SzSxhCnT7_WxkVKvEIN-XCD7GkOr2fp9PuTRsi9XXnbdHqYYJ-DT8MpUAibkKx6CDRrpmPSjrnuaiUDg0NT9vORGIljm1mBBiyvP6onSeZFUNsK72t7i0CSxjWd_cplzW-btMD_lBG3zFPeNc-7g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 142,
+    "coordinates": {
+      "lat": 41.8957956,
+      "lng": -87.6689408
+    },
+    "features": [
+      "japanese_restaurant",
+      "fine_dining_restaurant",
+      "asian_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE401Wt8tDogRMbieVGZpvEI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4808834390352115761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "AJI",
+    "address": "3809 North Broadway, Chicago, IL 60613, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Stylish sushi restaurant offering a 14-course tasting menu, plus cocktails & wines.",
+    "website": "https://www.ajiomakase.com/",
+    "phone": "(773) 236-1521",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt1BQ1znTD4gRhYKaztozp9Y/photos/AWn5SU7MaCt1-44l5U4Jiw84d9E3smx0YyHGesTrI30zIoKX1vlWi6wYCA_d_yQegziLM2tEhYt3aocZwpe8PzS8b6QuW7qmz7NvDFEX5YOUPFhOcpCLBxpMPUE5lJpoIUckSfkm5shSMvfpbGVVGiSghFS7o0M58k_Liwz9BbOODGxkChRy7W05jeAeT9Qn9e_Z5nU8g4Pjcj6vca4nQiRN2Ug5LEMX8QGOQsOj8MCDNNR9hEAc7I3a21faYUG8NdpgxR5aUlI20md3D9Cd6t3MgOEcy5o-gbLSWsBXXrjk7_BIEA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 304,
+    "coordinates": {
+      "lat": 41.951546,
+      "lng": -87.6494146
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt1BQ1znTD4gRhYKaztozp9Y",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15467388460089377413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kyōten",
+    "address": "2507 W Armitage Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$$$",
+    "description": "An omakase menu with sake pairings is the highlight at this upscale Japanese eatery & sushi bar",
+    "website": "http://kyotenchicago.com/",
+    "phone": "(312) 880-9402",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqbhk96bTD4gR4wJOg2blQYE/photos/AWn5SU7jy0AYGGWOpZqCWWxH1ylFq5hk5KsP8TXsndv4xNe0TNrU4GEW4xr59vm5cmEMpx65BN5PxOFc3-lmL5d9lNkG9JI4rmSc28QUG2k5FDJcG9kBFtNdtP2B6PscwNGJAPNfMRc6Y7RPrz_74dIrwuHvKqoTe6IO9vtiZSLCvrGT3YGUEgJytEJYrdJUF8xckMgF8rLYbcSJVrHozRBwEhV3n6IH8R1I_W0_Nfj071DtDXGQC0O4k4PtNcNTbIa62SklQLy87plvbEVXRnUNbFprgqNbyMmiN_M4bBB-kSncGo5gz_5hciuvFgVPeqYn0SCIKONVpK0GDqYvoGHYzKqwcRWkVy0vSebFzQrdeXHglvxf5d4_rgHucmh3rhj7e9b9i0y8jm9_ukELnFnvG9fpFpg9UJo34cAPuTWQOdzcpA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 41.9174375,
+      "lng": -87.6902262
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqbhk96bTD4gR4wJOg2blQYE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:30 – 9:00 PM",
+      "Thursday: 6:30 – 9:00 PM",
+      "Friday: 6:30 – 9:00 PM",
+      "Saturday: 6:30 – 9:00 PM",
+      "Sunday: 6:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9313977732831249123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OMAKASE YUME",
+    "address": "651 W Washington Blvd Suite #101, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$$$",
+    "description": "Chic, compact spot for high-end, multi-course Japanese menus with beer, wine & sake.",
+    "website": "http://omakaseyume.com/",
+    "phone": "(312) 265-1610",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2RtTWRgtDogRPCjq4g_BsWo/photos/AWn5SU7oXeNVqEJRluS8krDR7g2L4aaVk3N8qXlTgvsEmBeFipd7Kq2XqyjycybuPiKrlxGGJk28fRlPffMOncLrOQpcb_AjlQ_K_wBOdkgM0Cxz6XnTcjPI68UWwpRHGVYcv06ez-J0miEV9cnePu6fNfYyZq8Y7fXgVNUgM2Rs3qnQjQqveXK7ZELbPqWphf9BpJumpPLIczAgmLcZL3xGYp9BIK6GGhjVQ0P6eu2twYk4oZW5hL-kMpUH7xfvcS-PmHTsENPntBnhV_oBcxsAmfm3nLEwv-OJKbYZhPnOM8cS5g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 279,
+    "coordinates": {
+      "lat": 41.883044,
+      "lng": -87.6444946
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2RtTWRgtDogRPCjq4g_BsWo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 5:00 – 10:30 PM",
+      "Saturday: 5:00 – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7688138312873814076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sushi by Scratch Restaurants: Chicago",
+    "address": "415 N Milwaukee Ave, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://www.sushibyscratchrestaurants.com/chicago",
+    "phone": "(872) 870-0200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAVM6OC0tDogRi56uQRd-TJM/photos/AWn5SU5_WwarHkCNARM6QK4916ytXKVdQty4LcKUjtngHp_JapD0Uo2dNOqz1_S718YypschPtBW80iUUxcX4rDPPs0Qp9abdOEqEVSFRNn3S4NLbZazrOD1F_dZsOoN3UHtWvuKLwmtGIj5vG5l9gTW_bxwKv2wu5whxzI_99s1RGfCERWcuMYYxSZERrJTe5iC4qwoFKeJ2r0dIt9BoAvGsMWJI06I4pQtPbiJiNp-gERRxdbz3Xz0Pdu_09I1gD3mFPgvuihqJCcmN4oJw897KjOfHObIYwkmfgGYqXlDFFx8aHtz8GKlDTc3JLfGR6gk1kwUyVuWwLakR3cLKjioL7KjqqStRWCpxaV4x6z-xaM9ptHZ6Nen5Rdize6btVwbPtoCPud5JhPvJl5TZzo2X6HjfzkpU2ip-6zJy4nUO7rL6KDd/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 154,
+    "coordinates": {
+      "lat": 41.8896361,
+      "lng": -87.64484039999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJAVM6OC0tDogRi56uQRd-TJM",
+    "opening_hours": [
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: 5:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10613997060156726923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sushi-san",
+    "address": "63 W Grand Ave, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Stylish spot with a long sushi bar specializing in sashimi, plus cocktails served in soda cans.",
+    "website": "http://sushisanrestaurant.com/river-north",
+    "phone": "(312) 828-0575",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx5enN7IsDogRlQ9Sx_28t8Q/photos/AWn5SU5Rp4SlwHAQdm7aG3U5sbFkeysfwkEv-JdDZQUm29dQHoDSChknPptc8AQFKqMLiBIh8Ir4tmmUAfZ4SXGNjo5xPjsC8isjqXLKOpCpa-2WxQOzYYjDYTJ9NsAWJ73zeEfsNMTvrl817mbCpRvRewwutfhzQ31Jb4Jcogl3YNYvD-SxQCS_3y5zPeyi7DS7FBmrBxRYKLNOsiM6W4CpuqZQQLocW8aoQzbDRFwXTjYsXMaWxIYB3ztwAKs1JxmsJPd7BVTD1h2qebVIa8pAm62CiSMLJSRNrec9r-xqItYQow/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 8279,
+    "coordinates": {
+      "lat": 41.8914127,
+      "lng": -87.63046949999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJx5enN7IsDogRlQ9Sx_28t8Q",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14175006150328717205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Joto Sushi",
+    "address": "564 W Randolph St Ste 1E, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://jotochicago.com/",
+    "phone": "(312) 707-8780",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJH9GEZOItDogRK7kNt7TJKrg/photos/AWn5SU6nAvWxflA6sfPo73uLvLJUmgXr70k1msuv-t-6uMK2NduxRHT3uSdHjh-wiKlJpxnDAu2fSRbli1od7RNKVotMEz1Ds07m-uCRLhm8hRRSR0MaUFbCBDxFR_C1xvrhX0p4JXnjFo_5pHoNiXc_igVATE-PAhqwS9Zrc37iSrw0XfDqUKtLYlTR2g72Vl8BqznfBLjCSoOZS9YHH8AnFBSoh40NsMkyO_rhysr4IC6Mp8Xwu5Zx5gFhiObJAFKOc62s65kfI9BFJitfKZszhs2YA5-fm-LS_tYTOnEoewyIBQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 110,
+    "coordinates": {
+      "lat": 41.884563199999995,
+      "lng": -87.6421455
+    },
+    "features": [
+      "restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJH9GEZOItDogRK7kNt7TJKrg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+      "Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+      "Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+      "Friday: 11:30 AM – 2:30 PM, 4:00 – 10:30 PM",
+      "Saturday: 4:00 – 10:30 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13270641030003013931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Q Sushi Bar & Omakase",
+    "address": "4845 N Damen Ave Ste 1N, Chicago, IL 60625, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://q-sushi-bar-omakase.square.site/",
+    "phone": "(773) 681-0206",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBf8V1wbTD4gRXJW9p_2aMBI/photos/AWn5SU57PB6Y_HULjOlK2-mV8YUxK9joQQ4pNZWrCe6O4XgO9g4jCEgcw20y9IckhFszsjJexT98lPWZbUwP9A_I2jS3oN6I0mbi_8DDUplBK0yR1LZY1hrnQjcJMo5JLIFfp8djBDwDA1mL-CDAcBW92AyAhMfWbA3LUyiMGh_N9c9xIiZzj1q7RZk-axoH4a0NoJKKsoLzZXy0wRkayNmFS1ryQrZEOgrGYEpTlCJhR5i5HXcmE2EUT5enEk7Kb1FaZ1IQM4RyW5zXE9dK3hes0T4vJxIjTjbDTUBHEggoNsf04sJnPlDUlOadXdhXvy3YqCGIXKQ84xL8cHCDbqw6q2x7cWkGx0Y4Ib-ofo8vfdTi7Fm86GroK2fvUstk94G1Xeba1IEaEF4JsC_os1VIUvPzPYMm3TrIXdj7gXfAQivbD6IY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 287,
+    "coordinates": {
+      "lat": 41.970100099999996,
+      "lng": -87.6788175
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJBf8V1wbTD4gRXJW9p_2aMBI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: 4:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1310717905796437340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Momotaro",
+    "address": "820 W Lake St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "japanese",
+    "price_range": "$$$",
+    "description": "Modern Japanese restaurant for sushi and robata, with a downstairs, Tokyo-influenced izakaya.",
+    "website": "https://www.momotarochicago.com/",
+    "phone": "(312) 733-4818",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG4IdAdAsDogR1tSvuEq-QGU/photos/AWn5SU4hqGXpyBxtYpIbJX9tjzY7kSy9xhO3WGmnchzry4bPztznOhbjWRfsmSKCSvAAh9jZXKfT1UkxXqM_C4CLrbZQBVdz7QDGT6XG3tcpcaV8ssCJ3HCk0zH93uqFxPIwhxF7qW8yK-Hq8f6Ux2kSGouB6cPezBi--BAZTYPe4zLFc0ho1C-CasGl1-RPH1AL3D4qxg2oGfLSwAwtCMN5vkWpW7s-3NIlnhibhSuf5tNL-Bc2SuOHmGcMPPJ1ol5n94lDb82cl2g1Tu93C5JDaPj_w4Lnt58oFtmDeEH9qLxg2w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3461,
+    "coordinates": {
+      "lat": 41.885886,
+      "lng": -87.64845
+    },
+    "features": [
+      "japanese_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJG4IdAdAsDogR1tSvuEq-QGU",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7296040624475591894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Izakaya",
+    "address": "Lower Level, 820 W Lake St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://www.momotarochicago.com/izakaya",
+    "phone": "(312) 733-4818",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv_dV1nQtDogRJCh0JitYWmM/photos/AWn5SU52cRS7Uge1L0IPA-y7KufUssOr6d0MaXaSFglaRjqlLnsWEtrY7lgbgCQS7SAQ2f9QZ_u4NKY4Qp84UGTM2pwoGdzaC0QprlMmGjc4iqpe1PfAXR826WWfKrRiHrkYRltSoEW6AcqfwlHbvw_HwScaLNuLyCtoyWESJGyczDVnBc-Bcwxxy_n7nbbn4k_8dzFbQDc4yQBNMPzz09-wt8DP3QkVaxhGW8w2xCZlb5u6Ebb4PDuSiYyJBrNt8V7LqitQ8Nj65gAYQngiCypHeHxJqVQzmn9_tFrPiC5EiqwaTg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 522,
+    "coordinates": {
+      "lat": 41.885886,
+      "lng": -87.64845
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJv_dV1nQtDogRJCh0JitYWmM",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7159131500010809380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Roka Akor - Chicago",
+    "address": "456 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a contemporary setting.",
+    "website": "https://rokaakor.com/",
+    "phone": "(312) 477-7652",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzWN507MsDogR2vcR78e6V1Y/photos/AWn5SU5KfDxmWDi1bs296S7CxqpQegCVUFiJjxMYQQzdbdTMDC48XddQ-sTfJEdnQmG-mg8uPiTYt69ZD6cGciwxduNN-BDq4WE7TMlRyCOXdmHncGYL1BhaA88jahtSCm0ixfsNfOVsB7bB5JWh0wVTRPNQaIvB02jsVqDHfMDtraYRyRsxahAav6fyDQgwe7ANqMPGr12dzVBWT20IoA39tI3bzHD37NmFhtXsg0vzy_porbFMZQcbHMfL6p9DkT8pTMwMbdo32pOMfq9hcxf_k6ADrx9H5CdP6AFIc4426JLfUw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2155,
+    "coordinates": {
+      "lat": 41.890688999999995,
+      "lng": -87.63133649999999
+    },
+    "features": [
+      "steak_house",
+      "seafood_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzWN507MsDogR2vcR78e6V1Y",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6221646778107819994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sushi by Bou- Fulton Market Chicago @ Emily Hotel",
+    "address": "311 N Morgan St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "website": "https://sushibybou.com/",
+    "phone": "(888) 670-5996",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGzrP6dAsDogRu7c8qQOHJlI/photos/AWn5SU6eLEjwz1aF-UIJCqy8yz3ra1I7MN-8X8aWFxXFX99sci2grgSfwfqU1e-h3pTtveX3cGUFghbSpgqLF-fF1Y1P7GZa232MPwrJCyV2Gjr2Lc1QNR6KNNmfgC-OsUE4wbo4GsVNqttxrGf0Yh02YWHwW8Q3apMRsqwYkIF9H0vJPvgKfnZtxJoOZ2swOCo1RmFY-6zlHMs1QqLSoW4sTX7V07RjbrtjNMS8JqWDpqMUXkSm_l1L-JxfraLmwC6goJObdwAEZHfNZS4oJHS2YyAsWzDSNBhuF8jCJnZQccyQfA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 329,
+    "coordinates": {
+      "lat": 41.8874728,
+      "lng": -87.6518921
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "asian_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGzrP6dAsDogRu7c8qQOHJlI",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5919567210019076027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "KAI ZAN CHICAGO",
+    "address": "2557 W Chicago Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$",
+    "website": "http://eatatkaizan.com/",
+    "phone": "(773) 278-5776",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl2EeQVMtDogRG3q6FV9B8EU/photos/AWn5SU4XVvpI0wXlomcTckOWtyFIondjaOzOcdx7-aEn2aoVDSO08TkTgHqRtKOKZs_NtM4zC0PZsPUUWLr_n6aYMAtgi6F9Ja-Ws0Si4AoiaGMkPD-vzAAsV3fVzP4_Y6OKrlL9jMMpCTsHGLzA64_13bJCoHBI8dZlRGWgvOf92fNgs8ufwe_6ySJnlDVtnxA_Vluul7pK6_fWQ_nX2spRXLi8CJf2gcTedytYQr3LQv92pcBf2n5w7DDmXjL5EHkiVERkW1A9x7rMHZ56uUgleW57M3aCCWX9dtiSR9kI0_clIA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 818,
+    "coordinates": {
+      "lat": 41.895514999999996,
+      "lng": -87.6915662
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl2EeQVMtDogRG3q6FV9B8EU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5039599859669826075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Farm Bar Lakeview",
+    "address": "1300 W Wellington Ave, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Farm-to-table American eats plus housemade ciders, craft beer, cocktails & tap wines in tavern digs.",
+    "website": "https://www.farm-bar.com/",
+    "phone": "(773) 281-2599",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkb-okVXSD4gREGIEw0kBG6E/photos/AWn5SU5ECDoq6xxPbvG2LYm-1RiOXrpmY9yuShQ985O0wAuQ1VP2X2C5Fh09KJpEgw9KlTzjK_WwcjkaSGVf8n5vd2FkIJQMej2OXPhA25JhJZlm-pH_kfouDU_f3SnCl6_orNskFauVQvIctJE42qCzmv3-r3zs28YlRiJPwRGgugyYtwsTrp0aZqj70DySuC6QegQRJ2ChBYg2HQG5TEcb1o31_2nGHiAARwpA7a-zTc7mUHfF02OUdeXelL3NK0nuOGIa48sVO1Wnxsl7gJbxB1iXobYSAk8AqmxsMh3iFD4jWw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1881,
+    "coordinates": {
+      "lat": 41.9363515,
+      "lng": -87.6614204
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJkb-okVXSD4gREGIEw0kBG6E",
+    "opening_hours": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11608873880793670160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Farm Bar Ravenswood",
+    "address": "1970 W Montrose Ave, Chicago, IL 60613, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.farm-bar.com/",
+    "phone": "(773) 770-9081",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqY79Y1zTD4gRQdo0UDpQ2e8/photos/AWn5SU6cwWewQO--yCB3-lI0Dw7zvm1edIG5rPRNs4_4DR9lWvW7ChnD-eevX63qhZpFLslzsZXilpXKWUMjkWQFBwrp0-H-RllD06XNkCQxZjHWvihfpWpVj1u5OGg8BCuPMoUVAgngi1WHtvT2KrH1_gy1bJW2mEh2Pwl-MwBM54s4lbvpB2k4LIlHpcr1JAilsIqWi6Lp5622agdFUC9BeQ2mY2V04dCTCbIsTxjSRBg_qO0JRoCA73OQBX6at0gH2TNqs2tFqHQE1FCT0wVx3gpNRK7ouMl0WYDk07o5DuJp5Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1428,
+    "coordinates": {
+      "lat": 41.9616128,
+      "lng": -87.6787964
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJqY79Y1zTD4gRQdo0UDpQ2e8",
+    "opening_hours": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17282933256394955329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blue Door Farm Stand",
+    "address": "2010 N Halsted St, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Homey farm-to-table cafe with American eats & cold-pressed juice as well as home & pantry items.",
+    "website": "https://bluedoorfarmstand.com/",
+    "phone": "(773) 935-2583",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ978yrBnTD4gRRu5g9ZGCV9w/photos/AWn5SU7VDMp4VCeXLs4borX9vgW50MNYR0NtJ6NxCyld6VDHvDJwCIFxl39afvSj1sZiDCCAr0bY6MFFq7N-iY8p5dAuiptpaIJf95tFACtoc0BsBqd4qryda6qHruAGgNzGpKtA2Eay7sAAEaL3alRIBBQKG03Aor3idBObmYpsPmCgfBHpS0EQ-7U1Co8gStLLqj6yQaG_px1kBp4_LQjj04usCQ747jZhBPvpGyDGrXrSGuTzWL2rODZ5AsWPXV559HucGc092cm8d0urTVlYBqpkaXLMfGrTuMtiFJKkVo3DyD00zyJ5bfWIGUp94W-Cs7A1pCD63cxH6WnNKIDOGLO-33dnEidspxSFKV_I3PuYBErWX9kQJhaM9rXb7m1kse_kFj3CNBpxDvfiPLdqu8pSXf4c_qfFF5rJAw61fbIvqVw0JZ6mUuUfWWLxB3_S/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 979,
+    "coordinates": {
+      "lat": 41.9185635,
+      "lng": -87.6488303
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ978yrBnTD4gRRu5g9ZGCV9w",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15877302574716612166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

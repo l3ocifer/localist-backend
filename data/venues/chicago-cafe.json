@@ -1,0 +1,3734 @@
+[
+  {
+    "name": "Coffee Lab & Roasters",
+    "address": "2823 N Lincoln Ave, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Trendy coffee roastery & shop dispensing hot & cold specialty drinks, plus pastries.",
+    "website": "http://coffeelablakeview.com/",
+    "phone": "(773) 799-8361",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq7u58SPTD4gRqV7j2UThRLM/photos/AWn5SU4qvQ9uq4bv-_Gu8jFDBSIk1A8sN5SvzZUxOOoMnPIeIzVwMSChVex9VZisdLFcd2QxjiY7aDY8iQ3sDurO7qIDWX0_o1BrLLrl_QbPI3a9BxM_u881iY-9TVulxQ2TophMjg1wUEy8hFNntHzGFA8ubG3-zxcFIQevi3p5DXr5ahOr_U2ZUylDkgffp3v2kR29m6FfGqrYxcDE0YcgjInC2CAzJJHw_tWmtxSUqe-bsJ0MtYM37qIE_RB6QdiKvz40IWRZJXzcX_yA9JSHpcBydOdodLgxaWrm3zWgMrX9Xg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 386,
+    "coordinates": {
+      "lat": 41.9332062,
+      "lng": -87.65939399999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJq7u58SPTD4gRqV7j2UThRLM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12917697317035007657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Magnífico Coffee Roasters & Coffee Shop",
+    "address": "3063 N Milwaukee Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.magnificocoffee.com/",
+    "phone": "(312) 783-4755",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJA1d7_tfND4gRRGuhW99ootk/photos/AWn5SU7heGEcm657UWrtPfAFtPKU2e1hf8v0unhDgwdRj9DrAwYM8IMeoVlTuid8VE_YPp3NgWyVmz9hbm1ZVGhzH0dDmhkCyeSm0YwtlF8enkLr_U2BHs2ElKIjH-e7eO46BMD4HaQoPQkP9SmmThu8z3aKJtDPwNk1NfH5RLWDvETeSXjRtcC5lhu6J5Y_rbXkAXJ99WJUF_ELktgQ-PjHUBhwenpXX7oVEo0my7QQ4zVOa7AH_zSdi8oOyHi-YQxdLF0YkWqeOVZAOOboQYYjLfB3KxLYY2QIjG5eK3_ExUZYS8Vw15jiC2hN-djYKXquSCN43-n64e9OS4AzQBD9R4rESGOY3QZhVlvhQR_PzsYoBD8WyPk1cpwIeQ4EWU1TEWN2bNx4xkxFlZTXDnynasBpv0CJKYVIhlyjgDwdpcPEbQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 398,
+    "coordinates": {
+      "lat": 41.936951199999996,
+      "lng": -87.7200448
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJA1d7_tfND4gRRGuhW99ootk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15682212160981789508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dark Matter Coffee - The Mothership",
+    "address": "738 N Western Ave, Chicago, IL 60612, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Offbeat coffee bar & roasting facility offering tours & artisanal brews in a mural-covered space.",
+    "website": "http://www.darkmattercoffee.com/",
+    "phone": "(773) 697-8472",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWRIIZ00tDogRiM95S7fMqPs/photos/AWn5SU7L-3Fmp430aDOjHvneBVxABodVugAPz5Ik8RL1EDhzpNgDMKXcDhKbWaS-RHSwJepja3fQe_2clt8rEybRjCGNXJfE24jW6L3KqQ4D0KiBybOEMNRThhOPbXLe2kMSZemK7FP6c-4qDKpE3_2hXSfj6OpiuL9pgSux8XmP-ykrRfj9a1zJOw3YLvt7u71WWqOspruJelpmmqMjaPXV7E-7pdC9p_o3lxSb-Zhx-CDVJWYhBF7Yi_2HKBJBmwl7S7ZG1-OZ3YjWbFt1g30d2GGA1VJ-M-XMEt1st81f8S1fMA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1270,
+    "coordinates": {
+      "lat": 41.895069899999996,
+      "lng": -87.687134
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJWRIIZ00tDogRiM95S7fMqPs",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 6:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18133968987224657800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tasa Coffee Roasters",
+    "address": "4136 W North Ave, Chicago, IL 60639, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.tasa.coffee/",
+    "phone": "(872) 275-6258",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHajLt7jND4gRcnxw1UML0Kk/photos/AWn5SU51MM9GQC_MbR8EbNUO6vBRhWvJUGitbrsqaBWNai3yJJ75tJKa_eZkxlIcSPyKG97fEslCPEV2axfjrFjNH5HjkGIZ5fVhVxpxPYctRDjP3J8LB7W1bsRMmj0dX_sEFcfBSNfdFRU6IEmC4Xu1OO_MoF3a9qTcQztBEuhTSJeAqINYMr-wNO0cPK47NY92HXQ3KtS7WPRYHwP7ZhuTWjnTDmSOdypi9zVkoKByWoJH_K7OmbIa1lhAGLQmzu5A-P4K4Twp7HKsmfFc3-r9YsjZcM5E2GbhR5PmYk5JksAazA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 483,
+    "coordinates": {
+      "lat": 41.9101399,
+      "lng": -87.7302478
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJHajLt7jND4gRcnxw1UML0Kk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12236292573537270898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hexe Coffee Co.",
+    "address": "2000 W Diversey Pkwy, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Chill coffee shop with a patio brewing specialty coffee, plus cocktails, sandwiches & pastries.",
+    "website": "http://hexecoffee.com/",
+    "phone": "(773) 904-7702",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQTImQFstDogRnos_ciToRBo/photos/AWn5SU5JtdMGmLNLxW5hQ5-UYjjJF346aRG4y_fRMtgZ2qzcE--939X2xzliKwf813YWNMB2ZvIafzboFRjw3sjLlVV58ymMQvJYLo_pdXxt3w-O5BHSgISNWPdkxmd5lXSvtnyXHAQTiV6kkmEfw-nih0gEZGakQelP9vRj0n5qaPZjRpR8B7TcQvpMAKuDkcIO9xRLHYuV3Houtq46lMm8dGtqGWSwbGPhWw_NP_fuV-rWZmohWDPi-Yxvw3Be0tAw51xCaW-XUA36fjzW3IBzJShNFoH4lKDc3J8jeBMABig3p8YD0HAfeW7CLmuYoZkpXMRvsuHYEHRuykYTCJUSy4cwLqJAjQ4ClUAfADnNMZS5GLm1u159kVvKOH7J5QuE50cFo_9KZZEF3UuCIhX8mdpl7RwO5dWw5MDvoiNoR2yWAuU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 955,
+    "coordinates": {
+      "lat": 41.9325695,
+      "lng": -87.67904779999999
+    },
+    "features": [
+      "cafe",
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQTImQFstDogRnos_ciToRBo",
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:00 PM",
+      "Tuesday: 7:30 AM – 8:00 PM",
+      "Wednesday: 7:30 AM – 8:00 PM",
+      "Thursday: 7:30 AM – 8:00 PM",
+      "Friday: 7:30 AM – 8:00 PM",
+      "Saturday: 7:30 AM – 8:00 PM",
+      "Sunday: 7:30 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1892892986635684766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "TOC Coffee Roasters, LLC.",
+    "address": "4801 W Montrose Ave, Chicago, IL 60641, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://tocroasters.com/",
+    "phone": "(773) 709-7040",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJb73EwDnMD4gR50LJnqbONvs/photos/AWn5SU5DhnrL87vrdMREi25W9wKWDlMk0vEZufXGaeugagPlVq1KXTGDWsIQALfPm85dmBW-BXtWhjFzknT5iEgw_h1PrUPTBOgGPwAjv7czXKip4iGBRnlSNwX_hwJicRAuW06OgzLTPKoJ6tqKDwFphy7zk3aP-fTzcSPGTTHmSxUB9K67H8reyAE8DdhIWglnKEeFPjleL72k5R-DZw4JzMmCZanfEvA2VpGqC9nC1JRL7xhQqqXs9zsz62xI9NOGr8HEofHw-yaBvIgzPZ3JUSidekZEdn_CocjZT8zkr07e-Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 41.9605792,
+      "lng": -87.74795000000002
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJb73EwDnMD4gR50LJnqbONvs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: 8:00 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18101882967286170343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kapéj Coffee Roasters",
+    "address": "1447 N Sedgwick St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "description": "Brick walls & floors lend a homey vibe to this snug coffee joint serving drinks & light bites.",
+    "website": "http://www.kapejcoffee.com/",
+    "phone": "(312) 291-9022",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYR_bnzjTD4gRb32OsMuQ0hY/photos/AWn5SU71drl8nhFSzVF0Zp0Be0ThI0jDNYZap2Hr0c-BjTk2Co1gy_5Fl8gVyNq2qyksykQs-tqpXU-E5VtU9GMiOaFUxi1NxNnKVDCeZwfQ8yD6GA95QAL7ROCFzMwVG2OSGHZhtcItK8JUbXCVA0HLVg2FT6t0pnYUeaiz_dPCtmJpQRtNV4pwBo3l5zQcmH_vAkuoS_ZLw0U8FTluBb-rhu0HWSlshd5JH7j4Yu6gU9rv4g4Kha64FBsPrOOZ9cC6kL672uwSCTjx38qdpkdDgkjSvza3TWy-R3fM5_65jlIAew/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 646,
+    "coordinates": {
+      "lat": 41.908934699999996,
+      "lng": -87.63825279999999
+    },
+    "features": [
+      "coffee_shop",
+      "bagel_shop",
+      "breakfast_restaurant",
+      "bakery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJYR_bnzjTD4gRb32OsMuQ0hY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 3:30 PM",
+      "Wednesday: 7:00 AM – 3:30 PM",
+      "Thursday: 7:00 AM – 3:30 PM",
+      "Friday: 7:00 AM – 3:30 PM",
+      "Saturday: 7:30 AM – 3:30 PM",
+      "Sunday: 7:30 AM – 3:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1644536018458541423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Muse Coffee Studio",
+    "address": "747 S Western Ave, Chicago, IL 60612, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.musecoffeestudio.com/",
+    "phone": "(312) 285-2072",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAbCZBD4tDogRsdRzfGayoRA/photos/AWn5SU5qZMFRqMZjzhbTT8u6Wvk6mMkyrxgUZB-cBFkhLxevq_lGrcz7jLI7EYL2r8UDr2Z1nqKIQB1XTvdAN4pFPbKcTdUzH145waULJNKJ0J_BT4U-QzSXqJb9jHv_wPVB4HdBpIYVDCrXL6YwYSfkj4VvO0g_a2KhUiwB7f3XBo8BVuIyivTlvVv2uRMxnT0pOaYIDyghQflmyoCt3odi654Wd7bTZUpJ0N-Ec7fhB_PR1J_D2RjH4wiDtMwNfme6efPKpVaBNJSU-8hln5GLaxO2Fxfh3kb6BKyCmuC2R0CaVQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 250,
+    "coordinates": {
+      "lat": 41.871736999999996,
+      "lng": -87.6859009
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJAbCZBD4tDogRsdRzfGayoRA",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1198435129101636785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sawada Coffee",
+    "address": "112 N Green St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Chill spot for creative & classic coffee drinks in cozy, rustic-chic digs with Ping-Pong.",
+    "website": "https://sawadacoffee.com/",
+    "phone": "(312) 344-1750",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6ZFu2tosDogRPqdBeBkX6IU/photos/AWn5SU5Q30rk2h62PjoPsml8VBT6khj1DJNYv8KFV2D9gNNCihAfwfBGsRWBEeolFXElp0HDZ7k6CjJHm77U_OYgWN_ADzg3VH-E4KlxD4AKoNwgvS0VyGNtUd_WXDbKcgfZtXRMRV1s_xx9GFeuInxO4ALR8_oDvntDe4_WMYRcokmsK3Lk2jXrJogtVUpiS7xCoKpRIaHRD17Lza8OH0WbDtcVD1qUfptBfirsNLQHihqtpk1ZYqDlwRBg9Ayyk_jlIBAe4SkJ-N8cqmgti-t1svDCwoEuGyWTNCbyAVzdKIr4AG_K5yAHzz1lMuf3zWP1ABwQvl-uvpBV2Lp4tY9RzUdYgClSTHenhYgtNxhJSr4BuxUwxGee65kQdigpTZdH8UrMWa-fyx1llYoRpT3PCLZs-dTK81-EPUL6AzqRlEI96ykBWEDIQ82zReb2CZyr/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2090,
+    "coordinates": {
+      "lat": 41.883625099999996,
+      "lng": -87.6487119
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ6ZFu2tosDogRPqdBeBkX6IU",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9648987599800477502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ludlow Charlingtons Coffee Shop",
+    "address": "2425 N Clark St, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.ludlowcharlingtons.com/",
+    "phone": "(773) 697-7984",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJX2YfBP_TD4gRxhiaf3mkhHM/photos/AWn5SU73UBG0cQAqOOuTI0kL95HzF-ebbZPR-cNC2xaPJbNAqCN37BY-aOsjbMZrQDcoUFwUOtgMPdiXuVTuTdDOYqw1CNXFiKX3SPhRDyHyg7rbgyCeIXerjHLTwrL-EGRXVhFUS_E_QoguAVEZ4yg35At5X4ZdtrL-j_L6GNRWMQzEwJMdufGsNu8WOqrS6Mv-N00KJO83buzmtsz-Qb08rbksDcQd_-Xm5lKJy3Uc1vycmxfj14ZPVQdufpnNHImy_pYA6VCnYzdn8dS7zaoMClt7x2v8tUNqDHGBjoO7DNk3uw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 318,
+    "coordinates": {
+      "lat": 41.926285799999995,
+      "lng": -87.64075079999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJX2YfBP_TD4gRxhiaf3mkhHM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8323958853026322630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Printer's Row Coffee Co.",
+    "address": "2482 N Lincoln Ave, Chicago, IL 60614, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Minimal-chic shop of a local small-batch coffee roaster offering drinks, beans, cups & T-shirts.",
+    "website": "http://www.printersrowcoffeeco.com/",
+    "phone": "(773) 666-5394",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE-9k7wTTD4gRyWYhhTGwPAc/photos/AWn5SU6yDs4Hl8SCc24Fr56lqNozUgJBDougrG4N8G7u9OH2jyiGnA_2j1WuXtPo-KtSE9ZqBahmNANZcsMa2Aiw-PJCwEpDdTqG2CyggqqahFcAqqU2Si3WxiMsqeD7ai-XQcF-8IHcbMzhd2xh8sWpMFkWVtM2uuAlMk2kuDqBMzsoYcun_Q1SkX1XKwTVeAbm5krLkjN4Hj2lDgT1Rp9cGn8gnKGub-GEIZcyukOsIEZaPpyrfl8vUcPDs1Aydn7Fbp9KzNYj2ocELLhw5LJdeQEiB_ZVu2puSHgdve4ur1az-g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 241,
+    "coordinates": {
+      "lat": 41.927118,
+      "lng": -87.6513365
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJE-9k7wTTD4gRyWYhhTGwPAc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 1:00 PM",
+      "Tuesday: 7:00 AM – 1:00 PM",
+      "Wednesday: 7:00 AM – 1:00 PM",
+      "Thursday: 7:00 AM – 1:00 PM",
+      "Friday: 7:00 AM – 1:00 PM",
+      "Saturday: 7:00 AM – 1:00 PM",
+      "Sunday: 7:00 AM – 1:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=521485383601579721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Chicago French Press at Roosevelt Collection",
+    "address": "1021 S Delano Ct, Chicago, IL 60605, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://chicagofrenchpress.com/",
+    "phone": "(312) 957-1601",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfWtcVm8tDogRK8Jy6lmuuJ4/photos/AWn5SU6mfD-ywKsMJ4s8Rkjcvz23vLEedKaRe2K2lToE2LPfhxPZcxtDAn2tGqdQBZ2CVMDwNkP7ZwRzFTr0XLaHnxo0G7g_BQg-y4pMccfmu41_oManiwSjRDslFH5wF8B2CQ5oBBHXO4NTN78wRqm_WAGqdo6Q0HhgBEC-r6IQDKm18dFFyHgJPSDd2nqonM4Yp-NLdkDPoiKoZwmIptH3E5DuNSP4vRgtwtBz4-5sTO4xl4afBP3M7IpViQMhfMuIKM4PmCI9wp6z_tKVo97CcL8FNgJJmhHs4v4r9NxGdTriGg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 255,
+    "coordinates": {
+      "lat": 41.869228,
+      "lng": -87.63271320000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "wholesaler",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJfWtcVm8tDogRK8Jy6lmuuJ4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11437082954916086315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Coffee & Tea Exchange",
+    "address": "3311 N Broadway, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Independent shop/coffee roaster selling beans & teas from around the world since 1975.",
+    "website": "http://coffeeandtea.com/",
+    "phone": "(773) 528-2241",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg5PFYKTTD4gRJOfwdz-UkpU/photos/AWn5SU6rfmXpv9B0E3s1f2mVTSFZcsI9M8504_TkilOrwvtWxoadoND5sJwab8dTER9tFEzWKfcEET0vuy1jGtzkOZYXAt3_0TvVKrMZFDbYjCQ0uf5HHBTZeE13n_Rd4dt54u_o99YskCabNGCG3Li73r-lPxkO-JET239eRBb0Bl1qGjPBBvEZUK4OnWLK4uCYLIr8scneBxYmfqKGxM95WhOX1P7Wr-FAVD8oPxWBeejyeXPyEc_bIyKIZwOgnDuZ9E4t2JkPo2sAvmko7WvD5eSbG5D_QubJkj5XszE-tf9ehw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 872,
+    "coordinates": {
+      "lat": 41.9423646,
+      "lng": -87.6442909
+    },
+    "features": [
+      "coffee_shop",
+      "tea_house",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJg5PFYKTTD4gRJOfwdz-UkpU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10777839858567145252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Avondale Coffee Club",
+    "address": "3185 N Elston Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.theavondalecoffeeclub.com/",
+    "phone": "(312) 877-3826",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIWEOLHjTD4gRh7O0BZZ59Bk/photos/AWn5SU4ipSJJO_3kxDUIBFA4ql9N6vh4x0BWZstN9PRIuGpwpJrmT9I2Abx_Y87PYFqVN9A4FeOos6stlS1YMs7S8IxrZHWI66WDrVH4YL_gy-BC70yI15HFgwX5iAMmkun9PMIFDqV04gwKtB_bDvFLq-CFFt5GOltdJth5pmBTpOE65IdQV8gXj85z4SvQbAb5STMEF57I4KMe4kLxSFjbFscy4YOsP9vBzlVMSwzBkrEto3lL7T9ZZ_9FCsZHn3_JFsun4VD9mdByvSVaZFGG9EErvlmwyGJMqnnbw8H3MZKxfA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 347,
+    "coordinates": {
+      "lat": 41.939144299999995,
+      "lng": -87.6975155
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJIWEOLHjTD4gRh7O0BZZ59Bk",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1870253430513382279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Brewed",
+    "address": "2843 N Milwaukee Ave, Chicago, IL 60618, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.thebrewedcoffee.com/",
+    "phone": "(773) 697-7542",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJm2laVFDND4gRgzPCkRFYbFc/photos/AWn5SU6trZaEGqMaf50dgYXJZhHmuygy9udy2-oSt5cHW3kZwm8F364ene_pD67hEuZnxz8ryEkGWbFKBAN5cdJwChYsuX-E4BcmaTaNtVYGeAM6oVI7hmnJAp9VbAdkSfitoXoyxOjNo6eMGJDt0P52pa-vvmcgCakwjA6NxBjTdFtir6OY_CD5NIyRBMven7VOd-9YcgJzrG9gtDdHXU756zj699Ercsijqf7fl9Wjy9Csl2RGbUo1Wzpv4PIEtAy_M9i54bmSvX8pH_etp4qelWxM9IUqswr8Vv33KyYZOjGcgr6YxECAxa0oHVenQ5SA0J-_I33-ap7fraeGBqYx2Ks4dzFUA9qfmnH-YLND4zJmLTyBvqgO_UzDw8z6nwfmhJfuI7d5Br3RufAnherRjuustpfxhcpRisoiagiLpp34lZGr/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 323,
+    "coordinates": {
+      "lat": 41.9330919,
+      "lng": -87.71350939999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJm2laVFDND4gRgzPCkRFYbFc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6299506811267593091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sputnik Coffee Company",
+    "address": "2618 W 48th St, Chicago, IL 60632, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.sputnikcoffeecompany.com/",
+    "phone": "(847) 668-5575",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUWbNQ2suDogRMqlRSTH-Lww/photos/AWn5SU4pDoJu41wywLhFb4v9AOcsux8MA8r5kFFwfqEK1aub7CQMjfZddMTUvchbHyOl6-BTYluYSAMic6C5nldM6rBVCf5Ossgj84rtlKJCpg3bp_uVkuy-UVe34pc7z0Uw0OO51-IkZBAB2Rr_JURrb6jgulrWQ4JB6Dov-ZAkQWjaULzp2ovRd3nUB4FudWtSgM5ah3NIX4NguzMW8_Xa7HkS6jLVOpsOihcb4m2eE8PMhNyQkp0aMovhqum8r6_o1KSTtA7yG9C-KoRCj1ll8zq-RNSfuJry1H1m1MCNkx80bg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 483,
+    "coordinates": {
+      "lat": 41.806688799999996,
+      "lng": -87.690298
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJUWbNQ2suDogRMqlRSTH-Lww",
+    "opening_hours": [
+      "Monday: 6:30 AM – 3:30 PM",
+      "Tuesday: 6:30 AM – 3:30 PM",
+      "Wednesday: 6:30 AM – 3:30 PM",
+      "Thursday: 6:30 AM – 3:30 PM",
+      "Friday: 6:30 AM – 3:30 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=878199939997477170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Standing Passengers",
+    "address": "1458 W Chicago Ave, Chicago, IL 60642, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.standingpassengerscoffeelounge.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh6d-MdPSD4gRHTnLjhtVX_0/photos/AWn5SU6l3XaNJNsIb_PYzxHG0qx2OKoBaYabXQ0oL5Xa7LQys4ggRt27TyxrEP6hSISsa-FH0sRT1fvWGZf9YXpujgxUDTeqoZAMj40yvBPHKzzowJCfzUWWW6ByxlOSguFaeyni5Ef7U6lpE9arQm0jUd2g9dHHInbE_WQ2GXAtZivH31j7l_AZEcDaxAWlInSVh76b2uhOSQ0P--Or0d3bXPmuP-SOOyzAQKXmgM-AsI2KhXagzEtK7keeN25NVcCluzQGvC7hyjTf_wWLkl2nsi0WNgqftrTX0jLpP7NVX10BBA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 412,
+    "coordinates": {
+      "lat": 41.8962681,
+      "lng": -87.6647176
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJh6d-MdPSD4gRHTnLjhtVX_0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18257404991231441181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Owens Famous Coffee & Provisions",
+    "address": "2945 N Broadway, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.baecoffeeco.com/",
+    "phone": "(773) 661-1074",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJR6LJiBPTD4gRcAzLA1k_290/photos/AWn5SU5T57OtEBPJIos1sZGBkyBpXAaB2sF9h9wb5hYl-vhQakOaDGgWMYFsvl_1d4sOwu3qY1-Xh5wL8RbthphuqoG9IqQFCKSCfYTjsPtRbF6dsNsXgCjakz_KqvYY7MVr3qCR1QEcRT9OMYmL--4QBG4rL9tUAL46LynRvMS5nig0w7HdaqbyyokpNR-XjW63epxH4r0jPhSmagsgIUcTTpuoaj-LyLG-v6cgg0fplmZlC2VWMvPl5ohVwrwR517JMTyJuLa2tfZjJLVH9QZ8gAu_Zbem7nZnA3aGcQJVRC9byg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 225,
+    "coordinates": {
+      "lat": 41.9362589,
+      "lng": -87.6441388
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJR6LJiBPTD4gRcAzLA1k_290",
+    "opening_hours": [
+      "Monday: 8:30 AM – 2:00 PM",
+      "Tuesday: 8:30 AM – 2:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 8:30 AM – 2:00 PM",
+      "Friday: 8:30 AM – 2:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: 9:00 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15986440953829985392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Intelligentsia Coffee Monadnock Coffeebar",
+    "address": "Monadnock Building, 53 W Jackson Blvd, Chicago, IL 60604, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "High-end coffee bar chain serving daily roasted brews in a contemporary setting.",
+    "website": "https://www.intelligentsia.com/pages/monadnock-coffeebar",
+    "phone": "(312) 253-0594",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj_WHnaUsDogRPiO9gqm-Z3U/photos/AWn5SU7zVn9VXkaUlMbM-FuNtxlq45ydWHS2WKcDyZ5O_FFsJ44CQm7Eu5suyu89Dhx1-xvQT66P-S2JkwkZIQVYBnT56gL6fBfVOT9w6BIFxD51PZdcJKYblZFJWYqbLCso4IKMSrkrtrRl2c188EpThRz0Sw1ddoB_jnNo6Mn1QUrVDt9H8kxT6GdSd9qmR25oyX5YuEpe68XVMQLJ6RFO0_yAUNw17iJ_8NY9nZMHrLTWSNpPUbcfZ0GiPTn529eXJ2WvYMV4l6CB51KP5AMnGYhkArleonDfWF74Vy8LkMlYAadHgGy65vLS-YwUO3kea128qgZwi-IomQoHDS0J99bIkXIyvmEdRNo5ibKgm6PdOr80iB0kXoA62nWsmfjXjUBjK1XF5rH1kMICcrhSVcciK63spQvogcZ-HDgPx3f7S-7KMXHh2GRk63fwkws1/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 641,
+    "coordinates": {
+      "lat": 41.8780706,
+      "lng": -87.6296107
+    },
+    "features": [
+      "coffee_shop",
+      "tea_house",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJj_WHnaUsDogRPiO9gqm-Z3U",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8459940060290949950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nomad-Chicago",
+    "address": "820 N Franklin St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.nomad-chicago.com/",
+    "phone": "(312) 847-7222",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWcQr16zTD4gRm_tlYvIyNMs/photos/AWn5SU6bog7CtV4zjZH_AnDQGgQXakdWqPyeEownaDZGQNs8uBV2GmkKnb6VTMasR2vZpb6yShnObNyabmPKYFbIz9-CfNbfO6BVac_y6lfiY5rOPPmu_6ou1w6UdQoaA_PCos_o_aR6j1KRyNEU_5QqXvgPeGHtEUkzPgdfvbW0hO16Ecw95ZQ1w0tBpYGUPn_OrBCUk0zlF9KegOimbnjrbFZSorG4qNVVx76rlVeC4GlgS9SrJodNrv4H_vXMiUeoqlJvM51vmgfbEjTh7C_d13_ugYrLIIr0y6OjQtszkKd57A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 219,
+    "coordinates": {
+      "lat": 41.8972866,
+      "lng": -87.63585189999999
+    },
+    "features": [
+      "coffee_shop",
+      "event_venue",
+      "clothing_store",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "home_goods_store",
+      "store"
+    ],
+    "google_place_id": "ChIJWcQr16zTD4gRm_tlYvIyNMs",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14642384305102650267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Around The World Coffee",
+    "address": "643 N Wells St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.aroundtheworldcoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJezIPeHYtDogRXq2cR2acFKU/photos/AWn5SU4GE53JzocF0-Uco9dctgF2pZe0UJUxyMNuFAXVIL9ikkxkfw_okfslPa5Q4AnKRWExezAdzlEBwVG8XZfdRkZGXIwlkCPjYrqZnQ1s-etvH3dIUj_eON-Nh_wXZPEejVMtWBGg6qea9kylMBEq3Ro5vGqDtWsZPoTFeAYFFiQ5r-mgd2mdCaSIeOy-lVtGCciEE6KTnAJzQZILHe7_VkqIR_kKmgA92tZZYRqjPM6jdqfsE3CQjEX6hCq13WAYaLI-HiighjU18_IqbXmJcyF_To1z7_Tl7-hx2spCXCNT1OI_QA4xvRCxwomZrYTy8kmsdn79UqtgkujA0bgcUfwGmuqbmbzVE7dzKFjj3mUC5C9_aJKPJPcmmMVQKVzwelzrJb1gBqRE3mN-YmAuqxBf-JXKSO1vihRjAF7AiSLVIF6B/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 114,
+    "coordinates": {
+      "lat": 41.8938475,
+      "lng": -87.63393839999999
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJezIPeHYtDogRXq2cR2acFKU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11895304478894370142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Big Shoulders Coffee",
+    "address": "213 W Lake St, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Low-key cafe serving coffee (roasted on-site), tea & signature lattes in a contemporary space.",
+    "website": "http://www.bigshoulderscoffee.com/",
+    "phone": "(312) 631-3343",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC6S04bksDogR27AL7eSnM6Y/photos/AWn5SU4JSm1uSmwU6riPIllpTVbY1wXD6WF7DFyWrLFINHoyaFMhutny6Am3B6alqXQE6E1E4suWruGTikygFATScSKCLLo-acqADHL0-xEYx3htUmm3kXIkhW1vhHYb_5gDPH69SBhJQEG3Ssrm5ItkXoDWnTEr_TqSPPHaqozxN1PAY4QZYS1SMSGxOVI3azrZ7_oy8pNtbeTjr6_YnRd9zuKan7PNa4kAzu7ZWEkaEX2JKEgYc7ef1e9pgadW2P0kGNlbmguryqrSTRTw_dQf9legb0Kuud4TOGSs1qf4Rc6vIw4M3Xx7bEkUF701Wfhkv8l0KKc8EJUlxkBcIKWwyZZEwRRqP73-JK3aqID1QO6UPMd_pa2fQmOUQwLdCKwYIyqY6jsdhRboFiybyU0CqsStg2a3FgCDa29CfNtfcTwAfE3Prjp2YoOfXsv8xR7u/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 246,
+    "coordinates": {
+      "lat": 41.8855836,
+      "lng": -87.63459139999999
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJC6S04bksDogR27AL7eSnM6Y",
+    "opening_hours": [
+      "Monday: 6:30 AM – 3:00 PM",
+      "Tuesday: 6:30 AM – 3:00 PM",
+      "Wednesday: 6:30 AM – 3:00 PM",
+      "Thursday: 6:30 AM – 3:00 PM",
+      "Friday: 6:30 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11976100435779629275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Café Consume",
+    "address": "3452 S Western Ave, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://linktr.ee/consumechicago",
+    "phone": "(872) 269-0557",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5QsXHAEtDogRyqv3ev-Wiqo/photos/AWn5SU4vyc3p0zEVYOcqYyfzyeIUqH88b4B__jbGNg8WmuSJzXTcTg-wP8c3lyL01TcnDdM5zIWOSn4Lf1Fk6m0bimpiueRMMEMvVkWUqPWR57sI-3ynXPO5eOs79hJI55LhQgPeZndbckTVUM2TDG8c2CgSw7EuWu89FqchDDDn9QWd7R7cgOvZHemX077y16aAZMEGajSkZCH1X6mLcXEqKG_8O4zuK2zM2-ilvMXlhAbqshsuhV8tk9mK7_-92s2x2IPJGMLyjmc9rqlMPTieu0kTCaZaVppTfmDtT-eCAfYVSDryFM0Aqx7oJYZz68APR-HySRxNAo5ZgMUlSiz-OcdgE_tcyrTqlzGGsbPNk6eszjDJHn7le4Hfg-ab7OF_j3_qRN5-Hd5bi9T3nHujhQ1X2TdKyM4KNIeuWAp_uD9kIw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 313,
+    "coordinates": {
+      "lat": 41.8305362,
+      "lng": -87.68537119999999
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5QsXHAEtDogRyqv3ev-Wiqo",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12288800557257698250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wake N Bakery Chicago Downtown",
+    "address": "38 E Ontario St, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://wakenbakery.net/",
+    "phone": "(312) 405-3608",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJR0rGSrstDogRNjMvOZFNtJA/photos/AWn5SU62KtuJCz9PbWB69YCiKkTl8L58pxnOLfELA2qMTDI13EV8o6e73e6KAawVP4665GUFzNHrLMuLPNlUdxQWrrdb0fcBunllDjqHjRc6YMknDZJsC4tYJ6cNB2kD9ozfLOfPMZRBJ8Gg_Vj2FczP4IJUK59INek8gA6V5d1tLT-Gci5UtBfRNvSUER88TUq9yDg4BjPzf4dVBP_a6B086ErgK3HiZVDfFnSQ67s7oQ2GuATQQ95snhJb75tEJ_pKpF6S2nq_19W_FyyqPU7DP5iz9JP2MsM4c2IrQci8cXAn3Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 768,
+    "coordinates": {
+      "lat": 41.893466499999995,
+      "lng": -87.6266024
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJR0rGSrstDogRNjMvOZFNtJA",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10427044323394532150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Move Along Coffee",
+    "address": "1223 W Grand Ave, Chicago, IL 60642, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.movealongcoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJR4-ClE0tDogRKHDbmrCYgZQ/photos/AWn5SU58x7veDlH_Y1bxpcF9ZF_33Jd4S2V0TNrp4Too1P7Khlt_UfZYeWxRlAiiPT4fFoVe9_tIG-FRZ_HpDw99Ij9XrSdSPwlwOIjUhWGQR-94qy87-9od5KIkWHLV041FuoJF2FlYvNNL05aV2COLxSqewflKo-SsHlDocm8d3KltI1bb1QcDVVTDb_01lMpPKtrWXuT6L35ZoLKHmOxg3GZPveI2xnSkaHIkr_J0Fv5OaUYOb1dzo6aF9Jt4bFFwHwHQRiInJdyg6X5dV8mM_MAfJo55QKnYhKkrLODWvrwZ6A1o1G-WpgIwpMm1Vf64haheSd-h6VtHHRdpdT4QqjK06R_C6tSiBGohKalWphiJ-mYqb1U9qhR_hh0XtlnXQ6QrYbdr5LPayUUOXd9oFju-pg1iZoTDhrg1MherQQo9l3WN/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 233,
+    "coordinates": {
+      "lat": 41.8908737,
+      "lng": -87.65836320000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJR4-ClE0tDogRKHDbmrCYgZQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10701002073888747560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ESPRESSO AND MILK",
+    "address": "20 N Wacker Dr Suite 105, Chicago, IL 60606, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.espressoandmilk.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJHyj2T2otDogR47s1p21VFUw/photos/AWn5SU4qG8UpItCIN0z1CyaxJPug3LAhXJYIdMgIf--7n3wXTj-MAGZU_YXBjmH29P5reoek6TjK2FleYs4qBm6GCB6cIxkfBtULJWj2DyObaGr5zG7jm3YLV_k3fdX_gEVfkDlO_gQRBKF3dJD7T7v55iSWAYdEaNnA0aJXW8i_6_tHzB6c1EvWYSAGVfcRPSBxuye6zIGS5MD3eS_af5TDctBzyQ_YXCiPJpWTvfXbBUSkBXVyJv9spLRCkhpLeNCocyMP-wLmaoigO00d4k3V2x75_o16FS99N-kq3RoIGPKY8g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 238,
+    "coordinates": {
+      "lat": 41.8826202,
+      "lng": -87.6372731
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJHyj2T2otDogR47s1p21VFUw",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5482382050838559715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "TARY",
+    "address": "111 W Illinois St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://tary.co/",
+    "phone": "(773) 322-7315",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd9l5u1MtDogRjhXRP0d83YE/photos/AWn5SU5TRqHqdrzV7Gv3Z8Gl4z0B9m1iYFQYpsZuwDY3w8kbgXQv8dul8n_3JSF228_7RiVmY_fr5Njlc9G-njM4TbzXjtqLCzIAlG-N1iCgO2MLQ3g4MAmCuGSUy7KoWBTsdLQspr2_s4W4KZoEm1Qj2TTiVvtHEkc1HfNIek1_muEuLnFLhaWTFroFfjt654NW0XaZVk5RzaC4KgEbJwE4PzCl5zqEREjzvwbE7mYIKK7k17fI3x7jUD-KQBEDq2nzL5wTqY1lH74FlRItI3j1m_i-8q-OQG-4IpuORl7xmmOVyA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 845,
+    "coordinates": {
+      "lat": 41.890701799999995,
+      "lng": -87.6320753
+    },
+    "features": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd9l5u1MtDogRjhXRP0d83YE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9357772246200948110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Wormhole Coffee",
+    "address": "1462 N Milwaukee Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "'80s-themed rustic coffee shop, complete with a DeLorean, pouring locally roasted coffee.",
+    "website": "https://thewormholecoffee.shop/",
+    "phone": "(773) 661-2468",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY473WcbSD4gRUo5DhCPezNs/photos/AWn5SU5OYlumeOJyUiHd7MxMO5cudH6wtzhllnK38g7Q-GE9JbOb-BMi6D_P0SfdJgglhuN_0guKlVZZ-Pe5mzZAq_yBdHmx_nkh-E0oA_PpYKJFhgS7AjLRHrIxyIk0yFjIGA2rCkGqcNdgi7KYtPFm3VtDh5b-G25bkJcNVv-ySproXvi_X3NICgj6ESbFroADC1R_hlxEHCM5OjZ5lLaX3soHovnKozTvnYoXVOW5Pe9sQf9SRrbxZ2EWam5Nw3wAUDLK8pCJ10RIQvAzM3bRLw_Q-U5NHmoihkSd62ULUD-ucw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2025,
+    "coordinates": {
+      "lat": 41.9084133,
+      "lng": -87.6746028
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY473WcbSD4gRUo5DhCPezNs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15838278233679433298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gaslight Coffee Roasters",
+    "address": "2385 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Hip, shabby-chic coffeehouse featuring a changing roster of house-roasted java plus tea & pastries.",
+    "website": "http://www.gaslightcoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC5zA_GLND4gRM8au6lVnREs/photos/AWn5SU555KgKmBzadHe5IkSTdg40Bwc-eJ793TEETvTkMKoKyHwHBxCWDkWpH3bA25houW4EgofM29z9OiF2PlcRUVbUZeUGuM1BPMmhRgP1eyo1c0xGyfCutXfU3n9OOcAMjHYwVOuKG8J0-p_c8antKpg-nRYV8t5NflV_6fVLCe-bGQ78uV96aJuVh86YbSoSjl7zFMNnahcwZAhPRZvVd6QNMUwf3epUrvgl9iQKP_XX8-IKezPq6xWK1ZrbxgeFNDh7nEGpvyK2W5PPaUQ6bvsLUnznIjZDX6kDzDc-_kW7WqSvXLF9KipBJShldqPs0Dc1B30gtw7QaqQEZj9S2xCjDkWeiMK8nBt6VdeMo8ysJDSoaIN6H-P3fCNOwD2KlBr8RhWc_BsPee1dzU-ZxaY3IcszsRpX-kjHzsgkIIcC4Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 779,
+    "coordinates": {
+      "lat": 41.9245667,
+      "lng": -87.69979149999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJC5zA_GLND4gRM8au6lVnREs",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5423573469968123443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Prequel Cafe",
+    "address": "1957 W Chicago Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://prequelcafe.com/menu",
+    "phone": "(773) 537-4258",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiY6-324tDogRZKXUvlQsVyU/photos/AWn5SU58k5lEvM6QjxAXRrgrtkAEabMQKM_Vdxo67uOQtrUw9g-JwVjtBFQ00eomnY9spKfpPGhFqx83DMsYRrD8vd8SxTgmAus3O5Hsc4sgWwzSlaBIpEVyNYYMDF7mpIuO0DBJfqgr4He26UGWQ2pZikbOncJyA68MmCbhvzoOq53EihEeuiFsXPNItRA_zq2tjDVSJpRaM_lNBJy4h3FkgCrMfQ6dwUxfUxWyZn2_yShmuWD0oyH_b0tOhmQLNjGMMKs8p22XUifsByg_Dp0DRhtBSp11wl1emFGvoZOP6iJuag/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 250,
+    "coordinates": {
+      "lat": 41.8957142,
+      "lng": -87.67677300000001
+    },
+    "features": [
+      "coffee_shop",
+      "art_gallery",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiY6-324tDogRZKXUvlQsVyU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2690668044867642724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Intelligentsia Coffee Millennium Park Coffeebar",
+    "address": "53 E Randolph St, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "High-end coffee bar chain serving daily roasted brews in a contemporary setting.",
+    "website": "https://www.intelligentsia.com/pages/millennium-park-coffeebar",
+    "phone": "(312) 920-9332",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj_WHnaUsDogRLVVNKF7LxhY/photos/AWn5SU42YxTk0PBfcH2bKnooeHYajcpfXFYEEVfW4EImRB4Eq3byawyzDv32xDARdmNQxvUHJFGrPOFFf63M5k-bsNeSQOmowGc0929D5M4IjrgsbGLxmCulAphMYz0Kr4cibfMi3WIWYzeZF8024UVH40cMeq1ZQV0KjY49nHjiSphCAJtLLKmdSf-sw-MXOpKbZMnsEv0ckLSwrdLl9fSvqWen-JhazXwfDFYSs4pjIOFdeZnK2dXfz8dXr7uCCnWAkYb1hpM93Vw7l_52k9QN_798YJ0ZSH9-RZuVUGVtrmojAQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2006,
+    "coordinates": {
+      "lat": 41.884282999999996,
+      "lng": -87.62577519999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "tea_house",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj_WHnaUsDogRLVVNKF7LxhY",
+    "opening_hours": [
+      "Monday: 6:30 AM – 7:00 PM",
+      "Tuesday: 6:30 AM – 7:00 PM",
+      "Wednesday: 6:30 AM – 7:00 PM",
+      "Thursday: 6:30 AM – 7:00 PM",
+      "Friday: 6:30 AM – 7:00 PM",
+      "Saturday: 6:30 AM – 7:00 PM",
+      "Sunday: 6:30 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1641222719486645549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vietfive Coffee - Chicago",
+    "address": "1116 W Madison St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "vietnamese",
+    "price_range": "$",
+    "description": "Vietnamese snacks, pastries & ice creams are offered in this pared-down coffee shop.",
+    "website": "https://www.vietfive.com/",
+    "phone": "(312) 929-4732",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5_Xb4PctDogRKUIyJwN7-c8/photos/AWn5SU5iilukvlVRh4m-obXngnJ2ogNxWzye7qU5FjJApZSqCCN5UhOnB6WtfzplJAzxKu2VuNZUavQV5iR1gO2uGyVVBMssOL7YkxeU57h0kCFYFVhMHvbk64-zz8r-2UAUfQ72LFfp6YZ_7yjtvUEbsTtVzjkZxEYAW2FrUJWMDK0ug1nPVvBm2tnCR3cHgs8mjrGdy7kiC7U2x73Fw7D8gC0Pw__xGljQ8rz76vGjRMcGisZVN9h1-qtmfxlS1G0nPHxMmbbi8tjr6H2tOA0dRzLEbLCalRYLmj_6HONcukBLcg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 458,
+    "coordinates": {
+      "lat": 41.8818883,
+      "lng": -87.65497649999999
+    },
+    "features": [
+      "coffee_shop",
+      "vietnamese_restaurant",
+      "sandwich_shop",
+      "cafe",
+      "food_store",
+      "wholesaler",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5_Xb4PctDogRKUIyJwN7-c8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14986144488524759593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nabala Cafe",
+    "address": "4660 N Broadway, Chicago, IL 60640, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.nabalacafe.com/",
+    "phone": "(312) 955-0135",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY2zx7PnTD4gRZWYkDgx22EY/photos/AWn5SU7OflEVy2aGP3pImiJ2ux2YLbQHqgSJkkl1YQ8zObFN2aX6oWq7Ffl8OyJ9x3PKSz-Vaoswsl-I3I1lgTBiun3WUvaVaQG5-chx7erPfxerA3UHThOrn69ankSG3x9sWiO8cp2e1dpkXkPQopKYp6tXUlVBDA_dqHFDr49exrn3cu2xTHYPZ7cZ8T68_N8xzGxE0_jm606Zpyv0GADvRVi9SrkW92_HbDLRfkYr2TnJYrWGx8myKr6mywJCvPGtspcYb9xxZPmvUWF1TIP2JLx3Qzuid6e8UBZSnrP0palvHSPkFc17k2HXgWUZHk8quAgApP4L0EkAA2gyxYGNCNIOJ__a-97Sdsohic8fBDtKzZd8J3B4nVUMHDdbqM28MPAMyL5HnLBe5v2c_cVyS6IjC0m_SZHT__dGpm0GspaJUgE/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1194,
+    "coordinates": {
+      "lat": 41.9668925,
+      "lng": -87.65866109999999
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJY2zx7PnTD4gRZWYkDgx22EY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5104959971773408869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Happy Monday Coffee - Loop",
+    "address": "30 E Adams St, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.happymondaychicago.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPVTdA-0tDogRNauaHuDp5Rs/photos/AWn5SU5hKi0yqArKiMmQAW9bi3A0aNGzHy_hekxlQ2Whfkg912ciQ5b193FAR6X9Urxy0WvhKeQzaY2K6Bgm8ZGOYc_7DTfQHG-23spI3SQfzBh_nFUoav4Mi24rdPHyVGfmmpk6D5uH7lqwC9R40IKn_-IcT_NeNbOEn7KYw0EUoTqbmSuo-aGpnb1PaRjD0UrBbf5Z2Jfb_OHm8m0f1JZ5ZDZSc5poCI5_ntFkAr4oicDMmUz1f4Cw5FtKoR86m2_WO-jGn_NdJ7ZHEp-prkefwSkUB1HKALPCoZPJaHGaoE9N_zI8vuo2OYRx50HrUDhCzLMfB9vRC0bLgPlms5Kq2e2_ZmA5mD5pSNhBJYoMQf5KzWPbudUfSYd52nviQR2KUhT5B4U7LlnL8o7FFOEEkdkkK08Y213AIVhOFUg0QCT51QHHv-0aXSQBddGWJ3cU/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 248,
+    "coordinates": {
+      "lat": 41.8797624,
+      "lng": -87.6265775
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJPVTdA-0tDogRNauaHuDp5Rs",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2010269957486193461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Caffe Umbria",
+    "address": "346 N Clark St UNIT 4709, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Chic coffeehouse featuring Italian-style drinks brewed from house-brand beans, plus baked goods.",
+    "website": "http://www.caffeumbria.com/",
+    "phone": "(312) 955-0288",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsQ9HCbEsDogRQOVaQvA1-hs/photos/AWn5SU6rgtjLbJ6Yc_kcStLNwKOLk25F4Hq3V6RZggAbzBP6TC9LdDoJ4_pOcxzziohXmpSfv-U1QC0-1qrRGlRd3EGdAjT1x-0HwPHtAWwI-n5n2CDvbQBEsuqlxU7Ow3p3UdCSiRe4GbzCVF5Xr5gyYMhEgSPPiXtuZrKP-iyV0gCIxsAgapPwhrXPsAYGFUKRkf3ZXBozZCifdbYqywKHwFNgJYBB3obklGxiV7Ayk4z5o0icu9TULgZL5ImhNu703XoNtBDN_LoeTi5jMSCYwU5NwwHFyFYg4qtRK8sgf6yvMQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1049,
+    "coordinates": {
+      "lat": 41.8887579,
+      "lng": -87.63122969999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJsQ9HCbEsDogRQOVaQvA1-hs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2015983089223394624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OUD Coffee & Cafe River North",
+    "address": "714 N Wells St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://oudcoffee.cafe/",
+    "phone": "(312) 763-6168",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSQZaqnEtDogRQ68XgBbAO4o/photos/AWn5SU66L9Scq-IOFMOX0mhe3mHdx1u_0Kux1r68e6ChDeuBizK8ypCtLZaXPB-5IpC5HC-chFeID4Ox4tqYdpvoZfee6CK4wMQvG9tu0ttf46NW-6cOLyf4nD8en6mFk6Onm3LzeFjRcqo6LX2s7FLQwbmS7uCXMdKeLeWVp_kn9ffwfxyL-7exAllUtyPM75re05ytKMCA7KHe7qskIrFz4jTQnJ2bJKOLG6VZjamSalvafn47eTeg3sAObLmfTDdfP4YoUw0TeVtuQRO-AK7deWaR06GNLLdylQibAM_eqKtvE_cNvQYuf42xD6w1QiKKMOrkVALOfsFuY7eDynZoR5abjfnfLha2OLjlz173QWDbGGLkY-ZGmDYMHsbf-pPu5uNLkpmo7Kw1ZOwULkLBk1zw-zYmwpE7_OD7MtgoeVzSuI2xo95iONKh3H26zt4O/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 599,
+    "coordinates": {
+      "lat": 41.8952901,
+      "lng": -87.6344647
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJSQZaqnEtDogRQ68XgBbAO4o",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9960766203730833219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hero Coffee and Bagel Bar",
+    "address": "22 E Jackson Blvd, Chicago, IL 60604, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Set in a historic space, this tiny, hideaway shop offers espresso, breakfast eats & outdoor seating.",
+    "website": "http://www.herocoffeebars.com/",
+    "phone": "(312) 285-2434",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKwx9GqMsDogR4ov1av0VV3g/photos/AWn5SU4PQMDdhJ1oprG9RyiODNzrxtm01W-Vu-ElD5iw1CjyktS4tKEMFyqb9OC4d770ULKDMS7yPMuztJpALp077KYIcq4eZV-J8-08hnURMTZJeE4NmL91ln050P4kCpD_jNekiz4NsVRC4jsxV8JmxZmj4Zo8si74IDfyu3KzDCnrzdPhn-PAKIoAN8Pdkn92VsEXfl2hHctfgM5FR-MsSAJjJc6j-QFrG8QGQN1SydY6QUibZz4PKXXA6n5njdhEKIo1veI0aqoQaKXN2WLV-1R3-TllXrKT6tZCdnkJmcyM_w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 795,
+    "coordinates": {
+      "lat": 41.8784321,
+      "lng": -87.6268193
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJKwx9GqMsDogR4ov1av0VV3g",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8671423785690565602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Goddess and the Baker, 33 S Wabash-Millennium Park",
+    "address": "33 S Wabash Ave, Chicago, IL 60603, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "All-day cafe with baked goods, plus breakfast items, salads, sandwiches, flatbreads, beer & wine.",
+    "website": "https://www.goddessandthebaker.com/",
+    "phone": "(312) 877-5176",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy4c5YqQsDogROocKBfZJmos/photos/AWn5SU5TXvGQRHQODT-GjN_YqWsJIJqidJIDed2gBCa2aO_UfUWthGZRQc1Wcj4beSX8I3fx6yrOsEn0uL2JZ7olialXkVRffX9kYzxRrJPIz2uhslEXYRjmPYt-1AH8MXM0JV2ko-VBLAPxUsCLIrNPOEHO63DuWVeUK0NXyLc1zAZKbMqjZ7WA0fTxAzKtqvv1-iHSjzPUaBdSWlYqIxPlX_2YU0pqlc7ACxCv2chZxY6WymfVnU07XK_t_wMvpRqzYenyQx1MPXZL3zVE5aex770oFjbQ1xptfyKQKV9yPfR3Ew/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2749,
+    "coordinates": {
+      "lat": 41.8812892,
+      "lng": -87.6259101
+    },
+    "features": [
+      "cafe",
+      "catering_service",
+      "brunch_restaurant",
+      "food_delivery",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "bakery",
+      "sandwich_shop",
+      "american_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJy4c5YqQsDogROocKBfZJmos",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10059434038680782650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stan's Donuts & Coffee",
+    "address": "181 Michigan Ave, Chicago, IL 60601, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Stylish spot supplying gourmet donuts, milkshakes, hot coffee drinks & cold brew on tap.",
+    "website": "https://stansdonuts.com/",
+    "phone": "(312) 729-5480",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV6U9Wa8sDogRrrIwt52dR_E/photos/AWn5SU63fshIjyoFOXrIKcxvfKvWBzCiSDs1ibDRCj7ECbK-Ks6ex17Cyt8pBo7n2nACWLy772VE7-JuRy_k86LTR4Wca-XFJKVB1ZG0A09PEnoooiBUOFBvrl7YIxCxTlGp2iw8-OBnUlmlCK7QbJbJ0FAiQ8ZH2kxp8TSWeNxSJzRejjn59VMYRy2u-uU4YByN4S-wjhk7nMDLUz-HaZhGXf0kRQjz8FHfiXJtelRDz8OhFJfC2JMKHhxn5DaGCtTLY3IZiF1l7PlGAD6J1O7PYWWERaUptvnMHZPerctgkqT8Tw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2466,
+    "coordinates": {
+      "lat": 41.8853698,
+      "lng": -87.62422649999999
+    },
+    "features": [
+      "donut_shop",
+      "bagel_shop",
+      "dessert_shop",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJV6U9Wa8sDogRrrIwt52dR_E",
+    "opening_hours": [
+      "Monday: 6:00 AM – 8:00 PM",
+      "Tuesday: 6:00 AM – 8:00 PM",
+      "Wednesday: 6:00 AM – 8:00 PM",
+      "Thursday: 6:00 AM – 8:00 PM",
+      "Friday: 6:00 AM – 8:00 PM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17386038187195937454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ground Up Coffee & Bites",
+    "address": "900 W Van Buren St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Laid-back counter-serve outlet featuring specialty coffee drinks, plus wraps, baked goods & sweets.",
+    "website": "https://groundupchicago.com/",
+    "phone": "(312) 374-1348",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ999DbN0sDogRB2Ho8jh6wf0/photos/AWn5SU5VifCeKq7k-XPJSG-_z7-l_qr243LPymSzmkPP-LKc2fI2Jsbh_Tnyx6mJgSWH0wB-zErxc6ZQmt-7I80mt0-KC85NciMsfojTR5iqSWYmZCGeOpAJyaHmhPV-HNMVXt5UASIqxxDU-LP97B73MSFyaeYqvffKQxZ8iqoxvCKjJzvCJmgkW0Rt2XtbuE5g9gH0TnW7eLFSjz8fpVWa8akugAMHKf4Ag4D09R724uKCcaGL3w2Jx2RpOehuz12rSeN-XW3840QzRZ4Mh3o7HHnKfei_ViADy8gIvcyjJpUVTb9VqrV00DZiLovnwTN8qK1UMCypmVqqz66JCbIOzDnYxZMsbn1uf1dQHnij1EpOs2c08UY9m3s-6UttQlEHodPOsob9o3GhRUWT_QVkclDRfMrsIp0sijkgCjQy5NEnoQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 719,
+    "coordinates": {
+      "lat": 41.876773299999996,
+      "lng": -87.6497474
+    },
+    "features": [
+      "coffee_shop",
+      "internet_cafe",
+      "dessert_shop",
+      "cafe",
+      "bakery",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ999DbN0sDogRB2Ho8jh6wf0",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 7:30 AM – 5:00 PM",
+      "Sunday: 7:30 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18285030347112997127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Metric",
+    "address": "2021 W Fulton St, Chicago, IL 60612, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Industrial-chic spot featuring house-roasted beans brewed in hot or cold drinks.",
+    "website": "http://www.metriccoffee.com/",
+    "phone": "(312) 982-2196",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFe_FAUgtDogRNvsYZUbeFFk/photos/AWn5SU66LvkYXcRW5P8UCqXXfy-F1Hsm7Q4LSW0MRVlSU7qGEuSSzuIYfZf3nLciYgXkBE4Z6GBtGyh4BzlIeCk4cZMgd1rJpBNyeWIk_GC_UVEP7ZK06dsfcercvmegzc-b55F7wEYg8W54-i3uSz3NKWUzI-7ZuMHxjCKONgMSBl3Gnmz_J7miGKWEnYUjAdxAwltIbEzl0OdKnvvvE9R-mpgFVqzs_s9qR5DZCtp-uKBoAs3N9NOMgeIb0YCPGhBEl8s62TQpenoWiWBmjqZBtv5WU-hPpiqTtP8qwi273tGMMQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 455,
+    "coordinates": {
+      "lat": 41.886490099999996,
+      "lng": -87.6783
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "wholesaler",
+      "store"
+    ],
+    "google_place_id": "ChIJFe_FAUgtDogRNvsYZUbeFFk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6418999762835012406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LVL UP COFFEE",
+    "address": "70 E Pershing Rd Suite 1W, Chicago, IL 60653, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://lvlupchicago.com/",
+    "phone": "(773) 966-6095",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmRnl54stDogRdxRJzZw4qWc/photos/AWn5SU6opSIZTm1FaLyPAyd0ECcdfY2hPemrBYZBLioAqfTgtee0r1WjjykQPijpwoAT9NUTEfqepNheBAB4Qi9Xk5_qeWPQ_wMKHjjozwua63TGQQJlZUavS2O9skBr4YVCNvP7dyoGxhabKZdcoYkRqi0C5u33Y0wcPMvLm0_b8Ft2lVZA4-x_-E718hk_6X6LfGwGDV_2Wfy9HPIYkGjDFZ6ezegCPxgxzAD3Hg_TDnqCHk_ADJOugqIROclKH-ktROteVHxlA4S67vP6Nr5MClA5V4KrN1J0iSnkj9u0jF6MDE87A9hyfcA7_jpGieh9JW0WahDSl9HQvJTJvNiMRDlBqcSnA0gAhb3iecWtJewFEunUhJ1T57vjkJ8AFWiHZfDpxbJhE-6XgwRDTWiEHFJNoLfBXW35Wno9-ObR2jufQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 180,
+    "coordinates": {
+      "lat": 41.823928599999995,
+      "lng": -87.6237793
+    },
+    "features": [
+      "coffee_shop",
+      "donut_shop",
+      "tea_house",
+      "bakery",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "market",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJmRnl54stDogRdxRJzZw4qWc",
+    "opening_hours": [
+      "Monday: 8:00 AM – 2:00 PM",
+      "Tuesday: 8:00 AM – 2:00 PM",
+      "Wednesday: 8:00 AM – 2:00 PM",
+      "Thursday: 8:00 AM – 2:00 PM",
+      "Friday: 8:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7469563703080850551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ground Up Coffee & Bites",
+    "address": "363 W Erie St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.groundupchicago.com/",
+    "phone": "(312) 600-9128",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQYSevRstDogRaf_Y1yYGhc4/photos/AWn5SU4LEg2oB9tZ7IXO8zunlnvuj8C4f0pNBrncRN-Ilvbtb4hQyrcGOULpljVOyDiWs439vUcG-PNRGvMdlvVSWoeTDdDlL6vRfNuWnHoGsqUPQd7IOBB8UcVVu59dDV8sM6RON-c1h3Bz1cuRporw702g-3FeDnCTmAj53Ta7AEIYvBXnLaEDZrSat_-dEo-XWBVL0VrV_mCzAmsHR_EY-9N8AGDtG9rB0g96LfGhsfSR84T25utULjYLGqNAaqlzDDuiIagr-ao3aIqJhrnW-61QXZfCk23xv90j1Dl5HaUp9w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 300,
+    "coordinates": {
+      "lat": 41.8937021,
+      "lng": -87.6382069
+    },
+    "features": [
+      "coffee_shop",
+      "internet_cafe",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJQYSevRstDogRaf_Y1yYGhc4",
+    "opening_hours": [
+      "Monday: 6:30 AM – 5:30 PM",
+      "Tuesday: 6:30 AM – 5:30 PM",
+      "Wednesday: 6:30 AM – 5:30 PM",
+      "Thursday: 6:30 AM – 5:30 PM",
+      "Friday: 6:30 AM – 5:30 PM",
+      "Saturday: 7:30 AM – 4:00 PM",
+      "Sunday: 7:30 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14881307307615518569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Big Shoulders Coffee",
+    "address": "1105 W Chicago Ave, Chicago, IL 60642, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Low-key cafe serving coffee (roasted on-site), tea & signature lattes in a contemporary space.",
+    "website": "http://www.bigshoulderscoffee.com/",
+    "phone": "(312) 888-3042",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJESvtKSvTD4gRR1nXPNiU_po/photos/AWn5SU6uUoFR5Q4mG7WwOCKjxi26v037EoA7DfkrTVEkVto6Yv_rNimoeydbdMUhWxg0EHEwWpVsYdL8z6ICdWTAHZ1GJZXE30xwRvpW68hLK2MU21bLUEtdVVTIz07yE45mOVUkDdGF7KddL0XS9bKKh2MCxMBawmqd9Igfu3X2rkNr6cSEE7yGxV40_tCN8FnfvJerPFTAX113yruuv6F_H9HXVyIseFPNtfdEpcMYIM1x7trQU51UC4UfxdWLyTiobUp8E1oWhggDfFiC7hsKMrvnbMd3ZgWY2caVJbW8PSNy4rJWeR7-2V6xCfza0U1TJb2oIDFdUudHvFUL4FLmrxOv9bGkQtLwuH-huY09SoOOQ0IXIVH6zgHST3-BftLCVE_DTLruyJmlJwVz_3y3ceHK1LDSyWjwLCYwmHrvsNoYRw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 397,
+    "coordinates": {
+      "lat": 41.896059,
+      "lng": -87.6555523
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJESvtKSvTD4gRR1nXPNiU_po",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11168527782380001607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dark Matter Coffee - Osmium Coffee Bar",
+    "address": "1117 W Belmont Ave, Chicago, IL 60657, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Coffeehouse for java, iced coffee on draft, baked goods & more in a quirky, industrial space.",
+    "website": "http://www.darkmattercoffee.com/",
+    "phone": "(773) 360-7553",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq7PuRKvTD4gRvSZFkijiFFA/photos/AWn5SU40-FoWWdPonIxj2t7h0_ZiXXTOSKX2ITdpXzMOzHOyATNrVEUDN-o_mZR5hUy5mzVagon6tMNOzoUFxPi-EBai6hBrel30cd4z1ZFQi0A3OzyX4cSH6M1mVt-5Ggk6O2z9VImGcIiZBnHRboh9MT7lazf0Y0COCm1LoEopi7J-qsQEgwJArMDlDaN6Edm8Z4knAMDD7aaBal9eSYaGADoR_mWkVUz9iruup3sUixGnnwIAaUqg0Xdq-UPwxsqT5IyYCYzz2RLF3zMCHMf1fTBUT0J_o4nMghcnnrjKHRHkZQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1062,
+    "coordinates": {
+      "lat": 41.9397066,
+      "lng": -87.65730599999999
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJq7PuRKvTD4gRvSZFkijiFFA",
+    "opening_hours": [
+      "Monday: 6:00 AM – 9:00 PM",
+      "Tuesday: 6:00 AM – 9:00 PM",
+      "Wednesday: 6:00 AM – 9:00 PM",
+      "Thursday: 6:00 AM – 9:00 PM",
+      "Friday: 6:00 AM – 9:00 PM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5770485686449022653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pan Artesanal Bakery",
+    "address": "3724 W Fullerton Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "website": "https://www.clover.com/online-ordering/pan-artesanal-inc-chicago",
+    "phone": "(312) 286-5265",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJL78qhcrND4gRXeOczxsh3bA/photos/AWn5SU4BhCJIK9VVugRBPD8kYj_i-p1OQTznob9IJQofM4YQC90O_ty87hg1PmtAAnijubu0LLJLZ08LN99nO6VJNpsB9cM0P4mZyyEFZ7xucH9CYDlg2w16leFhlawDk9sGtYx04OcGKWAJXK8UTnEkyrLMduPqOn2HFGBqZ8E-1xjpw5I7mrgNm5mKNIFhBvt9jyEEWCX_xIXMZPo_7xoket-kd5LgtvFF3ktLFxSxmcireDqbYoPmfHD561yg_4aky9HjIDTeQz-OT0ZPAIH-Z1uOhCjeMhmV4USJ-GMJXdV16w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 460,
+    "coordinates": {
+      "lat": 41.9247302,
+      "lng": -87.7205152
+    },
+    "features": [
+      "bakery",
+      "breakfast_restaurant",
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJL78qhcrND4gRXeOczxsh3bA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: 8:00 AM – 12:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12744378923859370845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wake N Bakery Wicker Park",
+    "address": "1659 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://wakenbakery.net/",
+    "phone": "(312) 363-3005",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFwJ1FhjTD4gRv1OIpqBF4WY/photos/AWn5SU5G4gcnKOMFQFOVjG5Z8ydLCnj0f71YxaHRJN3bUFybkIDaXEIsIiZ9nXTE1nCZQVQ9nO-qmtpqBZzNyl9eKWAotD7sOMxZn4krTwJbRvMN91PB_v8iqXsdB3cAS1FWF5mYvI2SHRmBtlg1d1QemBA7Mn3mghaJxAGB3RtnDIiOX_FhLyJKq_6yMKYtgZRK2Ite2a7yI4llkd6FvnOHBX4_4F8qAs0HTB1xbSG4l-sU0k7U7qvh_O2OfhTNDluz4WvfhVglA4ui5Ast1OUMCl3VUj-HJyOJiT5p3SlFTCveSA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 611,
+    "coordinates": {
+      "lat": 41.903042299999996,
+      "lng": -87.6697678
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFwJ1FhjTD4gRv1OIpqBF4WY",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=7413283017919583167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Beanokio Cafe",
+    "address": "2136 W North Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://beanokio.com/",
+    "phone": "(773) 857-2002",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuwg-SgDTD4gR7pvbYQH0tTU/photos/AWn5SU7GUPjvMAC5R82ce1wmQoPxJNmHSe1SDsWwzmQBMHDYaKUesG9x-QZirTRfyvQCHuxfdqNOzPzHyaBDIkLfkIYpbW4Z5ECeZ055orWHrT4MVEijzqzivc3EXpZKVSr8uM3A_vp6p5Q8Tv9xstHJpcbb1t3RlenUzoD6yo0cZD8mUnfBge0Cy2L_46NwgG84K8mgyU9PYlc-4x7X-Rx7r1K4LR15jZUeoI9ecPUROQaLhQ8ZbRFel0A1EHT0PuGynd6GnVm1jGivaJnqRAP3KFBVcLq4KI9dfoGox0rj93de5g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 176,
+    "coordinates": {
+      "lat": 41.9105886,
+      "lng": -87.6813653
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuwg-SgDTD4gR7pvbYQH0tTU",
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:30 PM",
+      "Tuesday: Closed",
+      "Wednesday: 7:30 AM – 5:30 PM",
+      "Thursday: 7:30 AM – 5:30 PM",
+      "Friday: 7:30 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=3870267741568736238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Engine Coffee",
+    "address": "1109 N Ashland Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://enginecoffee.net/",
+    "phone": "(773) 661-2472",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKT4KNezTD4gRegaTAHBIaic/photos/AWn5SU72XINZcE4CPIsD9G4M6VrcuHiSVPxlPDGZCAPIRsznarorzm3sNFeAcAf-ZNqf3qRNvSmLuCBvoWauhE1Pk_5GFyjw2BqxktlniOnPUewJ4F_oOxRLl3GMp2Z9A-oc6CYfQAR1gEk9QOzQP_FnCSfggtCD82eYNvSFTpGudZXSVbuxqn8FEtzGDsi-1zIL7IyVjrstn7JErgmgzKSDslqZN7md64SZxpV7MHKZ-Vzhu8QBqoF5cbIpTADm6kuWxclJf4LFGbRgJm4s_A2Nv-mJfbuUR_4-SChd95ESqw3cXQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 180,
+    "coordinates": {
+      "lat": 41.9018665,
+      "lng": -87.667248
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKT4KNezTD4gRegaTAHBIaic",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=2840162160893691514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ipsento 606",
+    "address": "1813 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Modern cafe/bar serving coffee made from globally sourced beans by day plus cocktails by night.",
+    "website": "https://www.ipsento.com/",
+    "phone": "(872) 206-8697",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7VDy2r3SD4gRo7aJ8aaxQ1w/photos/AWn5SU65hvw3A6BRUly_2Ix95nI5kgcJY4NM_L7MItiLzYbq1crPqCx-naV6S-XSnxIFhVipUILMvS8Yp0AZMTyhZTijsnVQjzQ97r4E6NbexRlnpy4EQQhzNMF2hTPGh5sR2Wdna8MOI9g9HbM8LfQk8xfNyCsw7QcGUG47YyhvF9lULavpzZrHhw4Yf_aHM6Hq2o731qhIYFB8bwKX7CruKlx1KBg5R0M7IeUwpl-D8Ig4GiAuRkABWPbm8Cei0RzO_d_y5RMAGza1H1WZQTVDKxPRAD_TycPxj07Wz191TZlGOw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1115,
+    "coordinates": {
+      "lat": 41.9144273,
+      "lng": -87.68326069999999
+    },
+    "features": [
+      "coffee_shop",
+      "sandwich_shop",
+      "ice_cream_shop",
+      "wine_bar",
+      "donut_shop",
+      "cafe",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "bar",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7VDy2r3SD4gRo7aJ8aaxQ1w",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=6648352805504005795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gallery Cafe",
+    "address": "1760 W North Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Coffee shop featuring house-roasted beans, patio seating & a selection of breakfast & lunch food.",
+    "website": "https://www.gallerycafechicago.com/",
+    "phone": "(773) 252-8228",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3V7KBcTSD4gRXCJYI2UiWL8/photos/AWn5SU5JGmwmaPqVO5k9ivtfuqj35ySoSEGx-LXcVMbL_uhxbDxRLLQaJFl3NFq5VK7M6oXD-5fIUKC87tXBKbcTkSGYBhu3LQDpfH2hOxftuYFUSp5qnatcn_q-G9FJSY27vw0EO21dzE9k-wiseZLkcIRaj-D4gnFfBlsiKyFPwYSe2uM0cNOQw8Lfr6-i4XU87y_ku5stRYKXnk0ixvPqDJfpW8iMOzFJUuDQ3cd9W2Bpo41VWFDSSbJ9Al6y-Dca2lUpQg2Uy7nyUDxor8qQDYzBodaAyhf0y9ASZEC7Zt8lfg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 419,
+    "coordinates": {
+      "lat": 41.91066,
+      "lng": -87.672448
+    },
+    "features": [
+      "cafe",
+      "sandwich_shop",
+      "coffee_shop",
+      "art_gallery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3V7KBcTSD4gRXCJYI2UiWL8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=13787808076974793308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Robey",
+    "address": "1600 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Cafe at The Robey hotel offering American fare for brunch & dinner, plus a cocktail lounge upstairs.",
+    "website": "https://www.caferobey.com/",
+    "phone": "(872) 315-3084",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIyYOr7jSD4gRu83hjVtOKbY/photos/AWn5SU77n3nO6Kv5uaClaM-9KUYGZC0zOipkCGU8zDs0xUAvwKY0cjBmM9m2tNnzHlS4WkDx3AGx2OfWVYg_mJH0EqVnQovoqvURFC-h1NB1EypLmnYei1KCbUr48698M-P71Ah6LDyYQ4tc1NStcls2TxHMI34sVB4mS3_5IsC8UfRIBUJ5-N3wK4AmSkaLU5vblMSPlSRNqUgbHV6pd0ZMB0ygFrPm7ja8KgiSjc3z911P4u6VcBPEtoatiOQZ8f9LAT_lK67xFn8fIht0HIqYCe5Q6T2W4KNT90qwVjTrA5lt_Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 691,
+    "coordinates": {
+      "lat": 41.9106629,
+      "lng": -87.67812339999999
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIyYOr7jSD4gRu83hjVtOKbY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=13126108744077397435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Colectivo Coffee Wicker Park",
+    "address": "1211 N Damen Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://colectivo.com/pages/wicker-park",
+    "phone": "(312) 312-5011",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0zJ6tenTD4gRLRlYF3BDw58/photos/AWn5SU6jWUokHofhZT57Uog_wfz_2T6xMGtigGCfMn0VjZhfnVROXBcXiN63iApWKwic_IOJcMd50KyAsDAc7bVCD6g7ZP3KcQWmKs4rn_i6BMyHPAxGXYFt8kV_L8UQXpPimwkY6Yyf6xDXIoB8l1HqKmEvBYgBw6kZV2M7lgmf3NeK7hhFLZR3UzzVv_UcjwNs1BPRteITXQ_qGGTwoCeSoL0-vztNC3Zan8SAHXj9gundxQvoaHY4BydUS5ahXH90hqknGmTnwqPTyt5fZmUjGarnx6VnsJ8BzI9Msfq8WbXVkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 597,
+    "coordinates": {
+      "lat": 41.9036121,
+      "lng": -87.6770481
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0zJ6tenTD4gRLRlYF3BDw58",
+    "opening_hours": [
+      "Monday: 6:30 AM – 6:00 PM",
+      "Tuesday: 6:30 AM – 6:00 PM",
+      "Wednesday: 6:30 AM – 6:00 PM",
+      "Thursday: 6:30 AM – 6:00 PM",
+      "Friday: 6:30 AM – 6:00 PM",
+      "Saturday: 6:30 AM – 6:00 PM",
+      "Sunday: 6:30 AM – 6:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=11512119221196167469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brü Chicago",
+    "address": "1562 N Milwaukee Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Easygoing coffeehouse with organic java, raw juices, pastries & sandwiches, plus yoga & film nights.",
+    "website": "http://www.bruchicago.com/",
+    "phone": "(872) 802-0800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJibp-acfSD4gRji8eh1IOeRw/photos/AWn5SU5C3RxOkZOHx3Wz42gOk9eyiPDDmvJTtMVtGICaIvQD8Jm5QLryTADXkxeXrNwCFYyYYZeoKV4jnn4ANZkKz4KrZ9kSI0zkQpbMKkZ_omgyDQKuqVW_KrjDimhuIjywrB6QIRx9ZhKGULK7CBRDqnlarZVRbwAE5798rp-ofn5tUIfrXmIrZnXLEesKi4YbIeCkNzEIJ7K2JJaWbJ8c6170hmsgv7eQaHiJ5sXY8fbJi70s1CGtwyCJgLz8SXymyNtV1tuGbaW-MOuJh0Wlw73yohwoDfjKO9Bzh3XL1p0McA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 767,
+    "coordinates": {
+      "lat": 41.9097733,
+      "lng": -87.67680229999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJibp-acfSD4gRji8eh1IOeRw",
+    "opening_hours": [
+      "Monday: 8:30 AM – 7:00 PM",
+      "Tuesday: 8:30 AM – 7:00 PM",
+      "Wednesday: 8:30 AM – 7:00 PM",
+      "Thursday: 8:30 AM – 7:00 PM",
+      "Friday: 8:30 AM – 7:00 PM",
+      "Saturday: 8:30 AM – 7:00 PM",
+      "Sunday: 8:30 AM – 7:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=2051686852860981134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Café Colao",
+    "address": "2638 W Division St, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Compact cafe offering java drinks, sandwiches & pastries in a comfy setting.",
+    "website": "http://cafecolaochicago.com/",
+    "phone": "(773) 799-8454",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVwNwO6nSD4gRW_mVhpN4_RY/photos/AWn5SU4036aqilKGtcRRXN7B5T9uQ22aZe0iySzMj41mmslA2eZCTEcgjuPCRc_m7HmRYrc3J3qBz5gP42zjyU97mCnHQZWiqntdoT3GeiBhxbsROgr8evo16hVBG_N3B01-uhJ2yMNRe9sUknqy2JaS6yuJzDh7EEEY-3tlppAoxqF60V1Dh1XadzA1u1cbuh-YB6Py7PVDdgn2G9alztWWyU2UwSW0_Ts5xZCcXogs6Az_ofuqpmwnBDOQwCncWVtn5GpNL2NQeghS4CbO8BEydjMfTBSHXq2hEK2MRt975BXLcA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 897,
+    "coordinates": {
+      "lat": 41.9032546,
+      "lng": -87.69352049999999
+    },
+    "features": [
+      "cafe",
+      "sandwich_shop",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVwNwO6nSD4gRW_mVhpN4_RY",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=1656612812955711835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Mustache",
+    "address": "2313 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Hip hangout offering coffee, local microbrews & light bites in chill quarters with an eclectic look.",
+    "website": "http://www.cafemustache.com/",
+    "phone": "(773) 687-9063",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJaQvkeWLND4gR7dWuaDjRh5A/photos/AWn5SU5wZopeBCW9Mi6sAtuxZnZ6TGgDUxmcSh90oOGzTTpSOvHELcWMyotn28XsdraoAE7oqj_jgdCjYSHJHGAwYjdacp4O4ZJMdiPC79NkHuBaWLWkemvYwDQUsN0yzK7AhcmXkLT3NIUZgPeddkaWwReIO9BWfjIYgtWzWF2EuYQxhztUhY9QkdXdkjVtom_uh7sqTXhqUh1fYbJg3jT21YSQqOG4Mjfpm7FV12SgzKQAN5nRJS1o0slx2Wd_RqEfBhsPWeHtm-CDDBeGWcSjJnwPy11w1RLspzWYOHJZEtKlTA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 813,
+    "coordinates": {
+      "lat": 41.923305899999995,
+      "lng": -87.69779989999999
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "bar",
+      "event_venue",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJaQvkeWLND4gR7dWuaDjRh5A",
+    "opening_hours": [
+      "Monday: 9:00 AM – 12:30 AM",
+      "Tuesday: 9:00 AM – 12:30 AM",
+      "Wednesday: 9:00 AM – 12:30 AM",
+      "Thursday: 9:00 AM – 2:00 AM",
+      "Friday: 9:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 3:00 AM",
+      "Sunday: 9:00 AM – 2:00 AM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=10414522703522223597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bodega Bay Chicago",
+    "address": "2007 W North Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$",
+    "website": "https://www.bodegabaychicago.com/",
+    "phone": "(773) 661-6411",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJR4q6sj3TD4gREoU353g3kZo/photos/AWn5SU7JnUXmitt1MwSP893hqfmkX_aGbNyQBpM7c01Ml2UVEEBXgVzOBOnR2BCM3hEbRJienODKLdMPPD7DmnPkcBDSemwdU9OuBWh7uAFT7PD9HD0XEIcbJyxT8a92Z_cm5Giirw4I4ryD2E6HaigV5fbG1LjHQAyzlezEABCVIkne92S7wSL8HTGs4ovTPcFyTOwUuigf6HOuXrjPNjXt9wrNAfCVBtyW6yKFZiLvIXxEwmYhzo0O7UmoZi1gjs9mH0bk29WNRyJVIeUZZSx_Ba9YBkVbeTutxWHunT9Yhyhtsg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 185,
+    "coordinates": {
+      "lat": 41.9102526,
+      "lng": -87.67778539999999
+    },
+    "features": [
+      "sandwich_shop",
+      "liquor_store",
+      "grocery_store",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJR4q6sj3TD4gREoU353g3kZo",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=11137744345878725906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Colombe Coffee Workshop",
+    "address": "1552 N Damen Ave, Chicago, IL 60622, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Trendy cafe serving house-brand artisanal coffee, pastries & snacks in a fashionable space.",
+    "website": "https://www.lacolombe.com/pages/cafes/wicker-park?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "(872) 829-3681",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDffPYcfSD4gRgNnuQiB1GqI/photos/AWn5SU5ZHXAwQFqdgNQ0KVm3SjlVliXxr_awfQWKmKbt4LvRf2mzxy4BVEOKAzOJaNcfen1YNv-atAgF1vN2yZ3M9NxeEJEZAqAphxbY5T1ogTFsljZleGw4nFsQ92Xsx7BVUnAGrJzxCRfUw-hZ1EoMtihi_3y3Gy6miykVc7JccmsZdw6tIFMRuAmhmFMkueitUUaBo7CPfJ6I0nMQt0xWJ26vgdbUArFs_wSX2gmP0bMdEphUS4RVF_U-FZhW-2lDQDQQZoZ85WywjgmMhx5qI3L6e6k9yrFhEA6O1ELc56vmef3bIDqpwgkUt1LlwutIpzkeGh63fUwOkW5KblTUWmslaQz0rjsEMVOwOKdvMUbjT_B2SVQX7TBn9BY85p69qgsATkO2gv1wrI0rqKgEW1-FO9nO_7bVYMWBVO067vHKlA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 449,
+    "coordinates": {
+      "lat": 41.909824199999996,
+      "lng": -87.6777505
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJDffPYcfSD4gRgNnuQiB1GqI",
+    "opening_hours": [
+      "Monday: 6:30 AM – 6:00 PM",
+      "Tuesday: 6:30 AM – 6:00 PM",
+      "Wednesday: 6:30 AM – 6:00 PM",
+      "Thursday: 6:30 AM – 6:00 PM",
+      "Friday: 6:30 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Wicker Park",
+    "google_maps_url": "https://maps.google.com/?cid=11680777364961155456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MeLatte Coffee Shop",
+    "address": "3304 W Fullerton Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.instagram.com/melatte_coffee/",
+    "phone": "(773) 661-2283",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG2hQNILND4gRzLexMQhxMBE/photos/AWn5SU6_K1K97dxq-WzoDvTgJnmsss_b-aSyyPavjvYwwE0ofUy6Rlq0U81YgRo2naTmlLJFMFMA30CPFXD_R34IXapWPwbnZeVPtVZmtxReyfZxIUbTC_kNGgxjV_pIQLTYFjHswn6kIi4YtzyS5mhLttJ9AQdgy8NMuHggFN-rM1D5_Pc2tbEgZprC3s9GAUCM8S7FsflmaQBI-jOSf_1Cn8TaK2pIE0Sb6-jt6SUY8bk3f-4z9PjuUmzsNFuoOk4Hjc7Wi89ZKJM1xGray99DdI6HF8rbJIUYEtWQnjmbP9mtbA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 352,
+    "coordinates": {
+      "lat": 41.924862999999995,
+      "lng": -87.711056
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJG2hQNILND4gRzLexMQhxMBE",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 2:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=1238614177534293964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sip of Hope Coffee",
+    "address": "3039 W Fullerton Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Classic coffee shop drinks & baked goods with 100% of the proceeds going to mental health education.",
+    "website": "http://www.sipofhope.com/",
+    "phone": "(773) 661-6986",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJA9aZ82TND4gRa7wQ2Th9pd8/photos/AWn5SU5c-aT_IUBg88pTyTiMmn6gZheN2hlXRMi64n2eWfWsEpq3OFCffIrEPmP1C5x5vetw880HwK7yrVrNt3qcuAlyBB_uEx2QAm3HmSMS3bCXtQE-EGUjtQ61bBN80On-pV1xS0s7ztoUGScfs7-23UgMmjGKQ6a58u52EzqOv3pJHbKRP9s-X2IXlaDHw9Bp6qbUFECMtjrBmAYEfnVa-5tV9AlHjH_QMHL4bQZv1PMbpjXRMJZgYMbLRn9bH5s_PvptYGB4F7xK46BIXYw5m02jj4yh0DX3Ma4WEXBqBQJqKw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 578,
+    "coordinates": {
+      "lat": 41.924421699999996,
+      "lng": -87.703914
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJA9aZ82TND4gRa7wQ2Th9pd8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 1:00 PM",
+      "Tuesday: 7:00 AM – 1:00 PM",
+      "Wednesday: 7:00 AM – 1:00 PM",
+      "Thursday: 7:00 AM – 1:00 PM",
+      "Friday: 7:00 AM – 1:00 PM",
+      "Saturday: 7:00 AM – 1:00 PM",
+      "Sunday: 7:00 AM – 1:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=16115424524728581227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Café Calidá",
+    "address": "3455 W North Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://order.spoton.com/690a3617f01495789f0341f3",
+    "phone": "(773) 360-8911",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtQHuj3_ND4gRCGB5fYGOs4k/photos/AWn5SU7ZPycrE7y3G_l6c4L9D2kwru5PRmdiFvSb-AWIyjLNxosdQNiWgaaL5IyzYFGLUJh6MB3AJJyCNHUQwLFGMiA1y3bdMOzucHTHigjTu2CHm_me5avyermq-AEiOsXzbGzQI5KIoY0mFCl_H0W4ulED4ATBHTGXMb6FyR7dVnQKsJ9eQAebuqLwrxF_FtoNCZtkukgywnxI4rkL1n4kHYRho5J1HDMTq_St4fd3EnlopFDQzRK3BVAZYWrxBs3nh14deQJShTm9u7uT4iokvtSkTHNYDWZDWRu7EVGSqFmqEQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 211,
+    "coordinates": {
+      "lat": 41.9098556,
+      "lng": -87.71417819999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtQHuj3_ND4gRCGB5fYGOs4k",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=9922431090834366472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blazed Bakery Chicago",
+    "address": "2415 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.clover.com/online-ordering/blazedbakery",
+    "phone": "(773) 799-8811",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa2ARjezND4gRCu3gUSG8LU0/photos/AWn5SU4Vg9gqeaZvDvV9Uhp_LPk0vOYdeXpiLPDWaaD6jlXn1KBkFTm5fuoOp5kbjQJs0SrmhwAlS75Acf5GOrzVknd98jbbqnU5ILY4y7pNBfi7sWW9EKm_vvRPI1LZcFAFQ9Waa_T7sN1IJsUl7c6XzT3B3t9AJxbeK4WpdRM7XeOhj9EH7JUhhOrn1KtuzgRGzywd5iddmGBOZwrXas75itASec2JhJcA59MQBgd1c3qRfB4gjvZwNdzpvAcYH5-3z1o8g7cQF-4c8pTfu5RM9YQRsLu7wgSw07SfSOhgmQRAfw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 369,
+    "coordinates": {
+      "lat": 41.925284999999995,
+      "lng": -87.70076859999999
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa2ARjezND4gRCu3gUSG8LU0",
+    "opening_hours": [
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=5561307966166068490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wake N Bakery Logan Square",
+    "address": "2757 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://wakenbakery.net/",
+    "phone": "(312) 343-5608",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbTSYOAPND4gRVXn2EdephUc/photos/AWn5SU7uCLUCVqDFCZzvPk4uD1mMulnaKdpdXCrMD0f3DO6ddurkapA-wXrnzB_uc4wV_Bow_LAhqlF2uRg3UGScqVnICJfq3LL98QNoR_Yx0P84-3w58oEnQoUUC8IwhaOQLjrFyKAFLP-mEnWngBnSpgkL5Y2Oe4wpgjduR4UdSCMFqJdsGTnymy45mJFnZ4pqXN6ajBCvlM43jWjpYQVeH1SQb1GYVFowz2nPxpmFwA2-dtNxjxpeeYKl9twLoLWMhpQjIWZZoAL51TI-W-VCOUCEi5eQqiCCgwEUzTJK7Xnbww/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 675,
+    "coordinates": {
+      "lat": 41.9313214,
+      "lng": -87.7108478
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbTSYOAPND4gRVXn2EdephUc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=5153712089779829077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Same Day Cafe",
+    "address": "2651 N Kedzie Blvd, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Old-school cafe fare, like grilled cheese & root beer floats, on offer in this bright joint.",
+    "website": "http://www.samedaycafe.com/",
+    "phone": "(773) 342-7040",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc-PAdnrND4gRXbWXxhKAgyA/photos/AWn5SU4UNfpg0rKc_JRWWfnZbN2WF6oBqrEmXpVg24LqA0t_KuEQb3owH-6ISQ7B6FFOuAOIPhrQIjrz5cque95uXWu-FduQgjyKLgEHlsmZdW6ezvIjh6ZuXMRXdFq8JgbjpA7v2vGNTkXCp8vy3EOy_-8_6-H-HGcGsd2eM1lZ5xJhCxesA-Tg48rxCE1UmGMgYOZlAd-qX8kST_ahuKJeE_zMG1tnY14FpCRyTkQgCAF57nbATI8QeChr7k_-gHw2yqcH6UBvfJKfgXMARVMadvGF8pTDDcwBJy54JDx6ay5gsg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 379,
+    "coordinates": {
+      "lat": 41.929887199999996,
+      "lng": -87.7069649
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc-PAdnrND4gRXbWXxhKAgyA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 9:00 AM – 3:00 PM",
+      "Wednesday: 9:00 AM – 3:00 PM",
+      "Thursday: 9:00 AM – 3:00 PM",
+      "Friday: 9:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=2342857049292387677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Chiqueolatte Chicago",
+    "address": "2643 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://chiqueolattelogansquare.square.site/",
+    "phone": "(312) 846-6839",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjcz2H6_ND4gReb7k5pzePKA/photos/AWn5SU6kKAyyzuJ-s2HhHKI-vTtNEfjKiBUKcEWC4VWMWRd9VNfEsmTJlXLjWpijIIAuiMMDSpvR0aME4cJsbjXqRR-2cJkuB_-GgLDHybbzJvzDCPwKQi-4xl17W03i7HLCfFtrGVkekxMRqFN-J2xx-I6dPrzfElU9-4oniCVObYFs6jZ92x0-5dIJhaeqRDjEFLO3YSXdf74rzaudNwGob-hDCzk3Rr9MNnOt6YmZigrFWTF6Sb93QRwfd88g47AfFlX-saPkzOIl3O9yBIQhbVXQSRe7jLN_uf8-65kSEGiGaA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 534,
+    "coordinates": {
+      "lat": 41.929946099999995,
+      "lng": -87.7084675
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjcz2H6_ND4gReb7k5pzePKA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=11546348310141124217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lula Cafe",
+    "address": "2537 N Kedzie Blvd, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Inventive, market-driven food in a casual, funky space that hosts an especially popular brunch.",
+    "website": "http://lulacafe.com/",
+    "phone": "(773) 489-9554",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-7r5qHrND4gRgmIpiTEL5Nk/photos/AWn5SU7rcstzjqbCSXwDcqczPndQ6mTAelUzBqMB34-G-FHgMjMSjtZJmCCfhiTq4Bompz2VyLhJOUkO4Kogrl4CQIIEyYeJjVDTXLAiyw3kXABLoIhE7RXH4i7GYWY1-7Z6VTVpcffdnns7l_XZvsDHfIrlgi_xntE4s7IU6JO96eVyLBrygFEAtKIWBdugVZnl5SlXRh3qttgC-uYuwM-7CW9-jKjvGBNh0Lxd5PrFPv9L2elzlCB8ngX0A4LpayQqEOqz0MsdYSFcx9yVbdySoj1ujw0oWSVqplM4hxnqboRT8g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3440,
+    "coordinates": {
+      "lat": 41.9276583,
+      "lng": -87.7067917
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-7r5qHrND4gRgmIpiTEL5Nk",
+    "opening_hours": [
+      "Monday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Thursday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Friday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM, 4:30 – 10:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=15700686508302885506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dark Matter Coffee - Electric Mud Coffee Bar",
+    "address": "1856 N Western Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Dark Matter Coffee outpost with a variety of iced drinks & donuts in a Muddy Waters-inspired space.",
+    "website": "http://www.darkmattercoffee.com/",
+    "phone": "(773) 698-6086",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJP0-k9m7TD4gR_VnoFu5XSWE/photos/AWn5SU7ZsylglGX0CpcraHvtrGyOkRj6DDEZlwr17HqJqenxy7b6sn1RFYMNwfT46KhJL1-tOqXWQ85rgJZDhk4E5t7ND5llW91R4S3VCNd_W5cXn3S3ESj7moTGJDoNK1IeBrq7Frxfkwt_5KD4Ex_-toVAr3u0M41b5nanL6g7OQ953WMXojrJo3jsGNuZ_xdoI_lX719005XkGGEg2H5qCjqoeIBBDfLpXKwd93Q0qBdcAs7-_xquEIfhPwnEjNmVKttaqUn5SHh4pgU4XtXw4JWt497zm4xXy6g-F5DbWprkIA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 319,
+    "coordinates": {
+      "lat": 41.91556870000001,
+      "lng": -87.6876767
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJP0-k9m7TD4gR_VnoFu5XSWE",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 6:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=7010230975077046781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stay Cafe",
+    "address": "2043 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.stay-cafe.com/",
+    "phone": "(773) 900-2449",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJX8EC-7fTD4gRxcCo7S8fBH4/photos/AWn5SU4wWe7kdmuaq4k6HWBBAeMcH1T6YlTi8tt8nJiCXFm4KZJ4w4PXtsaVXH3DqLRBgearokOKR4SxBEa0uq42vQlbB2DiKnGIfh-GkHiwAHw3CeBTQ0KxwIXIXPwwxUcjAXs8-Q1pIPozGYxkIvdOe_8XzUAJN3oFnrSDz7IUxeHLNAK43cVgzGR1houBbYFoLwjSRV4MBSEWTcjA9_VfxLmiO1Q8qBd3m7YQUDe82h4Y0hV_HDZnfYCw3IHQYbgK9qskt2UUldO5eIPBLo-sELnhhgo03-fdl5AzZNp_E6Y-mg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 154,
+    "coordinates": {
+      "lat": 41.9185668,
+      "lng": -87.6899712
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "bar",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJX8EC-7fTD4gRxcCo7S8fBH4",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 7:00 AM – 2:00 PM",
+      "Sunday: 7:00 AM – 2:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=9080417039396946117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Damn Fine Coffee Bar",
+    "address": "3317 W Armitage Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Espresso, drip & pour-over coffees plus tea & local baked goods served in a modern industrial space.",
+    "website": "http://www.damnfinechicago.com/",
+    "phone": "(773) 904-7051",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMWUv3WnND4gRHi5d9G-8Jvs/photos/AWn5SU6s12KqwJUrwQ2kG6SKY9kDX1ZzkqOGu6ATebW4zDMYIBTBotS5xH9gUg06ChnNHx70r-RZnWretOxMlEKBou60RysMadBPYkFpLRCYwxzoj0dT5wXfC8GJhy63wcQw-Dv6UhSCV6HYkhB2IqRA0Wap2cL0hpZfns7TDA05xTdJBlj0Zwj3syMHzXQvHqCq4ItptctfRRlFbdAd2F9KDSTlKC97TmCmfbqYhBNDPLX7-Qw-cmiXWt1qI2YBAGe4GdPYBhSeMx6vacO9eNYJuom9pOvOoGDcbmOml3Rw7j5aIslj_1zQ6fji2cCAWyBt1uLp4dR4VzU04N_cPqeFldSAuG9jsaDv06q2GjejIyGG5AV_VggcAKzFiWQEOO1VU-bj4wYIjSH3gq7MeYjX9zigftgVcv3cS_3ZOyRL0VZ0HWy4/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 445,
+    "coordinates": {
+      "lat": 41.917227,
+      "lng": -87.7109612
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMWUv3WnND4gRHi5d9G-8Jvs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=18097359341662055966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Con Leche",
+    "address": "2714 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Trendy cafe serving mostly Latin fusion food (& some American breakfast items) plus coffee.",
+    "website": "https://www.cafeconlechels.com/",
+    "phone": "(773) 289-4274",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMfp633DND4gR3jR0TmYO0qQ/photos/AWn5SU6ZlP2bw9imgIiG_3k1nETJtUQ94RDm8t0iGAV37eNUTiaOckM1L_WJTcfp6O9KOHU_uOSpT3S494HfU92voMrKe-VQA-Xs_n2BWl1q1rG6Eg5bUf2pFi7fCVThFO81vjknsH5ypUZYYqVRoyxvS3_p5Fhsbyq5ntsEGbUX5uBTbwW-2nPbIt8Egp2y4RP3u5UfOGYmds4PyXyDkaE9fW73oUzES0pe_QJ1whdGqESPIvo40XSIOq0iPp99a9u5rCPtbaRj7TuHoGrNlSeQq3Fu0tcGYEg9snin9qeUX3f1eA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2652,
+    "coordinates": {
+      "lat": 41.9303543,
+      "lng": -87.7098654
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "mexican_restaurant",
+      "cafe",
+      "bar",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMfp633DND4gR3jR0TmYO0qQ",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Logan Square",
+    "google_maps_url": "https://maps.google.com/?cid=11876570999895110878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Malinche Coffee & Tea House",
+    "address": "2110 S Halsted St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://lamalinche.cafe/",
+    "phone": "(312) 265-0337",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZzkVR2otDogR-yfLNGVkx1Y/photos/AWn5SU5kmob01FH44G-KUQFX_8uyqM4UuGn5ZJgqSB6FCKFJDKSbOBIW3yRENUcwpZtA_C4zz6jW6sRO3V8S8yI7MNR9h2j1cWuY354ZM5iJOxX7zXmH-8-WUBX1fKqbsGbxiBIaqNJelsMhZYG6Nbnf1lDEBafs1aYB5ROH2G_GyDoRZbPe5OU3Ie28wqR6hp0Cf0q0roKMaf8JSY5lWHP5UN9jApU2uuZuoZkEF0NW-Whm4xmimcU4_q8-99RriztQas77sk2UxZ9IP_BUYN4B5s8ftKlF8YeUVaoLsfJEakl80lwmUJjj6MMy6t-Obn_kSXaYAL0g8EvCeb_Nf48gTbz5SNQd9_lij41hAeqzW-b4QJ9t9Yac4ny21aJYNfon9crzvVhgEB6TsjC4-Gyz0p1uczzcylkrDPJTUnjst2M/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 425,
+    "coordinates": {
+      "lat": 41.8537628,
+      "lng": -87.6467636
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJZzkVR2otDogR-yfLNGVkx1Y",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=6253076993467426811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Jumping Bean",
+    "address": "1439 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Colorful coffeehouse offering java, gourmet sandwiches & soup plus art showings & occasional music.",
+    "website": "https://cafejumpingbean.site/",
+    "phone": "(312) 455-0019",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-8AzygAtDogRTTiV1i8ERW4/photos/AWn5SU7IE9iDZp79tMmzJ0ByofT0Lcghfh9IfT8dQkr9p_W3D_QqBPrzq38jDk7gjKMO-ACmbGkV2duM_20d-p4SiURPDv6g92LRVD_urAzy5hyfbG1UzI__Jpv7doXXSTyX3vk9EoAACYuYMN2Onkd6jeTHKDA7OqAOh7T2n1H-471GVYOaKc8oQAbEaexlvCVC8aX4SuNwPuzFOIv_cRpTizI29rE-5axBvUCvvrJfUsAHEMx7LJkNadeF7qHw-DtzxPMElJCdnXV_rMGLicteXqAZ9GsHPQ6wSZLV87GW-fAH_w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1325,
+    "coordinates": {
+      "lat": 41.8577252,
+      "lng": -87.66282969999999
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "sandwich_shop",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ-8AzygAtDogRTTiV1i8ERW4",
+    "opening_hours": [
+      "Monday: 6:00 AM – 7:00 PM",
+      "Tuesday: 6:00 AM – 7:00 PM",
+      "Wednesday: 6:00 AM – 7:00 PM",
+      "Thursday: 6:00 AM – 7:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:30 AM – 7:00 PM",
+      "Sunday: 6:30 AM – 7:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=7945761721075185741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Holy Grounds at St. Paul Catholic Church",
+    "address": "2127 W 22nd Pl, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://holygroundscafeteria.square.site/",
+    "phone": "(773) 847-6100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu7aERKstDogR92JwTmEPnyw/photos/AWn5SU4b_DV4FH-7bEOgfocBCSW8jkQzC4D0LN8aL6IgCqGj-3_ZeZqtxQEPWPxhUFNrADaFU2UaeixJuLRUkbNubhdi4XuHtSnA3nwxWngt22ZE7hAC3fzjZ5I8DDNmuNUhqDWMZc9pPPJVJqGhMWbUAGe04a8v81aDRoM5Yp_xDeysV2TNEjamALVEYw62GM6cwuZpsAG_LL8nOfD8qAAEdQIKk489dehWBJ171L7ZzuZYFfwlOdlZyVS0tqbZ5_CYfEdLDywMzsS9_TOil9W09f75cYSH-xksRRmzubQ-OmxBoNuK-YeGrY9bqNJDYbiSQE3egn2fWVl2jVrNCGIzkII4WOFU_gdNQFjAJp6owdRs_NnEOu98mNvAgGkZtQwoTwk0lm9PLeOsToLC13aLdE29nn6BbSn8fLNxttAbP3EXiARb/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 41.8510242,
+      "lng": -87.679417
+    },
+    "features": [
+      "coffee_shop",
+      "cafeteria",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJu7aERKstDogR92JwTmEPnyw",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=3215305569568056055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kristoffer's Cafe & Bakery",
+    "address": "1733 S Halsted St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Cozy spot whipping up signature cakes & serving a selection of coffee drinks, salads & sandwiches.",
+    "website": "http://kristofferscafeandbakery.com/",
+    "phone": "(312) 829-4150",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQzOWqPcsDogRyvxWAvZ7MeY/photos/AWn5SU5RMYX_Hy02Wwj1VBj2b_52A9pkl_MerwJrUwsH_cQCtkWylYTbMjBXXJU9vBFULRvRyIASG6VnWPAgtCFsQAcovu9pncEx4R9wmVBef5Econ44V-ok4GDDE_4RNj3xp3ic7aAjdyF5lnyCdXikp3pakEjxKUKvo7OR4MCMcJeTa29-uLTUsDAF38Jcj5ioXUFYfwqgx3Mq8AZxSsJZeFXNo7OReVH_75-Gdch1D_RTR4rw75wNQntHHUHHoDkgINxSnk1b02muKwwzwSVMSZDS7Bx5SSImIyelwdPgrzRBz1Q1NPuy90oQ_oQlYPZkgf3SkAiM0GsV9fQpqXYvpeu4JuyHMQe68RWk6ZaUInuOEnsRb4bIlkLNBvfh9g6lvKIUuMMsoaJuuslpwIf6TWEkqbBkVN6r8KlQm4y27i7WRXfqxk5s1AzF-UuUbgks/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 536,
+    "coordinates": {
+      "lat": 41.8581595,
+      "lng": -87.6464511
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJQzOWqPcsDogRyvxWAvZ7MeY",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=16587175199113673930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Urban Treez Chicago",
+    "address": "1649 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://urbantreezmenu.square.site/contact-us",
+    "phone": "(312) 526-3806",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0eH9wFMtDogR1jsjGWtYA6o/photos/AWn5SU7h5hJZbVnF9wvRT5dv3a55Zqi7CPpU1RJ_QRlmNvMn7zb3vsbg-iKB6Ym85T1vaRpZ69MUd2JqPLK362LrixTY25cu0CJxsS5QYTqdp3N5ikOmhtUf4n4pvR3sV7nXGeibLVZV7PboGITP_v4QARsTfiX7Z1D9b7nfB3KI8ZhxNFrHmPncwrQG0NNm1Vx8kGb9tShlp8LvMmN5akMMGhacE6UPdbgFzxHZru-lSIuMIG8hHWh2HEYneU9c_6zDaPZbzrDvCRyIxksLMsknZx2_Daaubfwni558VT0BPsfPqw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 310,
+    "coordinates": {
+      "lat": 41.857583000000005,
+      "lng": -87.668086
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "deli",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ0eH9wFMtDogR1jsjGWtYA6o",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=12250732628384365526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sleep Walk Chocolateria & Cafe",
+    "address": "1844 S Blue Island Ave, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.darkmattercoffee.com/pages/sleep-walk-chocolateria-1",
+    "phone": "(312) 600-9336",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9QyAQoMtDogRddcwWN3f1FQ/photos/AWn5SU4O8e3FQrmJf1sOnOalzOebFSz9iMsl-fUhRWa9cEJUqQMxFF6tKgncSUaC3KSjAXLB4hQ4JX_p_Jg0SKfetmkDXT0ELHk_OX2WnzN5wblcYePphkjM_ZfKbpDwPPCS2NdiGA4JTgHdvP6goD7iWiCV9Y5SOl5jAo9mqBbauJGpLN3-H3pJIc97qceFLQOX6-HADae7894Hz852gs_So_VzXAQBH3pxdTuBa0dACN7tNYEza5nwRf1-2j_HvVngSzXTHuprFU5sWuvaH_KAEdj8Fdkn_VXsq0m4F3pZkOjBSQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 169,
+    "coordinates": {
+      "lat": 41.8567319,
+      "lng": -87.6622862
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ9QyAQoMtDogRddcwWN3f1FQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=6112756736008968053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cà Phê Dá - Dang Good Wings",
+    "address": "1800 S Carpenter St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Cafe for early-morning coffee & Vietnamese pastries, slushies & banh mi, plus dinner with cocktails.",
+    "website": "http://caphedachi.com/",
+    "phone": "(773) 999-1800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJyHqMf8sDogRFi7fBDoiC_w/photos/AWn5SU6aa8Fk4-IdyIeJfC167jtXEcALsnl-BkpYT4NuhmUrYT5maDH2Opk2Ti0Q9o9np7d7NQ8wYFUvEjsYwFcy0uNZSPrjvCYsuWzsKkvLmbTum4eb7wkmizlWPoqYjMWGodLUXtTZzwRUcEN3RNIetvM_RYLjr6hFUv24dGythp7hcsx1H0K3rafDxNp7QJwdEZwt7G8isIqKpUZY-OwPnaBj3DRKos_nIu6r7xM5hLnZTjb5gsiIwytFfZqkXZU83trLRFFwbNwNDJhyaqEXJZkH_VNkJG-mZZXtpPZ7lCkek88nP8E_obgB-oK8oMt7ECesW13BsQ0Usc3mD3dKnsxxmcQpmNCcQdlEGXbDYULCO_UgNFVXJ3CF8NTCuFdKyqhikUf1QL_kSN1kV9gJvyFpxoeF6knwNqArBneeSAJWqnc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 283,
+    "coordinates": {
+      "lat": 41.857865100000005,
+      "lng": -87.6535415
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJyHqMf8sDogRFi7fBDoiC_w",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 10:00 AM – 3:00 PM",
+      "Thursday: 10:00 AM – 3:00 PM",
+      "Friday: 10:00 AM – 3:00 PM",
+      "Saturday: 10:00 AM – 3:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=18161647554886839830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "A Cup of Joe Pilsen",
+    "address": "1309 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.a-cup-of-joe.com/",
+    "phone": "(312) 374-8917",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj7MEP2ktDogRCJ0eOzyiEWc/photos/AWn5SU4KcZ7PN9ohVtUf94Yb9i_q0OC_iACSUSvJNqlB7kOWZ6Iwyg_oZxWKijpa9ddBVaVd7gLYfbwNfHLEWD5WnabDK-DchcXlgoQG97abv7HotRn16I6wKZGXQXBamd6jGXZ2KqOSxs3O_1LcBSbhI6wuvZQglHU79nD7-l6vHIIQFkssWSH8p613Q5wPE0Grsqts4YQ1V80T4D3MWYemAGZKFz5quy9gG4HjI09ijB_6JaVq4qGgI5-isHnRZfwpdBm47_a7MTiBNTqADxa-Np6-cP9SbA3w12RAgXi-fUIjaA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 159,
+    "coordinates": {
+      "lat": 41.8577894,
+      "lng": -87.6592816
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJj7MEP2ktDogRCJ0eOzyiEWc",
+    "opening_hours": [
+      "Monday: 6:00 AM – 7:00 PM",
+      "Tuesday: 6:00 AM – 7:00 PM",
+      "Wednesday: 6:00 AM – 7:00 PM",
+      "Thursday: 6:00 AM – 7:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=7426895640084258056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "'L' Cafecito Jumping Bean",
+    "address": "2010 S Damen Ave, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://cafejumpingbean.wordpress.com/menu-2/",
+    "phone": "(312) 366-2930",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-zR5RaAtDogRVQzyM_8t9tM/photos/AWn5SU6-JItOtBsMJCpyF4CK5JvEhT-qlt3cue3q0fUtalMPetmjZu2slMSv4tD8tVdplvFWnbROU2O9O2SaeLLTjO60N6KBfWicmKcrad0-fAo4bNigrWZ6SVU4J5Vsba8SmkG9dD6XIqLEm2uCCbMJSShl0zRR0R9ZYNK81bLutiirLL4eFeZS9fYkVGODTzPUMyztkTo9v51_ZDfU5y9Dtxv9l5O41fHNYwJbxF1KrUJP1kZkg5T2KP9k66I6y1Mj9bycd-o5oKTbS-SRT-WEGeTpi74N3RFZpQDkCdY8AKkk3w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 417,
+    "coordinates": {
+      "lat": 41.8546696,
+      "lng": -87.6761293
+    },
+    "features": [
+      "coffee_shop",
+      "sandwich_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ-zR5RaAtDogRVQzyM_8t9tM",
+    "opening_hours": [
+      "Monday: 6:30 AM – 3:00 PM",
+      "Tuesday: 6:30 AM – 3:00 PM",
+      "Wednesday: 6:30 AM – 3:00 PM",
+      "Thursday: 6:30 AM – 3:00 PM",
+      "Friday: 6:30 AM – 3:00 PM",
+      "Saturday: 6:30 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=15273445760385027157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Foxglove Coffee",
+    "address": "2059 W 21st St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Casual stop for hot & cold coffee drinks & Mexican hot chocolate with bagel sandwiches.",
+    "phone": "(773) 823-7354",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJideBOS0tDogRQBEUn-K7pkk/photos/AWn5SU6tSoXcOoUB1eQPVESyJkYfd3KO5A9cEOYLo1pRnWhQzK_Q78C5rLD069oTx2dzqM2VubKVTeTNgAwfUg8N2eCUIiP5RIFFBt3zQNox2pvL0-RZi8oPyDxPMYrn013qLCPiEDNgFR6Rrz8hdVmkRcK4hAMia4Ze54HcQ0Gc2LpoAzRQ-6g4loor-ZEF74-Y_fEy7xxMc8KmfhVacdCj-5hBkJFN7Ux9BhKJSN9glCNMiQS4-Ts_hRWeNKFpqA9RARl4yh55PVCYFVGqtEf9ODrRNu8mk-vAjPSSu2qYpmI-KypOk5bSHiDkGOyubJ7jP7dwdmUgk_qmfCqZEbOTqgNhwwbiOHfJh85zcIK1_HbV753T6EQisQ5vv64GKa6xoJhKbXPauIGD2SVKjBjHpNq1LKaD_TYw8aZMaIeuGXpAyVv8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 218,
+    "coordinates": {
+      "lat": 41.85388,
+      "lng": -87.678169
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJideBOS0tDogRQBEUn-K7pkk",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=5307135792908603712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Spoke & Bird (South Loop)",
+    "address": "205 E 18th St, Chicago, IL 60616, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip spot for fair-trade coffee & light fare showcasing organic, locally sourced ingredients.",
+    "website": "https://www.spokeandbird.com/",
+    "phone": "(929) 263-2473",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6Tbn4YAsDogRm87ACbzbCl8/photos/AWn5SU4OQnCHptIFU0_ZouYcMNw-ij7AO3LywSnKkdEX4vXwrPZl_F70U5RKlk3aEXon_SyVinIyp1RUYB2iMdTJkgjH-bLdW5MFQI1nRf3D9qNUemCjQgZr_oE98Q0R3lke8YZmGWKZ2TJvlKJXxqjl5zadj5uG2N4vZ24l4xAe9q9X3Tkno6fqg7uRjbqJBMZtSXOBG-EmCv4hZRc3iK9qwbZ7La2WSlit8-JfI7dqtB11fRQOZ-FNhZsQcmDTl_SetlHi9KJCeo4RNhyrFrbHoKXDUTUmlvikxvncRca_VdQ93w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1353,
+    "coordinates": {
+      "lat": 41.857757,
+      "lng": -87.6219582
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "wine_bar",
+      "bakery",
+      "cafe",
+      "catering_service",
+      "food_store",
+      "food_delivery",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ6Tbn4YAsDogRm87ACbzbCl8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=6848527784034225819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Stockyard Coffeehouse",
+    "address": "558 W 37th St, Chicago, IL 60609, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.stockyardcoffeehouse.com/",
+    "phone": "(312) 866-5886",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzylwvKItDogRgO4A_wrx-CE/photos/AWn5SU72yi7sV8_J8PduG5L8AoJTmFU4fydWcnozEjQHAVKMp7bRjv9DeFvwX1jBJgFoRjahQi4lkqpKq1uQ5UF5kNHO6SovS1D8KPzKjEtHuqNleNvz8M4oTrcTKhswWfTY9opphj-ztigMipRUkiNK5UZozOHKr2uRdvTe8afiRy6qMFv3lZPUEjaffvKAiykEGrTNYt0vUoJXj9F9OmzMip6y9IPc-sz6Fsvt2ZjX1wn8G0rbO74XvIpuKFmNoOM1rK4g9HJ0FEfHcbA7TvEjDXi9iKhihhrSsz2eKhrO55UuuWrmiK14lVOliyhUriz20BKsx-MVGDMVjNWgw-fgSsv0wMuZlQbz1Df8O-9x1KmHgrEcu28Wyj0lTBQM9LctPZy7wtJjcHSrjFc1MJ6n_wFctePliU25J5wJnjPrV_Y1-A5F/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 423,
+    "coordinates": {
+      "lat": 41.8272894,
+      "lng": -87.640974
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJzylwvKItDogRgO4A_wrx-CE",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=2447971427006082688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frida Room Pilsen",
+    "address": "1454 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$",
+    "description": "An array of Mexican & American cafe fare dished up in cozy quarters with a chill vibe.",
+    "website": "http://www.thefridaroom.com/",
+    "phone": "(312) 631-3620",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8w7qMQctDogRKoVjmpQPh3I/photos/AWn5SU5l-KzlWBqpMh5ddyZ_RWfyXIK2LxCsJCPpJczwqyiwXgoGEWf6TZPYlVpq03yFjT0WW2-n-kcxBsbINSbGMVHPHiGGSfPWqLaWNzZcX9sOuZDFSeSxXaG5jciieTaT41VhRCNBe7JPwxB4Sn5gwMsZb4cHsE5RG5OncbWrOnized6Xaxul9iSNiWpus_cOIhMV90YyAEDofLMq0QGVXNG_s_A3e0yk_sHMqcevgePSBHcHUMIr9-pqpAf5EZr4nYDkdPKHhn9eVOnIf2mn-hb3z840TDhlcTt_IHf3Y8rr6Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1079,
+    "coordinates": {
+      "lat": 41.858059600000004,
+      "lng": -87.6634559
+    },
+    "features": [
+      "brunch_restaurant",
+      "diner",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8w7qMQctDogRKoVjmpQPh3I",
+    "opening_hours": [
+      "Monday: 8:30 AM – 2:00 PM",
+      "Tuesday: 8:30 AM – 2:00 PM",
+      "Wednesday: 8:30 AM – 2:00 PM",
+      "Thursday: 8:30 AM – 2:00 PM",
+      "Friday: 8:30 AM – 2:30 PM",
+      "Saturday: 8:30 AM – 2:30 PM",
+      "Sunday: 8:30 AM – 2:30 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=8252581973099513130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "QuesaBirria Jalisco Tacos",
+    "address": "1314 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "website": "https://visit-chicago.com/birria-tacos-consome-quesabirria/",
+    "phone": "(773) 771-2123",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe-XHyHwtDogRUZiww0tON24/photos/AWn5SU6VXq4TIXcPKVftrOUCWfWk2VAJTqQd8y8pFU7Pi1joR9e821_VI9nvzisGfNDuhvix23rtNxWlh7WNiwpEF55vUQQEEEvA-xzEbyF0Trn6O3mLWrRyJh4sMmBtl0WQ0nFt8jchntgMikCDE8a4NJmxseKgh4XHiyfUwbh07-79_hOjvzLtXBn2yVkKonuVjPz8TxposMp_aDvZ-4zsNiW7kulVtzeDWeRHUmN0Kwzg81CTASCZqzlEWVVAwb11FHTyF_-QoGs_lQofqQQqGorRe8uprb8TDswvXVwBSM1Z6w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2019,
+    "coordinates": {
+      "lat": 41.8579953,
+      "lng": -87.65954769999999
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe-XHyHwtDogRUZiww0tON24",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:30 AM – 7:00 PM",
+      "Wednesday: 11:30 AM – 8:00 PM",
+      "Thursday: Closed",
+      "Friday: 11:30 AM – 8:00 PM",
+      "Saturday: 11:30 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=7941902555203803217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pilsen Yards",
+    "address": "1163 W 18th St, Chicago, IL 60608, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip restaurant & bar offering quick bites & hearty plates, plus DJ sets & regular happenings.",
+    "website": "http://www.pilsenyards.com/",
+    "phone": "(312) 243-2410",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJW8vOWAtDogRA0JukJqeJeI/photos/AWn5SU6GsfMxbJ3FURaLO6XsrDWFF28TtcpwyRdfZU-URrd_lpbrnxkD2Bo4IAhVSB7dR0jIs7KokhxAkHNEhOz3ysLn_D6ucFlujsRwEduw91CNPAgWEnt4HVGoBhOfsXgD0iV27kArYHkUv9_7xx1udRQ9kIETUUcZADlm65_wSfTwDTEJ6iC4Ix5-4cvjqEpMw5Txrbw5cEF_oSLDqPRgVs0FmIqB-UyXQe1fPw4t_GP7v2jQhwCwq-3hlXNWAG9zAlyuf_w_jHk-pkyR-OK1Jy5jwp_G_Ik3klkMy90J-9kocw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 821,
+    "coordinates": {
+      "lat": 41.8574584,
+      "lng": -87.6556094
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJW8vOWAtDogRA0JukJqeJeI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 3:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Pilsen",
+    "google_maps_url": "https://maps.google.com/?cid=16295605213395304963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cupitol Coffee & Eatery (West Loop)",
+    "address": "135 N Clinton St, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://cupitol.com/",
+    "phone": "(224) 476-9114",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_YeHhRstDogReMyhOWcykXA/photos/AWn5SU6VI0fAdKJwj3m18P9C6VyOe3dJA8a6xDBgsdgrjyf426GdzARtmeZ4kwJmBYczVlRcPOsXvlX-lnnphBoWJkuLPr_CGr4nFV5W1o_WS-TsCqoyTrhkaIbHd7cKthfauyPOxMp3mR14remEWhnmIt0Etk_9Z4uTDcwu909zqwUe7ZpyZYFnnCc-QErU-SnpLYr2GwytAY4ZU66dhD-oGNv-JFHxra8sinrM9CImBec9unP8U8kCib6y0xxtP3vk0tepmayKrY7o7Wc6A072F-Bnzx75hDW8CyJcpqczUkUmqA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 462,
+    "coordinates": {
+      "lat": 41.8842809,
+      "lng": -87.6411014
+    },
+    "features": [
+      "restaurant",
+      "coffee_shop",
+      "brunch_restaurant",
+      "night_club",
+      "cafe",
+      "breakfast_restaurant",
+      "bakery",
+      "meal_takeaway",
+      "dessert_shop",
+      "confectionery",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_YeHhRstDogReMyhOWcykXA",
+    "opening_hours": [
+      "Monday: 6:30 AM – 4:00 PM",
+      "Tuesday: 6:30 AM – 4:00 PM",
+      "Wednesday: 6:30 AM – 4:00 PM",
+      "Thursday: 6:30 AM – 4:00 PM",
+      "Friday: 6:30 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=8111319822800899192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Good Ambler",
+    "address": "216 N Peoria St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Relaxed hangout with a contemporary vibe serving classic brews, plus cookies, cakes & croissants.",
+    "website": "http://goodambler.com/",
+    "phone": "(312) 872-7165",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDfFD0NItDogRWomokc_00D8/photos/AWn5SU45ms4MFT3FnFKNqO8_CGiazf9FTDZ2GNcO5-GNrz5wRWCAu8msrNACaMUbYvB_D9wFlMWVB3joRCKHY5ASu6-anUJlg-g8P0S0uZCsNhguQe4WwUPEqsQZQY1rhMjz5c-MjpJlntPON1aQvXoJ-TK96-x8lmJa0Na77H7CVici64bk2KQcWBfO0qrn-0EJ89NyNiTLMWcz_ajT7nxcdPJfW9DhHGPMzV_6kmkrpegeSOOcqt5kr7uOqdGlFrUL6PiOyXK54lvs1fWG4Xiiw-u71DU8F9wQAM_tbZDZx8vjSg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 656,
+    "coordinates": {
+      "lat": 41.8862684,
+      "lng": -87.6502086
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "chocolate_shop",
+      "dessert_shop",
+      "candy_store",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJDfFD0NItDogRWomokc_00D8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=4598444391884425562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dark Matter Coffee - Meddle Coffee Bar",
+    "address": "601 W Jackson Blvd, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Dark Matter coffee & baked goods offered in a psychedelic setting with colorful murals.",
+    "website": "http://www.darkmattercoffee.com/",
+    "phone": "(312) 631-3553",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw0YxhMEsDogRnVTN2Jz10ec/photos/AWn5SU7cturgdbYjnW_OcZkNBGFUC5Lms-vsSecVIciLpofNBDiHufdQlEbfvy6q0U7rWN64CbK91DBsihfK4qIyKZZ8rt2d6ZePBvsgjbAfQirh6HL-uHef3EuU96XxgcCVwzyI4_PRPT5LCKVbfpomuRHsk5JPPeQd1CK-RviYo1CEi2E1TelAvXSiw8iNpgGAeLpU_dPzNRkkJCpUT4eCDaueJZTSB_N3pvjyxa_Cl71rXiRz5T6CRWJAvBr_1itNBaPhIXV_cLTyBo0oTkC6GSiHnj8Y6WM2ihyQyi_OewhZxQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 586,
+    "coordinates": {
+      "lat": 41.877850099999996,
+      "lng": -87.64307529999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJw0YxhMEsDogRnVTN2Jz10ec",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=16704402546894918813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brü Chicago",
+    "address": "555 W Madison St Unit P, Chicago, IL 60661, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://www.bruchicago.com/",
+    "phone": "(312) 955-5000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF57Xo5stDogRmMdkfsHuwAA/photos/AWn5SU48lR1DuYI7CerLgd-ihyFEsd7t8W0P_armN9GH9pYxF5R-5AK5qZhw2PA1aRcLu7hc69gvchJeVdo7Qpfht3nb7yH4eiTBIdImjZSrOPa1T0hQU0l19m4HeZsdoYqtoD2_11zk16UOX8EUTp55-VmJJI9zMC9fMm83_lm0BUQjrjJjSBHxl3nGbgh6n_tyUDWZplU9CvNKns88BYJNNT9VzbHsTmvNV3sV1hwSnzWBs7i3EtBtm31EfaKEVkS6ZOMQvOSL6MiSTL6ZBb9AZy4XOlEVy2rNFvuRJ6jU51e1-hXB8Exiv-eKMpboDGe-BnhJDMhmLgUA4dS-SC_FyweYVx7NniCWOe_-LCXSnio0qwOcCUyLtE5EEgHoZSKkNnocSS1LSJgVNoqd9kXoy8CVcOW5PwZAoo650sSWh7FgsA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 355,
+    "coordinates": {
+      "lat": 41.881373599999996,
+      "lng": -87.6418887
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJF57Xo5stDogRmMdkfsHuwAA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=54305710345078680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe L’Appetito",
+    "address": "1258 W Jackson Blvd, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://lappetito.com/",
+    "phone": "(773) 360-7290",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWRJcRtstDogRdfYjKo7pBNU/photos/AWn5SU52Rkijy12uHJSAW6ZXGVb9sxH40Ta9gyjBVz1JdyY8T4C_hE2beRi8D7UOkkP7a1G40R-3b3wMIBgMDVmqQ_n1nT-SpKy6KGPmu_SvZxB9PfttbwZls3ZlV9HIk_dL_74be_Bz-1L6EaeZTVmf2Nd2gUuT_6aC6YUZ72Bq-sxHefT6E8P0p7rnJNVzOgDqdtTViraq7fn8ZCcLQ91lNAks9rneXkXGoG1HI37ZRMrRrdlcQJyKTlXNHqNL1Rg02KUMQWoz8WG1Sp9RMQd2rqxgyXglQH0VhcGS86lFASXpeA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 218,
+    "coordinates": {
+      "lat": 41.8779919,
+      "lng": -87.6593024
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJWRJcRtstDogRdfYjKo7pBNU",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=15349650226787120757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Beatrix",
+    "address": "834 W Fulton Market, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Modern, all-day venue with an American eatery, wine and cocktail bar, and bakery café.",
+    "website": "http://www.beatrixrestaurants.com/",
+    "phone": "(312) 733-0370",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJocgPPdAsDogRw7G2LZnxz-I/photos/AWn5SU7NIxAAW-5tqDTxWbWwJOa3EOa1fwcM6HuoAvmht1oQR9GYXgFDP4u2jVOE3FVoudH0S9VSIJiLMtnvviealv-B-7jf26FEKRZJIUF6cg-vjEzqAaryeHzVbctLSlxqkFhXE_wVpIVwKExUoJmIw3tkNIcFh0Fmcq6DZ6MDBLjcQQiHtfRhFn2e17f3i7tIOcY6VbpkrImkBoL20kKjSTDqPc9go2eZsJYvgGYjRocnCCGzaH6EEksTEqwafJui4ipArt7r-rYKakVVqU3kKb6LRpv9RYNqAeOAUKzQlp6IuDIGxHUs_fPKOnPkHN9YaQltxJc8F5H7JAFLQsASmTWyrbkZKUNzYvtLCfeYOnxkhRGu7767fMOnBhen-vRjXlHKarfCCX7znGQKTZJXcDv38vKwldGoEcmlmqQ8zFHBjgM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 4643,
+    "coordinates": {
+      "lat": 41.886907099999995,
+      "lng": -87.6491348
+    },
+    "features": [
+      "american_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJocgPPdAsDogRw7G2LZnxz-I",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=16343547212950057411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nohea Cafe",
+    "address": "1312 W Madison St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Corner cafe serving sandwiches, soups & pastries & a specialty grocery with Italian meats & cheeses.",
+    "website": "http://www.noheacafe.com/",
+    "phone": "(773) 935-7448",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYWepgWbSD4gRvh_a4P0XD9g/photos/AWn5SU7S_6h7K6PZ3-P9N7s7U2RRfKJPdyHQ0RfQcfKSv3w_ODL_nAytoe4Yhr2fN5twlgqx3CTqv7WkeyLiC9WE9ZxpWE848RQwRdIzGCWUVJwBYv2-ZXwx2oWaawo-XtpyK5-YjuaIqRcpaoQKUsLuK5SPN5eNvtjg6JC1DvEPULZYPGSjzAlP9UnXkfTt7ik9wKBV7xBL3mr00Xt7PWplbegiX9Eq3yOT3eAC1TXT0nNNIBzrNsQPPqJjHFgG1AtIQLqFb5g0N5euI6gG94Ag_gTU0gsmAvbnp8NiVi02isOzEA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 220,
+    "coordinates": {
+      "lat": 41.881702999999995,
+      "lng": -87.660405
+    },
+    "features": [
+      "sandwich_shop",
+      "coffee_shop",
+      "cafe",
+      "deli",
+      "meal_takeaway",
+      "catering_service",
+      "food_delivery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYWepgWbSD4gRvh_a4P0XD9g",
+    "opening_hours": [
+      "Monday: 7:30 AM – 2:00 PM",
+      "Tuesday: 7:30 AM – 2:00 PM",
+      "Wednesday: 7:30 AM – 2:00 PM",
+      "Thursday: 7:30 AM – 2:00 PM",
+      "Friday: 7:30 AM – 2:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=15568688816009650110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "FROTH",
+    "address": "1515 W Monroe St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Coffee, cocktails, pastries & classic brunch dishes in an industrial-chic cafe with a terrace.",
+    "website": "http://froth.cafe/",
+    "phone": "(312) 210-8366",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs4pZgnwtDogRH0aGcmcrXzI/photos/AWn5SU6e5H3mjIlPOIHbyT_yR9R5GCNXfrhFdUiSOOW4ms4nxn2tDZIj3zfqV_wD1zY7wAyjQNdn-_rm0VY-AOv-W0MbWdBpi9ohi4yuVY0qVxjuz14CLcVfZj8wEmHqLsQ_cXWkRxFWxKO-i5CH-MxvmKT2KqMD5poW4BwsxSGrOK31vRsp5RkvkRt9hvBX5bAI6rpVDDDzZnbiOlO19hqzqPOYUV5NUGjhU4MT4yQiPBsX39p5PhbMOM5BhAk_ozzNbmY-3ZkU2D1Jdpj3ytyIaYLKpl7MHriVo5zCfWkdRVkQRWgkopIM--ARtn1f7tznK5b6MAr-5LN66tiGNA6B2YycMJRSiDy7m4K9fCO_XnZCDuSaCHEj8RVpBlnLeQKPI7HI-ekKmd0_QsZp-V6fnGeoRFSnGObembcYMp6dyClnpDM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 403,
+    "coordinates": {
+      "lat": 41.880083,
+      "lng": -87.6653982
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs4pZgnwtDogRH0aGcmcrXzI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=3629667547986937375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Colombe Coffee Workshop",
+    "address": "955 W Randolph St, Chicago, IL 60607, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Trendy cafe serving house-brand artisanal coffee, pastries & snacks in a fashionable space.",
+    "website": "https://www.lacolombe.com/pages/cafes/randolph?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "(312) 733-0707",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc6-FONosDogRddTA9wm8FXU/photos/AWn5SU43MlnchuVO3OojXq83cL8_voPDY3KfWYJIrGP8b3FmwulzCKbucK93GHGorsrd6QXU_rlk-PrNug1HrSys--sI1uuNGAk7_d1JvLE4iy0Jj7LpDPGcNi0I2lhCuRllux3SegO6PXTODU_EyNqtIzmp-s1rmHL_cMGVo4jknvn_EbVN7Y_XNl1RBQAmA-R2Y0ENLKEYKSZ1-5MywmqPJdzQLmxs-zJBIQ9PwPDVEWR0wInW2teX1uRGxoS1kJj__rbeZHVkdGG58FmDV0w8XJ_nO4dpsENKyYZf7XN2nQwqMewCl3UkD0soiGQ1DB5wXfjsDYAU-nHwDu2iURhFftQwynzzT26naJ6Dr0mTXbDadxrdZRvV3OzphZC-9ELitt76G0RDBCuXj7mEq17n_sCqsQfPaLDl66xS-AunLAnS6WMg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1129,
+    "coordinates": {
+      "lat": 41.8840639,
+      "lng": -87.6519556
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc6-FONosDogRddTA9wm8FXU",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "West Loop",
+    "google_maps_url": "https://maps.google.com/?cid=8436856227945829493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gold Coast Cafe",
+    "address": "754 N Clark St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "dessert",
+    "price_range": "$$",
+    "website": "https://goldcoastcafechi.com/?utm_source=google",
+    "phone": "(312) 291-8185",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJebdnj4TTD4gRlkopJP9PV3Q/photos/AWn5SU4z1KkXOjHR3nOnVYQcqn2RSK9a9fhYn0dwHvX5zfKNzTvWVQBX2IihC6KpqpvnbSk1ru7RklYYwOH3RFvleS_nteVyRERllRIEueTZ4FmwB07k7mQHWJJAW_I5HCOLLETJTZ6thnE5TVLYn8fV3ZuFGyLnxmTVkTpCVHe1v68IUD4LBinC2tFZwgd36ggkoWVrTYOzIAT1IUxIdPP4ldwUPk-RcG0_4xz7SAVmrUUh8tN-zYtabtBE2r9XrMUw82Kh2n3HxQVGIQ4LjgOEhFfuR1huLXCKe8cMMcrmn3Dwkg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 307,
+    "coordinates": {
+      "lat": 41.8964491,
+      "lng": -87.6315759
+    },
+    "features": [
+      "cafe",
+      "catering_service",
+      "dessert_restaurant",
+      "dessert_shop",
+      "food_delivery",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "middle_eastern_restaurant",
+      "vegetarian_restaurant",
+      "bakery",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJebdnj4TTD4gRlkopJP9PV3Q",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "River North",
+    "google_maps_url": "https://maps.google.com/?cid=8383257188615408278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Doma Cafe",
+    "address": "946 N Orleans St, Chicago, IL 60610, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Easygoing daytime choice with American & European-influenced eats, plus specialty teas & juices.",
+    "website": "https://www.domachicago.com/",
+    "phone": "(312) 643-0527",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM8s-RfjTD4gRvF1D1Ah1mok/photos/AWn5SU797m8aaFxUAqrsqqQMhsBXnmnrGLlknr6Y3OO-kuaRFinscsgouc1pDkZtRZdgpyuMI4nd0Mb29C6HL7SdWMYOvZObJ6IlMl3PDUVcPosgwO50J_YYtwJHLNm-kCPZ3DIZOKPvBHWl6Kfs5JbCBI5YCr6Khhqn2NaMdWfZ7APg4tAe3GLiAC8EUer4sAQO4QrAxAEFEuKYDOdw1gbSuHiAjlPt5WoMSSEIB_Kh99M1NvtQVOIMi2KvYBZsQjnLRK1ynDOlEgOZpLWIpxCpLev5r6xxb1bMzADQd1FHohaLaQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 575,
+    "coordinates": {
+      "lat": 41.9002268,
+      "lng": -87.6374822
+    },
+    "features": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJM8s-RfjTD4gRvF1D1Ah1mok",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "River North",
+    "google_maps_url": "https://maps.google.com/?cid=9915366210390941116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Goddess and the Baker, 44 E Grand",
+    "address": "44 E Grand Ave, Chicago, IL 60611, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "All-day cafe with baked goods, plus breakfast items, salads, sandwiches, flatbreads, beer & wine.",
+    "website": "https://www.goddessandthebaker.com/",
+    "phone": "(312) 624-8536",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo0ZS5ZQtDogRfA6UaTC-qwY/photos/AWn5SU70mWaWsXvKMbSCajz5NOsAW-YIoOCTaQ_xTFOOt7oybqCxGvgbE3yHmKZkfC1vgX7jJCP3jUG-GEJekYE8sGMb15k_A50dd_n0o9IkjN7Qf7WdU7foQqC82IeYND19B1mHDEnsRLCFbsPHfnmUqDfCEgnKdNArtgyMUFsVhAA_oaZgGJ8SJ7eKYznOTyC3qzPN-H5KamLRaLOBFy0-DvARzrqVm_tEjmMDv1kbF-uz4PzqjdSaGXQH3_zQ9xNe5247aGfPNQFlG3itaYI6xaA9XnkqwNWJr1Tsrer5jqgbuw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 840,
+    "coordinates": {
+      "lat": 41.8918805,
+      "lng": -87.62632789999999
+    },
+    "features": [
+      "cafe",
+      "catering_service",
+      "brunch_restaurant",
+      "food_delivery",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "bakery",
+      "sandwich_shop",
+      "american_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJo0ZS5ZQtDogRfA6UaTC-qwY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "River North",
+    "google_maps_url": "https://maps.google.com/?cid=480686900384108156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Cremerie",
+    "address": "615 N State St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Laid-back hangout offering European-style nibbles, such as gelato, macarons & pizza.",
+    "website": "https://www.cafecremerie.com/",
+    "phone": "(312) 266-7466",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6TgeODXTD4gRmhWCFWlrUkc/photos/AWn5SU4IZ3Jp5bm29bqETiR73fpl3OwGBai9FMnwX1kYjPCSyvV6JVv3DPSrzqC-G0apyxLr-n4jpy0eN2Nwg6BxxUE-7uAaEpJyXgBPnaQ98MkzyZrlJ8tIVjNO0mRpQBFcgDNJjWZIDTpqipmY166ZSOY6FKQSOB6Sy9tnu9sAeBkEP8gcJH1f-TBT1pcvPgsQBWOboJCD6IvWdAo-oO6PTL5-cqglYrK-FHPR3Su-lCF5rZmvMPbYmVWjhM8LkGA_pvcytuv_WnDPGwOEinee7LB2e3rb0LWUI7zxcPOWwa1RmA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 429,
+    "coordinates": {
+      "lat": 41.892961199999995,
+      "lng": -87.6278214
+    },
+    "features": [
+      "cafe",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ6TgeODXTD4gRmhWCFWlrUkc",
+    "opening_hours": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "neighborhood": "River North",
+    "google_maps_url": "https://maps.google.com/?cid=5139288223859742106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Crying Tiger",
+    "address": "51 W Hubbard St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://cryingtiger.com/",
+    "phone": "(312) 736-0183",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMy-h6y8zDogRT18B--Truvw/photos/AWn5SU7K73w9O3AZ4sez2ey8OQWDoJHf3Xg6OlTNaMnr34CgSDH-OBTelop6gsMnO_-oLQldqhON_EuqfLvc4Sm_7Qqh-NHk8dQ5P9t6zQ1XkVgOlVIHvrIJlhzppXDRt-0w4SVB9os-34lBKIOEEe4eoqI2PNB3fGzlJk6XtfzdKMpUVP9oCM7dMx9bszA4OVweP4_DFMH4liiqqoYM3kjLoZGfslmzqlawNrAiyOIk1IJkXSDbJnBRxHOY5iPri58chYxC-5BL6uFGpMEBzmYW3_A98YdH9N4V9wyRAqe1BD0ZNA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 481,
+    "coordinates": {
+      "lat": 41.8898897,
+      "lng": -87.6298989
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJMy-h6y8zDogRT18B--Truvw",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "neighborhood": "River North",
+    "google_maps_url": "https://maps.google.com/?cid=18211127411922263887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Hampton Social - River North",
+    "address": "353 W Hubbard St, Chicago, IL 60654, USA",
+    "city_id": "chicago",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Breezy hangout serving seafood & beach-themed cocktails in stylish, nautical surroundings.",
+    "website": "https://www.thehamptonsocial.com/chicago-river-north",
+    "phone": "(312) 464-0500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ031CA7YsDogRxG9gOVVMzaM/photos/AWn5SU7cEv7CboveOXFFH8Dc2__-0Idv5qBNl9kOV_Cx-6t3ZpQ0w2dBrNBZXxv9eW5XONk_aemFbkilSJz4wfB-m5_eQ6WRfPbDpjH_Da8TsNiRpnBNcY7DrMEt960mo__RT4GFxbfFcVP9g3vv3U8pCB2OPoma-u26uee0VWypZul8CvUF3atqJUwQf3hTLnxRzD0X-w2LTJxuUehvDoLdHxbzPDanPlDQk4HMbWODtDr3OkEQJ8ksXZiIlf_OoIgQoXFDBMYChKdwCDSTLzZBjDba34FHBguYnk3EZg9X2xeOKuu8DaH-iXP-dcqO06U69XKGGsnn7ixhUhWiutuUR7lQRdBo13N_9J7sfxCHR4oXGQBfQ-5akMZQR0HX7dv3j0UqJ1VYgc0N0d_UM_WcQ7LEKhTI9WwesWYRBPtvamW_V7OzgvrTUdN7stn0ys4o/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 4606,
+    "coordinates": {
+      "lat": 41.889815000000006,
+      "lng": -87.6378737
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ031CA7YsDogRxG9gOVVMzaM",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "River North",
+    "google_maps_url": "https://maps.google.com/?cid=11803174127326490564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

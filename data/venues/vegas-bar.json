@@ -1,0 +1,3409 @@
+[
+  {
+    "name": "Oak & Ivy",
+    "address": "707 E Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Barrel-aged cocktails & a large array of whiskey offered in a warm, traditional space with a patio.",
+    "website": "http://oakandivy.com/",
+    "phone": "(702) 553-2549",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg16ASXTDyIAR6Zpo6o3DCiA/photos/AWn5SU6avOoZxzUdoWqcLVVQ8gAAxBrQ3hMP58k1jQyzUBOkmGa6yKCNEaSVm-X-RHL3vt5GcR6Ao7C_Yr0LECZY_ex-NGGnDu61SzEfSzrbkJ6CoCWEBUhziexXcgOlay3KjE0hlOHZTIr685bWRgLG07zjk4mLwfTrb0llU-6sE5cReoQrVsOQAWC9jbk9OA52DxnNXOVYqKhhdSxQIGQKkBb4ZNX5igN9Y0tL5gRpF0tqJkw48FTMoO5wk4-X7cT5T_ZiYRoELogWVmtJDjCrMjooUPN5QYMw9LiZb0k23nD-cKyn0zc3xcMT9vlQqvnC-LiVFzBo8aDNoDGYTWfQb0bAbD5__OQvaVAk_gnOZ_PNwqW4yKJlFpQ1uUq0FZLpDdgOSyZfGlue0SM8z8dYWU7ufMLY-rPevuaiqY3J8dS7vw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 805,
+    "coordinates": {
+      "lat": 36.1673797,
+      "lng": -115.13836009999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg16ASXTDyIAR6Zpo6o3DCiA",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 – 11:00 PM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2308872773271329513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Cabinet of Curiosities",
+    "address": "3645 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://thecabinetlv.com/",
+    "phone": "(833) 855-2888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3xfSTSvFyIARJM5dqW_pdtA/photos/AWn5SU63oJe6XjnSjjoahUJe7widEZ0VCYKC86kFZMZT85st-xa_inV7T_WZSNQ-e96XjEljZfKIdwjMi4uDtZJnd-0PcydR0JC41g1tgmQMr4q90zflA42CB_eOjr-7hlyVISw_9WDHY_-bwDXGX9OUBFo5A5xzyaGYVB__ywoFh1T7Qv2rjnGNA0pi74IH570aTYl2PgMg9DXBFLA7KV97xeaohiJDlFPUqAfO1o3VcHpuQcUqM5vwatczj-380_nPZy_aFwxl0KCrx0PUezkUdCjAqKaD_4BZD-dNJRLBQHrnckNboy5i0BREybTF455okuY7W0w5BOnOddOt4ijifKvEBAN_pboc3BO_aCmJnr7fitj9Lo5kdKIF3yVFfQhBuuBTXf8tINoLoYsMjppq-KnKBQlJ-VKHxNFj35nIixAzQATy/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 434,
+    "coordinates": {
+      "lat": 36.1140426,
+      "lng": -115.1687929
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3xfSTSvFyIARJM5dqW_pdtA",
+    "opening_hours": [
+      "Monday: 1:00 PM – 12:00 AM",
+      "Tuesday: 1:00 PM – 12:00 AM",
+      "Wednesday: 1:00 PM – 12:00 AM",
+      "Thursday: 1:00 PM – 12:00 AM",
+      "Friday: 1:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 1:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15021450272933006884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Velveteen Rabbit",
+    "address": "1218 S Main St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sibling-run haunt offering craft cocktails & beer amid eclectic, vintage decor, plus music events.",
+    "website": "http://velveteenrabbitlv.com/",
+    "phone": "(702) 685-9645",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxU0e84_DyIARELiEw8h1n-w/photos/AWn5SU7ql7fr2F2pzm6P2JZMqQ_41V6REJVQy2wz_kc8ajlIeyWW-S041N4p3zsbPgvAlORvQpw_J9XwZxRRhVyvXEQQKEiEurqjxcvgRVLiiTQL-qRAcvk-txLvkW8gENeVR4yfB4FOs5jrND4NTMmbLSq3s7CgctM93U6N-ya2OqFkgC2a_gYTgpwyyJq61rNw_uVtxg55PDY8q2c9hANRWqB4XBNL227Jy7m2QveiQa-lXYXbmFo-JRqNg32fuqyN0qHLtDeAdHw9NdfIZ884DdH4aUlpV_9MeQ7XyCHpMB7Elg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1108,
+    "coordinates": {
+      "lat": 36.1567,
+      "lng": -115.1539
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxU0e84_DyIARELiEw8h1n-w",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 5:00 PM – 2:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17050476219382151184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Underground Speakeasy and Distillery",
+    "address": "300 Stewart Ave, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "History exhibit at The Mob Museum featuring a speakeasy-style bar, distillery & '20s-era artifacts.",
+    "website": "https://themobmuseum.org/exhibit/the-speakeasy/",
+    "phone": "(702) 229-2734",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY7hFmwrDyIARjhIM4XlbK4M/photos/AWn5SU61aMQCQ63mtJjXn0ZjvATinV_DACLYz-QoF7zlgSBF0EtV4QD0PYSKc7LsAq-GRFmR2wZuTG61bkLRFYPQgrxr-JPOW-h5V3OmJBswG1P5Ly22tcwv2r_jVEdU-LokGbrvHlWLkhIBcItUvoUwIFRvhJJFKvORK1J-O6mQRy75wVmxSbc9obMYqfVAOoC94BTbhjsPSohrt7jqMsfzjuqgSop9dqA-MRW2yEJnHWv1dQQMuLh_Uktkb2s5NgVxeWDgYhvA1QmisqhwIjZ3DbwvQGXznZwPmosQI8rNlkxxRA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1305,
+    "coordinates": {
+      "lat": 36.1728228,
+      "lng": -115.1412524
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY7hFmwrDyIARjhIM4XlbK4M",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9451748821991953038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Laundry Room",
+    "address": "525 E Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Dramatic, roomy haunt with a pre-prohibition era theme featuring vintage cocktails & a speakeasy.",
+    "website": "http://laundryroomlv.com/",
+    "phone": "(702) 291-7389",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtXc8cnXDyIARrkdYT_c2WbA/photos/AWn5SU7YJSSeJbr2G8uGWqeeP933V2hfVHsfQjrET1sf9n-RVqzBjVu37deB7TeqObo1PSqFntE8KhAN_8iqINuZnrx_yo778HddrM_gP0g2be4e7c2z-SzMwn_fbJ9XNIrlLaXPd1XEaNuXPzeGf05ZRKjjX3_Khqvz495PpSOancUpOQoOojDuf5HrkIMd9vtYuau9V3Dl9HK7pkLOnBOHGwEjBHvJCnAuVUOZA7J7iyH1XU3GhFUx4QkZBwEVGW9z6nrAz3o8DlnHjWFmodNOfoxBj7VfZTbI_kUzQ6D9O7ZzMQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 627,
+    "coordinates": {
+      "lat": 36.168644199999996,
+      "lng": -115.1398021
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtXc8cnXDyIARrkdYT_c2WbA",
+    "opening_hours": [
+      "Monday: 6:00 – 10:00 PM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12707248259418572718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Juliet Cocktail Room",
+    "address": "3355 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Chic lounge inside the Venetian for craft cocktails, wines & punches served in posh surrounds.",
+    "website": "https://www.julietcocktailroom.com/?y_source=1_MTAwMDQwNzY3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(702) 414-1945",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJRXzWNT7EyIARdtyEvvQAoVc/photos/AWn5SU7yNAe1i1Lvrbn-F2uVxCdt0Fm-ncEWOWySourADMGiplLp0UIPPeiJ_xYi36sJtF9B8kX3o8mOBoVJF8PIcarASSSLxq7PYf6EpG-mHZ_uYNDcA10Lof-T1RPm1QznKF1hN2uwrD75kP62OBc2FyLvCFTMFVPdYYm0_XYZFKn84bslxQ9JwgrEhQgXdSlonw9b2o1-avvzyCSmU_L_LfmOtQ4nXr9xZyp7jibZwNZ-KVExU53Ww4TRHSskQPeqAM-zEfy25SiMtr4ILxSj4xAfJ7avFwnXkjgkd_dUuwNByZXu3sPiI1vl99HrSkq9htoAxYYELW6YnEqeYK-fskMamEytkNTTWPncu9-rberjm3SSd7OLvE6YFnN78tYlTgre1kgsJh6WHD_cWAWNl_XMeyMByYqP3kzhwXxWPCy8Bfm9Vjc6-GXOQ8wb4nec/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 685,
+    "coordinates": {
+      "lat": 36.122408199999995,
+      "lng": -115.16958919999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJRXzWNT7EyIARdtyEvvQAoVc",
+    "opening_hours": [
+      "Monday: 3:00 PM – 2:00 AM",
+      "Tuesday: 3:00 PM – 2:00 AM",
+      "Wednesday: 3:00 PM – 2:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6314329203718544502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Legacy Club",
+    "address": "8 Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.circalasvegas.com/drink-dine/legacy-club/?utm_source=gmb&utm_medium=organic&utm_campaign=listing",
+    "phone": "(702) 247-2258",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTaboY4jDyIARHkLc2CyfMXs/photos/AWn5SU4eUnMtkKx_zzLwRn1up7VQbqsJoTcJ_JQeTggIzS4m1V1LWyc5LhxLnerOgnH1MYR-uFe3b7MFx6iiSG2BTFDRfy1NHBL-Gounu57CTzfGVqCOnr6qenwpgq7qhBW6ys5fy4JoWCnXB9Ymk-4vUKCrJrH23tUdpUrZGdY8eGT2lROVTMH0Qy6pxlvAZ-ABl_fxnDJ0zfo2t6uTyLzAk_oUM7Q8ultBldhLSeDYDTQsjD79t7CkEFO4K0OyRUFLJ5XoFBQ7ZQCmqGlaWumnAnzCmjzwkEcnmVB4cVCzPRDigw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 685,
+    "coordinates": {
+      "lat": 36.1722749,
+      "lng": -115.1456448
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTaboY4jDyIARHkLc2CyfMXs",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8877051355489649182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frankie's Tiki Room",
+    "address": "1712 W Charleston Blvd, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy, kitschy tiki bar with creative, fruit-based rum drinks, hand-carved furniture & bamboo decor.",
+    "website": "http://www.frankiestikiroom.com/",
+    "phone": "(702) 385-3110",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3_LBNpPDyIARIkTs_rNJJ_4/photos/AWn5SU6HwRECe5TIdeyDk3R0zEb2A3AoaWbPZn1VCwZ77gwueEzpK7UBwnB4CPoEhTXsLMWYPC_YuHbPIkrKwDAvHhHFc9CClDaxjWRMIuPKJniVIVMsdecLTXn3b1Zpk3-EmfozRqFn8AQQMT3cWrEV7kp8DAfGUOxEgHS2ZDw14itVzqorxXs866ZuKCt5QhCI8wx9becc_LVm2fXRB-AyraIxGYmlk1UUFgVx22TwwUyi5P86k2EA8hC-cCrZYWlbvukhBavYIBT2Ov2EQIhUv6f0-CjxsTrfdxw4aYjSpdI9rKyAgtoldDJBr8s4DKGxRc3BEc5Ld1giDxECSFwl8YjR16VMIUIJX1qQ5puPz1rYHDuBluQw26ErvumRr_l2NVL02mkhzc-hqxypXayCBIsOcLxzvO3KAF3aKEROQWb-pg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3171,
+    "coordinates": {
+      "lat": 36.1591391,
+      "lng": -115.16464380000001
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3_LBNpPDyIARIkTs_rNJJ_4",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18313687447150281762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Herbs and Rye",
+    "address": "3713 W Sahara Ave, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Classic American & Italian fare plus handcrafted cocktails served in dim, moody restaurant & lounge.",
+    "website": "http://www.herbsandrye.com/",
+    "phone": "(702) 982-8036",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNcVs1VXByIARaX7ykQPgpuQ/photos/AWn5SU6TdbF83GX5eiflncrhA2HMgCV-qrTKGgK9ioxlw8MNIAV8au14L5jkWPAZIoh5HCZ9Bcig_hmpO1tnPSrHSkYUa51jkZoFR13xE6IimqpKlmbI69uYMUAhifzaBoQ1jft_sLPDS0LfsFmf86nfvCnrOc0iXOa1fi6z2fEtjSn4slqXZK5kPcFVUjcyTFP_syKtD_RNGtyivRthHzk6r98LWOPq4KHevftLXjGjsDQHo3W_09XB_KIFRBdWZBzUvQgTn939V8lIu8lzjRFe23hoVf8cYT_sd8K51LXKuhPLsw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 5333,
+    "coordinates": {
+      "lat": 36.1440401,
+      "lng": -115.19178769999999
+    },
+    "features": [
+      "bar_and_grill",
+      "steak_house",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJNcVs1VXByIARaX7ykQPgpuQ",
+    "opening_hours": [
+      "Monday: 5:00 PM – 3:00 AM",
+      "Tuesday: 5:00 PM – 3:00 AM",
+      "Wednesday: 5:00 PM – 3:00 AM",
+      "Thursday: 5:00 PM – 3:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16476102592719650409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vesper Bar",
+    "address": "The Chelsea Tower, 3708 Las Vegas Blvd S Level 1, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sophisticated cocktail spot with glitzy mirrored tiles, a vintage liquor cabinet & specialty drinks.",
+    "website": "https://www.cosmopolitanlasvegas.com/lounges-bars/vesper-bar",
+    "phone": "(702) 698-7969",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ52jI_zDEyIARq9_DyM7eufY/photos/AWn5SU45LSMDRsCLnANXmRSRn3oA9bQuADaM76RhrPNynvHrGirI4dp0-dvuro76fCtxdvP5diFbn-HcZ09RKeHVrHKgJfAna96zEGn_Z_vvi5yGXvRqEv3QOuI-nSluYtpN3L3JcTEDFxYvWap4Nq460PXotFSi-y-BLDQq0oEHF5dZy0YiU0j8j7x1Q1fXgfvPwptIstn2MJ0z1InbmmevSCeXwBpXSgPXycNyiION3WWc9eDy4lCGB9pBU4iaAYbmeWeQ8Hu2vNZX4UUOzHEzVOiuJqnMnGayQR8mMriTtOv__nTG9QYmtOtfXog-p__evIG0fNygdmmN2YnXYaUjCZy34bBLr-lS2dRchLGCCJTQHqjLiCe1_nfzHF-AlnZLY4GjL_lCk3oyShrihQfvLkeIfyKlEVSVbWkYNDLmHi-0ch8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 645,
+    "coordinates": {
+      "lat": 36.10978,
+      "lng": -115.17582
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ52jI_zDEyIARq9_DyM7eufY",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17778485983734652843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Misterio Mezcal Bar",
+    "address": "1300 S Casino Center Blvd, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.misteriomezcal.com/",
+    "phone": "(702) 331-9431",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJweIan6_DyIARW0LsUZ_ABTg/photos/AWn5SU7ZRc_XWDuhW_3_6ZM5AaVdsjhP-qYXqSxQUfDZNTiHmzKkYAbIEEw3wzWGT8jcbWuOgN-ZR2t-OGsYmIBwwwsplgQMcT-aIF1YKq9zNQ1-c-6O7-t0edPKjRRyvv4c-mPKmhTY67ySV2Bflb1M8XYZPwVYqIqCtEVTHRx_rvdWMKdfL405iAuJunIaMlw7aiyBw8sIwzotountfkEsoc-c0uofPt_DZ3o7_WVC54OfDCJGDhRh7PLM9_chnnfXux3piZvinRUe7KDy0KdE_Oilecv3VMhRmoH9j0FB3mVVENmKdKJojhcdUelFuLQwLrfuZcBTcOLXmTGysNZGPNnL2snqCqIZfnp9CDdRBgufScHtm4bX0Acq-swgF1B5Wk4Fd0-Dl-GQqvk8gq1dOdV5ayGygd8ylqNF5pjc1q3z0r9-EoFRVTLqa1wsv6nr/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 132,
+    "coordinates": {
+      "lat": 36.1556555,
+      "lng": -115.1526682
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJweIan6_DyIARW0LsUZ_ABTg",
+    "opening_hours": [
+      "Monday: 3:00 – 10:00 PM",
+      "Tuesday: 3:00 – 10:00 PM",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4036844431514288731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bound Bar Las Vegas",
+    "address": "The Cromwell - A Caesars Rewards Destination, 3595 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Bartenders prepare craft cocktails from behind a circular bar at this chic lobby lounge.",
+    "website": "https://www.caesars.com/cromwell/things-to-do/nightlife/bound?utm_campaign=google&utm_source=google&utm_medium=local&utm_term=dlv3&utm_content=bar",
+    "phone": "(702) 777-3777",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf8qMLzrEyIARYVvueKsAkQg/photos/AWn5SU5ePvhB84kclJSbk_0Qh5FsSjFunqMY-7Eh5tu9-bWrMG_EP1O6O0_aoPfcJqMukSYic6aUR_YCENgPQR4t1m1Y8W-PHdzdZXaqIBjueprsWbvmN-huIASPaefbgmJrN1iyf6GxwCXMrqyDsJ2fMlbO1K3l0InzxrI_CCKRLoZU1Cww7LV_0nWMUxrA9ZKOF8Qel9OZyxroS0SzIxc8JKYyRJpxiD6zabW0YzdukLgvwcspoBeGP7iotqixCe5khbKNRDlYhfuVZPLzFGqGSu7v5ufLm40NPs9stRYNZ4ifa946O4rudTEmCNfmP5uS7gPXVGSHJBQrHOlMlNRvD4Tifl6ZZu0GzHqDMbZ1dFJRWuj2ySsZ8he1HpX5AZGIfS-On4PRha8k0I3gO51DPkEJZy8SK63OwVb1Mv3xo2D7pw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 175,
+    "coordinates": {
+      "lat": 36.1150237,
+      "lng": -115.17130819999998
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf8qMLzrEyIARYVvueKsAkQg",
+    "opening_hours": [
+      "Monday: 10:00 AM – 1:00 AM",
+      "Tuesday: 10:00 AM – 1:00 AM",
+      "Wednesday: 10:00 AM – 1:00 AM",
+      "Thursday: 10:00 AM – 1:00 AM",
+      "Friday: 10:00 AM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=617275360394763105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Sand Dollar Lounge",
+    "address": "3355 Spring Mountain Rd, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Local hangout with pool & shuffleboard, plus live blues bands & other musical performers.",
+    "website": "https://thesanddollarlv.com/",
+    "phone": "(702) 485-5401",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa-e5JBzEyIARDaLHteBh5tE/photos/AWn5SU7CJJn9aqDIz7hKnIXrncphc8gm7kfGqebIpWtXcbrfmcVBUldqloww7rR1tBilftyjypvaMebrfpcVJVcZadjHOXrKgUh1FUbIBhd0JRgmUv7P1ge9czXNNxz-C--SPxUnVnOSQTuRV0-qBD8uKZ45LFe-spjcBkWgMnTYJXwQeSvz0ToOAv1BDtU7s02pWxzEBO3j7qkN8saPRck2HuUyoQ0BnJWjxw6KPsosp3kls5dun-3pBzXejywlpKQjEOvwflrG4c5agD3K249tl-yvEpfVrVZswSj_gnIdwkbNPA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1721,
+    "coordinates": {
+      "lat": 36.12571,
+      "lng": -115.18512199999998
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa-e5JBzEyIARDaLHteBh5tE",
+    "opening_hours": [
+      "Monday: 3:00 PM – 4:00 AM",
+      "Tuesday: 3:00 PM – 4:00 AM",
+      "Wednesday: 3:00 PM – 4:00 AM",
+      "Thursday: 3:00 PM – 4:00 AM",
+      "Friday: 3:00 PM – 4:00 AM",
+      "Saturday: 3:00 PM – 4:00 AM",
+      "Sunday: 3:00 PM – 4:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15124884016320717325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bar Parasol",
+    "address": "3131 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.wynnlasvegas.com/dining/bars-and-lounges/bar-parasol",
+    "phone": "(702) 770-7000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJszFNFRbFyIARqUdvC7VwxtE/photos/AWn5SU4xLgyiXUupAdPyUCdXChM2zIBo36MJpZ4CAY2WJP53JOQ6Q4owyOSS4W2z0Wx-8zOrSFSMx5yeaMOyCz7auna6b6DqYZt48xFQZ_fNKAIaHPOMCIW2wFGqkWaX0-6K-EQg_Wyd5vBmIv654u2-rQ746ADl96pYd5utqVqijt8AN45_re1GXEsSmtggOD3zmOXZDmsbMTU-kuekX4sUE_2eQAjviPGiUX6lzfSUrHpRoTDtNboYgh3NLfUkciMZSD0wT3gDoJmhMopD6uWrHBNdST83AFp2RobrieAzSnc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 263,
+    "coordinates": {
+      "lat": 36.126390799999996,
+      "lng": -115.1667354
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJszFNFRbFyIARqUdvC7VwxtE",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15115893122198882217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ghost Donkey",
+    "address": "3708 Las Vegas Blvd S The Cosmopolitan of, Boulevard Tower, Level 2, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://cosmopolitanlasvegas.mgmresorts.com/en/restaurants/ghost-donkey.html",
+    "phone": "(702) 698-7000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSRZPhHTFyIARWmEtYRQf9JM/photos/AWn5SU7HHap7PlvRTcceS1ebmX1r8ziYuxfLUFmywTdt5nxoKMYT7VdYBqpkO_2Sb1qA3mQV851dTZmChx8PdrYCDa0CZqLt3MfVNmJFJzJtwz-P1gan1tNWQYqpVaasW7oY3pPe4eGSkKGzx3ngNaAEnxChavm4ykNlD6laJdTGG_U102w9_BMOOJwXr7tKO5p5R7NJAyp1tUeVHVVGKmLsvuxsvN3fNCX2g8M-xZEOrg6ozqwceE15CMtQBOEq-uk3trEqaG-Gp7dK4IJmIHsHvWv8_S1rNutBhPnVljh1iTYneQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 520,
+    "coordinates": {
+      "lat": 36.1094431,
+      "lng": -115.17414699999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJSRZPhHTFyIARWmEtYRQf9JM",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10661180390282977626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Golden Tiki",
+    "address": "3939 Spring Mountain Rd, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Exotic, tiki bar-themed hangout with a long bar featuring tropical cocktails & DJ music.",
+    "website": "http://www.thegoldentiki.com/",
+    "phone": "(702) 222-3196",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGyKr_qbGyIARaoi6bTTfX1A/photos/AWn5SU6XzYxD-XnbDTptNzDQggj2BXE4jKmnSEZRdDOGIxgCZ3bSI0D-lCGiinPf3IPI3fLWtmfqKEOhCLF9a2O3RBc3U4AMAYxtgqiwKDnQIx1vXLHVpsPKBXwZG48jQZySha6dIyVtoRpqfvNvH4_k8FTr2YkVgJA7bM3lnHtreQM495iLq-AEPiVGbUOfS2tbXabGWpFkoDSWmZc0coR1xYZkOOvLepw0z6cQlm_Q2wpR5Jy-MVKs5edFYbL6KFf3WwqGK6d6diNGkMegN94X0yHXPfkKeZXW1hPs6hczIGsN0CqSp-SqcHJ-ydBRxxHEkjwyqmvP9XhUpRLgLcA_HWC89cHb2kmSyqhA0gryG1gUDygJhbNKz2A9vpxPviM-TR26xp3Oc6ULsjqVmi1vGFtRHlv3jLjmQoQ_kxDo-BT8fyuyxjtQvBkL1f1UyoGn/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 4210,
+    "coordinates": {
+      "lat": 36.1260718,
+      "lng": -115.1922452
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGyKr_qbGyIARaoi6bTTfX1A",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5791593062093981802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Skyfall Panoramic Bar & Lounge",
+    "address": "3940 E Mandalay Bay Rd Delano, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Chic bar on the W Las Vegas' 64th floor offering drinks, snacks, a dance floor & patio with city views.",
+    "website": "https://wlasvegas.mgmresorts.com/en/nightlife/skyfall-lounge.html?ecid=GMB",
+    "phone": "(877) 632-5400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYcGcO9DFyIARqILKdq3_X7o/photos/AWn5SU6AfH1b1ZGmA5p3n8vVnSyuEdKSPiJe7szx-A8k3D4BDldG0iNR-iadSpv2Gy5pbdnrAI80wQuG5Fm1lGB40iEvA1Mq84xcimDeW7_Ix7SzTGNqdYyTeVacBrplf20o7zePYuZXoiDqJhGXzqRtzpaEsbjgz0jY48f1ggXi7wlNlbuh5OcZZUvOjq0IMzyovPfHwU3JXMWpu6uAWls9gfnkLXp8heSBHOCvK48vKc4q8x1MLoVbkLuK1ZdrRQiA95mHcPk1vSgfkP7bekvcXiigqHa0H4o1CrRms1si8iPK0Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 735,
+    "coordinates": {
+      "lat": 36.093612,
+      "lng": -115.177562
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYcGcO9DFyIARqILKdq3_X7o",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13429733734329516712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cork and Thorn",
+    "address": "70 W Imperial Ave, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Intimate, laid-back wine bar with charcuterie boards & spirits, as well as live music & DJs.",
+    "website": "http://www.corkandthorn.com/",
+    "phone": "(702) 823-2678",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJt5G4woe_yIAR-lqQnIuB8zs/photos/AWn5SU69XcRkqxdTbo_S0UCTbUQy7S6utXa-6wQgzs8j9g35itAQ1jkhm3XhquyU0RByjxEHldiqoiHa2TTuo8RaSyEGs1haju01A4LMybNqh17n4lbtO_iwG12JPOgOq4r4YrvVBj9_lWGPDVKPImvDGDxEDMg606nY0HjDFMY0Y2ZeL4mTccgK5vOi70MS1__Qe8bRQAaqiPErdxnzT9bF_xkDVet_gBnLchyz1_OXLekzt3e85OuAyGzHPNcTyiKnxbdG9vuInubnIqU6D4qlRYTGNSCtiZ40PrNmlI1sJLDOt-RbLcpTVMzqhPzX2p1R7jBtoUsOHr3qKNwI2Kd69FP7orjdaUUHAa7k8z0JAvsJhxl6dy18HJJAQBiqZ5NHb3EXKZSeq2sZyKgm9iLkKZ91atNVOb3N1Nk0bomcTnTTV8nt/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 805,
+    "coordinates": {
+      "lat": 36.1552569,
+      "lng": -115.1545484
+    },
+    "features": [
+      "florist",
+      "wine_bar",
+      "bar",
+      "food",
+      "event_venue",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJt5G4woe_yIAR-lqQnIuB8zs",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:30 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 5:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4319938904205581050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Horse Trailer Hideout",
+    "address": "1506 S Main St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://horsetrailerhideout.com/",
+    "phone": "(702) 720-2630",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvUACDknDyIARCgOcD1hvvBU/photos/AWn5SU48786M48YePdqaKhkgYlHtzKC5DiplDrekwc-XPqimYK9F2b-1lVS_MEQvE_2TA0QyxgphjSa6b9lgnYjIke8Uh6lwVdk7AVVFYCK5BM4yPEbHT9a0qH1JxeEJuWZ59xP-n-vCowEn6zztgr8J8Jf3wVKV8BeDHL2S_t2ib58W2FMxLaUaiijgfPkNXkmm_HOD4tb3OaBOQ3y8PZs6RNlOjoIQK1sLf6DC0j9p6ZSVNTBbeKymP2P2PUW9YqOBD0uLy_rJeSyVN56M84Lw5S_Fh2oY0vCNcTzw2qBa8G3DRw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 288,
+    "coordinates": {
+      "lat": 36.1532427,
+      "lng": -115.15419740000002
+    },
+    "features": [
+      "bar",
+      "concert_hall",
+      "auditorium",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvUACDknDyIARCgOcD1hvvBU",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1566249194427777802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "1923 Prohibition Bar",
+    "address": "3930 S Las Vegas Blvd #101, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Premium spirits & specialty cocktails served in a swanky speakeasy at the Mandalay Bay hotel.",
+    "website": "https://www.1923lv.com/",
+    "phone": "(702) 740-5800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgRb_uMXFyIARVIlgvMw0cE4/photos/AWn5SU4m1YsYUGqaIhlotEsPb4QUVr4wxPYxqpbOjbADrwRDSk9gw-qrrzIoRwNaA_ZFs6XO82imDj2oO_Y-MIOwBG33HmQ7wFQZeYmseCQ3I-uTtC5ZWWe9Z4YaTnTYvVejE12uDAyFCxwn26B7i4jKoMdox3yg1CwJ9SH0LN2xqzX3uA0L3_wcCCJedCLsq_ZD5YreweYbqUozcvhQWgzUZcGO87erDLhhSTuyLs6LDuJoKjFbAQz16NDM2aeC0nz-eGFu1VKUnXJ7JPSbDn_QjkGggLxK6LGEyG3K8a6JYDYs6A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 799,
+    "coordinates": {
+      "lat": 36.0936585,
+      "lng": -115.1760932
+    },
+    "features": [
+      "bar",
+      "tourist_attraction",
+      "night_club",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgRb_uMXFyIARVIlgvMw0cE4",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5652075586288388436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "BrewDog Las Vegas",
+    "address": "3767 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "No-nonsense chain bar specialising in the Scottish brewery's craft beers, with regular guest brews.",
+    "website": "https://drink.brewdog.com/usa/las-vegas",
+    "phone": "(702) 331-7516",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPelpi67DyIARi9TMDDExRVY/photos/AWn5SU7RVmCxwFb7FQZaCHfUhNwSJuzGm-eV61EaSn5ZNMQHlzeBN-bFStUBSO05JUCe6jWQWD6dZHTB7uvvyD7uS_0cknaIhRfAoNbdoSpYlXdkXBgycZinBm38FSEtReGUnckPbey69spcx0M-GduL-7IrgxahC6GYYSK2OeOr5mfPdi7xkUlAtiAs7OzXXG7u3ZrL-HEdD8y57MNysG_7_HJ4jFe0PQNE9HwliXSRYfv_lOLaxF63KUdzcJnplCnlFNLE1bJdoCqyqOztYiH5E2PwgAUbEW3GXOakBs_sYrdQuQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 11836,
+    "coordinates": {
+      "lat": 36.1046674,
+      "lng": -115.17236559999999
+    },
+    "features": [
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJPelpi67DyIARi9TMDDExRVY",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6216428947392746635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Here Kitty Kitty Vice Den",
+    "address": "3000 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://zoukgrouplv.com/herekittykitty/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy0E92dDFyIARKrLZBzKyOxQ/photos/AWn5SU4e-9_H48TKfhbeuEisnoocdmyjtMuIX9rnooAUeHkMlDhfw-7xcfUiCNSBcc5fF9rl7vv4EW8Q4vQmoPfzlKYRQpvpflTAgv_9ifNxA8MTgJ-NH5V3hWtrsmMnb8J2Y1Hb8ouv6DjAu3eDArMFLpnBqeQHl0qmENXptsPr2sdrHXbSrrVPMsW1zkSnBT3gQloY1TqGOHX1Qk1wrd_GuWAY9jisjC8XbWJJLRjXaagHevmuBW3tn30atM52Qr-FrZlye64X35ZmV3Z0Q1AF2w1ZteJgrSiCu5KjjPdASdA4uQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 217,
+    "coordinates": {
+      "lat": 36.1339198,
+      "lng": -115.1670653
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy0E92dDFyIARKrLZBzKyOxQ",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1457954832334303786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Chandelier",
+    "address": "3708 Las Vegas Blvd S Levels 1, 1.5 and 2; Boulevard Tower, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Crystal-ensconced bar at the Cosmopolitan offers distinctive bars spanning 3 floors & a posh vibe.",
+    "website": "https://www.cosmopolitanlasvegas.com/lounges-bars/the-chandelier?utm_source=yelp&utm_medium=organic&utm_campaign=yelp",
+    "phone": "(702) 698-7000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmwzbBjHEyIART_LyOV1x08g/photos/AWn5SU4sVtiS-z1HwMh-B4IPG9OyicwmBLtr2kO0NBNB_MQ2vCc9kDNBRAf6ulo5t5ZGZb3HKBxmzRC22rzmx9YG7ARyAhOUhECWmzDACrokc4jTGI5u2IZqiAEFb5CHx52V0yDSMfwZPezZ2hHVq2E3G0rJ0uAC-H4Ig98Sib-HX8LmfIIhT2qUx6Dwx5EhFIIKQnYgl0LXu925YM4ZeBuWcteuWNyUsz-vY3-E_jWkNHVOUtCEn1QgboDHYRBjbJ3xqxE4QlornvcM5zHv9yAg5ndxwTBeFpKYzqA_mMfs3-YwUxmSZBTbj3_cW_SNfaXXeYVB51Sh6zWiyqbKqUMi9yKWI-TGDKwa_EkmIasAt_6l4CLmbGMP7MbAyvFF82Lk5iBdYylqFHZRFWml23xQBoYVto0qQ2sWac7PqriYuXQcYk2hhp553iQBCWN7lzGx/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2699,
+    "coordinates": {
+      "lat": 36.1097319,
+      "lng": -115.1739317
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmwzbBjHEyIART_LyOV1x08g",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14471034672889655887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Front Yard",
+    "address": "4178 Koval Ln, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.ellisislandcasino.com/the-front-yard",
+    "phone": "(702) 733-8901",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJH0zUFuPFyIAR0Yv3xOWyPGw/photos/AWn5SU4pTz-KB_gA7KYZvchF1ip0SmjUaKeCQtXau9LoCuYE5tQ9IXAPwrUZU6gQFemW7epvlY5aLYLatL6_7RoEEwCh931DAdyKFNf2uG8FiyJ0bIbcm7j-2VFOOw5ZhghACsmgwFKQfJNQumnLizpSAUe4y-RXp4II2LHk2JiMY0MVLLzBDwwZaUm62m9_Trsr4S1t6sMZNw9liOdwYIxULKG-277gZWbuQC0lT4x01zHiXSHlFsTnPAzaehQ7Sa96OfIRydA-jiUQertsMqr_T8Ods3KridqLASEFtD0dDSMRVg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1244,
+    "coordinates": {
+      "lat": 36.1128649,
+      "lng": -115.1627461
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJH0zUFuPFyIAR0Yv3xOWyPGw",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7799305354620668881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Lock Speakeasy at Horseshoe Las Vegas",
+    "address": "3645 Las Vegas Blvd South Horseshoe, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.caesars.com/horseshoe-las-vegas/things-to-do/nightlife/the-lock-speakeasy?utm_campaign=gmb&utm_source=google&utm_medium=local&utm_term=BLV55&utm_content=bar&y_source=1_MTAxODI4MzE2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(833) 855-2888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLRB0NCfFyIARjwYifuRTaRg/photos/AWn5SU6wOFoei77xESWdn7dRmMdF0bI0n7ElSPj_xuKQ91trG2HrLE7RBRuqXsLTpbO7SKWEyw6EUgEvRMxRQgP7HqBvYuM8SVQ6ePuAeOy1ew7oBicpBAwMK-H8in1sYRPhN-zDpMIoZGaZ5QWiKhPR2V25PRqdHA5xHwPXTiMIJJAMraz_pQPSIFDlXTVPLSdpuwKL6DN_KMUoTk_clj32TMlB4Eo8N2-yzDAxoaaAbq_mU452ktBPHx1VGi1ipSsGKaDSmwszhM-tCH2R16xaGZK8WvbvSYJvIbrQlakk7ohlXBY_76cCu0Jv305LN6ll5Ho90pB17GZFJqmS63WledMSHnJ_3XRGB8wQtZRvrfNqqcIxD8gAefJW_Um9uwDQTi-MkEqCWw7ynJpbuxnZyMXYtCd6X4jMUSW4ylwQmqc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 377,
+    "coordinates": {
+      "lat": 36.1140551,
+      "lng": -115.16874609999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLRB0NCfFyIARjwYifuRTaRg",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 1:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1759029370298697359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "1923 Prohibition Bar",
+    "address": "3377 Las Vegas Blvd S 2510 M, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.1923lv.com/locations/venetian/",
+    "phone": "(702) 586-8925",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy6OE-snFyIAR7leCJfE7oz0/photos/AWn5SU7XsHHIY_DIfdPyWqtDja541jCIFQUrPBfW-PVsJ4TGLRydmOZm1AO_TtphIDUvPmwZl6tJMKDnXxkErjFCbs2Es0p9AZGKmsS4aa8f8HVAGdi7rcOGAQW4YijHE2axKht3QdfZOS_gX9Exu2FucsQYw5FTnZND0D2gpEw0N_uC9NjrSJ-J6RkKJFZaQOwjC5grciP_NyE6OIDDzRIinLPgpD00nIyTcuO1_JwGKuhldab7zwzkCbfPpEcY8-sfsJ4GdudcBOzpFf6Q-l_AVz7tjv5OGpu473gUkaPvEFZHAw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 103,
+    "coordinates": {
+      "lat": 36.1220673,
+      "lng": -115.16847489999999
+    },
+    "features": [
+      "bar",
+      "tourist_attraction",
+      "event_venue",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy6OE-snFyIAR7leCJfE7oz0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 1:30 AM",
+      "Saturday: 2:00 PM – 1:30 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4441459564419897326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stray Pirate - Tropical Cocktails & Effects",
+    "address": "1321 S Commerce St, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://straypirate.com/",
+    "phone": "(725) 254-2769",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC2veLL_DyIAR8LNiKQGJKSs/photos/AWn5SU61X58GnTCRZ010bwReAdHMJXSyjOqpJfEPPRh42FCAUl0St3DoG9l85_Tmj0iyHsbVRaEA2swcznxbP33A9EFOABXNX-5ryIXPWmG9FZ3nBnya9iqO9rchizy_NeLU2_4II3cCkDhrZzuGNgSAXHhoIUfQVTmkjAD8K9llA2nrYq_HZ-SEr53Df_e3-oAPGZrPfYgVai8hNtiPILibkWluNaARIcVXmCIxXq87Y-4ydSDJxFbDgC9W-o25k4q3ejwlSBkf0zmjXODoivPKux2Bhm-RG-Y54jHmyLYdzTikkw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 457,
+    "coordinates": {
+      "lat": 36.1552731,
+      "lng": -115.1549513
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJC2veLL_DyIAR8LNiKQGJKSs",
+    "opening_hours": [
+      "Monday: 2:00 PM – 12:00 AM",
+      "Tuesday: 2:00 PM – 12:00 AM",
+      "Wednesday: 2:00 PM – 12:00 AM",
+      "Thursday: 2:00 PM – 12:00 AM",
+      "Friday: 2:00 PM – 1:00 AM",
+      "Saturday: 1:00 PM – 1:00 AM",
+      "Sunday: 1:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3110167655758345200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Capo's Restaurant and Speakeasy",
+    "address": "5675 W Sahara Ave, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Chicago Mob-themed throwback with a secret entrance providing Italian specialties in dark surrounds.",
+    "website": "http://www.caposrestaurant.com/",
+    "phone": "(702) 364-2276",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq_Ec3lXByIARZ-DQhcoYYaA/photos/AWn5SU5GBz5HGtRkwuPQNly7nurDG3-7aMJIsyjuzyhZq6-ycva5eO0TejbPB6e9JYL3fgX2hKWgp_riqlNQly9ftVKLWxeHOaGe0pu2I0hwf5iILCKDCPsfvRyLMTwQN77CWm1CPwlOLG5tPPNPtyXGVlHGQdsOsw4n21uV0STWs4IjsDai8Soxf5d1lLXlOlhfMfhPocSRMZHvjLxOAf4YCRQ0hT4q1sYwq70yBw7DD7La0X_tXNcNg3vhhBba-vWfMkiKsjId4VT6DLJLCqJCm7QocMCEAQm7a1Tyq3EmJUVKNA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 4342,
+    "coordinates": {
+      "lat": 36.1438638,
+      "lng": -115.21911739999999
+    },
+    "features": [
+      "italian_restaurant",
+      "steak_house",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJq_Ec3lXByIARZ-DQhcoYYaA",
+    "opening_hours": [
+      "Monday: 4:00 – 10:30 PM",
+      "Tuesday: 4:00 – 10:30 PM",
+      "Wednesday: 4:00 – 10:30 PM",
+      "Thursday: 4:00 – 10:30 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11556545376916922471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Barbershop Cuts & Cocktails",
+    "address": "Boulevard Tower, 3708 Las Vegas Blvd S Level 1, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Unique stop with a front barbershop & swanky back cocktail lounge offering live music & cocktails.",
+    "website": "https://thebarbershoplv.com/",
+    "phone": "(702) 698-7434",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGcegKjfFyIARWifww9PBiH4/photos/AWn5SU4zpfvDF4Hn5dwBEWeLSOaEfBwSLXBWQEBOnNrSh3xZbnroMunX6EW7IkmnFQwBRSi9ncOgSdtaXR6AUMjVBI70-RXAcGaeytzd0ij5FSp7hGBZOFkoK09R6XBH65PMCIsyGlJx9yN_RQksHxDrponIK8EuOglaRm2TT18YEVfA8saH1316IFQJRqrN0AE80FWlAxY3v-7xLuj2hN2AtMT0dja_nWd-jQrXIiJ2GGnq9ONvVa9jKs9AlGyvKoSvz0kDLL2DOAEcvamAOzAx8c_obJNT8M9Is2hP9DkdCOjKkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 860,
+    "coordinates": {
+      "lat": 36.1101872,
+      "lng": -115.1734888
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGcegKjfFyIARWifww9PBiH4",
+    "opening_hours": [
+      "Monday: 10:00 AM – 2:00 AM",
+      "Tuesday: 10:00 AM – 2:00 AM",
+      "Wednesday: 10:00 AM – 2:00 AM",
+      "Thursday: 10:00 AM – 2:00 AM",
+      "Friday: 10:00 AM – 2:00 AM",
+      "Saturday: 10:00 AM – 2:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9117750560881125210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Peppermill and Fireside Lounge",
+    "address": "2985 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Neon-lit lounge with romantic booths, fruity cocktails, elegant servers & flaming reflection pool.",
+    "website": "http://peppermilllasvegas.com/",
+    "phone": "(702) 735-4177",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo2QZEG3EyIARuHyQ4XC29RY/photos/AWn5SU4xhPVRy_N9rvqikL5ipw4S7oAJB0vxxYNCTCjXNM7Tv7SCrapTDIm81_GVdo27mpgAjsUcOiQu91Mp1cTb3OtYEZ29X73dvQVmpwNReoSv6CEU0P6Do38_R1GzXFX45Gya4FfTGBDa-6R7zdewX4lCatmgeMe9plm6oMep3j31VFMOR6Asc-Wj_aFER9qp1GomCH-7_UgHJdfHYDn9PtsfrKUUW_ddFg2bGsWFbhXUxbZIUJpx0ffsZwafx8Ltj7QM8cA2FM96tH0tJPO-rfGbllVKC6rYhEywwz6da3FUnSVpHKKzmW_lPMbYr-zXGscK5tQ5s-QBheGr88avG3C1XsGp2eaGEx1pUEwkZAzUgeHkcEm28n7eOmE3e0X_5qtPkn5yuKa8LofzweLiBrL3EfdnV9eNpMh0ih7SgYHFB-PE6bdD3gjud53Mcjvg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 19146,
+    "coordinates": {
+      "lat": 36.1336884,
+      "lng": -115.16328329999999
+    },
+    "features": [
+      "american_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJo2QZEG3EyIARuHyQ4XC29RY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 AM",
+      "Tuesday: 7:00 AM – 2:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1654429034065460408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "BOA Steakhouse Las Vegas",
+    "address": "3327 S Las Vegas Blvd Unit 2900 Floor 2, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.boasteak.com/",
+    "phone": "(702) 997-5050",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLTmkflrFyIARsjxPmn3ldPs/photos/AWn5SU6_9212eis88cOf6ITU4SIM1xVoZJj2msiyl7U1MaBVQCo5M2-9XCm3G6Gmq6WwY7DAkWlaoFR89n3MfNbI2OS3LbD5rJT0JRgegPNxNGeuMlBqHItN27MThPU8_PkPjet6UEjn5G9ytmclk_RX7GC0w1oBtkWgng5SIarS8mLOQNfrNejRWHgDkATqzHzvmnYRean2s4z4demhCIHqySYkpFNkaEmd5jR1lqyTYz6aC6lcjEXkCH9yKPaM5YHpbNVt5X7vdustxIGndynptYvitXU4YT1qB1vELqHAFhrklg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 251,
+    "coordinates": {
+      "lat": 36.124615899999995,
+      "lng": -115.1680312
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJLTmkflrFyIARsjxPmn3ldPs",
+    "opening_hours": [
+      "Monday: 5:00 – 10:30 PM",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 5:00 – 11:30 PM",
+      "Saturday: 5:00 – 11:30 PM",
+      "Sunday: 5:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18119359528440904882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tipsy Robot at the Venetian",
+    "address": "3377 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.thetipsyrobot.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjRhpM2XFyIARm7TZhUNfrYw/photos/AWn5SU4nhnQuFQkRDTooW140snDU7gP5LmE6s3SwtiQP_P-RWfUvimqT2Qw7QL1POBGTvgAl-PaQZ4v1YX7LK3acIFIhoKA6YvC--A4xLhpZqMTGwEU-mlyC73aPEwAXGhtKQ5do4i_AJectNVkmfOh-8AT0F8dwy6TRVX6O2n1-bhk5Ke5vFu3EAqgBxTq9OdpW18FuXEHnTXbPSwoyiSralyZRBlvgc9ZeE7Thit1Wi-0mJF8kpXnJyrp-pUQaq-2b1i6pBKyc24ZqTpf81T_xwROF3jkS_GPp5D6WmAfJek1eRA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 452,
+    "coordinates": {
+      "lat": 36.1214874,
+      "lng": -115.16929379999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjRhpM2XFyIARm7TZhUNfrYw",
+    "opening_hours": [
+      "Monday: 10:00 AM – 12:00 AM",
+      "Tuesday: 10:00 AM – 12:00 AM",
+      "Wednesday: 10:00 AM – 12:00 AM",
+      "Thursday: 10:00 AM – 12:00 AM",
+      "Friday: 10:00 AM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10136863079893939355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Chéri Rooftop",
+    "address": "3655 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$",
+    "website": "https://www.cherirooftop.com/",
+    "phone": "(702) 776-7777",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ0wfNF_FyIAR-4PaaNAbvmE/photos/AWn5SU6N3PpmeUMrqJ_LkMeENJJW6bUL7ljUuA9KoZnTlr5nUxiEHOHI-vNWTAqQGkWIHPcAjFdtVYv2C8BDrHn5RcUthNM3khu-BEYgw9D66o7CoMy0e4GXFIs8CRWLeWU1I6vd5Z195iLq1hM0RsxvaaQQHclzrw6q3KPdpvQAZvJpsxcPRvvN2HQlCW5Obd4CUggcrKYKFpUkLP0zq2wKQxUyx3XZLnYitZ5DtfdZOoa648mY6Nj2v-Aw-xSjhmbCpmEFDoJQ4KBVn4MEdymwVpxJDcWQ_gl20u0-PUg0K5m5rw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 575,
+    "coordinates": {
+      "lat": 36.112444800000006,
+      "lng": -115.17139979999997
+    },
+    "features": [
+      "french_restaurant",
+      "brunch_restaurant",
+      "wine_bar",
+      "dessert_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZ0wfNF_FyIAR-4PaaNAbvmE",
+    "opening_hours": [
+      "Monday: 8:30 AM – 10:00 PM",
+      "Tuesday: 8:30 AM – 2:45 PM",
+      "Wednesday: 8:30 AM – 2:45 PM",
+      "Thursday: 8:30 AM – 10:00 PM",
+      "Friday: 8:30 AM – 10:00 PM",
+      "Saturday: 8:30 AM – 10:00 PM",
+      "Sunday: 8:30 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7043097449180333051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Beer Park",
+    "address": "3655 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Glassed-in rooftop grill serving beer-based eats at communal tables with TV sports, views & DJs.",
+    "website": "https://www.beerpark.com/",
+    "phone": "(702) 444-4500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs1yeazrEyIARlcNDYn0FlRM/photos/AWn5SU5MTlWXX29oum7rbi7FezPgauxAkyGtCv9voENSpLGGmldqIqeep1PLgr9WJEvgpPs1wJgZ2yne0XrhgMiNdF5MpFUIhJ2543igvCReGWWNKve-B_hEMyDKh8K7tC8sZr--DAywZxMEHwFbWOmJxsIC4vxt7ADoRHZeTBA8XvUU_0fo_pEzDGDoIvBZSQy6oFMaKNyVU0xi1FB7vK1B0oyScXvA6o8C7c3yHjHsOX-vhMSako0mFeGPTcFsArILPg6asV1pshF8eO2IpUxg_FOcO_Tv13DJH_cUmv3nh3bzjA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 3939,
+    "coordinates": {
+      "lat": 36.1119264,
+      "lng": -115.1725994
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs1yeazrEyIARlcNDYn0FlRM",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 9:00 AM – 1:00 AM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1411040094328177557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ole Red Las Vegas",
+    "address": "3627 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://olered.com/lasvegas/",
+    "phone": "(725) 303-1818",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo_AtGDrEyIARR1fWcbeTQe0/photos/AWn5SU5s7CD0pxONG-JY259Zl0XC8KycgYY7-m031jbzQT8TgjMUMn2_Jex0r-VPjsXPpXT_J3byOrEn9B3h1_WeAgngUYTvyAkn0Hy_sWS9Sojozvgor1gyd-CHY5ZfrHgryqWbY_qgRlXXHN9UrG3h67qqlAc4aCvkFDBfROH9DI4JOBHlW6c8sV3Ll_EUedrehZjjf2Tn4-U9CxxKNFSYxh7W-2GKRZ7vXFOEWOfLCIbYgcsYfPrzC2p5u3lgpmCV91YS5NwQCCYx0MiPaNTFRdODQVgPXXlRygfwm2Da4uTZDA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 7978,
+    "coordinates": {
+      "lat": 36.1142481,
+      "lng": -115.17249129999998
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJo_AtGDrEyIARR1fWcbeTQe0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 4:00 AM",
+      "Friday: 11:00 AM – 4:00 AM",
+      "Saturday: 10:00 AM – 4:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17096108076573284167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Top of the World",
+    "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Rotating New American restaurant on the 106th floor of Stratosphere Tower offering panoramic vistas.",
+    "website": "https://www.thestrat.com/restaurants/top-of-the-world?utm_source=gmb&utm_medium=yext",
+    "phone": "(702) 380-7711",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEbZyKojDyIARhuyL6Pr0OJs/photos/AWn5SU5tXIcSHz5Y1zuM5qamASqLSBZDD5aRHVnFUJ3306ZyJhUM3JV_WhTvJQNN0U85MdKxLsnp8Mpll6pBcsCJhn46vdt6FQ2WxEi97sUC4dVKyMcRQpCbJflwNMjgxTsBP7jAfWNkznvaEDafI1CY_WPzFy5G3kKB0REMQse-f8udf6j_H5yfrebL5HjyJzOBSvUrjiEDDQH1z4puAUsR12c9SdAQb-OTxCRNucQ-D4T3ub1c_cTv46DdGGxoeoS3w6DY-S2NqHHPxaiHUtUML9H_erx-pxSMGfBiyqKnKYf7lg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 7186,
+    "coordinates": {
+      "lat": 36.1474451,
+      "lng": -115.15568859999999
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEbZyKojDyIARhuyL6Pr0OJs",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11184959033055112326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Yard House",
+    "address": "3545 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "vegetarian",
+    "price_range": "$$",
+    "description": "High-end sports-bar chain with a huge menu of New American fare & an extensive list of draft beers.",
+    "website": "https://www.yardhouse.com/locations/nv/las-vegas/las-vegas-the-linq/8353?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:las-vegas-nv-8353_pl:locurl_rd:1050",
+    "phone": "(702) 597-0434",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsfmGjDvEyIARoMpbryeF0Gw/photos/AWn5SU7wdQ1EUgPpfzDivt3Dkxxyjr_2IyymGaJ3xdXwsuygUuwUWkRleYziD77pRllOHOQkZOY6dg7xSZBe_v638q45p5MAvoyYGjSTWEFKbLRrvZ5tPvCfiHL01pmpJPqv4gjfXQ_LWFkIVazXGZ0Sqi74bSQ73dXLgfEHjv8BD2YYepAMAXnKuhpnJMLmALoOT8AI2YYHo26mUksfVVCCt8o0tQ-Nfhx9x_kf7emDrqV-Fsaxm_QgyMhG6YwU9tD_ZIB-A-uoQHoBcsJNObNrDvVtiuKtMG-Ofrak4jwxcqyPL1yeJsR8RCMxNPQy7BAjM9xctUArEcsOm1LnYbtT6rmgr7z4smqlN0wK4h4uR93PNfNkKxMJvfg0I4LY5FmPF1XLN1dZnSvNOiAUO-i0UAbMpaPvwVfJYMDrrSY1aTZ55Xx1CXNHxjyWZL5L0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 6700,
+    "coordinates": {
+      "lat": 36.1178004,
+      "lng": -115.16888579999998
+    },
+    "features": [
+      "bar_and_grill",
+      "vegetarian_restaurant",
+      "meal_takeaway",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsfmGjDvEyIARoMpbryeF0Gw",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7840913356744280736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Raised By Wolves",
+    "address": "Upstairs (2nd floor, 450 Fremont St Suite 251, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://instagram.com/raisedbywolveslv",
+    "phone": "(725) 726-8256",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPdB1rm3DyIAR_JyOi72zyo4/photos/AWn5SU4IPti1hoTeDvVu62KtlOPiWCgnz8KWIleuLdhE9aO2TBf4YCMwqCSUwgIv93E25EiaP3fBibZkNDgBGWkfKvS4FVQ8CdTUGhqSLJ5Sr_z0Udoczn_UFdRCd8sMNQgCPn_LqN6HJNaRmsaDHoGSvL-vSiUNWQBB6ujdqCP4aBbRJ-0_MnZzMnr3CTo8qaTPsI9MoWh5g8Qs7u_2cEUgdDIwd-J7BFR47cDj_J1DvgZY5ZJcbH8W0ZHGBh_Nbq3ayGrN9yq_q1zEUHcuhbGwUqr-iWU4jhUiRYzHS8q7aEYhf1fdDuCjPn5hPYq6MOAHJrweps-A4dVLaG9HAqdO7aYALo9Yr78F-vFMn6mOkgwQBYHQgQpgxeehNBGn4QrMZz8RZbxnq7ulngHpjDnG-DawP3Z2A6FwLLImnw2BPUiyyoiEfPlFYjs8l186vd02/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 484,
+    "coordinates": {
+      "lat": 36.1701761,
+      "lng": -115.1404649
+    },
+    "features": [
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJPdB1rm3DyIAR_JyOi72zyo4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 7:00 PM – 4:00 AM",
+      "Thursday: 7:00 PM – 4:00 AM",
+      "Friday: 7:00 PM – 4:00 AM",
+      "Saturday: 7:00 PM – 4:00 AM",
+      "Sunday: 7:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10289233925352889596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Garagiste Wine Room I Merchant",
+    "address": "197 E California Ave #140, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.garagistelv.com/",
+    "phone": "(702) 954-3658",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3YCPrHTDyIARHHygyjXv9fM/photos/AWn5SU7Qk80mEiKNOQlz6k-dTYWK2ANCysdaqal5iWrTd2lcVYNm6R6aN4sxQHUIufeLrOtEeMAX6utY6QR9tmq9oVDS5EfkMm78vCBpmd_T4fAetPsxl0dwC0fIaFPu4wnu5ngMNoE0KyjXLMJKgFAisCj2u8uCwMcPQSKBxzU030b3j__4UXn_kNBQsWKT0x9TKUQqD6ug5aWaQxQYAUR12Was91CvBM_M4FYt2l6B9URuMCYBV5kw8V1PWfymu0nYrFgOYi0YnNKo60CtYTTvVgcDEYnSGjdFHdQ-Uo8oM99-4pcAYxOptY_LPXNmPBw-pGaTT3fTphn17HLqBK6OdyK0j2XNiErKQaqZviJ9fODBKg_G33FwcEkbABR8p12MRJSoaAAK23Ut3OVozYjD-GWG4ChlchljZb8MXd-J9Z-mNw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 172,
+    "coordinates": {
+      "lat": 36.157204,
+      "lng": -115.1525892
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ3YCPrHTDyIARHHygyjXv9fM",
+    "opening_hours": [
+      "Monday: 3:00 – 10:00 PM",
+      "Tuesday: 3:00 – 10:00 PM",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 3:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17579219734822419484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Cave Wine and Food Hideaway",
+    "address": "3131 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Quiet, intimate retreat at the Wynn offering modern American small plates & a massive wine list.",
+    "website": "https://www.wynnlasvegas.com/dining/casual-dining/la-cave",
+    "phone": "(702) 770-7375",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu3RLkhTEyIARWN0_WTFUBxo/photos/AWn5SU7bHLZGDqQ_9ZUgAACqVw0VIBCovbhMF1HmntZ3i9Imwg3BY1wpRGMjI8vXSy_L6V2F_2ssr7bgVa7clUIjF-JK85XdiEKNi-vmrNDsvzjulm1XexOwFB_I08hJwq9WpE7s9mVAH8Qz43dN5r_Fwj1DRJDW41IN6eU_qkD8gB-xT2NHvFL1zu5c5BEYBd_cDFuPlIQp4JrdOiuvC29yMdkNqAEIbXgpnpeZbePIQgN_t-_2sqkHLerp-FikuoCqPuS-H9BVrQX9iYCAar-z9luiBCadx_Xgla7jMTu8NcxUlwedXhjWr4QYJltOhMldeFvY-cx6Zc6QY49qfNf_AEkbvHn363aBjzEWyqKjHW12VLSK6Vf67sfyM_XZyeCj5ImPFrewZ4AUIzQS55Efo0dS2tvzgiQduzbbM9jDEQtGdQyQiCYo-bluF-xSGw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 593,
+    "coordinates": {
+      "lat": 36.1263061,
+      "lng": -115.164785
+    },
+    "features": [
+      "american_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJu3RLkhTEyIARWN0_WTFUBxo",
+    "opening_hours": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1875560340750589272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mon Ami Gabi",
+    "address": "3655 S Las Vegas Blvd South, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": "Charming French bistro highlighting classics such as steak frites & onion soup, plus wine.",
+    "website": "https://www.monamigabi.com/las-vegas/?utm_source=google&utm_medium=social&utm_campaign=MAGLV-GBiz",
+    "phone": "(702) 944-4224",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3WIuWzfEyIAR3Cng9xOjScI/photos/AWn5SU5DtvA1K3URpZKY2tul9TCx4v9PZc4lfRlUt_8tcGuDE-RdT7iUE3p93yxpmIVUfDiDIoBK0gm-NuQRS-OzhCDrJZJNXtx4qRgC1lwn1C_FAqGSf0a2rfnwyXjGR8u6Or39GOVxsavRrrtZjcCTtaoIXMxIdDKNBRmCb6XcfILjKDauCiDfPFq1nq0JGOUI8c-dPYP_9vekr6pD3KN8DAttavvTA4DoRCWrFMCmhgXbnsFNrNxosHeMj05rESu1qLWojvsnQLnJxK4nIImaoUDdnMlfWeChf668oMZIntIQvA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 25589,
+    "coordinates": {
+      "lat": 36.1128631,
+      "lng": -115.1724846
+    },
+    "features": [
+      "french_restaurant",
+      "steak_house",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ3WIuWzfEyIAR3Cng9xOjScI",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13999900222816266716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Double Helix Wine & Whiskey Lounge",
+    "address": "6599 S Las Vegas Blvd #150B, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Warm bar & eatery offering a large whiskey & wine menu & American bites in roomy digs with a patio.",
+    "website": "http://www.doublehelixwine.com/",
+    "phone": "(702) 473-5415",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiwV3rBXEyIARbZ_yQJsTEZw/photos/AWn5SU4b0DECutmvWmQ0947RJGA7gdW8Kt7RuVvv-KxLa4kZB7hRm5beXex9wp58PjKzQHgQQcdqzQkn2sGiLZjMqa6c2zOcw6nznbosOTiNLqCDT1P38A-ytyKlp4XP7jarSHW-SZsu13KvXJoVELo2PHOaBT0_6BhbTGJ1G3zQ6n28TuclOdvLq__putwwvKD4m8bhntAEuwql_u1aFLgJmuV1V_Ju_pc2FDZl2VjIvEGlQH0dUj02-i_UupwnzzZmW0JKItNnxrSGLPsTIKVp_48ym8-0f_p67cvruPNr13fzgAStvrlP5UNL4DFvNOz1oh38Px-Zfdqa9FLNJ61SCRPH1QhzceOuA0sLCN-lgJPEbogK9Vi0OqeCwHwmltodVjwF4Wmi8D0szxSnVx44gEJWtG60lcK11_8g85SSpGlAG88/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 646,
+    "coordinates": {
+      "lat": 36.068134199999996,
+      "lng": -115.1777571
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJiwV3rBXEyIARbZ_yQJsTEZw",
+    "opening_hours": [
+      "Monday: 3:30 – 11:30 PM",
+      "Tuesday: 3:30 – 11:30 PM",
+      "Wednesday: 3:30 – 11:30 PM",
+      "Thursday: 3:30 – 11:30 PM",
+      "Friday: 3:30 PM – 12:30 AM",
+      "Saturday: 3:30 PM – 12:30 AM",
+      "Sunday: 3:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11245791302051340141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ada's Food + Wine",
+    "address": "410 S Rampart Blvd #120, Las Vegas, NV 89145, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.adaslv.com/",
+    "phone": "(702) 462-2795",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDd1i1jy_yIARyc1W_6x-_HA/photos/AWn5SU52nNczQhE3jbaNIULEAfcLnCoWPvgBuYK6spyyU2yNFwOQWkA5xmrxizH-WuW4EpsNHeKGOkPKu9OfvI5hAY5nxvdNRkj2iS8cxtVAUFAOjtMHUi5vA8xpoKlI08UcXVfn7A7Dn-Pg9XLimtSu1MWIST9nMNbLZNuezl2SMfU1Xz0ie746tploQNIwSE0lDpc9nYOvgEXdb8NlSc6vfb6pEQ5M84yzanUGA57WZfJaoq6tM9LTNLRqk2LDzLs8swHIGMF-L3zAt6epD7PqMy4msfosrt-5w7jYW3CAid5zPA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 362,
+    "coordinates": {
+      "lat": 36.1675038,
+      "lng": -115.28598009999999
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJDd1i1jy_yIARyc1W_6x-_HA",
+    "opening_hours": [
+      "Monday: 2:00 – 9:00 PM",
+      "Tuesday: 2:00 – 9:00 PM",
+      "Wednesday: 2:00 – 9:00 PM",
+      "Thursday: 2:00 – 9:00 PM",
+      "Friday: 2:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8141521507862367689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Marché Bacchus",
+    "address": "2620 Regatta Dr, Las Vegas, NV 89128, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": "Upscale French bistro offering classic and contemporary dishes, plus an outdoor patio with lake views.",
+    "website": "http://www.marchebacchus.com/",
+    "phone": "(702) 804-8008",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_XM_jKbqyIAR8Xf6da1J1w4/photos/AWn5SU49WRSokanmocFaiYeMS1VMTD4rc181Z38gjFYVVGRFl-IyIJ-8TojCpDFx2d1WKTNNCaA4X-SLqqC7jOi6Cq-dk3TEt0jww7m13CyTHnCdZMQN4ZElF8SE0gvFCU1vsYZFjfrlIth3YVgGDPT3Ey3R7ZDgJRB51NkDCpUMIRHaVl4gEjoPKlDtyNxc2_kZ1iBBrangFOUAEDDnuEUC5WOo4ncYCyt3XE8i1MrYQM_tAgeeDU6hvEdSrUPkkf0mAMojYpspuFj3-Gx1G-8FMN2SITrQZqYfP30usdhIBXyc3A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1545,
+    "coordinates": {
+      "lat": 36.2078223,
+      "lng": -115.2683509
+    },
+    "features": [
+      "french_restaurant",
+      "wine_bar",
+      "liquor_store",
+      "wedding_venue",
+      "event_venue",
+      "bar",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ_XM_jKbqyIAR8Xf6da1J1w4",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1069404445881300977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bazaar Meat",
+    "address": "3325 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$$$",
+    "description": "Sleek, modern steakhouse featuring innovative cuisine presented with theatrical flair from chef José Andrés.\n",
+    "website": "https://www.thebazaar.com/location/las-vegas/",
+    "phone": "(702) 607-6328",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhRNrv3bEyIARSvjsVxxaUgM/photos/AWn5SU4XIjRQeQ7sDfv0pMKx9ySIN3VeuJpde_XVHikSAEVpU4skv8b4Lirc6kaJH-u-iZhdAZdJCS8MXq-S_20Q1ewxa_-3QPsGSMzMSdLBcNjECnKX9wIbSIsf4OxQ5VAjBnCKiFp-d98dfui3aGmEamz0AldpNrZ5OVOVdEBD9KU1lMzgDyLpFWtGg7Ec0UMn0exGV6E4wFbm4oEVscAgPoVLVgWBZBDMtcSAPvHcwLDXO24TKlcd5qnpzMFTS30r571WfUJkq8DlCzG1O6Rsffi03UhkF6I_pXQBBhmC8_djJA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2884,
+    "coordinates": {
+      "lat": 36.1244964,
+      "lng": -115.16934649999999
+    },
+    "features": [
+      "steak_house",
+      "wine_bar",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJhRNrv3bEyIARSvjsVxxaUgM",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=239352807984789578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bin 702",
+    "address": "707 E Fremont St UNIT 1220, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Beer & wine pair with cheese, charcuterie & sandwiches in chill digs set inside shipping containers.",
+    "website": "http://www.bin702.com/",
+    "phone": "(702) 826-2702",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ273AynXDyIARlDNDXRpc54Y/photos/AWn5SU6jW3kgrcWgvdYTD3e9VXMGUauo3arOz2Njkkpl4xmPMC6Pr3omCCLSLPQ3bBZ1I1_8mRArS5TubTtaSyROhUpW_RgJuBwRN_jFH4n914KHLLdm_64POd0KMFGI3_9RqgGnMwJebBVYuVRExef87CddX3RyqmO3NeNK_I331grY_oPFjDTGXz-YpXMLScfxdTHxm5YLJD7nt4riVwdW9GnQrDT63g9GkbU9jEHu0iQ25SOpUbRUUQbY_czKucNvuL-q3Aw6vraAc8uZwTyMuzwml7DwUYVMaTJwDyjJbR2MqA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 561,
+    "coordinates": {
+      "lat": 36.1674923,
+      "lng": -115.13874149999998
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ273AynXDyIARlDNDXRpc54Y",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9720839589006095252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Maxan Jazz",
+    "address": "4130 S Decatur Blvd, Las Vegas, NV 89103, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.maxanjazz.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15080256756123489362",
+    "phone": "(702) 485-3926",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg0F3AqbHyIARc2viKSXav8g/photos/AWn5SU4o6F8l5yyTe39PnCgizzVyBGxZi7EdYjxyhGExMYnA6__cmna0YVBHOBHu7cTVTudwdNcRbVATmUs9IgTS8nNA1C8OsCpMGT90BqmBhqaGTyiT6kwmAcUnDUz1Fr5ywRfaj1sB96J0zsamqQnTk7Lg9KpQlTEkLEgPobPQQXe6WnzIk07SFkw-cxvpxOB6XvNpdPtUgv9MQR0GP0eIOg_nRe5n-1a0HPHApoqBJ9hg9c7zN2WCf239DUC101kiltGtgrnAHmSeyiQoKEea4tjMNIz3r0zK4V-Fe4v2WaU6xywVsS7JIRE_Is2tjvjOItS37vUj6wg-WySV48-CE8D5iXpis1CjjwfuJIFyZ1llTXIaG8uF829kZzna0u5dUBVY0y4RGudkUP8i5FQlcSEb99kg9Rt__HW49gJ7WFL1Aw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 222,
+    "coordinates": {
+      "lat": 36.1145299,
+      "lng": -115.2076737
+    },
+    "features": [
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg0F3AqbHyIARc2viKSXav8g",
+    "opening_hours": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14465520381288672115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Myron's at The Smith Center",
+    "address": "361 W Symphony Park Ave, Las Vegas, NV 89106, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Stylish, 240-seat music venue showcasing cabaret-style jazz performances, plus a bar & tapas menu.",
+    "website": "https://thesmithcenter.com/tickets/myron-s/",
+    "phone": "(702) 749-2000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJr7UtELzDyIARRhUpHApKijg/photos/AWn5SU4fbvM9bLYn1-8shdkwIigARzlVVcdXHnfnzqS-9Wz4u2ysbLIOXcULS3Gm3VDlTW8oRcsBXAHmOn1qJN-a_9W6DRB4TxAblfh1t2fKcbPH1GaYt8hDZ0WFNm2k8nQa0bI-3sPKWVQFkwrhfWr2tFzv41lsfIuIsGMdTpA3OtqrpxY_b7ivmtRWH615e38QL3_HfEktlQLrY8Tu_ieAbRSJnT1x5caURgHrs2ZDLkSnnFwJd4083D9eJkGW4uquOHmrPbwJgeX7NjxAOd3BEnP38fzGN8iwwu9yEC_JK0SSKQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 104,
+    "coordinates": {
+      "lat": 36.1693267,
+      "lng": -115.1523818
+    },
+    "features": [
+      "performing_arts_theater",
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJr7UtELzDyIARRhUpHApKijg",
+    "google_maps_url": "https://maps.google.com/?cid=4074150220192617798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dispensary Lounge",
+    "address": "2451 E Tropicana Ave, Las Vegas, NV 89121, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "hamburger",
+    "price_range": "$",
+    "description": "Acclaimed dive bar featuring live jazz, standard gaming & jumbo burgers in laid-back quarters.",
+    "website": "http://www.thedispensarylounge.com/",
+    "phone": "(702) 458-6343",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWfQwABbFyIARuYTHp6OAzjE/photos/AWn5SU62IOSCrLue0n1jaU5KgbdOtDKEGLOvqyweJ4d43_-npFY7d-MMRFlOOlQgK49-x7tOMn58wF4zEZqwJ6UUczEWak3XINGBYB-ShHeb1-uTEEJkAH5AssMzcaKdHp7khdWNPt8PPYGt0wvCTachyA8JTBWUt4pfIIAhQDgatkpXOFhlcR0iqO16xb4KI8G7H8rYEHbik97N_kfMQ1Kq8XrcAwbBrlPNk3StlLJRKmIaEELlvcoMabQneNqIpcngw4k2fRGnsysO1dlYI_Vy_ef8x9t3SUNbkrMwHy9aJSIJ3w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 651,
+    "coordinates": {
+      "lat": 36.0996111,
+      "lng": -115.1176978
+    },
+    "features": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "event_venue",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJWfQwABbFyIARuYTHp6OAzjE",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3588947393443759289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "House of Blues Las Vegas",
+    "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Rock- & blues-themed restaurant & bar serving Southern-inspired dishes, plus live music.",
+    "website": "https://lasvegas.houseofblues.com/?utm_source=GMBlisting&utm_medium=organic",
+    "phone": "(702) 632-7607",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYUKC-8_FyIARI5zujBtRmD4/photos/AWn5SU52EVn7NqHEl9npCQ8gM-dOpcFDW1XXou4j6tWdP-2zux4GnVL9BPeKULtBx3j_b0J8jYvl74z7nRYf_CAPySiQlFluDc67JE1R3PzxYRcAKV52ISRqNLCLd_mW8IHKpIRHmjncJKUOVsnvw5NTLzWTQdiBaZ1rg_Gf3-dyVLsKG8zNbALv6aJzGhnDiUdH273fm9sBeqFKuHhHaK0o3Pd1EoRwq7NYHK1-gKa2dCM0_ztk13FDz2oEKcUJmYociXh3IEo9lPv06JGgH6EHoytHcDgch9Yc4ZSXE7Q_ee67iA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 6547,
+    "coordinates": {
+      "lat": 36.093044,
+      "lng": -115.17556400000001
+    },
+    "features": [
+      "concert_hall",
+      "auditorium",
+      "banquet_hall",
+      "wedding_venue",
+      "event_venue",
+      "store",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJYUKC-8_FyIARI5zujBtRmD4",
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4510444205581966371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vic's",
+    "address": "355 Promenade Pl, Las Vegas, NV 89106, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://vicslasvegas.com/",
+    "phone": "(725) 755-5299",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3f8u4hvDyIARvQ8Yz7vvufQ/photos/AWn5SU4_wAPQcQRkijAGbc__p6aZcRr47z3Lxl333QXagn-uzChDCIrD-nY51MX-UhhSLjExxdLGPIoxhEcR4CkIomfHzEl1JqbAl_m1au0ia_Hyth_V27rN3SUQy2d5h1qyD6lKreyrgTuoBQVcFN1l9VfEoVMRBKDOglMylb7my50KCSUYeeXXkotqk6jQnL0jeVv_a6FRUZPZ5sUyg69R1Q9L2IF6ZAJLlsMBqFJiMlkTfZhfK8ccEFbQlbhWDDgSY1FM-EScBKOocDyFf9eQqMs6idaTCiokgW5nF2xm001I87ikEThwx05yIT_-dQP0bNw54D2_uMXxVHNniBWtuk-o2YlhtMuYDSASZs7_rUpefOJm4HF3Tzdh_y6p-coE5YihSTpNH4zA4TxZ16S4bvricbWOvVPPjWeRMgGa3hw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 389,
+    "coordinates": {
+      "lat": 36.1685152,
+      "lng": -115.15347949999999
+    },
+    "features": [
+      "restaurant",
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ3f8u4hvDyIARvQ8Yz7vvufQ",
+    "opening_hours": [
+      "Monday: 10:00 AM – 1:00 AM",
+      "Tuesday: 10:00 AM – 1:00 AM",
+      "Wednesday: 10:00 AM – 1:00 AM",
+      "Thursday: 10:00 AM – 1:00 AM",
+      "Friday: 10:00 AM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17634389405858271165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Don't Tell Mama",
+    "address": "450 Fremont St Suite 167, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Cozy lounge featuring singing servers & live piano accompaniment for open-mike opportunities.",
+    "phone": "(702) 207-0788",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy066dHXDyIARGIyjeM9u9CE/photos/AWn5SU4lDoWL8QqGFkyXL0fycPW1SMl4tDn-7ENEXyIi8OJ7An0zR-XDmkLeOVgnBBbB7gXE-jysSv4PF4KzfFaJI1gfgi4grXdoVG-FenD0UiG1RTKFjZ7LICmGbWpqs4mmIo3lzMnCXV6-iponGiXvHTJR01U6ae4zTREbtVNvp2jwgUaRhyOzgjfcb5exIT44OthsIpA2GIgaSvhcrxIfZgwPn943Un_ieU6SXE9lVb6wN20rv0_r4FFs_nDog98tB428ofyOUkKh3lv6sR2SSQUBHNjoemMeIyryDD2yyWYmNQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 554,
+    "coordinates": {
+      "lat": 36.1701761,
+      "lng": -115.1404649
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy066dHXDyIARGIyjeM9u9CE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 PM – 2:30 AM",
+      "Wednesday: 8:00 PM – 2:30 AM",
+      "Thursday: 8:00 PM – 2:30 AM",
+      "Friday: 8:00 PM – 3:30 AM",
+      "Saturday: 8:00 PM – 3:30 AM",
+      "Sunday: 8:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2446702334930291736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Echo - Taste & Sound",
+    "address": "1301 S Main St ste 160, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://echotastesound.com/",
+    "phone": "(702) 268-7466",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkVju2MLDyIARFFpUvMLRzF0/photos/AWn5SU7CjMOzj5g59MOMctRuZUGHJdNX2xkt_qcuM1FTKayuXGePsO9KXpEh7SYY26GGOOmiePRKmGjBrFgdWS5R1dpyqRGzxm5zRCjlkjleBYlY_kpUDio7ASd_JvqEbG4TrSOIPvaaQkV5IqM0LVAjFgmOE8oZay8Bj1ED-MzUrZjozLZ30XfoJ0NVk6sYQh43vTqf7MFKMLKW9MAyG2WskeYtXx-UkW1rSVYYt0QfH4HqcPR6lvPMdydNkU99zaqByGuhd8yJo4aqBcPUAhJ03lMLe-bfJUYEkX3Wv58z77ML5Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 153,
+    "coordinates": {
+      "lat": 36.1558176,
+      "lng": -115.15361329999999
+    },
+    "features": [
+      "brunch_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJkVju2MLDyIARFFpUvMLRzF0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 10:00 AM – 2:30 PM, 5:00 PM – 12:00 AM",
+      "Saturday: 10:00 AM – 2:30 PM, 5:00 PM – 12:00 AM",
+      "Sunday: 10:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6759007775089777172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Piazza Lounge",
+    "address": "255 E Flamingo Rd, Las Vegas, NV 89169, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.tuscanylv.com/",
+    "phone": "(702) 893-8933",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_WKk0EjEyIARsX1B_3rbTYU/photos/AWn5SU62yrl-svoxgnaGFFvmlf4fTYHr14lQLzEJ-X-zFzpTndPA4MIVAfr_e92R4ddpLWraAzv2VzKVSgttrS_nXfbN3jxCVwcguRv5UXT6TUxThbwkeQHfogUhtQNqhzsC9AhEEOhVZu6SpLL7OwCNmKYwBmBm6x3_V5mV727K5xxOqwxt1-UAONr5jal8_Fkr3844OHbg35DlhIKtxwOMxYK8cJBIqRpPijahTZHCjKZJGZiW7ifcegxrTedOZnB_-quf08g5rMP0zxP3ZUpiHYAsp6AdxIyKVSKpaUjeCYcECF3ZUp6rtDQuolMVkRG-CEXeZZgFBM-aWmEXZ2c9cWU5L81viqsfwta_kFPY_cmkxP2SbBGQOGxA8Xg6SG1d7LvxvqRqiSBmMeb2n0QF8bBZbHZW1b4LRdlxA1mAqBGGZeyLIiW8aluIUlrWJabS/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 105,
+    "coordinates": {
+      "lat": 36.113384599999996,
+      "lng": -115.16064399999999
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_WKk0EjEyIARsX1B_3rbTYU",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9605574901566111153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Casa",
+    "address": "430 S Rampart Blvd, Las Vegas, NV 89145, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Casual lounge offering a range of cigars, cocktails & beers, plus live music & a patio.",
+    "website": "http://lacasacigars.com/",
+    "phone": "(702) 407-1171",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKVtFqYe_yIARSDh-PF7rLBU/photos/AWn5SU6IVis7FmQxiQW1w3GUYAOZ4auMF1n_KQBefI_DIEDnnNsfltA_1nEFtUUE2SQz7S9SCMdXMHDRPurMmxUMN5RyisXcsoBaK7isA3L1_E6V1eugYFUMMqe-bAevg0RkyM2JAlGM9HKG1X1uCwRFQEW_5PzITbPw2xC1aQ5J9Jk_Bo93Bj2MjeK0u48BUPXMOxxNN7MRWwVzz9HYHEwyhSmgutYj69ztzJbHJkTGzYm5Q7SkJslSgsC9O7orYPsgYqsWMnAD-8PtFQs4vgGppsj0mW_NtmgmiKCPF8neh8Il1ic2h_vetg6rM39lqcjFKSbwTCsFaAaaIew-SKF7F66pskUF9oEUj55ebkc6k0HrZ0WzTO5mUd-Nqb_xdK7u_n-DVc5OgVk9mO7y3F8K392yodAKNeqtbF1tgNVh4roZmYqo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 388,
+    "coordinates": {
+      "lat": 36.1666667,
+      "lng": -115.28722219999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKVtFqYe_yIARSDh-PF7rLBU",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1525853163746113608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rhythm & Riffs Lounge",
+    "address": "3950 S Las Vegas Blvd, E Mandalay Bay Rd, Las Vegas, NV 89119, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Always-open cocktail lounge at the Mandalay Bay, with a stage offering live music on weekends.",
+    "website": "https://www.mandalaybay.com/en/nightlife/rhythm-riffs.html?ecid=GMB",
+    "phone": "(702) 632-6112",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_9eA98_FyIARJjoV0RWGKTk/photos/AWn5SU54-iLPw5_1c0xh8sjdJOSQhjnxrjFWpbA31Bdow2kHg-TtsGiyvfsN1KEvWx-VFP4T3PJf0iNYx5RmGez-7wlXLmv1y3gSCpa8o0K6-WFOBgyeaKI_IekArw_uH7Mz-XN5fer4UPmoBh3judr6oU_vWKeboqH9NXYQY7f2XGzeLY3HTPVtEbeqYd6GAOk8ySUbMX6m6y6FPESuptZD5LtZtbG7pUT-KSMcHkoH8qByXbKslvw4Je0bDYJ7Oj14HP6nOqz9vWwpDOwOga5qSY52_NTT_HWSuLcVm2lv0GnjQgAcftzT3kQvKgyi5gsjpY0zyN8mg9dOi829oOcfDFoU86nrgAI5cjZjg-DAx3MmeiD-nVO1cKrgpr8Zisj6oa0HpQCScMafh_3UpDZakrSFNFGJSvDUhdzmQuN1LWjhqw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 343,
+    "coordinates": {
+      "lat": 36.0913909,
+      "lng": -115.17582499999999
+    },
+    "features": [
+      "concert_hall",
+      "auditorium",
+      "event_venue",
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_9eA98_FyIARJjoV0RWGKTk",
+    "opening_hours": [
+      "Monday: 7:00 PM – 2:00 AM",
+      "Tuesday: 7:00 PM – 2:00 AM",
+      "Wednesday: 7:00 PM – 2:00 AM",
+      "Thursday: 7:00 PM – 2:00 AM",
+      "Friday: 7:00 PM – 2:00 AM",
+      "Saturday: 7:00 PM – 2:00 AM",
+      "Sunday: 7:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4118970762467293734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Eastside Lounge",
+    "address": "3131 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Refined watering hole featuring live music, sophisticated couch & table seating & a poolside view.",
+    "website": "https://www.wynnlasvegas.com/dining/bars-and-lounges/eastside-lounge",
+    "phone": "(702) 770-5398",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyZqyU2vEyIARDjjFk2p5oyY/photos/AWn5SU7oqZAhVfwaWoo9HAc6OnKI4El6kgh5l-qY_4eP2bt-2L36Fvgsmfw1giibLsrJITE-_3gA5Dhs3B4oifQOBcBtZD9_8jEEJtGE8CHC80H94DUdksfYL0e8T0_5o-0A3mae7p8srh7zs7GiqLq0yNUjUD0E4txUQfguTGoAVLCRsD3R-vrVdLaoOv55x99b3xujJJPkJBztwwO0mhixWoSSXSOcSrAW3fuucZRhLVZy2dePnUVWZF_wubk2Zr5UPbfaI8SwcS-bNKkWRWHh930QBcqENtHd-SNuV1yBNYBKb2BS8BovC7MUueFfQoDuVvIjb_J1Ab9V-M1nQ5Kh_RAodjfS58Z0F2aXGuTDsYLt4mDP8pT6v7yEODZvJ-2szqLzW1QykpdRpsFZyiAcCvsGCp1cvrWfiqeZtZL-TmTSHvY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 116,
+    "coordinates": {
+      "lat": 36.1289124,
+      "lng": -115.1649838
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJyZqyU2vEyIARDjjFk2p5oyY",
+    "opening_hours": [
+      "Monday: 6:00 PM – 2:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2784202493297768462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Montecristo Cigar Bar",
+    "address": "3570 Las Vegas Boulevard South, Caesars Palace Dr, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Swanky bar with a humidor, lounge & private vault serving rare whiskeys, wine, beer & small plates.",
+    "website": "https://www.caesars.com/caesars-palace/things-to-do/montecristo_cigar_bar?utm_campaign=gmb&utm_source=google&utm_medium=local&utm_term=CLV25&utm_content=bar&y_source=1_NDM2Njg2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(866) 227-5938",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoZDtDDvEyIAR_BR_sWs1AV8/photos/AWn5SU5sHc4mqvy8Ul4ZygF1MwyON9cFO7cnokT3Hgk83SR55AVeetrIR59Tk1twJVlSAfiD4pygykUXkme5X2MkC7CPKtq20rNbQZiN1zEVtnaH8jx5hU4TFHW0Zo2HxgaRp9p3Wf6CVH3yGjyZxZHNm9ooJooMtuc36fx9ahMPfaTgUOyMB6-3ZIMYqqZG9PtVsezjKMkJyYHH3DUd7R0SKdd2aSQ-oo-9RgbW4jkNn8Jv7b1yZ9_HiCVqFe8NadTr7LJEu7GVjdtp_HD6SM6O-9e0rhZwhp8N5ZKx7iQohjuJVQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1635,
+    "coordinates": {
+      "lat": 36.1167508,
+      "lng": -115.1751273
+    },
+    "features": [
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJoZDtDDvEyIAR_BR_sWs1AV8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 1:00 AM",
+      "Tuesday: 11:00 AM – 1:00 AM",
+      "Wednesday: 11:00 AM – 1:00 AM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 10:00 AM – 2:00 AM",
+      "Sunday: 10:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6845811645235533052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "WSKY Bar + Grill",
+    "address": "5560 W Warm Springs Rd, Las Vegas, NV 89118, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://wskybarandgrill.com/",
+    "phone": "(702) 637-4622",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV45ZrDXHyIARbmg7bDWYUDQ/photos/AWn5SU6H_7p3IHbXI5xXp8036KvAYJvS7Bp8LqKhzLajqrMuIaN81tPU6g4WzTFHMZN-8L0xjcj7oIjZyiotLZQCOQ4gxdtbgZwupS5lmbbhDaL_2Zqe7I5etkS7BYp6O5_ILAxUaWNVN33Le2u2qXPcjHdbkWUcQNJWa5ANAzriv-9js64bGZtKoWnhcBh6Qsd5AIoshhmK1RTzaBG0_nPpzWI9V3Qa83IzB8upyqaFfltsK4hCDaBmjyityzPdzSFp6qNhXe8o-DLI7EMTsd4LTcrxXInQJiwzDjr2VrFG3mxclZmqLTOX5DxrTRmykdpe-IiWg0D5v5fHHMFjbcgrMRMho12ICvt-Atamo4ejtyrSH5y1T5YYxsEy0glMIkUZYxk8aqN854dFbhPeBEOR2b8tcyMOt42v_b26tkfinpfD0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 321,
+    "coordinates": {
+      "lat": 36.0572509,
+      "lng": -115.2172927
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJV45ZrDXHyIARbmg7bDWYUDQ",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3769680243325626478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Flight Club Las Vegas",
+    "address": "3327 Las Vegas Blvd S Suite 2720, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://flightclubdartsusa.com/las-vegas/the-strip",
+    "phone": "(702) 848-4188",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJncPC1OTFyIARhjJQtUam5nQ/photos/AWn5SU7TmGI1eiBI2AVn7mPWyac-0BQqT161guLRAnKWjXltq5wmQzRvlC-xsptDMhPI8kqfuBmesV79G5DiWA-LTtIwS5A3UbimVMA4sXMds3Elm1akie6jtCnsYWeyBJAbPFZ_9Crnamzjk0Ki5nAASlIUV4O0ym67BtqpbwGQVeq6WmJQuMMO4lG0ER9z5Zj6R5kB0GlIn393txE5bdA6MvW4fOxN1laAG2vnhbgzGCMvGf93S3heHZutjVAtFm77JYUZ_So-mVJnepTu_usSVUDn7xzkWzPpfuL2qFQY6iKh8w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 430,
+    "coordinates": {
+      "lat": 36.1248556,
+      "lng": -115.1685857
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJncPC1OTFyIARhjJQtUam5nQ",
+    "opening_hours": [
+      "Monday: 11:30 AM – 12:00 AM",
+      "Tuesday: 11:30 AM – 12:00 AM",
+      "Wednesday: 11:30 AM – 12:00 AM",
+      "Thursday: 11:30 AM – 12:00 AM",
+      "Friday: 11:30 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=8423602975662944902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fuel Bar Las Vegas",
+    "address": "3643 S Las Vegas Blvd # 511, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.fuelbarlasvegas.com/",
+    "phone": "(702) 580-8029",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2xp_GjrEyIAR6y6omc5rTzw/photos/AWn5SU4Syo5lScv-0ybn2QweYjrQN3oEBtpWY0s7OYH2Y37CfZ-p-YJArAXE87AE4rB1NzaaHNAOFIImtvHJHn25kJ79ojQpO9OmQrUjS254QJMZ0y0KxCW4aTV5iabSQBkX_n6UcISc9WWIG_phEgEUaTvZH43ZpAUwXPJ-IN4dbAqAr8V7-GiosGAFoG_bNF2EksimcBYO_9jFJgTN6l6DPWuyNihXwmCA_qXt9UsTF-vstsg2z7_zfGdm5YQFrFBl5Mgx2qSWOK8LHuXmgauqu6PSa2oZ8gg1rEjzXWKoK9ZiLg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1214,
+    "coordinates": {
+      "lat": 36.1138693,
+      "lng": -115.17165019999999
+    },
+    "features": [
+      "pub",
+      "night_club",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2xp_GjrEyIAR6y6omc5rTzw",
+    "opening_hours": [
+      "Monday: 10:00 AM – 3:00 AM",
+      "Tuesday: 10:00 AM – 3:00 AM",
+      "Wednesday: 10:00 AM – 3:00 AM",
+      "Thursday: 10:00 AM – 3:00 AM",
+      "Friday: 10:00 AM – 3:00 AM",
+      "Saturday: 10:00 AM – 3:00 AM",
+      "Sunday: 10:00 AM – 3:00 AM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=4345810700521189099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dirt Dog Bar",
+    "address": "3649 S Las Vegas Blvd Ste 618, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Relaxed stop for bacon-wrapped dogs & fries loaded with toppings, plus other deep-fried fare.",
+    "website": "http://www.dirtdogla.com/",
+    "phone": "(702) 586-9300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCY36NjHFyIAROMxzDkAkmV0/photos/AWn5SU5xq2wtFYtUZYBsn9c7WtMgwyNuzLgH4I91Mw-z4JiAUKzBYXV3tEqPOOyFfpk_0IGpi5qMpOojer2UDTPv89ybCh8NudTzFCvGpDsEF8JKRpFW_y11ZLtPLjCH-pWA_YrDlOUXoBX2He4pspQZyASr78s4-T-USAHwzVOFipRrN5iw6N7cNyF3do2EstDGnBRI5KHYPzk6RLQwDyYEjjXiiMMgs1iWWzoOF5PBDtiOTQ2o5pqBtKwswOaRoD9eLLIS311tXOWcH1W8BZ3XrC6w8s5ExKdVGuIsSP8Hj4YMLmuRk0wFRjcm7qsrRMHhrSxN0yHMVf2RfwG8sI2EYYLaSlZuX1dwf6V6ZPqeMUKRQtBByTDlGio5tQJG8_3uQAzZk9qmVYJs762aZg2TyGsCopoG7WTJFC2Y9T-aQb1I8JiQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 716,
+    "coordinates": {
+      "lat": 36.1137696,
+      "lng": -115.17213329999998
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCY36NjHFyIAROMxzDkAkmV0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=6744461774503005240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tipsy Robot at Planet Hollywood",
+    "address": "3663 S Las Vegas Blvd Suite 130, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Sleek, futuristic cocktail bar where robots mix custom drinks & deliver them by conveyor belt.",
+    "website": "http://www.thetipsyrobot.com/",
+    "phone": "(702) 426-4221",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVdXL2DbEyIARGoM82rY0mFo/photos/AWn5SU5rn9d3cR7qCyuyIboh9DQfAtaweExTmpkozILnVUv2TlP5WjQrxLYHMRp7vJ3315jmr1diH1JKR_r90x1nNHA5WcmMSnLlolx6JYCIEcF4TV4m3yGsEyGoTVCbON102eCY8TPnZdtdk39L_lceHsAcnRhJmYzJb3LvhBPrYe7b3Do8gK9m5GAe3jI6Aev7-dBLD8HgBJkKRDodoHhMLP4e1t66jEqAOtSGhk3H7C1kl9X5nf9-tLfv9xawj1LU5Z_DyiVTPSHCKx0A4cgWmoRXVfTOKygT8nTtkwhVLXlgvw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1508,
+    "coordinates": {
+      "lat": 36.1106931,
+      "lng": -115.1718972
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVdXL2DbEyIARGoM82rY0mFo",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 12:00 AM",
+      "Friday: 10:00 AM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=6528025619823624986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hash House A Go Go at The LINQ",
+    "address": "3535 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Hip chain serving creative, market-fresh American brunch & dinner fare, plus signature Bloody Marys.",
+    "website": "https://linq.hashhouseagogo.com/",
+    "phone": "(702) 254-4646",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwWKyCjzEyIARSGs0dqKp_Ts/photos/AWn5SU7txPQGYYV5TnawxJtaMD48wZxlsPYzlOlH5yv8kWC3PXlpMUI_SP896mRduo3nCUzy57vdk-QtiTOoPEmJow_KMmfrtqJSUMTmiZEac_4eAIMy3JJSwY32TR5NXupAWaSSqST66N14qu_FW5dKwgnwrNE0rN4lQQsQabuIzWKdEnKAiPDAXVqSAwA56rinnN0oZ8aOjLwIXfjNRm0sYm-IR4mZ1bOlngTUx22YzHPWRZXJN0ASdfEe1qB0IQef1S_8DNI0VHZP_W45QpsWwyhGJyjo-CRcpwfpxvmwAnx-Ew/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 30781,
+    "coordinates": {
+      "lat": 36.1182388,
+      "lng": -115.17119489999997
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwWKyCjzEyIARSGs0dqKp_Ts",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 9:00 PM",
+      "Saturday: 7:30 AM – 9:00 PM",
+      "Sunday: 7:30 AM – 3:00 PM"
+    ],
+    "neighborhood": "The Strip",
+    "google_maps_url": "https://maps.google.com/?cid=4322797732578487112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Griffin",
+    "address": "511 Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Stone-faced bar with real fireplaces, an eclectic jukebox & dim back room featuring weekend DJs.",
+    "website": "https://www.instagram.com/lasvegasgriffin/?hl=en",
+    "phone": "(702) 382-0577",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-wLEc3XDyIARgLckhTiVNjc/photos/AWn5SU6tKkNlvsSqTm4pRtuy_M5prMGNaYcDqjkXpyiN4p1iqOsowZHpdK0elndlcOk5dcV_JUTzPMJLt56KjI-uBsdUabt_rGHNTRa4uPgfvh1lzTLfQ1wRd13eJceNWmXrbQBM8A0AzoLeISbtjylddTIFPm4c7qYX3YwYGEywxCgHu7i5dTeheXQ7DGxMmTaxJmGXgup_tttkn1Hx5lry935bRJmYq6eztae6o-XbKsgTqMKGH87wqWwzScK0dM1bY1e09zPm3p_um7-1sDcLwp6kFhL7UNf-QmDaz05tOMr-wMZaDqZj9pUmSwfz648uvvXClJNQ7QdMS7f5mA-ZCGwfys17UyyL4NqNirtCfS-ooPcN3KjthHIJyTP7fHfcxlLtsqkqrwnNIpmBeK8jkV1TZY1zP6VPweWso6LhVPVeyLqDIFH26rnm0ooHOFqC/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 819,
+    "coordinates": {
+      "lat": 36.1688009,
+      "lng": -115.14030269999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-wLEc3XDyIARgLckhTiVNjc",
+    "opening_hours": [
+      "Monday: 6:00 PM – 2:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 6:00 PM – 2:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=3978531390812895104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Corduroy",
+    "address": "515 Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Throwback, rock-&-roll-inspired bar sporting '70s-era decor to go with DJ music & cocktails.",
+    "website": "http://corduroylv.com/",
+    "phone": "(702) 553-2547",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzQNTdHXDyIAR0vMTcmPDNos/photos/AWn5SU7Rtzp7F_3C8mFuKpPFS5JRdqpPA9mA2yw5h6TmYYcBtYsH6FQyARCXMjE54oQr1eu9nS-UFZflgH9Ceg1DvosEwSmXEnQZmNNkImrl0MGuqgF76Qwzf4WcZ-187tAbclvzoa6ul38vX07U_2IXSnHf1c_Tyxkruc55qdwAzJEtwjC1R5mu_MKMuCevMchG3NJPloLNjtkryNkAt7UIsPcByVDPxOZp8H_h8mQprJj4JU4bccnftYKKmP_vbq_VR3fC1Dqc3U7k98Qtqh2PbSQ9r34Cv5G7LI4kTtBM78_OQg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 433,
+    "coordinates": {
+      "lat": 36.1688754,
+      "lng": -115.14013890000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzQNTdHXDyIAR0vMTcmPDNos",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 6:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 2:00 AM",
+      "Thursday: 5:00 PM – 2:00 AM",
+      "Friday: 5:00 PM – 4:00 AM",
+      "Saturday: 5:00 PM – 4:00 AM",
+      "Sunday: 5:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=10031420051897447378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Nerd",
+    "address": "450 Fremont St #250, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Modern bar with comic book–centric decor, plus bowling lanes, billiard tables & video games.",
+    "website": "http://thenerd.com/",
+    "phone": "(702) 575-8486",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnSpEQ3XDyIARirQZGDpX2Js/photos/AWn5SU4Y7dAj6PlpSyO3JNzk8FA1HfXiiKNoZqjoxNcOaW6qd_B7NCsQARuk5Okbjdb14Wn4w42POKxDfeU282Mm8onK4qVcAkjgFC24GfNonP4K5qbCoMKjN57kesyHFtL2kRIYLXh5xh9o0hrsoWjO1I5qkEzqYqHiji8Rsohga3qV6-vk55lYQhgE1u565xDvVjyx-CzTu47uPCs3AUcpS0E20se_6KF6ZFdoyCA_mnQ5uWZ2fSBepfL276Iwv-0XsGCMO8l_qUgh35xBbJ-AClweoi0r7McEkw_vL9vTwv6WFw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1219,
+    "coordinates": {
+      "lat": 36.170285,
+      "lng": -115.1406908
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJnSpEQ3XDyIARirQZGDpX2Js",
+    "opening_hours": [
+      "Monday: 2:00 PM – 12:30 AM",
+      "Tuesday: 2:00 PM – 3:00 AM",
+      "Wednesday: 3:00 PM – 4:00 AM",
+      "Thursday: 3:00 PM – 4:00 AM",
+      "Friday: 3:00 PM – 4:00 AM",
+      "Saturday: 3:00 PM – 4:00 AM",
+      "Sunday: 2:00 PM – 4:00 AM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=11229821577872389258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Atomic Liquors",
+    "address": "917 E Fremont St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Chill dive bar with a storied history, vintage Space Age decor, rotating craft beers & a patio.",
+    "website": "http://www.atomic.vegas/",
+    "phone": "(702) 982-3000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8YDQVHHDyIARNVmEreD4Kvs/photos/AWn5SU4mSvE1ie-m7v85FG1cUQ9yqah8PUIl3qeW4IkMzjqrobqJLhUWziK8ha36RFv3cSFqoeJERwsoj9LozZzUw8wvirTyHXGPKAvrHWE74KsGkVA7uuirlUtXyGdTOpLI5ECY8Xga1task8XPIj17zJLUh5hM3k6P7s4-nykJ2MmCgUTVmUjbJu5HxrYXJAKtnzzDdmCkxv3FIzPcwvpYYcW_Ir-4CUscWWOq25u5P8PonTKLorBGdWMHyiYFTEmwBBKTPG4ZeNBHN7CtTGfYRdGjZq7_MoMCcBmgcu-6ng5XVw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2217,
+    "coordinates": {
+      "lat": 36.166842599999995,
+      "lng": -115.13547030000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8YDQVHHDyIARNVmEreD4Kvs",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=18098551696409254197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Royal Crawl - Fremont Street Experience Bar Crawl",
+    "address": "8 Fremont Street Experience, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.royalcrawl.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmzt9NCtgN28ROmO8EKzOYuI/photos/AWn5SU6MI06DprQGjY0A2fTbcgzWvPBJE5nDmAG5aCj0cnnxmqG4-umvtB3ofvd9OWtBshAnTcjsAHPXGHJP1p-bh5aoKvJ9M9jmS8waqaXnQylxCQKvZHrSrB3FAM8JWfvuvyVaktxYQu7x68GBCs8nL-56Y6ufYMWxINgH-BugRlCnDIv0xAdFWn-moyB1L5WU0DuJRD4VIyFgQpbC8j6eXM1uV1jH47dw5gGmOcWKpHgF_nEZ7jXy_nzMEESeQVj7AgwqiPFFxbK4M2Io2bsR9dTDClMx1uPSmdovw3MtrS4CMA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1768,
+    "coordinates": {
+      "lat": 36.1723735,
+      "lng": -115.145364
+    },
+    "features": [
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmzt9NCtgN28ROmO8EKzOYuI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=16312828038699836218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Glitter Gulch Tiki",
+    "address": "113 N 4th St, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.glittergulchtiki.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13671050502560824761",
+    "phone": "(702) 826-2475",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq7nhVADDyIARJxyWvRcvlpk/photos/AWn5SU6O9BjF5b8i_EBwlH2riW9xlxMLJ_4fqZUhAMfm8LpXWloF1Vz6UH4j0dq9mvxBh68gmKxmyYcQQqPy29f4Z0rBb3f_PExyf1DsiciH0cC62oq-rMZ1MNnJsaeWaL_A233QvEgGn13dOui91rLO-T0ovP0TIqxJfJzR1R_9BwdQaBFjf0gSfHDqunvUy8EPhSYfZ7-yWuALmg113p5Pefk1iCGG892-cu-4aTPhAvEiuieIpdoiVqFnpiaVEPaZNTshtNrQ-3xDVVKHWwlKU2C3NgHfoxGqkJEKEPUeebxwKw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 212,
+    "coordinates": {
+      "lat": 36.1702915,
+      "lng": -115.1416072
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq7nhVADDyIARJxyWvRcvlpk",
+    "opening_hours": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 1:00 PM – 2:00 AM",
+      "Saturday: 1:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Downtown Fremont",
+    "google_maps_url": "https://maps.google.com/?cid=11067084913321057319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Silver Stamp",
+    "address": "222 E Imperial Ave, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Down-to-earth operation furnishing a robust beer menu along with self-serve hot dogs.",
+    "website": "http://silverstamplv.com/",
+    "phone": "(702) 970-6457",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ23kAmX3DyIARsyhdGBA3PSQ/photos/AWn5SU49yxlOYBOU-w04JzV4YpSp7XzvMV518bjEkySlyMI761Y-1TPtoHRoOog8PpkWOXgUq8lZ7ln-GP2MIXN7E1h3_ssEzyezyQH1-XWtUy-ECF77FjS4zP_Oa6A9H3sgtyPT8voN3v2Hkc4vZR6gnp0ElL4F86zjeLZXXZ_lO4LbZqQ40uW1VmhYnp43iVN0B5fLGxwwuXc9lB2CahxM841at3MGju7nVRnrknHycxt1XUIo4-kSuFh4PwmWefE35J1BiCd-Bqp3dw1lOGProfz5q9pNk8ZFsQXXqdv0gZFFTsV8FLz4MXVp4zc8gHydK7jMpyKOGsudr8MadVOZtDwGrfWvDvWSHm579Pa8-j9fGIxbxluo36fa08c4AWvL1dgQB-LRV_9EEsAS-7PzB3bT3XwA0rJcHQCZDVfTqC6Bmgi_/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 603,
+    "coordinates": {
+      "lat": 36.1545473,
+      "lng": -115.15181650000001
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ23kAmX3DyIARsyhdGBA3PSQ",
+    "opening_hours": [
+      "Monday: 1:00 PM – 1:00 AM",
+      "Tuesday: 1:00 PM – 1:00 AM",
+      "Wednesday: 1:00 PM – 1:00 AM",
+      "Thursday: 1:00 PM – 1:00 AM",
+      "Friday: 1:00 PM – 1:00 AM",
+      "Saturday: 1:00 PM – 1:00 AM",
+      "Sunday: 1:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=2611303901212518579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Death & Co Los Angeles",
+    "address": "818 E 3rd St, Los Angeles, CA 90013, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "New York's famed spot for creative drinks with a New American menu & a speakeasy vibe.",
+    "website": "https://www.deathandcompany.com/location/dtla/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsTrlusrHwoARFlL8c4sNFjo/photos/AWn5SU7g8jE2dzTv0zWs6M8sdhONiGFZUuyfVtiFS_EQCFbgud67NxzEJExRIYIHMiFJvUG2aSIqbFm5L2v_B9Kx2v0Ymb-O2w6o2iTS4aGE4UsLPSIskvhNfanMKfdMrc8y30nptx3NJwky74VCwOcIWPE_LXHtQg7X5k1kPTT4j0KArKQUV6GJVBEKCuwM-ca6LdHgf7wyZEc3WA8tVdHeG-Zkwg2ON4RFCNb-wfUXShckd3T4nyrukoVOK1ZyHWLFtUI_IiohfOzxKcPioaqMFA_27NZK-ogMHy5zmi7HdBFGASb0GWI0ESOO6sFweqIkm_Xjv7rwzBcFk-xjfR-FJ1bjVIgX4amuibdf4_frT3oUn3RJNvXXp3XVtYS165mWvOWn8b_MADbKF_E_GgFxnKHyoiQ0kH6xBjGQJVEJjIKhdCi3/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 485,
+    "coordinates": {
+      "lat": 34.0456728,
+      "lng": -118.23572139999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsTrlusrHwoARFlL8c4sNFjo",
+    "opening_hours": [
+      "Monday: 6:00 PM – 12:00 AM",
+      "Tuesday: 6:00 PM – 12:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=4185547796284985878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Berlin Bar",
+    "address": "201 E Charleston Blvd, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Dark hideaway furnishing beers & specialty cocktails, plus nachos, hot dogs, tacos & more.",
+    "website": "http://berlinlv.com/",
+    "phone": "(702) 463-9919",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnZzX3S3DyIARTNSf4WN8jbs/photos/AWn5SU6zBQNHofH0a4s4brEOcoRvtpURpn3isk_weB5pTQDui6ld4kKo_0p5eoK8p--9Q5i-WruxL-ksHdSJtQJwWyGjCe8KuLTBoPWn_0cnOs7L0vYYfGMoXeM2yXCqzXn3ga1khJtsXajY3pDA_57Ad88_GLKfc9o6eUikiC3NqFdzwhU9IuXw6M8SjbdLNd9p247iT10FJbJOGoI7d6pIehXommpiL4MlgJtWpskx7gmyriIxN57dHBb7UmCQ4a71TP0x7bfG56nobDvDf0T6KYdhOx4ADYQP45i3CTqr2r3FZysK5FaWtPi-EnYb4jPvuR8gtk5g5iUmyNJkLeugisWtshIEcIBUbmIm-rO2jPqY9qnz9YNdAo9BEt-YfQAXuQuDSlQhZ_8B7JFv0GpvTxIe-mcBSE0DQrAX_fMEFiWNBA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 397,
+    "coordinates": {
+      "lat": 36.1590989,
+      "lng": -115.15167059999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJnZzX3S3DyIARTNSf4WN8jbs",
+    "opening_hours": [
+      "Monday: 5:00 PM – 3:00 AM",
+      "Tuesday: 5:00 PM – 3:00 AM",
+      "Wednesday: 5:00 PM – 3:00 AM",
+      "Thursday: 5:00 PM – 3:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 12:00 PM – 3:00 AM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=13514594825237681228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Servehzah Bottle Shop and Tap Room",
+    "address": "1301 S Commerce St #130, Las Vegas, NV 89102, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Spirits & creative craft beers delivered in an industrial-style bohemian taproom.",
+    "website": "http://servehzah.com/",
+    "phone": "(702) 779-3176",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgTxqq6jDyIARDemCmBursqc/photos/AWn5SU4bDrURkHdOmvunKN6_vkEWbKtIehFGMW9usInm4NsG_m2TbM6QgiqwR9yAneurc5wMB7jYFXv-ou9tYqRjXdGurQQJT6ZVdnncd1pMGU-KmR4CsS50qOothPGLnt5htVJeaFoxD6CoM-p9YTGGMm4UM6fpv1i0k-Dz1sxr7xPBzJF1vHGmOOYXSvA4UR80h1Y-KkzMaUbEPXjmtB9zXU7sNi1SOnRwD8GPllPQGupnuK3D_eNpwLHtDOeu3fpcPLTqWYCjq1XL4VnAI_5AG3Mh7FqFKACAt4HlGTzAVX4hfTtMdDWrRr-xzlz634ssJmCHVXA1zYHaNFCcszPaadcU-ZxVTivqNfTaoJSJ2gAcM5qsb6pKYnH2lwrbysoMYmRzF0QANyswqBf5eTVOcU84bBNhWoYTPsLgOA3wp8dVocnO/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 486,
+    "coordinates": {
+      "lat": 36.1560507,
+      "lng": -115.1548361
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgTxqq6jDyIARDemCmBursqc",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=12083908885199644941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ReBAR",
+    "address": "1225 S Main St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Funky hangout for cocktails & bar eats, with a playful selection of antiques & memorabilia.",
+    "website": "http://rebarlv.com/",
+    "phone": "(702) 998-8777",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhU_yio_DyIARpQGpcw5ZS0k/photos/AWn5SU7j513ErR-CjOvTxkQix6TDw-KbH7ffW7si8W2_16nH2DzS_nJ6BejT3aU_BPGiHxDbQo1YkLS0UkeZEQIBo4hiNt1XI4S869mX9Wo7EiWTOpMW6EAqXoLxu_5J84TluTnFGOroWA97rdE9Pg_xfIcjhOjdJ9e4HdpT0tcA5gL5I19wkav7PfiSBpSKWC9uumdZ71EoJDuMk3NntY8Lo4EAS5_S1kkDZnimJZyczQX7WHIonQp5PXgZHazuQOZH9cDaJgMsBH6dir2124FtIoCDVjxFJ2VLSwl-qTR84B3kOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 667,
+    "coordinates": {
+      "lat": 36.156568799999995,
+      "lng": -115.15345029999999
+    },
+    "features": [
+      "bar",
+      "pub",
+      "discount_store",
+      "home_goods_store",
+      "restaurant",
+      "food",
+      "event_venue",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJhU_yio_DyIARpQGpcw5ZS0k",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=5281412906626908581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Davy's",
+    "address": "1221 S Main St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://davyslv.com/",
+    "phone": "(702) 381-0812",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwSopE9nDyIARU03r9sthqgA/photos/AWn5SU6e_EUkA-XulHDL4cx3ROQfblNf6YFH_CmqxWQ12J20_W_jM8jwlCw6iPeoLqp7DuVZFaOQXr4bD5iQg19HC78sBb7nxHr6nDakVVTeFQcAwd5FNaa6smolw8pkj5_TaR1dVgewzx0-_Z8klb43KPEgOFGDPUGchwVMFcCyK7lM_exppzHYzH36mUrABSkK4vPuEs4CrhOb0jt7I3HddDXLhocUuaj0TLnA4N33BdB05awD35LafIEk4h8-xvCEmvNEGYQUTx_y13FJTlFZsvJ7d0z4w3fRJ4Kz8KRQzeKmKw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 139,
+    "coordinates": {
+      "lat": 36.1567231,
+      "lng": -115.1535027
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJwSopE9nDyIARU03r9sthqgA",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=47958274689682771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Atomic Tavern",
+    "address": "1402 S 3rd St, Las Vegas, NV 89104, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "website": "https://www.facebook.com/AtomicTavern.LV/",
+    "phone": "(702) 552-0162",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9Tsux4XDyIARi5gcagFv-NI/photos/AWn5SU5RSrIKehXpCLqIg1_1Lb1STcHyb1zz2OBkYPe1joNrgHNYNkS6iAL7REuYlxC4W3PFNIrVj93ZTg3IC_OLlPUyItgkeTaIf_TtqWW8kBh_8rw6gGqpI1kaR2jMpzXz49VJRB1cGow_TeSf6AKJWOR6fiMT3JN_C0mKKI6PruYU-hA7Id7j7PXMPY0Xb6zNugy-vnuAHhB0AU5uuvlDBcVWr_0_rNpQqc94aPmcX6DvehE2XLYrxUt_oMjeDqJ2zr9w6YFCWdwoN-zkqV1oE9G0WfYqYF1Ilt5BvcZ2rQAwBQoPkr8ONYQi8h5CuR5IA_gpSTmpyS5sdwxL30BbxxwyriShFUK3MSk-l2ItY9iS-TACqCXUYNDXZZd3d_vZuCrBZcEDVx5jGuN2A0JxIQDOV3GM8VXo0P5oYNk9RFGKzw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 105,
+    "coordinates": {
+      "lat": 36.1545348,
+      "lng": -115.15146659999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9Tsux4XDyIARi5gcagFv-NI",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=15202022594055018635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Audio Bar",
+    "address": "1020 S 1st St suite 100, Las Vegas, NV 89101, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://audiobarlv.com/",
+    "phone": "(702) 331-0652",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ5JOSwTDyIARX_RkacIaPKw/photos/AWn5SU7roA3SJRTwQ_BXcVisY0ZF8NFITPkMgEpevqUoQ8vjG_UMMn292ppBRasaqknUBM9iBDUcIvNwijCnxkjtiG8YQTO4st_gLopn4tHylxIOr-qU21XGW1Ezce4za75nNgxTEfFnmL0914i2dZONdSY0o1Xl7max_XszpZqStxwsvwG8vLxgmde1Qrn0VqSjZzZPBO6V7FkGe64O7GILICk1uIezU89H_Z7AkDF-zWN-_q_qj9-c_63LDC3KlRhvTLf7fvQXQ-JpHUXJVyjxjI7t-_OkrKRWEIKlTsSbJzk2UU8s702cict451q0nPKOQCxpTF5sOpA7OK0YaDa87O-MOOnSc1NC8OQh59Zii1d-C92pWKYeb8bux5S_RvdzDcbox49EM2FxlH2o-Xjyw6nriGxkpRHjrrRsKhK4MtY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 207,
+    "coordinates": {
+      "lat": 36.1601464,
+      "lng": -115.1525901
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZ5JOSwTDyIARX_RkacIaPKw",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 6:00 PM – 12:00 AM",
+      "Wednesday: 6:00 PM – 12:00 AM",
+      "Thursday: 6:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=12410824095420445791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Arts District Brewing Company",
+    "address": "828 Traction Ave, Los Angeles, CA 90013, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Lofty brewhouse for house draft beers, games & specialty hot dogs & burgers.",
+    "website": "http://artsdistrictbrewing.com/",
+    "phone": "(213) 519-5887",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbxSpVTnGwoARTMstXgkwO8o/photos/AWn5SU7_FMfCfokeJ_vSNZoHVIcIYWWwKv5FVwzia1zuU4bs9M14YU-YwPQ_Rx-waCeEyrznATUwxbPN-OrqQwFDFHh6NUERFmBcvSb4GMpqDdAbYhQfX5K7XxqxUAbLh8RQYNe5RcwyGdcP62qkV-brxTaeMsiXDiHUhK-a8uCEoC4k3-bSRDQnSPjbFDCPWSLiJ-rUoxLNDQ8QatWJbdl5nLLq2Fm61TF9mB-Rqz_BK8IApFm2V6D3L5xmD45dt5b4FY2ODyvgsk-kVlL70nxqIVByOIWEKuQm7dgxw3EVdigHHQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3695,
+    "coordinates": {
+      "lat": 34.044711299999996,
+      "lng": -118.2352851
+    },
+    "features": [
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbxSpVTnGwoARTMstXgkwO8o",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Arts District",
+    "google_maps_url": "https://maps.google.com/?cid=14572293836080270156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frankie's Uptown - A Neighborhood Bar",
+    "address": "1770 Festival Plaza Dr Suite 190, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://frankiesuptown.com/",
+    "phone": "(702) 228-2766",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeaOsPxG_yIAR4zgkLuFE1Wo/photos/AWn5SU6KsejR3j99isY3MhE4KBKsl_5Rg1i1lRlp0CyuoCjlb-MWXlub5Vc9Y8RD8nWl5bt0vnIUj7xa9F_jglFnoOogj-IiJ09smEvAU_2A-aPbPkx0eLCGRo87sH5LCDoRdKGtnsuCYtQzhymY4PFuJP3OAuRIsSK7sL7Ab4RsXzuk_yWC9DOlUMTFIcdjT95kAverSuLGjfzvZZVjeHXys3phQ4sPsn51xWGeVMfvyFBtKRSnJemm7YGZ3aFIm6qhyyv0mqmdq5VCrh8kZzOeoq1hA9pCaa2H0dY6PU2qRqKsjA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 639,
+    "coordinates": {
+      "lat": 36.1522735,
+      "lng": -115.3326735
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJeaOsPxG_yIAR4zgkLuFE1Wo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:30 AM – 12:00 AM",
+      "Wednesday: 11:30 AM – 12:00 AM",
+      "Thursday: 11:30 AM – 12:00 AM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 11:30 AM – 12:00 AM",
+      "Sunday: 11:30 AM – 12:00 AM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=7698134871992187107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Bar @ Trails Village",
+    "address": "1916 Village Center Cir, Las Vegas, NV 89134, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Laid-back hangout offering pub grub & cocktails in roomy, dark surrounds with outdoor seating.",
+    "website": "http://thebarlv.com/",
+    "phone": "(702) 979-6005",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVxnpseG_yIARmDElBXzNUj4/photos/AWn5SU4j_T2dCmqjcys5gy3S-K04comnU1S68hc-c4s9EJLMwc-CTv2iwbV0UXBSvWTiJcFcpoU_qczjf_r0VnWKXHemJQdnMrzgfM_HNbXle8j9BCJqBXLXVxpKO7y4HjZ5HFKIpl2PtZ3uIzOF4WMC8W_ajX661jzjhAhzIbxDFps-ArOgnC40alPhP9Lzs3WD1FZgaiJGPhAlaGQWgIB0sRFlLAlRv-ypf9XN2tIuhOoay77MI9WWAx_9WE3eDbzgwjrW_DhJsnVAg0sGWsRRndiJ5zO0YGsllZSY2uyqc_-JdST0jlcH7TC40Dg8QDTWuFfrFdZXrpRGo0a4-y9A6W5xmIk2PH6nmh3v5aI09oY4jHHSlX3lWXym1W7XGKXjRb7TCMh8uclc_TDPtzXSm61znOCu7TLY8c4bMBkL-zRxiaY2/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 293,
+    "coordinates": {
+      "lat": 36.1935009,
+      "lng": -115.30390550000001
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVxnpseG_yIARmDElBXzNUj4",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=4490877710987768216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Yard House",
+    "address": "11011 W Charleston Blvd, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "vegetarian",
+    "price_range": "$$",
+    "description": "High-end sports-bar chain with a huge menu of New American fare & an extensive list of draft beers.",
+    "website": "https://www.yardhouse.com/locations/nv/las-vegas/las-vegas-red-rock-resort/8327?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:las-vegas-nv-8327_pl:locurl_rd:1025",
+    "phone": "(702) 363-9273",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0Xg9fFK-yIARwSFk0ZhZlYM/photos/AWn5SU7iOmL0NH3EC1plBDAG1D-7hD2m20V4Tj3dvU_QJ_DfdRFF1LvTgRq5rCAEjDZvzzsBL_BjdHNpgbLH7WheobxdMbfURhzQl8FzGtdOBJFaIT3djUncMXFzVyWKtmg9wVa1BK7H49Zo_qyOXK3pbQ0yIDgpMJ55mH8c6Q-ZK3RCtS7bsqTpS63cm3OMvpQpUNnxPxi_2LJIWaIc1w5t7NKp0zMH2PC_bKEfQ2IGa6gs0hVrQ3vFw_QZteaaqIlugG_TD_EFeUeC3CH5oH-iFObIeRJxVR63UcJCedEKHpHE9akaOIskVJ_K3q2-qzyNr4C89N3JBpDV89qSn7ICo9aip737CFyQSmBiw_3lHedEebNGtrP9Rkhlv2J8_IuQ6JmZExSle_89qQ8PVT0o1z38YLflfvXnAzenVr_UjzmPJrI/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 4173,
+    "coordinates": {
+      "lat": 36.157103899999996,
+      "lng": -115.3342972
+    },
+    "features": [
+      "bar_and_grill",
+      "vegetarian_restaurant",
+      "meal_takeaway",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0Xg9fFK-yIARwSFk0ZhZlYM",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=9481583103381348801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Distill - A Local Bar",
+    "address": "10820 W Charleston Blvd, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Happening pub with signature cocktails & American bar bites, plus video poker & a VIP gaming club.",
+    "website": "http://www.distillbar.com/",
+    "phone": "(702) 534-1400",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy-2oLk2-yIARKHsXmZgIh-k/photos/AWn5SU6Th41qScdW6WDOgpDyTfOmY7Inrp0toqlzLUdCLZCm65u-4FfnZ84CR_6hELsGEsLWElTFJmsjkpMO5QXQUbcK0AMsaRAJdTTfnP7dsc3msuUc1pEa8fPl1ITt2hhNdo4h09wdmk2axoFWlKr5Tk_DUMTlme5Lto-_I9P_nqsBNfI5nyT2oLOypUmFx1PrHWrkpy3XKjgBA2OgyvjCmtS5HdzjuXjOtNqREla9-kaTpaXBt6oxlRk0DwDeMzAViQxz3f1ktpjla5JsdzpnB95gO_ntTL5ZDjjxfilKGskZS7gHoYAhaT1OY0tnwH2WWeSG2kZTRSXTTt1U3x2z3X-aUWBRiEFqHE9iXEnjMTkmKR8zI3HsLS3Dp6gd8y_CiVuMsfXS4mdosRnvqLmxm3RXiWvAVRkUCBWqP5C6ZaL2jg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1112,
+    "coordinates": {
+      "lat": 36.160767299999996,
+      "lng": -115.33157519999999
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy-2oLk2-yIARKHsXmZgIh-k",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=16827427984189651752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Martini",
+    "address": "1205 S Fort Apache Rd, Las Vegas, NV 89117, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "American appetizers, burgers & entrees plus cocktails in a clubby-chic setting with gaming.",
+    "website": "http://themartinilv.com/",
+    "phone": "(702) 227-8464",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_UctnHi_yIAR2ceLuoZoiv8/photos/AWn5SU5pPBLFzM3STBnjQLGlRv4kK_zahDEJ2QudrVaTScekB1lNSamUWkUian6V32vmBpoyNbbo0P-7hwHeIas4ca9MTdwbE4bheHLvnAc3du4qkjcgRflHuVzJOiQmDzfIWXfMb7VapHzFZb80aThHmXgR0FRopTZZH2NM4kqJf6L5x6I9MXe0VL2zV__2VkfrjSPWwTJ1_IjcMKxfE6kopUbA0tyJ1YjD4TeQYON3yY5gYL01_1aZ15UcmI1Nj2Yh85JbTL7nVh-ANez2RkoD5K3_CpDumakyoqeaFBXNzR8jfw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 624,
+    "coordinates": {
+      "lat": 36.1572222,
+      "lng": -115.29305559999999
+    },
+    "features": [
+      "american_restaurant",
+      "bar_and_grill",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_UctnHi_yIAR2ceLuoZoiv8",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=18413644954322323417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Steiner's Nevada Style Pub",
+    "address": "1750 N Buffalo Dr UNIT 115, Las Vegas, NV 89128, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Nevada-themed sports bar with 70+ types of beers, video poker & upscale American eats served 24/7.",
+    "website": "http://www.steinerspub.com/",
+    "phone": "(702) 304-8084",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVVUV5j3AyIAReZ3mjRtKbJE/photos/AWn5SU5O5Ax97CkuSJhgy-0LwuLs148yFT00mxHZqd1XUORLsLni80bhNv9JCm8iXu-E4WQx4cf7qFMcOKmFotndxobFj1ZJx6N3Qqv2PYQmi1j-9mRLz4_XpicrLjh9PSslsoHNfQp4NUTx-KhDubPeEwVz0hpgjoEeZDEA90aCEIjGeoDik27luh_ONY3Dul0EQA0UCpMrLW1kwN2_Lfmgj0TbkSYZeOOqyVPm4HdsgZUa8Obcc-cf95UnRCxXiQQ7t4l_joJkjuCQ8Gor27Cb8YBq28z9N-3E-eKzpHq_55CZQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 835,
+    "coordinates": {
+      "lat": 36.1904752,
+      "lng": -115.25896720000001
+    },
+    "features": [
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVVUV5j3AyIAReZ3mjRtKbJE",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=10478831915189575033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Red Dwarf",
+    "address": "1305 Vegas Valley Dr, Las Vegas, NV 89169, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "pizza",
+    "price_range": "$",
+    "website": "http://reddwarflv.com/",
+    "phone": "(702) 640-0496",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJTxpF093FyIARHQypzBQTLFA/photos/AWn5SU5zTFm55iLM8Y8lY5TiOF918lKLcCb0_xpMsuDrEvVIx4kJGqEBRzYK0DhqUQ2CkxHb8MjYW_YJeKwXemwnRZQ9o_m-JMvxmmzG1oNPbBZBpgWWQQc7t-v4qm6gJgV9XIPySZRL3sNYecw641JxI1cq1mWmdkQdABnQPg4Gazgnf7_Q1rPCHWzNiywQbv4HBeRz2pKkl89F0tGkGkNQMpQNPoKbfvUhRU7cyTagZGJjbupYCyLgyPbJwbuMNTfWVU0sGGfSFG1cGxtxw2Qu8_BHh_kfOhysBVhr6LkLJxJpGMGGCmdL4K2d3vJ3p3XONpKaHQ-dDMvUzRMNPJyrZ7AJJu3kzlEkFUzgxsMgNwEvtgsCbB7mrvi6d3jO53uIbIoLwK21vLtJ4u4mCZePR1ZqDA5ksfDAztJgw3dCFB66awhK/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 928,
+    "coordinates": {
+      "lat": 36.1366673,
+      "lng": -115.1358202
+    },
+    "features": [
+      "bar",
+      "bar_and_grill",
+      "pizza_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJTxpF093FyIARHQypzBQTLFA",
+    "opening_hours": [
+      "Monday: 11:00 AM – 1:00 AM",
+      "Tuesday: 11:00 AM – 1:00 AM",
+      "Wednesday: 11:00 AM – 1:00 AM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 1:00 AM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=5777013402063408157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Beer Zombies Draft Room",
+    "address": "2010 Festival Plaza Dr Ste.130, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.thebeerzombies.com/locations/summerlin",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs_p9uMC_yIARvnw9rR0PyKg/photos/AWn5SU52D4jr_-E8jpiWQdp4isb9m6lY1bFNSijEwBM53JL3AuGPySrbbK_z6Uy5akAbe9GrGd7nQjeARXG8lX2pbaMBUcTVJp4R87pArYIgMkdetIVCarX3HO6i5ty411h5675714Dw-sWysHn3CsxeP64z_yM-yebc-eJbTmBNKql8V9Rl0DQqMk2j4FhWfmm5tVXM97TnYNUuCEwgwJy5tNGQMqxeuuJOzI8jKxFk4ZFmZ6ew7okSeSuP3yY9Dw3WwSu8B_nFsGF9a3BABoiiiRXJtdmInarFjg1vrq0CK8QjpeBQ8BXkO8POtUglR-NCNlNOwvwAe22xSxKsafDNa-B_Xg27BdvjD4RGanQuL0WVE2Wbyjg60_9xlYPjLJNoghXwNC8NpIktiO1fW-hkUzAGOmLpwdZT_Qs_EFCaHk-L-g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 162,
+    "coordinates": {
+      "lat": 36.1493983,
+      "lng": -115.33286839999998
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs_p9uMC_yIARvnw9rR0PyKg",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=12161987413848980670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lazy Dog Restaurant & Bar",
+    "address": "1725 Festival Plaza Dr, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Relaxed, lodge-chic chain serving global comfort fare, including stir-fries, pot roast & pastas.",
+    "website": "https://lazydogrestaurants.com/locations/summerlin-nv",
+    "phone": "(702) 727-4784",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdYdvgVS-yIARvxtsLxyG7ng/photos/AWn5SU5U5pT9JysfUlukdGZdk8KzOBE2NmVFHKvvm2nzb5t2CisRSunqVifiIPYAVIYPNMQRoz4-GuYmpwaOUvuNmhGTy9H97Mxe45LchprFwiwO79QbLN06xxUmB0NZ_nDS8b06ccAMzxJIdsgKQT8qHvOCz90kMrur4Ae9Xepf0bNWV3hnPryEWXf73u4KqcBYXb8jGNZUBLoYrF1ILRGyKtsb2CS1E3tcDAHsGO7UcH_xifeKySVntXzsytnL54-Iidvs4MjDmGWHBa_4ObjnsRULUyPc6mk3SfMzqnOu79SWPymZkRZCgO_89C9B0OwP4DXEcyGsxsSmQTvnVH0DB4Io6O8PSwG6XTjpLgdBtPQoQabGhnVXEHnWcv_mKcDELq-KHaUvVJ_7MQHmr7eq_2mGCMRK2gybHGh86QTYdvLxEw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 4089,
+    "coordinates": {
+      "lat": 36.152923699999995,
+      "lng": -115.3337758
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdYdvgVS-yIARvxtsLxyG7ng",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=8714049784621308863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Al's Garage",
+    "address": "11760 W Charleston Blvd, Las Vegas, NV 89135, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.alsgaragelv.com/",
+    "phone": "(702) 901-4100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWS5JgNK_yIARIjEHkWWUsXY/photos/AWn5SU6jQCte4qlzYYv20vPKDW7tiTgr7TRRQHWiphpL0sph877UQRHS6OGs_DHFSzD3vcBacdMvmBjGXFJve8hkaecSUcJJ9kUneoimilV9I4j7IlB-4A99VbdKaxsxOluxX4fqHZBHPvkb0G0QnGr5PEbs-63FR2oC5obvRcdipBNqRycJ__WUQrKG-OyMn69fIQ_4ufWo6b0SeoaAy3Y0Or5kpWRiyhufO2GrC1bpFOKt6qIVqgP9eEB5_P8BvEyWDxinXvzClN3LEK6c3ODIBMn9N-9D92wDMeP3iyNqC_xxAfYxz0xKWmJ8eTZekHQdoo4MiLB3j4i9RM2yRfF5DET0SKVuq1DanJ4X_N09_fpu0c5sHQAfGLdIPLITBVAVWXEaYMqMqy68WL8FSETgXmiE-YSsPgqxbMqunVSIfCpHxA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 422,
+    "coordinates": {
+      "lat": 36.1595116,
+      "lng": -115.35178599999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJWS5JgNK_yIARIjEHkWWUsXY",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=8552780331299057954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "90 NINETY Bar + Grill",
+    "address": "9090 Alta Dr, Las Vegas, NV 89145, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "http://suncoast.boydgaming.com/dine/sc-90-ninety-bar-grill",
+    "phone": "(702) 636-7111",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJaYalS_K_yIARJ7npiDjBWRs/photos/AWn5SU5txlECw_RCTW0cf880puB5nyev60J5TboFeMTfo3QETmM8bLZm7dw9yttB1OPLQ8MBtsVUQH1Ti7Nx3RRayzTtUpGMRGuWHFbCo5olvSLCqOUs5S-M3fkhKdffGXrJWXkOASCsdKdDZem9T_RJkDICfIzt5nZig5u8Uw7V5TEsPeuVGFkmYKxWVjSqm8TvN_j-8SNjNMdUzJ0vXVQdsY8bl4fFnaI7GOW3k31-9FvD2rTemAmeR3gxjUAa4gPKqLbWrWoUsYz6I16BLKUoCR7VB7-s2m9-eh82ZxmSNklkd3xUXE8osYP2E8FKcz7MrGT76HajVUJniYjv4jrNgV8ErQ6yUqWMC5H73rwNbQ0pqzGsG6oaH0fI2hpXnL_zgPptj5gwh0LhMhP78OQaoUgkuOr4sEIENAVM40P8aY8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 358,
+    "coordinates": {
+      "lat": 36.169187199999996,
+      "lng": -115.2900938
+    },
+    "features": [
+      "american_restaurant",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJaYalS_K_yIARJ7npiDjBWRs",
+    "opening_hours": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 PM – 10:00 AM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=1970818760510650663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Las Vegas Brewing Company",
+    "address": "3101 N Tenaya Wy, Las Vegas, NV 89128, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "http://www.lvbrewco.com/",
+    "phone": "(702) 333-4858",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8ery-EvryIAR48xZr-7_4k0/photos/AWn5SU72eyqIOjI8jGfoYPndNbOG8JPqRGDGYZcvk3ouA9D0db06ZPG1uECE5NY8zSyE5gTuV_cDXUQoSo4DAhIQlZshMxwLfIvKtbEJrqcJeZ6UwEpwc6PQ-Utgx2Nmkvealu-8PPP0Ch2WYObYuEqieSWtx5U_8_aWEICGEuL6WCPwsCCuU1vTdtf1Shxt9ODp3lo6-M4uQQ9j2dmJ9v-X15iH44CnLQl2xLgsvHvFIOd7Oo3RuOxEt66CtyspHrGNdzREXJc80iEOLpQz8p6XGKKxoENW-1iSIGSQyicwGM4/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 313,
+    "coordinates": {
+      "lat": 36.215907,
+      "lng": -115.25126999999999
+    },
+    "features": [
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8ery-EvryIAR48xZr-7_4k0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 9:30 AM – 12:00 AM",
+      "Sunday: 9:30 AM – 10:00 PM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=5612329486266256611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Roadrunner Saloon",
+    "address": "921 N Buffalo Dr, Las Vegas, NV 89128, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Always-open, family-friendly bar & grill offering classic American fare in a modern country setting.",
+    "website": "http://www.roadrunnerlasvegas.com/",
+    "phone": "(702) 242-2822",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM96kf2rAyIARHpkgvnaNdXM/photos/AWn5SU7a9NWZF1dsYRHQMSVHN7kT7ofMbemAlz6vRgj3OCNcc6u5_IeUXktz0sCQJK0SLqn1cSby99GNNmYA8YdbaxQPyWD5JTvWaTatETiwIc8h3cnT4pm1NHxTububCXPUDaERF7h4e2NwOhsdHSIht4B8lmOS0GmXZLwG41wdzIQQG97tw4OgBLyoV9uefw2bx29xT6NRDXR7-38sIyTcw-tiTf8LIs4wfcd-j2aQRmghwYBpBdOmhVGoTpabHMU-BBcrdJ28893wrxauUIoARCrmDT5Z8tztAbaXOd-9giCYxP33M6ipe1t_C38kteRjH4MHHyj515DQagoXaweeLvll6VPZ8fORZy_WSPPs-32v2F1bVmgUwOjT01MDzWQxbZNS50nSK6vhGEyb9ROavYFlgJr5070AVLWCAvnM_rkuFqM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 495,
+    "coordinates": {
+      "lat": 36.1822245,
+      "lng": -115.26027979999999
+    },
+    "features": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJM96kf2rAyIARHpkgvnaNdXM",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=8319711427772324126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Todo Bien",
+    "address": "8533 Rozita Lee Ave #110, Las Vegas, NV 89113, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.todobientiki.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6cLV2s_HyIARGaddQEQK6Xk/photos/AWn5SU4bFeB5-H7ZMtfy1FyoAqxdMZoRilxsRjsiCNm3Jyllkqu9byYXMPwaOiock_k6qikMppIDSFSjM2QF1PXqkPCh6pxGxeSzx3rPY2L01grwXk4o96rf9AG3X9ja97J6ipYLmZi2ZVUJZj1vdIirKf9wHWRUnghyB2LItevr4TPHidjGUBLZtK5mu5C91Y2FChHNRv3IEQM9VhQrQ25DRa0-Pr93PqFwxSOb2Ktvx4lEGT2GcD48Qe9vRHdqDvoOi8B7A6s3BCwLPB2c5GoGrjcI4GJKlZoEqBDB-WHkWjQB9w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 113,
+    "coordinates": {
+      "lat": 36.064439199999995,
+      "lng": -115.2774698
+    },
+    "features": [
+      "bar",
+      "night_club",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ6cLV2s_HyIARGaddQEQK6Xk",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:30 PM – 12:00 AM",
+      "Wednesday: 4:30 PM – 12:00 AM",
+      "Thursday: 4:30 PM – 12:00 AM",
+      "Friday: 4:30 PM – 1:00 AM",
+      "Saturday: 4:30 PM – 1:00 AM",
+      "Sunday: 4:30 PM – 12:00 AM"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=8784563836416796441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Double Down Saloon",
+    "address": "4640 Paradise Rd, Las Vegas, NV 89169, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Dark, mural-covered watering hole featuring live punk bands, bacon martinis & eclectic jukebox.",
+    "website": "http://doubledownsaloon.com/",
+    "phone": "(702) 791-5775",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgUPo_qzFyIAR64V9_zwoq60/photos/AWn5SU49OVcZ2FqVWb6zY_lnj5MVai_4leIlLdCQZCmymMuHy6tBE8KEDKlojN3DUB2sEynRZFUe-l3x_XZFON_FY9snvHI6yek6S6rG88BghRtuXen-Jlp6tc6Gcvbom1D4BedF7hkOOn7qB5VaZ4xugf3kovymRLktyloAiETXdM02JLcBZHZx6yg_62lG-8d6IEBYRvjipVUT0MRUZ9IUXi45bfnu7pdE_3dGkb8VCvLDtf61N1nvvzDUQYIolWyHYa8ADvvjZt6_xCPSSYLqup-l23RdXnA_oMwsBK865FXHa6uyBznUfOj_nuNrpq1Dhqss9lntGJEGTQjN5iVl3RlEifM6r9V23_oBzRPwPTCOv4Jgr3J3koOGR1xjSGnd__ipvt04JvlttoNGxqotmgr7TISwF_mKZPW-X9q3D-gbVck/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1162,
+    "coordinates": {
+      "lat": 36.105564699999995,
+      "lng": -115.15026180000001
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgUPo_qzFyIAR64V9_zwoq60",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=12514140232028620267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Miller's Tavern",
+    "address": "9201 Del Webb Blvd, Las Vegas, NV 89134, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "http://www.millerstavernlv.com/",
+    "phone": "(725) 600-9888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJH7h3BsuVyIAR1iw3TRKqlnw/photos/AWn5SU4FnPzgXs9Fj8ekH7nAfmfBZF31NsQoijfHbdHrJuvTbafF8nghvugRGVB-IS_ExNkp7-Ms7uWd6Mh1VNZjtUdnDF6u1xGZdLx_gFZEubdZdnzz6IHZhrRPRKVFYHsogLw2qXAZc1h5Kehz5yarZFGh0TYVcVxB6i8vtYnMx-FW_xxtRWtSIULtp0kt4kw3fjrhwl6YZSnjg_BVsdk12XXMaDSB9dfo-sTCLlQ1rFYqso1zT_VCqVSv0kkqCZwv0UrhzPZTrhlMosqdfaUS0DilzCbYx-qiczJFLJ2oe_Mx4g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 271,
+    "coordinates": {
+      "lat": 36.2108128,
+      "lng": -115.2955404
+    },
+    "features": [
+      "bar_and_grill",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJH7h3BsuVyIAR1iw3TRKqlnw",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Summerlin",
+    "google_maps_url": "https://maps.google.com/?cid=8977549902791257302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Best Bar",
+    "address": "2233 S Wentworth Ave, Chicago, IL 60616, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.bestbargrp.com/",
+    "phone": "(312) 265-0570",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-ZqP8sMtDogR7Q8a4e3AJOo/photos/AWn5SU63Uzy5cIJKwK4NOV_3z6npHsE9Gzblcg9OT5H-gaGIJ_rR_ctP8jggeQ43yvpr_uZf0iQv4G2Tes1GuFfe5fVlfO30NJDyZQWokkgFEQor03QxW9nl74PAhabMnicrGZ-EWKTPH6FYNZa-n7SmuepcjHW5dRjDo2HOWYGzPIrL3AfljIceLaVxatLYCFcy4U4CfZdGk1zsoSd0r49HJwtF16AJKQlJ8SZxfn6ZLQRWPAYda4yApYKJSMB0E_wF9F6oZVCsXyQSUMs3zHaABKLK-Qh5mokgkYQWMY-9nkFGEtmdw2WI-wIDl2AidvNnLMoMtj-tLQ6dVF_HFy2Bj5WnoLZ5_M340kTxox4TFnVa6cbD5musbPtHRIXnWvdd7_ub0a0LdyTsG3OQw-LJg9nc11S15HtxYOW_sSoKefZLwRl5/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 346,
+    "coordinates": {
+      "lat": 41.8519101,
+      "lng": -87.6318275
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-ZqP8sMtDogR7Q8a4e3AJOo",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=16871822231953084397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nine Bar",
+    "address": "216 W Cermak Rd, Chicago, IL 60616, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.ninebarchicago.com/",
+    "phone": "(312) 885-8249",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy_2x1-8tDogRAIykimdI6vA/photos/AWn5SU4btsl9o6oOYPN1BTPCl4xUYmAcaXhBq3__ML2KbCrGkNoCmMAVMdEIXsUCzRiNTl_eeG4LsshzM13Zy8jFuxj-8vEVYeMxsggAY0HaywsRXz4wWWXMQ8Xwp5IU2DjZrJpduNz4RE6JKIUThoUBHgWHjeA1FWHiq8ahEXipEvqlN7WnQParTAyWMTJfVvaRuNWREc9DrG0mAT25wjjSR5jKfoaDVjOqpoyKH5VF8Gmcyxmha1MmP6m7aYWVlVCDEeXn_Fu2jpuWcjJt9PQT4E-sz_FQFSCHoGwVZCfptE2xJslOuw9VFOdAY7d35bLO4Qwm5mCCLFHcfVF4Ws056yuE-PQEvA2xQeHDJPmU2ksTtNwIvYkwtcNqylMCDWD1hXAoo5Bq5HBeB7QQUf_6OtjMaytXoZFscefruWkszW8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 386,
+    "coordinates": {
+      "lat": 41.8531609,
+      "lng": -87.6325399
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy_2x1-8tDogRAIykimdI6vA",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=17359767323197869056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Whiskey Tavern",
+    "address": "79 Baxter St A, New York, NY 10013, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Local saloon chasing whiskies with pickle juice & other drinks in a laid-back space.",
+    "website": "http://whiskeytavernnyc.com/",
+    "phone": "(212) 374-9119",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPezLOSdawokROjWJSsqLdZg/photos/AWn5SU5rhNI_QqwRpEGutcwey17eVpt0pqi2ZtTmuqLIN00tYvrwailXxnOLl7QJQ9pOZLrwsrKtoPJPNS2h4guHNMR85FCcb-2hnksolfDc2Z8YmoTP_RAziutabI9P17T5y81V8_nKIHQszM8l7SpsvO0t_UV4IIzopOw2zUoVfXZTfJ5SdqwYIZlgjN269w5TR5ayfF0OPRBOeM5PyPwO4FA4LFQedbbzvQ_R8Vu7CQc4qGFv6dr91AjHwd8eLGe6CS4y09SnhpoLoMFLenO9PW4212zePTse2hlpq_l1h18RDw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2148,
+    "coordinates": {
+      "lat": 40.716477999999995,
+      "lng": -73.999749
+    },
+    "features": [
+      "bar",
+      "bar_and_grill",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJPezLOSdawokROjWJSsqLdZg",
+    "opening_hours": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 12:00 PM – 4:00 AM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=10985840566990353722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "SAGOS @ SPRING MOUNTAIN",
+    "address": "5020 Spring Mountain Rd # 7, Las Vegas, NV 89146, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "website": "http://sagostavern.com/",
+    "phone": "(702) 368-3870",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCSXYCbfGyIARLyAvC59c1B4/photos/AWn5SU6uBVcQ1NlPKqwb6basqhLxUOOfMvjC16Rc_qv9td0LI_WIIMP5kiJQ-JTIOY-tK-29RYle85Zx6o7wv6F2KzZRtB_A7yxiOu6PBNAsT9LM9zQnRvwSF48FQ0LV0amRuFa97d3znJ0Ih5hsiySJaGCejcbmn9sSEMmtcMH4bZaKB03Pg6JLQtPmZdrFqjGcA6T1I-h5BGbV1WGssj1fPvzIeMdIXDuU3PbckyDVjgDZKHVezxHUX95PUIIColBoZqf81Y42sQcLPc9-GdPLW-s7d643r_jCFHiScmtVw5I_oY_GVVmu1Z49hwA8eaz3FETuwygcIhP7dcN4IgfxRh6HIXh4U1v3Rx3vIdi2JGcvm-4_crqvhTZkX5LoPf9Gn0Yibt3DkzTjUnq1kMi65Wft3INEdb9N2_hte7qf292xEgsO/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 139,
+    "coordinates": {
+      "lat": 36.126467,
+      "lng": -115.20938900000002
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCSXYCbfGyIARLyAvC59c1B4",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=2221502354357690415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Li Po Cocktail Lounge",
+    "address": "916 Grant Ave, San Francisco, CA 94108, USA",
+    "city_id": "vegas",
+    "category": "bar",
+    "price_range": "$",
+    "description": "Long-standing no-pretenses Chinatown bar attracting a diverse crowd with signature Chinese mai tais.",
+    "website": "https://www.atlasobscura.com/places/li-po-cocktail-lounge",
+    "phone": "(415) 982-0072",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-SoKrvSAhYARbAg1GWTspfo/photos/AWn5SU4ztsBBuy-VbxRAOQB9-0fkalPWqRilkWI_Y9gfYee4ZJOvjcZBdlfS2PWdqBiAGNoK-ZP71f1jqCHin0ljEZppJE9VsZAZCgho4-gScTIb1_gXGCqsZlBCRH0ODJ-wROC8XTialQTqyAedU8XrmitwAfWgYp5WXC7rhEwek2epLlhVBKYnuNfJawV94yHshMWdS-ucaY_jCdEMJHEcFAdoMmQP4nfL37PCVgVYP3DzgPEWpafRJoAe26rcj8nvEcjK35-tgXKIAAIA6Uk8i4I-eU-a7gAXlkicqBNSUEGEjqdGFHxcjwMQD2HFhZ8M7SUZ67yTCzxp0K2RGwG-Scfyq89lBvWl3B1fsNl1JBjyAK6C2eAfRgmdp5c9BLWu1tuKr7I1kOPnDBAnSS852X3dRaX25x-OQzAP3QzWqpzD6Ztx/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1036,
+    "coordinates": {
+      "lat": 37.7954201,
+      "lng": -122.4064584
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-SoKrvSAhYARbAg1GWTspfo",
+    "opening_hours": [
+      "Monday: 2:00 PM – 1:00 AM",
+      "Tuesday: 2:00 PM – 1:00 AM",
+      "Wednesday: 2:00 PM – 1:00 AM",
+      "Thursday: 2:00 PM – 1:00 AM",
+      "Friday: 2:00 PM – 1:00 AM",
+      "Saturday: 2:00 PM – 1:00 AM",
+      "Sunday: 2:00 PM – 1:00 AM"
+    ],
+    "neighborhood": "Chinatown",
+    "google_maps_url": "https://maps.google.com/?cid=18061101795303032940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

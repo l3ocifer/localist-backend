@@ -1,0 +1,3727 @@
+[
+  {
+    "name": "Boxx Coffee Roasters Co.",
+    "address": "950 E 3rd St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://boxxcoffee.la/",
+    "phone": "(424) 313-2533",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ86h8F6zHwoARK1OHnLCZdw0/photos/AWn5SU7Xmor8SEcK7kGEGFRoqJSmaztryhHR3JYsSI8oNAMpuLsLVTmC-5J3ws_2VMDbQ8BByasfqbDpsYYn-5MK-Rh1w6CnCV5iuWS2wKkB-98f_X_A2OYFJ3zEz3ocRQW3xdkw83ODhAoCVj3tMKAjdMRrNgi7DifLuTFz94zXSl6VjkWHRa_lWV_3ltH4SJRty097YlpdBuD7AcMuy0QKSia1YT-70JhsozzcnZK9inh0M2fNBHRqNrn9ke05H4uG-IhHbA9bPhCfLnTeE-rgo6pyfk_761su3JOPoqNve3_pIQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 235,
+    "coordinates": {
+      "lat": 34.045786899999996,
+      "lng": -118.233556
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ86h8F6zHwoARK1OHnLCZdw0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=970413228541039403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Andante Coffee",
+    "address": "816 S Grand Ave, Los Angeles, CA 90017, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.lacoffeeclub.com/roasters/andante-coffee-roasters/",
+    "phone": "(213) 628-3670",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJffzA3bXHwoARTef0MNIAN2c/photos/AWn5SU4f8aVVlVOXEoNHs_KoU33N96LO_r999BDdmPrhzspkKWogvHJJ5RKU_XS2pREAhsbSPsudGcsQ9cwJkY2nI9T-BWKFpNMwfmMR5zurUek702JspQKbRT5msWe1_yYIBRIrXQBtOSCaRaq85fFsToTJRYqzeoQczDZ-94UDAz93pyB1ckY7BmBRTwH0KL0EpcfbX8jQHjZKXW6OAE2hsrSysW-eM-QGRSDwea207-zz7xQA1U49cFx9t0_Ue2VoMxFUbYFaP-sPker3qXD3Y2oQJ1YRDDD1w-B-J5Nx2tf40waShKZPpAxSvF6azwmCWT3kRESEPZRgs1GsT2p9u17qB2_hynmvn_U1onl4Qe3VN1poKKZh_WCGlbyi98Z84w2P9mp_HAMFxRgnGlyPFWXnzhcFTQ1tNo0j48k8SLuI0A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 219,
+    "coordinates": {
+      "lat": 34.0452636,
+      "lng": -118.2581226
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJffzA3bXHwoARTef0MNIAN2c",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7437414212390152013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lab Coffee & Roasters",
+    "address": "429 N Western Ave #5, Los Angeles, CA 90004, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Coffee bar serving house-roasted brews, baked goods & accessories in relaxed, modern surroundings.",
+    "website": "https://www.labcoffee.com/",
+    "phone": "(323) 465-6788",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw8OjwqS4woARRrrQVEQc00I/photos/AWn5SU6FQLNnqTVdpaCig1bkB3BY_KvDILNcJJsfaYHfWT5hMH7x_1Ze4mN0d4b9JSBZUaqjHDRXnzhgWSJh9ItyzbVg5VuDhcbwAMkHsx5dgSg8bFZOYLGcGQ2lqp6T8dnOR1boL9w7LIInAM5nhCqFiHSxsl8cEitlXFIBQUe1tjtKcy_zU2rHDWXh4m5qLFfubdGucjAGCelxYanP6oOmiA7LIlcPZTn7BXmYi3Cpfc0fpTucMpWHu912N6xxCkkK-AF9Iau0zOfP_ToWBXctbeaIuR77qf_reufwY6y0Ixevt7qW8osaP2tvYdBpQjdKHO697EydHkS-8mI4lZpzKQoNfG09azQkwqravvo1J8bsNyyPkutHw36WGuM_BYm3Lh6L2C2yLAv8uJFC1yN8IWOc0HQLXyD6A4bSXgrcIBL71Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 289,
+    "coordinates": {
+      "lat": 34.078866999999995,
+      "lng": -118.30936960000001
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJw8OjwqS4woARRrrQVEQc00I",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4815223506395511366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mad Lab Coffee",
+    "address": "5508 W Pico Blvd, Los Angeles, CA 90019, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "http://madlab.co/",
+    "phone": "(323) 244-2577",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJ3W9HjC5woAR3Hngfr5GqdM/photos/AWn5SU5aBmOC40InHBrrTG64WaknzkkiCMB0gHdus5NQx8iIHh6KXXMMKf7Q7YXQIYX8FeaB51wbnLEXACpqvFKZlWdzHkzToXBNGoaBe10KNxybrEB5pRQLu370cBrUgSswosXqUtonioSZE7J8SGxpylPDUWmELXdkovn3dfwbA02gzfOjGGcCGrSlEDcVxeB5neo4QMIzTVjhPrSG5BRIA2QW1J0yc65RNeoF2sGihr9vaG5mwqa3JdUo76w27ZshzUCs_6x38mxuy36JoD_SFdnAgHP25TVBBXl9AVzCtEPP6_H5HTGL_f8bspv4jWkITO2bx65jKvaYRD1i4QwHqfGm98EGUEVv-uzAl8pC3OekIfT8STRCteUgeJGNdvdEZ8anbo5nJl6q3RmwBxgUrw74_7nMQMmLRsh79HoypRvs_A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 127,
+    "coordinates": {
+      "lat": 34.0489342,
+      "lng": -118.35826929999999
+    },
+    "features": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "wholesaler",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJJ3W9HjC5woAR3Hngfr5GqdM",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15251799397053266396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Verve Coffee Roasters",
+    "address": "500 Mateo St #102, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "NorCal-originated chain for thoughtfully sourced coffee drinks in a modern space with wooden decor.",
+    "website": "http://www.vervecoffee.com/",
+    "phone": "(213) 419-5077",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF19f5jzGwoARu-BbiXuK5g0/photos/AWn5SU6Y6Uk68zeXHzY_8GIEfLqfuzA_5qcH1Ygzxe6utxHB4607gC6Nzx2YiU5rSI-NgYsC_fm2JDNjT9WHxqMds_nsYMpeEp_VlsLZQnMcQmcFdfNeYnZbvKjQXLn5eYfcagN25CrnMhUOeBYu6fh1iFS5rqnOpBKm8vVrpgXfBWf-upPXEJRGBFf_vkTAEJlBf-6CajPScGge4t05F60GlNLPRbaSoi40Tl65mpQrO5T1fQYiFiq0xYJUVSAs-z4RLzIbnIKbu2mqXrB0saCpxqA4O99QV9n146upW_Fe7DvoKA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 665,
+    "coordinates": {
+      "lat": 34.0414258,
+      "lng": -118.2327019
+    },
+    "features": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJF19f5jzGwoARu-BbiXuK5g0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1001640230326624443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alana's Coffee Roasters",
+    "address": "12511 Venice Blvd., Los Angeles, CA 90066, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "House-roasted coffee, espresso drinks & baked goods offered in hip, modern surrounds.",
+    "website": "http://alanascoffeeroasters.com/",
+    "phone": "(310) 295-0099",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoSHSlV66woARwMoNSGCISmo/photos/AWn5SU4aSH5dz9PjHieA5lhVRNn0polEQMiFs4ZmLLSuKSbZ0u1hnp61v25ooI8cxzK8gdpEqpKwWCSrqDZtlvU1T28dIrFD7BzdcaX6Uw8X3t1TxTy0pMfGqzqVJpOEEDMHy02hbGdB4pEYy8gpZ_tMr_ryMvCj-dqd4xdGfMus02PIBfkKnvxvOHw1MxnTiTMOOg-l_kalT1gXDMYAz3-CrQVfMTqbC8POrCMTFmyHzuFnEDHuIl9mjvDPJWpuDsEK5TmqFfbasmEMJOfVlfhGKhniNc4LijxCBYchuDVB8vCm6w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 978,
+    "coordinates": {
+      "lat": 34.003312699999995,
+      "lng": -118.4349687
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJoSHSlV66woARwMoNSGCISmo",
+    "opening_hours": [
+      "Monday: 6:30 AM – 5:00 PM",
+      "Tuesday: 6:30 AM – 5:00 PM",
+      "Wednesday: 6:30 AM – 5:00 PM",
+      "Thursday: 6:30 AM – 5:00 PM",
+      "Friday: 6:30 AM – 5:00 PM",
+      "Saturday: 6:30 AM – 5:00 PM",
+      "Sunday: 6:30 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7659084063404051136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "1802 Roasters",
+    "address": "1206 N, 1206 Cypress Ave, Los Angeles, CA 90065, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://www.1802roasters.com/",
+    "phone": "(323) 352-8805",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuzqIfEHHwoAR1rUiG1-OMVc/photos/AWn5SU5HZmGZvsi2UPxfU8KgxfhyIwtY7T6MzAY3QrCcEo7Q_ICKsxmVRZUMZyXqGaOlyB24oX7_-ZuWWFH3kkyueIaLs3BqsArf1tu_tn35tNrVnn741bqbztJ7adCc9UHFj1uUEN4h_X1uI-Qkj56ePleci11rApa8g15zMZioMzUwTwEqmVI0MCpO9KVgA_seHPKwt3VahDnt81nJkwYIN1a8krQEodDgYSaXKt-eSD0B_03cNVXy22Q_GwlDnu9FFjAqFFfI4mL5-0pNKSDoU0t8HCONyx7AQixQFqHcuwc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 107,
+    "coordinates": {
+      "lat": 34.095231999999996,
+      "lng": -118.22838
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "brunch_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "wholesaler",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJuzqIfEHHwoAR1rUiG1-OMVc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:30 AM – 3:00 PM",
+      "Sunday: 7:30 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6282959494286849494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Coffee Roaster",
+    "address": "13567 Ventura Blvd, Sherman Oaks, CA 91423, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Cozy, long-running coffee shop showcasing a variety of house-roasted beans & loose-leaf teas.",
+    "website": "http://thecoffeeroaster.net/",
+    "phone": "(818) 905-9719",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJz8GlkyiWwoARwOLj1qvUgDA/photos/AWn5SU6OuxOv4P1tGh_5aEOFizWU_In67mS9r4ESG8dzeWVbulXAP5vE2v4OjirUqnxec48L7zqq9DvxPg0z4i1-DFs2KvAwnWtj7lMfAVZbcb1XMtejTuiCeICtHkHBitn_EMsmep0pb_DI5LchXyRdMnBbm_YEwKGiVYbyNvJqBQOnlTKb4RsWTSkEcZU46F4_0naxZ4pk5T56PaQtOFXCpXTPzAT7g6e6zhKRGLMDx1XN8Us_XOi39ZS9qvR0Y0HnlJ5L0Z27MKtoxMMpD4qj85qK4FHN76L2PFrrTGHiHS6zE9Nx10d2oC7bCtqFBQ6RmfTNS2--3ZKLa2rf-dfPlr0WgJ8CDf-pSuDlPYD85lyL2GrHvV3VKYf8N2cVq0I_lOoNWyJzRel2MQcGCW14kx6d0sYCFuMWPqfCIfuIOMrOjw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 301,
+    "coordinates": {
+      "lat": 34.1479332,
+      "lng": -118.4293223
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJz8GlkyiWwoARwOLj1qvUgDA",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 6:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3495027145349259968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Canyon Coffee",
+    "address": "1559 Echo Park Ave, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://canyoncoffee.co/",
+    "phone": "(213) 905-0722",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXTqttEHHwoARFC6wPoE4fOU/photos/AWn5SU48VQ3gkkWwxthcn8Bd1TlKfcvjKajFDVbJZWVXaoFFYkiNO9NXj0YPg5DHQs5RIkR2iFagCFwGPY6maCNqTeVn_XX5DWWDGQ7qR5jaSy4NWsNtiW67IcHRmN_G1l_TEV9kyTW9Juc-BtAT2mFSNIwUuvqv9v7t4tM2_f4GUqgwAoD8VLG6tgCYtmtl-bHVn04N05VDQb9Z4jVzB6RpESXN-Z3CUtgWqgbnYW_z91jJ9NX0GcRyu6WSkTXZv1cUuJVBRXqY1Lp0nLACA3x1u-ikYTdJpS-AcN9VIEUWS5c/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 214,
+    "coordinates": {
+      "lat": 34.0813787,
+      "lng": -118.25473039999999
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXTqttEHHwoARFC6wPoE4fOU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16536154059551288852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jones Coffee Roasters",
+    "address": "693 S Raymond Ave, Pasadena, CA 91105, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Welcoming coffeehouse with global roasts owned by a family that has its own plantation in Guatemala.",
+    "website": "http://www.jonescoffeeroasters.com/",
+    "phone": "(626) 564-9291",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ18_Dan3DwoARks_vk8taqMU/photos/AWn5SU4VmDTTQqM6NHpZJSWrAAGCBrJPfOEk4661RSPu1FFzyxh2tcaAIDPcLjo4TB56K8FNeTueLbttonbphreX8MrTvfrulGxRI2wIm3ALdt2yHyfLa5XqaFxNxGp1gLUvK95pgB6RlJqI2cVNO-7x5B7-Hhd2M3ONJZWOIXdFTgAdz6YkC6sF-WFRgKWD0_mjTDY41firrt1G1pz1g2EJ5EyYkGQbaoqthIToIgJc6VFHKU_0uPcEC81cS4XbLsyIFYOxpUfoH6mHQhKFcWIfbeH6jXo2F88D1iMSrUzhZGwYZA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 732,
+    "coordinates": {
+      "lat": 34.133849999999995,
+      "lng": -118.1491583
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ18_Dan3DwoARks_vk8taqMU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14242733651966021522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Be Bright Coffee",
+    "address": "7311 Melrose Ave, Los Angeles, CA 90046, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.bebrightcoffee.com/",
+    "phone": "(213) 474-3419",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLT7KClG_woARhhWnGCrefVE/photos/AWn5SU45Fmmc832E-HBu77pY8V2QSR0jWOGLGLnecnrpQmyct4n9TjhAV-j57dpCGeAtZBQIvX__8LH_lDhaHkThcwmEdlPWYb2O34YqjoFML-So7MT55YGKCeh6N4Nz4S1k7v-l876f-kAfRUoiO0VcB5ulaM38XWcf8ey_mjXy3wn0LYR_CuppOTdpixTpPQlC-C_YehgXO66scFSoDDoLQQSFNsR-cs-JiGye8HZSZXzxpKjWJV41QRbNce2byfaRjq7GT1JjJKjxhOBXyGXs234qTlF9DlmSpKvUSkdjYuNRl4YJYHupaLOFR88H8Yt677ytwb783NwVruTpCWTfT7xUMZOsuajR0YBg6ux08-YsilFQM86uqmR1sNEm3cjs7kGWMa7JvovAXa6S5Qj8BH3L72vNql7xRTC9zUEZr4jKtt3y/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 136,
+    "coordinates": {
+      "lat": 34.0836766,
+      "lng": -118.34921059999998
+    },
+    "features": [
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLT7KClG_woARhhWnGCrefVE",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5872093761544590726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stereoscope Coffee",
+    "address": "1501 Sunset Blvd Suite B, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://stereoscopecoffee.com/",
+    "phone": "(213) 265-7099",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgcifKa7HwoARcP9SQ3hQcfI/photos/AWn5SU6G5M0KWwPwSwANar0O6fHJa3cXCUXfvdhVkCzpZn1JJPoDMSN0OKziuykjjz5qj9OxaRO9mjihq9VOxdHX7GbmehcWWtdepE0kKtNa1izRSqciHfyaZoJ9HLOkKaskP1uHQXrOZW7GczAxMuWGZVSKH-wIFCl1dYLrmxNrf1LQKH5A-H6PzODbG8QiG3SRATHxcd1h3UZeCNz6pDNUGeAhIAZ6Q-_46Sys8QRAGsSa6DeITLftS_gxXmFmSjsq7f3WG-l5Ldj0v6esCXu38QaEQ9Pge2RUSn1aYhClgjBzog/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 304,
+    "coordinates": {
+      "lat": 34.0760901,
+      "lng": -118.25524340000001
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJgcifKa7HwoARcP9SQ3hQcfI",
+    "opening_hours": [
+      "Monday: 6:00 AM – 7:00 PM",
+      "Tuesday: 6:00 AM – 7:00 PM",
+      "Wednesday: 6:00 AM – 7:00 PM",
+      "Thursday: 6:00 AM – 7:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17469832907002675056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kaffee Bohnen",
+    "address": "2800 W Olympic Blvd Suite A, Los Angeles, CA 90006, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "phone": "(310) 200-4373",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNc_VIZDHwoARqHPD4WZJr0s/photos/AWn5SU5zeCuX7p0hWrDhwwJ-rzugAF_oHLNmJKhoOP4Jg0GvRwh3fCMssi5rug22OtmsaswnzE0JwFNP5c3xUON1-aCGKyOOHhen7X7JejiGyiOPnFFHGOFsqXO63VE1VZVwPtVEqJ6ruQEp4epbg6q2ZYlKtwWcWKoffni5j02Csp5ANVwkO7QRNFKTos1L5rT1FWWRGjqpchXopW1JdOzBTxXEw6HE3hsTL22QfRJr02BEnG7XSYnM5Xt8DXetd7MLtly6i8P8vjGyiYNt4ffR8WdsmIQL5O8ZvafrGmvZPVpNBMVACTMTqfrJUehwt-GUeH7y_m53lqffeNVnO4Iu4z04s1jsZ5oup6Gp6h-CgMgglV-9OUlpmyxITWIugONuBB-Rp6lhRIjEoOWoT7x0KROotOjuloq2CeIYl7M9IcMc3Nvj/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 119,
+    "coordinates": {
+      "lat": 34.0523166,
+      "lng": -118.29507389999999
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJNc_VIZDHwoARqHPD4WZJr0s",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5453658379992134568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alibi Coffee Co.",
+    "address": "1798 W Washington Blvd, Los Angeles, CA 90007, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Hip & bright cafe with its own roasted beans for West Adams locals to hang, including pool tables.",
+    "website": "http://www.alibicoffee.com/",
+    "phone": "(310) 951-9929",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJxOk93q4woARf7CMc10Mh7U/photos/AWn5SU5a4osxvJRuSsEejAMoh0R-0PAHfBvfzix-hTFuoE9lpU37UXa5-VpViLESgLSEOj1604-5PcCX64Y-iCQVlTN-zxQ8rq773wop3ajAYqjZyDsB4Tf266AKrfJkD5n1t-P2D58d8LnoQdQSaFXzJNnvp4XXTWt4BaedqENhs8I0eUqVA024xV1WOinGhTNbLm3IbhZbAoNRQmQnJgohHHPLHPmfFgAn_a1bdr2NtIp7sK7wycZ73HXEzX3sRT6pim0EGx1a2_3LCJ4ID03_TRQCyxQPVzFrssHkrtG9EBsvnQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 214,
+    "coordinates": {
+      "lat": 34.0397999,
+      "lng": -118.29729139999999
+    },
+    "features": [
+      "cafe",
+      "event_venue",
+      "wholesaler",
+      "coffee_shop",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJJxOk93q4woARf7CMc10Mh7U",
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM",
+      "Friday: 7:30 AM – 5:00 PM",
+      "Saturday: 7:30 AM – 5:00 PM",
+      "Sunday: 7:30 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13080437238230986879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sharp Specialty Coffee",
+    "address": "3421 W 6th St, Los Angeles, CA 90020, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "phone": "(213) 674-7644",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf-qF4HzHwoAR6MJpZLjmjlw/photos/AWn5SU6Daf4HOnJEYZUVm3XNgXEhQyoTnMezAq5I8wXrWqcCU0rSqc8WCHGbR4G1XULI-75hGxMd9qHAd7dHhX5Am3TM8uIKsJQ3YdYdbPTJuar-MR7lNSO90YOuKNyJrOgutBimw6JPxfzyJ4VYlv4s2OlTY3YMp53pVwqwyXlHkGIbD7eo974rjUbN7tQnlRTrUWorKIyfJ9LRSSagjk80tsXgvOun2eEViqTZtZih9wjfHZ0FxodrXI0RfzW3u7ggFyqubLKcVkXhuT1Ccd35333OI7IizItea2vyGgUsefAcLgBgwjFQGQxPBG99GNKXmp3rTPEyTa45LvaJiuqE4fvydS5GPP0rMzaRxxAePd_ilvB83HSlh3tu2iPwGmPTcihmy1zdQG865tgPH762tdlR0uD8R4fb75hKctPEso9q-w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 260,
+    "coordinates": {
+      "lat": 34.0637459,
+      "lng": -118.29630159999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJf-qF4HzHwoAR6MJpZLjmjlw",
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6669521777815306984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kumquat Coffee DTLA",
+    "address": "545 S Figueroa St, Los Angeles, CA 90071, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.kumquatcoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV1SQsffHwoARtSW-Dft8sOE/photos/AWn5SU4Uz7W8Y3TNiKNVatx7WipYHtnw39C9emMMGtfOvTbEwv_2IWptSREZvaCKQNsu2OnXdeFle11mXcjXN2Gesn98QyjK0FOs-7W2RJZwfq7pIFD2ZdRBDx15oOmqyDR7mM3Q6F0OXsorRJyqGZDbLCFa_Y2Pg-0JfbVUJjC6-eJv0Dx7NCEldRe8mKEPf24n8ZGKAoBzt3iPMD-dJD5tS76j8FvRVsV2aO7w2VHCtq9Pe6OtwF5ujQ9qi_uJ7uvldlhNmU21QDscK9JUH7v88IPP3Zjm1Uly3s8JLMXE6ayz4kgLAqhvsNU8HcRMem30ALmjWy7APdwGdEO7sEGvedsKWw6BVmrZZSSWepbHqabYt1X6Kfu5vMyw_rL86qzOLrSsL08oeFMzQrTukWGfC5_5NcFyV9x_Xn9TYQssCdeLEZ_N/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 161,
+    "coordinates": {
+      "lat": 34.0513355,
+      "lng": -118.258289
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "tea_house",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJV1SQsffHwoARtSW-Dft8sOE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16262635672144061877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Latte Shop",
+    "address": "228 1st St, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://food.orders.co/thelatteshop",
+    "phone": "(213) 999-3834",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8dMqhGHHwoARPgk9O1UPQ3A/photos/AWn5SU67kK2gCgGc5v8CCuD3EsS720g0lTchzfbp8HYjnSkti9D-NIBtGrGPUOXwf3195r0D89QUXHzQeOfEzoDXhOITb8WcVWd2YBalLXfIcj2bIKpz6_Wr8Inhjpq3nYC3BX2g4h3QD0DLqXR_-ktd8mJlscrBUOPVbptpLVsaX5j72dKJXJCHRqMWtZcKPLVvDyIOS0CXuqIijk-09vgapD_p8gY-VmK5VlpD2RYkD8fBtIhuIb9klEWCGw_6LR2VdcC9lWeR2tb53QzpZErAXkPKRGxQLucssVdFhTuMFbkoD4gPlOKHqgfrgIjjcEYTkE92e7neWpGrTmybZI7e-HL3SChIbLlvrQxui1k1uFhzRS5K0k7YQqdJSXd5ezqhE_Fb76JwkyT3UEw7pEdJd9-JQBAR2eyyPO4wtIN5LT2TQw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 173,
+    "coordinates": {
+      "lat": 34.0507436,
+      "lng": -118.2418355
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8dMqhGHHwoARPgk9O1UPQ3A",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:45 PM",
+      "Tuesday: 7:00 AM – 3:45 PM",
+      "Wednesday: 7:00 AM – 3:45 PM",
+      "Thursday: 7:00 AM – 3:45 PM",
+      "Friday: 7:00 AM – 3:45 PM",
+      "Saturday: 9:00 AM – 3:45 PM",
+      "Sunday: 9:00 AM – 3:45 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8089326214428035390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aquarela Coffee - DTLA",
+    "address": "601 W 5th St, Los Angeles, CA 90071, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Farm-to-table cafe with Brazilian roots serving coffee & espresso drinks in rustic, industrial digs.",
+    "website": "http://aquarelacoffee.com/",
+    "phone": "(213) 220-6815",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLawVQ7PHwoARdO_Vmm_UONk/photos/AWn5SU5UUriNpItWnZaYDkaSyecPZMwTaVIPC4XL7tJvDtpTxzlDPUsOCfgcAWcluXLlN0hu5XbLP4uqhSWujlWkQ3IExsnJcWjNOfs7Z7ThbFFbBb3MlEQjxSLFXtfWDh9Y77F-XBkLyqscGCts5_tC6OYSgYCD2IPTgYWrn6TXJBZEa5XR42eM8_x4kpFh6jHmvao_7891EEa0zRyujrFKPG5tSBS8ALjWz736DNMNQQ96mkkC8aWOC6XMdZ9xzG6DNjr3ES8djfhz96M8Bftj0LSed_VESfoOokNOivb8nvVkUA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 133,
+    "coordinates": {
+      "lat": 34.0505484,
+      "lng": -118.25391189999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "wholesaler",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLawVQ7PHwoARdO_Vmm_UONk",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15652494080730328948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tilt Coffee Bar",
+    "address": "334 Main St Unit #1, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Small, minimalist coffee bar with artisanal drinks & tea plus a small selection of baked goods.",
+    "website": "http://tiltcoffeebar.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEQ9M80nGwoARorDim0d6_Oc/photos/AWn5SU6TtzTzoIjuIY9OyT5yIOLmTtBnYvvxhVmChUqbOrkSS_pdXD8QXSwLnWTaUgZ9qOWLEtOdKySoWDrAR1mwKq0PATXxM-GQZy2h1H3vWti0FUezhIlB4Vg0InwtR3QhLq8ifOKbLB0rNa5H5c_FqIvrYyDLvtEJvTWWTfOV9dr8Cfjv_W4X3Y61uEPFO0NMYd6vpqmwjc_bo7Nm1ToHNn7BSZ6e7rc9lpdiJZhM2PsY0_vKT40SLqkPDY1Y_anBT-g6qKjnXkiAoBseksJC4wjhuBHPZ2w8ssfd-LB9i0aMfyZp5jzqtcpEwXwKHquRB18ARg56Uh2bviFchAAQGerEKiGzLwsQyvccG-ntxIL3qZTRwtQPOyCt-qI4HLOYYObfNvkL5CCzuHJP6oKw_lMtN9sq9dChQqS3bC4CxEsFXQD4xJQbOUqXp4ly2eo7/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 513,
+    "coordinates": {
+      "lat": 34.048083399999996,
+      "lng": -118.2463854
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEQ9M80nGwoARorDim0d6_Oc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16716370364869030050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alchemist Coffee Project at The Pearl",
+    "address": "687 S Hobart Blvd, Los Angeles, CA 90005, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://alchemistcp.com/",
+    "phone": "(213) 315-5700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeYExzzi5woARWbIxCd1oPEs/photos/AWn5SU7qr2Ps2WnpxElEZUnvPxeFom_xVU9LmO_NEgJh6rUDbfsy6I_DeL1l0_GO8W0IQk519miYfWwgk9MO6DDXhhTq6KGwfwB9MPbyjxZgXFmF3kmxlGkpKlbRDPe_fm7rOXCimDr3nouIZl1LLdJOvUutbX5TlQr1zjGqXnnr6gzPJwy0-wYyu9Zw4C4ecqAhglyUnJZhev8heXSlzD_7IOc02iKyNUeT8mq5PRBD5xiLdPJZ_81e5XnQZ0_Ss5ikHKoCzzxIfckPJMnM5qFIBoA-q-FVN7coRiCL4l3XvmlGWLmXAwVjig1adxWGBeNWrJ4pwJ9j6wcbxUej_L_p4QXrOeAvGw7SXjM2NQr5XABpbBjYMJ5oVzZ1saw7V1tfQjJl4Fush5EF6V7LXWy40gOC9zSluKNLPmS1GnT5HUau8w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 281,
+    "coordinates": {
+      "lat": 34.0615661,
+      "lng": -118.30575970000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJeYExzzi5woARWbIxCd1oPEs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:30 AM – 6:00 PM",
+      "Sunday: 7:30 AM – 6:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5421323349998547545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "endorffeine",
+    "address": "727 N Broadway #127, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Sleek, minimalist espresso bar with artisanal coffee drinks & occasional dessert tastings.",
+    "website": "http://endorffeine.coffee/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsTjh9VrGwoARfOkMqZCZRXQ/photos/AWn5SU4u4SAnjls8vQVlsrLJgFjsBOQ702liL9HZqYI4ahNQIOfe4caO6NxdX_hah4cu2IqhHUn0rzMXNLLUJwxoZeLLWMRb_e09fAJ0bLHnawMqr84lO2Gt_TjzTzb_rucANzEpwBg8J2qGIfi8uZZ4yBcbx2MYnb9Ol_P_JBS-enUe5p1H4XGNwDdW1xGyZsysD-Dk04ml0Z2MqqxKS_6NlgZGp7MJRKaJMvuV9zHyQ6YyDlB7gjkwJ0mov7pj5hZ7Vaak8FQCIF3YpQaG9O5zm-qDKaDeeuXSxeX-vbtmraLGcw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 284,
+    "coordinates": {
+      "lat": 34.061436,
+      "lng": -118.23975889999998
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsTjh9VrGwoARfOkMqZCZRXQ",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8378271528383211900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dam Good Coffee",
+    "address": "5616 San Vicente Blvd, Los Angeles, CA 90019, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://damgoodcoffee.net/",
+    "phone": "(323) 487-0815",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB28Ozna5woARcoL3ZFvEFME/photos/AWn5SU5AtLUk-8kY3ePzRSJr3LRtckzy9JQk9B60dsgw45ywi_fnJIqYIShGzic1lLuni0iYkcNiYv-tVPvLmw0-YLNW1jWYgdRACh4bwgpl1bPzyQMeQbMsXHzieTZdin8e706rEcHQL744_ddRDCLghFgkG-eoNTu8Z16XWJqr55cO_CfQSwd3qPA0LPomK4fs1NPlRR9kp5Re6ID-HWWvuJXsbAiPKixC3uC75jRvMYg-WYNsBTCtUi8rrccL1KaOGsuMuFo5OKXC0ZeeWPEtNDg8vgJZyWvikoCkx5D62htCDQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 34.0539815,
+      "lng": -118.3554448
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJB28Ozna5woARcoL3ZFvEFME",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13912961045669315186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dalian's Café",
+    "address": "530 S Grand Ave, Los Angeles, CA 90071, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://dalianscafe.com/",
+    "phone": "(213) 559-0009",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdc-TDwDHwoAR5WQGP6fbKwk/photos/AWn5SU7DkeV_p2CGDIkI40dJ49OPccObNtgEke4f5b_aUzV08afeTZq0NnWp00YizoEcyqzFvqZtstxuU6-dbzRSoI-B7ECw3TrRPftOjUjnMx6Zu0MnN1VkacCiF7wqEhQBuerIQbg0fFvaK8KSByfF--eNHGB7lNAMxoZh7GW0dr2XRHvYrolifYDVBMVEN1eoD_uB9H5-THbIBDa5upbFpeNGf97KyjOeqEZAxSrpCbcptxvwYZWX7VlUkUSMqFBT39iETwoY2GXRFsonOgOS8lJWRqJeEj0MK2gLs2T7CnElGQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 256,
+    "coordinates": {
+      "lat": 34.0493399,
+      "lng": -118.25446070000001
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "tea_house",
+      "cafeteria",
+      "cafe",
+      "point_of_interest",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJdc-TDwDHwoAR5WQGP6fbKwk",
+    "opening_hours": [
+      "Monday: 6:30 AM – 5:30 PM",
+      "Tuesday: 6:30 AM – 5:30 PM",
+      "Wednesday: 6:30 AM – 5:30 PM",
+      "Thursday: 6:30 AM – 5:30 PM",
+      "Friday: 6:30 AM – 5:30 PM",
+      "Saturday: 6:30 AM – 5:30 PM",
+      "Sunday: 6:30 AM – 5:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=660863281703314661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jurassic Magic Coffee",
+    "address": "1865 S Mansfield Ave, Los Angeles, CA 90019, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.jurassicmagic.xyz/",
+    "phone": "(424) 835-0598",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcf2UMQO5woARfUKkuMQX5d8/photos/AWn5SU7Nh3mk22jlJyW9fHr6jOC1_sNcdKl5BIhFXxFwXFDwuLwaxxE9IaanJfc9rKNXo-zO9KjdzAUh1QjTkvEmsU5zuCcWI8CUoLa8_5RxaW4h-AbGKwpIs7x93ptZcEzQrT7Z5cXoC4Cy8bmBtner5uIJ5OxaI6EpTPq43GGWK2GDW6A6_7dzn7bjjbEnwGVTewIjmpwZ1JMlxMIENSC2WE2v_I1DJY-XpzkrsbzBcnOtXlhgMkJ6xu-WQczU5nnBHL6dTvtvXWfIwpk6FCVHdwrv70HmSuSTYGJPq_kG0qgpzA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 385,
+    "coordinates": {
+      "lat": 34.0409463,
+      "lng": -118.3486132
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJcf2UMQO5woARfUKkuMQX5d8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16133327373803471485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Archives Of Us",
+    "address": "555 N Spring St A201, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.archivesofus.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7SJdEwbHwoARbK8FgtY2QxM/photos/AWn5SU70aQw3KMpkFRmG9ml304examI4uqG8O6FJ5EU9Rsu6dNdZh54zGMTbBsrlPdMF2VSrw-BrXldAshwTZMs-n51AeWXM4O2ph-2FCj2kj3A-iVv_iHQMc8CA1yObXNkJOsLdMt-SwpVKQvpQEjQ23YDwoT_PLflhafZPGNW2CxONHcZRbt1BsXfQrPJPXrwlu48GUwD0f3zOd2H7a63BPd7SeGQE-DOFd-lTg4Bt5nQC0eimuArF1n-zp95R92qumHsF-P6kdv2g2UiX8hQ3kT5Ig3yA8jPq0ri4FkPmrIWQ6w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 164,
+    "coordinates": {
+      "lat": 34.057572199999996,
+      "lng": -118.24084730000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJ7SJdEwbHwoARbK8FgtY2QxM",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1388013405092556652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alchemist Coffee Project",
+    "address": "698 S Vermont Ave Ste 103, Los Angeles, CA 90005, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Sleek coffee-focused spot also offering baked goods & bulk beans out of a New Orleans-style cafe.",
+    "website": "http://alchemistcp.com/",
+    "phone": "(213) 388-8767",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJnSUscnnHwoARB1l-E6bZMVk/photos/AWn5SU4g3l4jnSUjXA59tbPusxpF0VcTOcmwicEP6IYMrFF0O83Ke5STvnj6IutFihvsyYrQdsstXjHpPK9fcS-3B0xeCMAjYO9xzPvX51d0SFVc6crQ2l5EvoToeQK-qckauacGgRV4Q0EFcHyy1uXwC5mvKuXDZ010QGpuQ9_LCHECZ_mielvApq0sb3e-Lbd9SmZM63hCXzFEyn8AqyXHO4tz0gyQI_itkeKUXXKd2k8ypjP76QceTj-2HK7a72erUGMrRubKN2qKEIeqCwVM5MQYpmJ0z78twHYZmYQXGeZAkA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 985,
+    "coordinates": {
+      "lat": 34.060227,
+      "lng": -118.29140679999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJnSUscnnHwoARB1l-E6bZMVk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:30 AM – 8:00 PM",
+      "Sunday: 7:30 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6427157450549254407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jalsah Yemeni Coffee",
+    "address": "1001 S Broadway C, Los Angeles, CA 90015, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/jalsah.coffee",
+    "phone": "(213) 801-7531",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQzwNGgDHwoARh42IgTTBC4M/photos/AWn5SU5nwgdTxC1Tj38vAQnqMtuvVBTFwKQJ16TCXBCz6g61d3nEDHv84qGPBvFCiuIAWBbPfFo94Naf82Vo2cYT37OXAp9tuq7BvaYI1E3hiEIts_Tch3rDWn90o1nOB44coQiNaFhDNCWjoeOJnH8FwPEWLL8LzdSCuT_3dH68ONnbt-1-UyvfJcnXZDGCCMstWHnCgTtVQPYc9s7wWmOd68ZiogyrIQgFB7dPOovDGAWVNCQPE7flCaHlUcHof34EJex4AV26zFuJGvyiSxnp_vCljog86p1wqJ1q_unVkQ5ZdQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 136,
+    "coordinates": {
+      "lat": 34.0408286,
+      "lng": -118.25778179999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJQzwNGgDHwoARh42IgTTBC4M",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9442853474968046983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bohemian House of Espresso + Chai",
+    "address": "109 W 6th St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://instagram.com/bohemianchai",
+    "phone": "(213) 628-3086",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOS2F_GjHwoARh18Y5VQhECE/photos/AWn5SU6qzUf_HvlWPm9EspSh4oNiktHSQkamRItUARgD5LgeSakZVCaXlUOB-Sog11zFk89WXr8vG13lMl1dmO37YzETifo6ttIN8F2Xb_GkAWIyNDy61PjHfxg_N9gtuMZIxtMZHAhq-zzDvby74exff9zJthe3HxMTW6_m5Xp0ePGyP7rgcCio-W6hu-iensszWX8UqtQYmK7Mr2c3kLsb2S92NJyLxv__-Mk1lQAzxuhx5k9A9dQYp9MOdzEUidf7tyk4oWf8MxgnNiRjpd6s1AV9RylpEdGHofmZjjiQLtQcOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 436,
+    "coordinates": {
+      "lat": 34.0459418,
+      "lng": -118.2507081
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "tea_house",
+      "cafe",
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJOS2F_GjHwoARh18Y5VQhECE",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2382440851383541639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Project Bloom Coffee",
+    "address": "5870 Melrose Ave # 6, Los Angeles, CA 90038, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "website": "https://projectbloomcoffee.square.site/",
+    "phone": "(323) 366-2088",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlbzEhp-5woARmnZRzvTs3-0/photos/AWn5SU40irHbQq-AZgDHq0M3gz4D3eGTRsZkMtjvVrRvN3kux_79bnbCSXE-JxrjvNGyjFPDj30lUMORNFtozevs1eC-50F3-odz_aqaDE1OHUw731CClDXstEqFeZI5tvFVoSdds9THiZu7rZJPnTiy8p816MFN9Zax_MtNx4rxOfgEo6h831hjWZGLoyKYIdjxvLz0Uy7v9q_hN8YHIgMMZ9eCz-eb69gsyw_UNy9ObG25FzkyJKu6mxwPk9TJAx2yQN9tatvRPvY3xLRRFSaDwXrdMPG2VVU9rogDIl2km8ZLSQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 213,
+    "coordinates": {
+      "lat": 34.0831739,
+      "lng": -118.32841750000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlbzEhp-5woARmnZRzvTs3-0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17140679242973017754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Urth Caffe",
+    "address": "459 S Hewitt St, Los Angeles, CA 90013, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "brazilian",
+    "price_range": "$$",
+    "description": "Bustling chain of coffeehouses serving an extensive American menu with counter service and patio seating.",
+    "website": "https://www.urthcaffe.com/",
+    "phone": "(213) 797-4534",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF1qcgTvGwoARn7ujAJGHC1Y/photos/AWn5SU4idf1T9u5HQRIhzXywNWCmmIsjioCOCwQ8otoqbluEevG_bx55LWeQ0ho-RXP7IU3bXEGD1W0xezzecGhGDlU24sV_QyraAQ0jcE1P-HCb9lH3SSjAVeT61xXcpvRtmmOJP_XXachtD7uE45GU4xxQrj7VtqYl2s8_fyPe-cCzDhUWExFN8XjinwA7VNRE3orU1zaRdJm-ZYBX-S_Wcsj-2MnYOswy6DcNKwhFHHt6xH-OERMFfiFpwSShApNPuMOmKwufH5bx6CCIiPSZIu3zuWE6phaHqJgYhai9BTj6QiKzN0Bi4I4U6IF0S_ZrudlmRI8KGYHhQH1rWxKnJQ936FZRJRhzZCLx_7xO7w0tpyIt52Nh_MVbVRgnUC3Bk785GVZwo-HHCR1E1wE4ScR9Lvtx5Ln6S8W4LIUaGc9QGuO5/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 5577,
+    "coordinates": {
+      "lat": 34.041989199999996,
+      "lng": -118.23546089999999
+    },
+    "features": [
+      "coffee_shop",
+      "acai_shop",
+      "brazilian_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJF1qcgTvGwoARn7ujAJGHC1Y",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6200198368856357791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "De La Tierra Café",
+    "address": "1144 N Vermont Ave, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/delatierracafeorganic?utm_source=qr",
+    "phone": "(323) 522-6501",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJb3n7XTvHwoARjes6mcscldQ/photos/AWn5SU6X4nXJucVM3_5XO9gbNwZuMSEus5bxKkf_oCs999QYk9vHndfzG-4qpAKkaQnoFDpFluODNNWVzmUDyW1t_lkX1Xaik9lNonb9kYb9XmhpA-XbHplpNF7PiyS_S9KLhYVImIBLIDC8_dSgdsN62qAQtxCKulY2U5o90sC02KfkDepjJVr_7EsnWXRIW3XJot54qiHbtGAJ1xTMf6xC-5Wa9wx2WjPlCrxPEMtzLa1QBNYlLEDZF6hxR0uFzForevED8t5n0VQh6lI1F2h8nfnd1yoHr9PRFmKhNQmWP6HuF0TbtJo9SWVSyQkNZWsYKFQlmnr2no92aCh0IhAaKuTmbi3rjLafd1MExpVWfhtnmOhN0VIFS5-DODNUbm07Opz7yYBZe_79jkKbK8PFSowvFo6_cpRItMJGpiUJ7njxyn7YImkjJvqNiWilSw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 171,
+    "coordinates": {
+      "lat": 34.0921405,
+      "lng": -118.2915613
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJb3n7XTvHwoARjes6mcscldQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15318181368345324429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nice Coffee",
+    "address": "515 Flower St #100, Los Angeles, CA 90071, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Tiny espresso bar from famed barista-entrepreneur Tyler Wells, in the City National Plaza.",
+    "website": "http://www.nicecoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ423ctbPHwoARmvOJRjs064I/photos/AWn5SU6wYr2V7cX3SW55k-HaFuMwXxgN2wlBJCXpxWbAhpX0R8ctbfJyLDjQEi5NDQgK3VP8KsJX5i1V9TQ6bR1hEykC8oVVQo5QODyCeuiYKLCEDiDaw4gEpre6reWocHxq9tutqul1rdXQgLNLy3cTp4bRpxFLMFKLqs3Qm4bDA1QBrr5Kbj8Hmn_D0mrNiYFAkdaA5s4UvEpoyEA732YS9eogV7o2xFthfp_AafOn18z7Lr7eIcwavCGnDkKZgWsTI3ktLYv-T83KP1MblXHQQhwwisLmZNIZbJaTmw_f5cDXqLhyJSekXoN1yckq9k-TMTRQ4si_MmpjnBmE3r9vbWozzJYQ3E4Em5eHR_XhPmBWFjm2ZMs4Uj1HcOQocFC9yKaCNhypW477pTGjX5YZoZZ2alx75lkbwsGtADEif1U/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 249,
+    "coordinates": {
+      "lat": 34.0509019,
+      "lng": -118.2572413
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ423ctbPHwoARmvOJRjs064I",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9433691273648796570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Maru Coffee",
+    "address": "1019 S Santa Fe Ave, Los Angeles, CA 90021, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Hip, minimalist coffee shop in a large, industrial space with plenty of room for lingering.",
+    "website": "http://marucoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_zD6ESDGwoAR-wg2QUIAySo/photos/AWn5SU6C7GE_EI3gBbIX6f_5Cas9sO2OpiP9fbL_L16iGDkqjm0tUhG_l2kv6dmI5DXURSQCv1ZvYsvwkcQNRvvuLzTVWs0yljum01EFNV6QSWLj_537w44zUCh6ySlIcgGVhB1UcNUVCV6i11SLfUaBfSW1KEwlYPoI6a1nyaT9dhxSx7Z4h6w_sY_wCsdH7CB2nLamCpFyIFUEZnYw3nzaWRrs97IwCMRnIhEH279hzgpOo1eqIMy097RQtMcIaZRGUaDsI0Bk0j1SVRW0-LazTCmOd_MjmDrW8WBDQUPhUZN-A6ps9WxNg6D2P1kx2fK44aos9lgM178IIhZIhjtqBBCLejCsMPuDoFQgEl5f1_D-ehJnY59R_STVjui8e2Xq9RWqyJSC2G-1ZjYUE--wUY3N7yelPD6oKOEkCook0AGAOwSN-kfAAWWtiR3Kv61Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 605,
+    "coordinates": {
+      "lat": 34.0309478,
+      "lng": -118.23017189999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_zD6ESDGwoAR-wg2QUIAySo",
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM",
+      "Friday: 7:30 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3082995704473716987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Frank Coffee",
+    "address": "3109 Beverly Blvd, Los Angeles, CA 90057, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://frankcoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGYrzM57HwoARIlMivHScDY4/photos/AWn5SU65eDkryMgzzdcu3nbUrpMdR3arO6kgosvZ2UMzLAl6urGyDbtV9DIf-KLhzVbhSWKVMgPG_NeFoSNai5z0ymRQwi166IQtJ3IRtwg20fzlYQOirZMuf1dg0GTHX57Hyo0t9yjfdXRN4MKOGzK9V97dJkQ1xETOtfsEz0QTEA0EK2Z9rhuozQwFeAbLfThHPXcf1Ezf_08S6Fje9R65kNoi9pe4hM832QF0GMz8Ou_2VjkGWiSGlBZjY84hBKwfyu6vvQ5cHWpAsWDlKibPzWLDRVyYMAYgYZ4-WJSxPiU15eGkUktwgrVv2KYEg4geZxwH1hocRMt0reGlJAA9NXCb2RDfyzS0fglGQXgHTAr8Ihziopzi5SAsy9Mf1LqmSW5ahiQodFo493Hwqzk5e4JGUZs1YDbHQbVGE4Aw3NIZJLPx/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 144,
+    "coordinates": {
+      "lat": 34.072185399999995,
+      "lng": -118.28247750000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGYrzM57HwoARIlMivHScDY4",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10236009553269510946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bread Lounge",
+    "address": "700 S Santa Fe Ave, Los Angeles, CA 90021, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Modern cafe & coffeehouse featuring a selection of artisanal baked goods & sandwiches, plus a patio.",
+    "website": "https://breadlounge.com/",
+    "phone": "(213) 327-0782",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9WC65yHGwoARQN22YZVcCyk/photos/AWn5SU7Mf0sfrl8RC6rWjp9rvL08u1oc_9aoL9IL7baa15jMChbaG25Gy6uzI3SPSxIVL-NKgqco2AfsFB4qD4jXzz0aG2pZPN0THXFvgmtF_k9NMjAhiP7d_cxvICwNezfOu1sukeYcNo7YUiQSll1TTop5oWyPqilfd9Sm5kL5q3WQcGIBD6rzRxicDcp4oZPQTNV9vCSlmCvPH59H_-czfVikvBHh5v6fUJpOFzO_sccohM6mgo69h8pmMrD2NMrceKgLBsYb4Vzgb_U4fL0W8pUAkB8DOjYMoXz_qh-oj5_XnCBV8uG7OSx2AR3yeUzvQgMDL1Sy3nhIqogHezXkfbuz8JiqnoJPlG5lbyYiA8T5IMJSJjmM-pxeeEPMptP-LqQ53Z7AuYajuJt6X4OTiu62N9nEGSr60JO3j-rICpCl8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 752,
+    "coordinates": {
+      "lat": 34.0343257,
+      "lng": -118.229801
+    },
+    "features": [
+      "bakery",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ9WC65yHGwoARQN22YZVcCyk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2957559376958119232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bakers Bench",
+    "address": "1021 Alpine St Unit A, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://bakersbenchla.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuzh2dVnHwoARVF5xze5xKLw/photos/AWn5SU7f8l54dVpI1QugsrIkP-klGjs69XtT8wO_Z0QqHb6vW3HIZLZe6je-7acvuRq9qhLF7gFG_8m8kz59MN9uOi4vXfwnfxqU35KnwvbxyXjWdG-1o7V3vEhxSthp1mAkiO8s8WjSlrn6uw9nFozU4u1M3l-ZPXSNTxFjkvzSWlyDBocZEvNJrNGEtWngjGA4LkMlsoUf_Q_NKbQDi5CT0gfHU-MnViGMZX4hnWii8TUzKJabSVOY8H1qYDDINW_DxlknImIO9hOG3wNlOKM5g42Sc53YTnSs8J--wbkDDEtJ_7bYkNzN1fmR4curit2DNO-5pQ52AK8OBpd90twy3YYICXkF1kLfRpx1Y67SJGwC7iOLOFsReO4eWDWcvkOnLVfm7-jJcp7M3IbHcEAmIeqs2b95f9Lm6xC4Gais91o/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 121,
+    "coordinates": {
+      "lat": 34.065528199999996,
+      "lng": -118.24689959999999
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJuzh2dVnHwoARVF5xze5xKLw",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13558211948661792340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Baked Bar LA",
+    "address": "10848 Washington Blvd, Culver City, CA 90232, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.bakedbarla.com/",
+    "phone": "(310) 425-8701",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzUOUkr27woARtDOqyVoK6vg/photos/AWn5SU6w0_X_uZyX-svvG6YVeQFO5JclEh3ecS8kOCMcXDi8txZlHUJz13mie77ghkxM41JW76ipEL-IRUWKMMyApbd3GfWmVDbnf4zqpcZeKpyqPaczPVgFY59ywgdX8lykw4SOLzKyI5MbcjuMCI7DhQ-DJsd1oe8nM5JExaSrtGNdYQwRMtfwYWulqpqQ_ZegHu4EbXCWjdsgnTa2UKCSXTrMS_D-M9VBhxKZcMEG_kERCVwv-U-dgLYGnFjGJfNFw0sbr2F81yHhl7EVRhR6Tl7eP0VFrNp4wZTjHqXPTddZgAAT3gVcC8t9k5BMvomgDNCFBdv3gYuwlzYzIZHl7ueku7w-2pA2x8JQxvEJ4PqFIGhQMzek5VUiZYMS-tukosZCo6cxJHVihANrGJHhHsfxfstf-7OyHaJafeUbzZ3wxhhOGimWEBBZ5c3Zx2bw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 217,
+    "coordinates": {
+      "lat": 34.0140422,
+      "lng": -118.40819830000001
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJzUOUkr27woARtDOqyVoK6vg",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 7:30 AM – 3:00 PM",
+      "Sunday: 7:30 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17936159851003130804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Artelice Pâtisserie",
+    "address": "11301 W Olympic Blvd UNIT 123, Los Angeles, CA 90064, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "https://www.artelicela.com/",
+    "phone": "(424) 293-8846",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2byf0Qq7woARVE90VJm4PiU/photos/AWn5SU7K0aN43XIei_hCSSSDQOxmVL9P1zU_iCQZEYDTFXlOknxvy7aumK8ur76kVNf47TZ4KZLiWO7OGeuIkA_2gXjYC7FAEUNOgSOqJVav92hzAw5eCt3AHH5tfMVc-iPDprvPdBGxw8HZGK0a1SU0-fJcvNAU3k1frsndvDlPq-S0ktR5hrtrQ36o5f5cSVwPj8peGBJvAupRM9MsQKlZRbU073vUfgtbisJvWwDlTp_J9XvEWhnekqLG8Gp8QStDc5vZbP4jZREpgPZOlELLHfYbe_AQM-NYpwd5LyZiqUqYfdcr3uidoje1RJROd3LZhH02jrPqXDF-ViXYg__l7qDu9LNH1qUrzI_0xl5GiyvsnRqkeWc5zQOF5dd1U68GgD-gaKRV2gscY-J_1E8lAOIOI3Ah_8CN7iMtmBjDbwnYVTbC/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 601,
+    "coordinates": {
+      "lat": 34.0381149,
+      "lng": -118.4417864
+    },
+    "features": [
+      "dessert_shop",
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "wholesaler",
+      "store"
+    ],
+    "google_place_id": "ChIJ2byf0Qq7woARVE90VJm4PiU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 9:30 AM – 6:00 PM",
+      "Wednesday: 9:30 AM – 6:00 PM",
+      "Thursday: 9:30 AM – 6:00 PM",
+      "Friday: 9:30 AM – 6:00 PM",
+      "Saturday: 9:30 AM – 5:00 PM",
+      "Sunday: 9:30 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2683785396645810004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "House Of Bread",
+    "address": "1906 Westwood Blvd, Los Angeles, CA 90025, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.houseofbreadla.com/",
+    "phone": "(424) 273-4845",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-8Opije7woAR7RdqVXy7tqY/photos/AWn5SU5_nFTWXdDdTROXrC9_NbM0mmAuYH7pjfnjxOah0UQcBKeXde4usubZGgK3WH72sKQkqX9_YzyBpvWuM1pFB7NQjxijK8Mw23e-V40eGGt_wa-s8vPuerfWKLGFVzptQA6wKQKEPRTtd-JwR-0S_yczMMuc8AN36o4YCeVWLdQX5enx-wsxDxx2EaOKzNqY--7Gc7YYOhdJ4RZXe6PwEPKE2I2B8lTPx7055QG7bco1JZzQN_FXExFfMuE5IVKNEA2AlpEPQz3mbYVKrxwEv1-zTt3lVpj3SwuS3XI7tFaes7M8aiM5sJTrFQC03YNLZQoYlwKCUA_8sLTyj7tZadZxnKSLFwFI-28m2XaK9-1yA4m8jtDFbgzyyiTNkL2rUZeVuJiGJKgw1g8FP_i3Vcp-UX1QLCdfNXN7NAD_aXtYCKs/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 204,
+    "coordinates": {
+      "lat": 34.0480948,
+      "lng": -118.43519930000001
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ-8Opije7woAR7RdqVXy7tqY",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12012995198740731885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lodge Bread Company",
+    "address": "11918 Washington Blvd, Los Angeles, CA 90066, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Whole-grain bakery offering wood-fired pizzas, toasts & seasonal plates, plus beer & wine.",
+    "website": "http://www.lodgebread.com/",
+    "phone": "(310) 437-0407",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJERNbcWy6woARfDzciYUJCVM/photos/AWn5SU46B_-GKTqbeEh_d9vYMYHFXT8KCzYzljAyZI_1EzbrEBV6yvOS699KIGkE07qKK-fBiXHtsuEf-c2fvKJ4B5Ug5xj81cR5yzDh4BzGAsgNAFGH1Amp9cRXWhCf_qX-a93IcZONFiZDSxWeeubExp9ehHk0zUWe8m5lbyGLjTs0YI-UyMxCErWhDIXqtAqJlCjrWLqPVJ9Dy3ru0drf-w8s1u0uWfLg3YSyNzh3oLUk4UHR4d4Ni5Sw5UstIq-N0w-JeSfDmHjnI5MvWvyAImYGRG3_N_ASZYGu6JESxMr1aA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1368,
+    "coordinates": {
+      "lat": 33.9976829,
+      "lng": -118.4203109
+    },
+    "features": [
+      "bakery",
+      "brunch_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJERNbcWy6woARfDzciYUJCVM",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5983324049086626940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bakery LA",
+    "address": "10759 W Pico Blvd, Los Angeles, CA 90064, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "http://bakery.la/",
+    "phone": "(424) 208-3835",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEaB_DwC7woARSqWpxZ85zBQ/photos/AWn5SU6LE7EUjGiyeKfRXUVK6H7QV0bLZzxiJTZz72EpchLwG3tr0l2M97SZYkohjiGixWff3Pyv5TvLQHRx9FgHDjBrw9ZA9c5Y4_oxWqQxTJxdao40AeFXtBeXZtQjZN6PP0l5CAp8H11tfgiLMFLV5xLRjl8HyLRKOTi16oLrxW5-EK3XohnzN7r7CxF32drmnyk2DAbXmLvd0cp9SLSX48v35p9tJjnI_JzujScF0q-k3F0f_egub6rBJtkWNZI5wleUCD6nbzi-Za_y3ocJkoSZk0yh15UNaYpuwOq8VZyVyA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 34.041243099999996,
+      "lng": -118.4265728
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "sandwich_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJEaB_DwC7woARSqWpxZ85zBQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1498636134386345290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bella's+Bread+Butter",
+    "address": "7212 Melrose Ave, Los Angeles, CA 90046, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "phone": "(323) 272-3315",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ75c7FwC_woAR-7KKeuendz0/photos/AWn5SU6QjOUv_U7lgTCUctnVh1MtFsW-UOsLIl3bTolGaAqxyW1_8hTRLJs4tocpzi4RdK3C4SksvsjKHBNZKrkPt1HqdeQ4vhs7ejof0b2qEEgMp8a5ECiwt_NS9bmh9ZW7aqz3YV1b0EaVjtSbXAPPva5QHkfJ6y9NeJQbVm9cAHaK_lX_qcfw9AkjoGw_uVxZ5dy_XVzxqC1phO2RRnouvNjJoRZDhXQv7C4sDOQpUiRs04RYkUzc7JuOxX1zNy08mtyotnZptFl2Uh6QvD9slGgl6MANgRsmNhG3uNJVjpVh5w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 127,
+    "coordinates": {
+      "lat": 34.083295899999996,
+      "lng": -118.34669710000001
+    },
+    "features": [
+      "bakery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ75c7FwC_woAR-7KKeuendz0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:30 AM – 3:00 PM",
+      "Wednesday: 8:30 AM – 3:00 PM",
+      "Thursday: 8:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 2:00 PM",
+      "Saturday: 7:00 PM – 12:00 AM",
+      "Sunday: 8:30 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4429193371177366267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Röckenwagner Bakery, Café + Market",
+    "address": "12835 Washington Blvd, Los Angeles, CA 90066, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Contemporary, European-style cafe with breakfast & lunch menus, coffee, bread, cookies & pastries.",
+    "website": "https://market.rockenwagner.com/",
+    "phone": "(310) 577-0747",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtxvWumG6woARmHRYJeB248I/photos/AWn5SU6odWEEBX-AoeA-nazrfpHKV2eCrdwAKVkuQ-8sltQXjNjg2oK_yxsnEbjLN-sZGj1JGTB8MLgrIB972XkQkapP51joN4vusY_IiNwben9x66b4U7711N1bFkxYfuj_0lK58uqCmW_A-j0UetsxWH3lh7I1MMVTb9LHQ99ghAdPL3aZy0I6TmD3l1B4Mdv5zvWyh4NEy2a9hybEnKLUsCQgkBtI4nvHKReg--E5qKD06Zecv8vyaHPrJkHnP-k09BkvuMY7S5LmL52nkpUTKjHsI6Ry2B4e3EApOmQFqUTRatsAoOZl8r2gBXbwyqPofchZJaDyVHn-SBe-W3zwu1N6-oHH7BBzkZbp6mepOMPozI9FGqUVcTvEwmCeGgnIkvkJBVBUxy3YPuOgGboNffNGaXU_GIbwHequN3zxD3bXYQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 494,
+    "coordinates": {
+      "lat": 33.9956093,
+      "lng": -118.4378081
+    },
+    "features": [
+      "cafe",
+      "sandwich_shop",
+      "bakery",
+      "breakfast_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJtxvWumG6woARmHRYJeB248I",
+    "opening_hours": [
+      "Monday: 6:30 AM – 4:00 PM",
+      "Tuesday: 6:30 AM – 4:00 PM",
+      "Wednesday: 6:30 AM – 4:00 PM",
+      "Thursday: 6:30 AM – 4:00 PM",
+      "Friday: 6:30 AM – 4:00 PM",
+      "Saturday: 6:30 AM – 4:00 PM",
+      "Sunday: 6:30 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14043198768142644376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Proof Bakery",
+    "address": "3156 Glendale Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Compact cafe & bakery offering fresh-made pastries, sandwiches, cakes & locally roasted coffee.",
+    "website": "http://proofbakery.com/",
+    "phone": "(323) 664-8633",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUfXe_trAwoARhe3TamCkz7k/photos/AWn5SU5YN3UaEMjn3tYB8NooMhS5FshoxT1BO-Fd9tKqbTu2Iz5PK8MwK41diCcCLyvXupkA1GCmQH1uh-902yy5IhiNCZhx4ZPNWYQ0N_MLeK2Rm5MeTjj0q_kJDeUJ8plbEDEXYkq-Jbq-Nxs11EcxGHJof3HNs7_Af5k6ZWBweWMlSQapLafj7P5KzdZlS1_MzsxPlVOrk38BBnLET8bhhLHQsUPHj_xdyfwoJJ-wrBDeCr96B0V2nwJNc3QxVDB9_HsQvmnO_XTY0y2-SN6HBupBeDe2zLFRKGCr_FCdrlW9F7FX-9-7L5Q4OrfPegduoOiBld8np_d7AHg--1NYsQ7nvCij9h8629VaNvDN83W2fwimoUIsqTFjDbNUR6G2KeTtwoky7PXZObc_JJWnECvLGDH0gDYZGtaeMzq5FH5c0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 721,
+    "coordinates": {
+      "lat": 34.116908099999996,
+      "lng": -118.2615461
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJUfXe_trAwoARhe3TamCkz7k",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13389100951211863429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Yamazaki Bakery",
+    "address": "123 Japanese Village Plaza Mall #3908, Los Angeles, CA 90012, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$",
+    "description": "Bustling counter-serve cafe for a wide selection of Japanese-style bread, cakes, buns & baked goods.",
+    "website": "https://www.instagram.com/yamazakibakeryla/",
+    "phone": "(213) 624-2773",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsQG87UfGwoARYQLISiV2tzM/photos/AWn5SU7Zp23L16fnHTLUf8golEEtID5a1SGwW6dVXXuLmJ8XW3dk2QhM3ZLNgGqATIqhNOBR1bjOjAnX_vnr3TcIx2FpYX3n2ni51ePk5obkmaUr3_OFeQdZPd1kC0nF7hgbM0-ttjprkm-AlP3F2clbkz3f-vioX-4tYtZEVE1HDJTU8XFkHIvX8wiMDWxuofxaCX4DX48NgWNYfwJhOOB5TZErPpIKpUZhn1EVT4x4I1dnFt_x7DakU8qpEOvYMQNj_PHIA6MiGvAac1UdW0-RsxV52CZ3TkJH-8obH_F-hCTD49HKxMKnL84Pfj7UyNeUYE5oqfSUdzIudcOgNXc0yvL21KfDxXUsNpxBcOOsg9JhkpAgxYK-w7uSmvm5znoriA2Q7cyghwX7ZDqY_Xrsi91LXalla5OtvtI4iHSumiHBQ_zkIHnRI9ZMomnXiw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 451,
+    "coordinates": {
+      "lat": 34.0489332,
+      "lng": -118.24018160000001
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJsQG87UfGwoARYQLISiV2tzM",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 8:30 PM",
+      "Saturday: 8:00 AM – 8:30 PM",
+      "Sunday: 8:00 AM – 7:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3726577119212864097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Artisanal Goods by CAR",
+    "address": "1009 E Colorado Blvd, Pasadena, CA 91107, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.artisanalgoods.com/",
+    "phone": "(626) 314-3188",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVY16-MXdwoARLI1DGVP5HsQ/photos/AWn5SU5MeDVXBNGHYra1tbDwy3IRBRNDn-asSBKBiLHiCge-7s63e8LXzg2YQIZOOALGbVVSBWMZEdD7-dhcY8tpdE8X8Q-pALyFZKtsTpHjaBi2t7Pimk1zwgZWo6YvzGS423srIjzdDex1qyUlPt9bwxu4CwXCDhxeO083ATkM6uGP323a9PYiV1r_tIRUcnwEg_8Wnn6qalw1AbKS54JCqkOjsJbCB2-9-IB6fyZIznYrkEPzTDB04W9XYmuI0CMTP110YBJrEHxAb3F8z8LFDQ80RPFRh079uHVaaP68kdw-Wmm4IQfgYJrUMDFQBSiL3sHFTm6n8QhsjhClMPNvCHra1lLMgzeBcvdDNRmahDMvq-cw3AsNbBXXrHEznBU1mxs-4qVNk-hJ2HHjFNIuhnm5YSg2sOuD60MtE0uIG5J-YdY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 407,
+    "coordinates": {
+      "lat": 34.1460791,
+      "lng": -118.1295378
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "chocolate_shop",
+      "candy_store",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJVY16-MXdwoARLI1DGVP5HsQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14132006816036654380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "brown bag cookies",
+    "address": "3450 Wilshire Blvd Ste 106, Los Angeles, CA 90010, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.brownbagcookies.net/",
+    "phone": "(213) 221-4177",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrfqOOS65woARW8AlCSOZEKY/photos/AWn5SU4PLkmKkHZ7d_5O9uuXnyF7qv2PVY62RAhDmmyPRdDiit0ZrCWl9_MUDNxjtVKaizs26ecmFyHPRi1ZDYmhDeRdNweNHl0JD-YstfXX-uTvHUCmWK7G7UrfAQ0riHz07eHBNtQn1jTYnjNZZomDnN9RCOmuZMPxaXjJ3BYy9ApbarhEPJ3QWL7wu7ujwtSjCffDM4OV4ZYLPzsp7KomJMKAWKNIFJGpWlC9hT3S0yUEe-mZjHW7QGJp8JR3mrZ7hhqI66kILA9yiz480gFdGIadIJdo6sYAH06RyNuRNxRiDw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 139,
+    "coordinates": {
+      "lat": 34.0610931,
+      "lng": -118.29960039999999
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJrfqOOS65woARW8AlCSOZEKY",
+    "opening_hours": [
+      "Monday: 10:30 AM – 6:30 PM",
+      "Tuesday: 10:30 AM – 6:30 PM",
+      "Wednesday: 10:30 AM – 6:30 PM",
+      "Thursday: 10:30 AM – 6:30 PM",
+      "Friday: 10:30 AM – 6:30 PM",
+      "Saturday: 10:30 AM – 6:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11966232585679781979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Clark Street Bakery",
+    "address": "331 Glendale Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Artisanal bread, pastries, light fare & coffee in a brick-walled bakery with plants & roll-up doors.",
+    "website": "https://clarkstreetbakery.com/",
+    "phone": "(213) 529-4252",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw39VcmTHwoAR41_JNE9f480/photos/AWn5SU4q8v0mDXfIRhxKAqWrELD38_TV-ihzI6e6gbho402EbAhwg56i_WBLMHV-5PdXUGgqQE2tUsszBZjkAhwwRN25cbSlr5dtl8cNaKwfXzdv0XAqcS1xA98Q30qBxT9W1jMRe-vwzm5BVljWrULLAvt-Ks3paLbFPFKi9Ws4xMP-juZ0EA6Oo8a8GE-4Xyk6YSG1ZPnq5M6bDRwYKlmbpHK1AXgAwVxGEeRroeujEEz5F8pvFwoeiN3-QLFCuKoDXi4rFboDtdmoWGeq728pdg3uDi5YzO0uDAIFpSt7uHPuSe6QUopD8fqgtCeMYcjJ8gecXLH5sQyLpxo6XWPYQL1O4lcy95P8Av_7o2YaYdNazGN4XsT1e5TVgCwdgltKhFCmGTgnZijKEGJPdfr4jWDTBhefzM0IZNr3cZ1HroLB7IOXHE_1_369ecvRWDUz/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 314,
+    "coordinates": {
+      "lat": 34.0665189,
+      "lng": -118.2607032
+    },
+    "features": [
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJw39VcmTHwoAR41_JNE9f480",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 7:30 AM – 3:00 PM",
+      "Sunday: 7:30 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14835806391281213411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafecito Organico Silver Lake",
+    "address": "534 N Hoover St, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Outpost of a small chain serving espresso drinks & coffee made with organic, fair-trade beans.",
+    "website": "http://www.cafecitoorganico.com/",
+    "phone": "(213) 550-3738",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGVgMUULHwoARPKT-F2zsC-s/photos/AWn5SU7hnuepvj5V9itZjN-Xd4eGq_Pw97POBt69OqSfCPcACEF4D30wsyodikASedgD4CaQGOBVSKAeVI4lmOdzwvcSYHB-oFX9REdGGK4e8RKzaJgnSkXFTOeP11AAPUpi5Lb-FQiyVTeUAi09TFgeuGNBXZofMiZVKJrIEHC3WYZfwPCnAmtBJZ6hJTeNEjCtjZsiRbVIVHvX07hZlYHpDqodPq4jMwxLP4SQQ4IvOSzFKKePyrEIruqnBIUPNQEMNqnti6v-rDOP0YMYd62wqovT3JyDyRrleXMq9I39zOGvdWG70Wzan54cockAua79mLzg4UAqtTaOrrapNE2RiBBqmNpMg1XC0f2CnOVZmcXKccWZAPgUPABKWDvWlQwPHzlPItR82PRKAosCC4CYwbF0p6NLvBz7ptUrITf1rN2hlngC/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 548,
+    "coordinates": {
+      "lat": 34.080469799999996,
+      "lng": -118.2843486
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGVgMUULHwoARPKT-F2zsC-s",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=16936890772660069436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bacari Silverlake",
+    "address": "3626 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Upmarket open-air lounge surrounded by trees, offering small plates, pizza & a large drinks list.",
+    "website": "https://www.eatwithbacari.com/silverlake",
+    "phone": "(323) 986-6763",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ___D30fHwoARymR_1Ylhtto/photos/AWn5SU6XmCla4qK_P0Fjqegc7CZSjl2rULcw3JycxKj76EzzXvLIW3qakARP9RAw7hH0uJDhhJm9kgcvbLRUj0rncwHQImRNYaNMkdJ_HbGLvXTSukLhdDMlX9gzGeMW2IsnK8AsTG6C6sKtUz9TdMeYr01ZFUJ5PmyMVAdRVY-zI5b09HHaznpQ-ByHo9Fqb8MBibUB-7yf9n3u-GIBBnldH2scOghxNPPePwIA0THRfDbABwup91fGaomUs-2bShC1XMfHgPocMoGBSIc-QOSnVQZ_SkI_AWpXWQ4I0Q5GdcKl6g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1459,
+    "coordinates": {
+      "lat": 34.090119699999995,
+      "lng": -118.27758039999999
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ___D30fHwoARymR_1Ylhtto",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 PM – 12:30 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 10:30 AM – 2:30 PM, 4:00 PM – 1:00 AM",
+      "Sunday: 10:30 AM – 2:30 PM, 4:00 – 11:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=15759891190649939146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Intelligentsia Coffee Silver Lake Coffeebar",
+    "address": "3922 Sunset Blvd, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "High-end coffee bar chain serving daily roasted brews in a contemporary setting.",
+    "website": "https://www.intelligentsia.com/pages/silver-lake-coffeebar",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ763W4UjHwoARhP2LIuCn2dU/photos/AWn5SU4KQlZT75MQwDh9xzPgT_Uk9L5qODVbNehsEwOuRAThCbU8p6TllhX6nqcDGfM5WMcY5WZUEOG2rM2CucDKClkUUrfyO_KtXaf5MzvBag3DUqtBeEEBy-h11TKiL5-dn4FTBr2E_DJzGPbPtqrDlhwOD8m4SK1mauMMuXXf42wyOzhU7sMrov38l6D9HKcUmDvqn5PrG_2xaapCC2nPoyy832dO0aTHWNy5lljnYT_S32QdYRIb5GBm6qxSLo8kIsXG9kHYYj_n6ymv_qYDWmzDnpDNgxGssQgdUGUtmD5z-Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1088,
+    "coordinates": {
+      "lat": 34.092064199999996,
+      "lng": -118.28024769999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "tea_house",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ763W4UjHwoARhP2LIuCn2dU",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=15409532181118975364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Muddy Paw Coffee Silverlake",
+    "address": "3320 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "This easygoing, dog-themed coffee shop offers espresso drinks, pastries & patio seating.",
+    "website": "http://muddypawla.com/",
+    "phone": "(213) 269-4801",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv6phnzjHwoARf76T2hdTC8Y/photos/AWn5SU564Z0BJzSMAenx87p6Udn6fgrr7KDVOUg18h39uLUewfkCJlakUxS_A_j7nzMdUW_LrgCbrltmACRMYb6WC6gBzN9QLPofZ-2R-LunfDd51tfI2FnjAjjFlaTYINeA_lX1rslPm3oZ_m6ZsT8w0VCZbOoGQLL8j7p44fKFid6NIZwiCxm6SPvqXqoYMDvDCCzaEwXEVYLVa8VDHTKXwaa16ZQ0feb7Iu262BmCOi2RKyB-f82FeWcof9VfddBOgnu1NRuO42Bv5GlbtXgD6_wh2DKvwnKiosohSCmd7zi7clF-0Bb0pZqXcDrxEVp72y6n-04xkYhgz06Dr8GHzQiEXBtRk6RZym1zrI0Cgl999NL4fpWU94kzqeYAcDAf0lqEG840F7nCHL-5uUGxfb6JCuIZ0-8a0hEY0l3bWbMlug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 291,
+    "coordinates": {
+      "lat": 34.0868792,
+      "lng": -118.2757242
+    },
+    "features": [
+      "coffee_shop",
+      "dog_cafe",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJv6phnzjHwoARf76T2hdTC8Y",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=14270591206170017407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dinosaur Coffee",
+    "address": "4334 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Laid-back daytime coffeehouse serving made-to-order java drinks & teas, plus pastries.",
+    "website": "http://www.dinosaurcoffee.com/",
+    "phone": "(323) 284-8544",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfaYfR0zHwoARAqzXr3o2bEA/photos/AWn5SU4Lu-TaQovcDMpZrqfS9E_J-SBiHNA1XZpiyhThsCfvcAtgNZ2MVae1CUUE3cj5URu-M5fmKfgeeqPXEpPfEPYR5WlH1Cm3Yk8pJvfWlTBI7NZQIj-5oc8faBr1cvlPyzL-wiLc5Mghkk45GA-Q5Rct959GXferRkYdc6zsIzLnDCww8ddid5AzO52PUaj6w56fo8Uhi_sLb1yTU3roFZnhSVTbOtlJjyX3oFT_A_LA-WSIJPDBEzcLHTFWuQ8B5bun5UXaSccPtG6nLYb0Xh7-c7zHeIrssB3Oo6n2LDxTDw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 621,
+    "coordinates": {
+      "lat": 34.0952948,
+      "lng": -118.28380579999998
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfaYfR0zHwoARAqzXr3o2bEA",
+    "opening_hours": [
+      "Monday: 6:30 AM – 6:00 PM",
+      "Tuesday: 6:30 AM – 6:00 PM",
+      "Wednesday: 6:30 AM – 6:00 PM",
+      "Thursday: 6:30 AM – 6:00 PM",
+      "Friday: 6:30 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=4642145216476195842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Café Tropical",
+    "address": "2900 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Local standby for café con leche, plus Cuban-American pastries & sandwiches in a homey setting.",
+    "website": "http://tropicalcafela.com/",
+    "phone": "(323) 426-9442",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkSS6sT_HwoARMvSBnfQajNQ/photos/AWn5SU6uyCgFAUpJg9MBHftjMa_K8YNAprPHcxzfqFJZdxb5MvJcpqVOyLFPfmGOfigy7Df-7CqiXF2xywoVR_jTcDlRcr5rRZik_Ipk7CtWgKdg7oeFsa83Mvu48K0G7rLCRLFYU2Cs8vhJx8_0RwHWzoQ8x6l2C_oqiIh1uuLs7EGobPpz5PkrIvckkoQjMqFmf5ovH7PUMPzSg9xfDLaxIhnoJBV3gtejPblb5Tx7otlCWa4HKk4cYcSL5lqLv7raMKSW6xlbK4n0v1aD3d5iAtgKBrdUBuNHvCoUKTs19B4_6FWRs75_v6uzhu5_fDb5ipgrLZY3th-npIpNpAAAZD7lRwnMP6UvDdrmhPMlP9X_xH8Y3hZEcEpIoebIqTDA9YXhQEb9KFHy6Rh5Mz4n4PD2QL-BEwsOXfYFjG5sBGw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 612,
+    "coordinates": {
+      "lat": 34.0828823,
+      "lng": -118.27356089999998
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJkSS6sT_HwoARMvSBnfQajNQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=15315646070697096242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Millie's Cafe",
+    "address": "3524 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Silver Lake stalwart since 1926 serves homemade American breakfast & lunch with vegetarian options.",
+    "website": "http://milliescafela.com/",
+    "phone": "(323) 664-0404",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe1Rw7UfHwoARHzrjqnv02nI/photos/AWn5SU7oi4Ui4XZoAhrd-QG7TKlxrLtob29LT9IW6otbK6n_wasIZMO2ChDO_AMfWYrljBVXbN-sQtO_77Zs6LESkMTiJPGZGHqFyUL5y2M4LIlczemn2y75MsWYdWR5k3DjePPaFHprUEV0kvuKxYlmp9MchdnxQ_q_eETO6cXPC7LRc8koZ6p6ToO_oPQ8ChAWMCg5rrvEZwLdLEfZk40mJuFl2MhFkbKFeLv3LXlzRZRDcE5KayWYoGHwtsXjyQ0c3FS8fUZ46xZ9-Z1EFitZwJYRNmg7uJw_wgleJKidyW-CnBHitWpWHa5M8Rd3v3lW3bg1j6vfNRIQcOXRp94dKGj26gprv_--2C3BV8C8fgYWddygLZ0-ifwtKqnJh1RHFCws1DS6fU9K0kqDE7ud0kJASTzJNal0oGpyDslMiLrNZNX0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1575,
+    "coordinates": {
+      "lat": 34.0892372,
+      "lng": -118.27697749999999
+    },
+    "features": [
+      "restaurant",
+      "breakfast_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe1Rw7UfHwoARHzrjqnv02nI",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=8276196077231880735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Coffee Memes Silver Lake",
+    "address": "1523 Griffith Park Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "A sunny, hip spot in Silver Lake for coffee & tea beverages, plus cakes & sandwiches.",
+    "website": "http://order.online/business/coffee-memes-777391",
+    "phone": "(213) 349-0210",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs4NcCUjHwoARqDHBNaTRreo/photos/AWn5SU4Lc6vDUQfSIT6Xq8d85loq5bEDXPcnSUZli3X6VgL1PfP9T-DlVYVV23P7F9GWKrrxKyxTOrVK-FBAt2k7dkzWQpCbGoKlhEB20c76b5Xxqdv3YVLmH2MMqaA7zXXN2cNY2Oz3ETEvqNCL-H_1wJptKE9PtX3EXcZAd793aUBZ-Lkx5dQb_j376petzK_5sKEGnlc_q8AHcr0oeVieBm0jvtBkoGsr-A2OzgDGoBhEzOEcu3jlpMR2KgG0KQbhF0sG_RAhPLRA3jjYGxKW86gxG8NSm1BvOwniO3MfqXBMWg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 190,
+    "coordinates": {
+      "lat": 34.0905944,
+      "lng": -118.27717199999998
+    },
+    "features": [
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs4NcCUjHwoARqDHBNaTRreo",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=16910402679052775848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CAFE NIDO: Coffee & Books",
+    "address": "4854 Fountain Ave, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://www.cafenido.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJITzxgvzBwoAR4SWGZepDm4w/photos/AWn5SU43uiNh9-pvQuawlJ3VT4PD1_LPnt1pe2baxwIndU8kbO8B_4xTS5FOF3RPOsq6OHbbeXBKk8L0lOoyIAt0vbaeq9PN2-goN6sXUud5J8ByRw80IHOw5c7C4tS4Jvkp12EVDiOjv-Y58FXXWDqWWWjDiRJpevOIUpNhfK8jjM-Pw08LTytJ1yLV_7sqRJbgN5EshH9-Mprwrgy7EPLVtGjZz4luFCOrZbYdsVyUSkFaFaW2MhHyHKgqm07GJaw0ZNbohXPHMLpV646vRuLs6haSHTgbu7XtQaj3JUAUYBoZFw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 208,
+    "coordinates": {
+      "lat": 34.095275099999995,
+      "lng": -118.2950166
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJITzxgvzBwoAR4SWGZepDm4w",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:00 PM",
+      "Tuesday: 7:30 AM – 4:00 PM",
+      "Wednesday: 7:30 AM – 4:00 PM",
+      "Thursday: 7:30 AM – 4:00 PM",
+      "Friday: 7:30 AM – 4:00 PM",
+      "Saturday: 7:30 AM – 4:00 PM",
+      "Sunday: 7:30 AM – 4:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=10131766460704761313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dayglow",
+    "address": "3206 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Contemporary cafe serving creative barista-brewed coffee drinks & gourmet donuts.",
+    "website": "http://dayglow.coffee/",
+    "phone": "(323) 522-3764",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-W8yTD_HwoARPXu2GhFX8BU/photos/AWn5SU7Xg5zva1bC6zANeD6GPvQ1HOrXv_veWpgDcQJtHmlcs3MHI_qqd0eLmeOz40ycRqlUqoKIa7vPvL4pYPHocKLBoBIP_I6qRJQsJf_A42XI9kSlfbAGcUFz_fKgxByzYBCTDBhlXGFF-HUsCefKZk1MDR35-nQdCLaCow_cglzDnFVkVkXhqEMMr9NjL8s-s9Aj-5_ZSXDpee4kRa4AU8gcub17fusyaz104WeBSh-0VRC1oXO-RMJR5jUkrtzA-GncveA1GGJAaXuwxFb1dcyQPlnkw651_-4GhcYGfwECzg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 385,
+    "coordinates": {
+      "lat": 34.0855885,
+      "lng": -118.27513499999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-W8yTD_HwoARPXu2GhFX8BU",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=1580859200181271357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LAMILL Coffee - Silverlake",
+    "address": "1636 Silver Lake Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Upscale cafe with elaborately prepared coffee & light Californian fare in a stylish, modern setting.",
+    "website": "https://www.lamillcoffee.com/",
+    "phone": "(323) 663-4441",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNRFXxzvHwoARNCv7qgBYY08/photos/AWn5SU7a7h71bjMQimKB6_4lblofRVow8DUefLD4rOJDlVp9VX0NpOiZy9pd-nr_J0kL4bAMVCOcYKiTDU4rK00eQWuw7_kQ2DosBAhRp8-bMUJ8-wJsaIkw36VLVwR0KEEPhhuj1cmURYMmqSPKN5bA6o4jevotQvyb-TlTt3_FU7jDAMWdaYQIOk3hA54wVay12kq_hKVCF6GMUsMNAnY_locVoGD7U68tbFDThA6pK9KowXbFvSXBT9oQut_w4V88gCrSbMtwYDNfcRcDbW6r7bk_FpmugmJt7TDCQR2hnaB4Q8vi_2atMbj5fqrXsjml_E7__djUvJpoS7SKl-Ifk3HV8Ge6u7ILueNHgeFx5ltnBzbgaSPi4GjQeM9TIw6ATXdHjoyJ5OMTMsKEnGdJ_-r24tUTgT2G3aoRwtwaAb7515jO/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 698,
+    "coordinates": {
+      "lat": 34.088840999999995,
+      "lng": -118.2686477
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "tea_house",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJNRFXxzvHwoARNCv7qgBYY08",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=5720512711582493492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Laveta",
+    "address": "318 Glendale Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "phone": "(213) 378-0037",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmehuWGLHwoARsQ1AqMOtOJs/photos/AWn5SU4H_PoYNfLpTdFqkeipHae8MKJhDp9MJwYM_D5NFmyqg2p8qo8-rBlfU08CwryC-Rrkf-E5lMFQm8vvlUFXPKJW_uZnoQvBhl5-XlZeAYmIHa7nH7ik7nDY35xQC6BwK0d7xQ0Swj-rC5afoPL8ySMfkGcK4RRT8u1E7pP48ZWTUMVvx0806fgrmG6xr5OkwOdnLvZTM-k89j5kyR0_ZM3ZbgTOPoe2XaRAOBUACtEIb-KzHtQyd-6m5RU8DVCn8q9C7VmHeXnWG_gfqDa-iE37dX_1e3kmg7f57CyusGvCX25QS09hxDgvwIYzfp8-JDrvu1A7-1cOv494vkYnpmP_9VE6lJAaNX6ou6j1nYlnLkz33aCiS7fTr90PvozZft0nikV6HH_oV1Xk-hq2L7gfqv4F5OsZGp9Mky4kzKM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 298,
+    "coordinates": {
+      "lat": 34.0661128,
+      "lng": -118.26017329999999
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmehuWGLHwoARsQ1AqMOtOJs",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=11184880730427624881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gong Gan",
+    "address": "2827 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/gonggan.la/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYZrBBgXHwoARJk3V-0NARss/photos/AWn5SU4esic04VXIAAWGX-Eh5RbSxV7C8u_dMT4gt3fFEr1kM-tkxYDx8mxM7GFnBv5noYUeeWXgDnlZROp8gaS6taJOHexQf9NgD5VWhOuC3xE9ZwLyo47RwWjWlfTuJxbs9gE0_vuaTJq-c2FWdoJTUVltHUu31nSWHtQcCsb1Dg-OI0Ti5bBKhEtsy2yke3eq0TRrY4mCGxzghLIweNmwLnsfCxk43Som-23DKkOPWs1G___3UKwwiIdxbl781eQ74ti4pfaC6lC_OtGp6XmiEsv3g2mS_wYd8Xnkmi7jheKMFeHZ1ZjHUGb38s7np7_yJ_Kx672lN4PHwlKD0uJtrmWWrHqeTXwV1JB8hVlQyIe_jMw4axOVC9HOQW4Wi-q6ioOHFKgFQKbAlE8_vpIVP9ZUEcaiG8Oth5LgMLWLKojhLi-I/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 34.0823653,
+      "lng": -118.27220170000001
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "wine_bar",
+      "dessert_shop",
+      "confectionery",
+      "bar",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYZrBBgXHwoARJk3V-0NARss",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=14647465498801163558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bodega Park",
+    "address": "2852 Sunset Blvd, Los Angeles, CA 90026, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Modern, chef-driven lunch spot with high-quality meats & market-fresh vegetarian fare.",
+    "website": "https://www.bodegapark.la/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7YJ82kfHwoARWYdUz_cxutA/photos/AWn5SU64M8spb_hNd5W18ZPstrow-P6RQLq3mqcIICGKKZx3udBH-XE28m0wtToUjZ_naTnmfAnNjKbHIWgSFRE2Rcclz829WMsYl-6npit25ygW-tZ9Ps8wShCEDjIgTyLdqdMY66zb_oSY_Zy68aaVU59kiSiV2yw52pKBKHoiOHj6PGGT4M1YKCVzPN0WqU4W1BK2VF5SgS4d4AGxIOJt27NJKLcbdIQhgaUK0vQ144zggjthDk-uVO5GFMlx4rrqewBEbw83kKS6dXn5UFJRPq1v1wZfLFWwsWsVrhEC3t0wDA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 225,
+    "coordinates": {
+      "lat": 34.0825533,
+      "lng": -118.27325629999999
+    },
+    "features": [
+      "sandwich_shop",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7YJ82kfHwoARWYdUz_cxutA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=15040388845962299225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Black Cat",
+    "address": "3909 Sunset Blvd, Los Angeles, CA 90029, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Upscale American gastropub in a historic location related to the LGBTQ civil rights movement.",
+    "website": "https://theblackcatla.getbento.com/",
+    "phone": "(323) 661-6369",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlWQz40jHwoARksV_oqyYK5o/photos/AWn5SU7qHlXfLgVxmXMI9y3kqS4DxjcSBYUvPCx678-nRrrolfu4rhBALlPHo49adlxEMI3PBkZ-XIICkekzU20jufXU_t5tefr6Pbl07AmZGmLrcGMso5Kt9Z7qc16LwBytNxv-QreKcqbMZUd4yxU7VIzmseqjyzDcWytwO_5e8cc3suwVf25eFx_g83TTsdImQpXsQcMHq_b042gPCB1CMbKX-mUCQibcsBeFmGAwBVSZbtG7YX8gRrGJPd-N9jN28NJ2Dad9GrDqqLtKqSPQCGehXqO9X99gxO-iVL4v9YxFzw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 664,
+    "coordinates": {
+      "lat": 34.092078,
+      "lng": -118.279745
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlWQz40jHwoARksV_oqyYK5o",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=11109140773067539858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Constellation Coffee",
+    "address": "2472 Glendale Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://constellationcoffeela.com/",
+    "phone": "(818) 839-5646",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQwmxH9THwoARoxOQyXh5x6Y/photos/AWn5SU79uyWU2HV2-RJ8-F1ap3v9UcaLTbv6sBeM13m4QcPvZR-YV_ndb1DeTNzxeyu7XlNZrpE2qbw-ZX6pmjlFTMXxqNlO17IqGf7vyvC8ATVPrj84vLKMaAo7bu4prkV89e9YBu2O2XFxhadcEeilU9kdfA5F7txX5H6iheLmil8febJhIyvvq-eTU3rC44n8kG8oJlHPtHdXuXaEHT_8teExoP4hF5LYHiRdtd4IqVz2Brj8MxfFB8Xo_LpXpZOtq5cb-SywUQlpLEhoeeyav3vWKCl9QmypKOWvpkDKSXkGTeoyRmf-EEq5Qx1tQkWk8oAcHoJpe77-E-pc2rxCChgzlaL58Z-waOmzZW7-nMTr4nE-tkhG5humBDmdPmiYX9-BEDWdReRRMHOlJAIN73jBkcU8yh18Rm1rAvkcE22D6Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 163,
+    "coordinates": {
+      "lat": 34.102052199999996,
+      "lng": -118.25873270000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQwmxH9THwoARoxOQyXh5x6Y",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Silver Lake",
+    "google_maps_url": "https://maps.google.com/?cid=12017707690346156963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Alcove",
+    "address": "1929 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "American food & craft drinks in cozy, historic bungalows with a leafy patio & an upbeat vibe.",
+    "website": "http://www.alcovecafe.com/",
+    "phone": "(323) 644-0100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDfqmKLDAwoAR7AYkI-Myjqs/photos/AWn5SU5hFjRyy_BgOju7Q68aRcnOlk1WDRxa6MDQSlCbfySY_dbG2xkp3ppIF0iYM7jFEl18oRxxiJo8iopc728v8zkgAfLufHApx_scDWLxoEEKrkjIYt7b812CRIvFugWCiIGBjhQpoJur0tPynZnDb9-f7_Fsm1HM3jUteoVA4hFY4XAbPhal_04LJ899WR5omBfZkeBJR2wGe21QPFxvoY-pBERrtjgpIapgd_Lq3hkvLAD8nDJw44LNKY-nc5w7_mlM5nlkTLqOA9e-VMCqZUaZ7A_ADM2aYI2w3qUluk_i9A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 2041,
+    "coordinates": {
+      "lat": 34.1062307,
+      "lng": -118.28775830000001
+    },
+    "features": [
+      "cafe",
+      "bakery",
+      "breakfast_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJDfqmKLDAwoAR7AYkI-Myjqs",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=12361873978307118828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Los Feliz",
+    "address": "2118 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "This cozy bakery & coffee shop offers pastries & a menu of traditional breakfast & lunch items.",
+    "website": "https://cafelosfeliz.online/",
+    "phone": "(323) 664-7111",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxZ6-1rrAwoARTELadIUlIdE/photos/AWn5SU50Jh9MPIia-RjwPZbMFKjz9D462-JMIP-EaBJ7Iqc6UletlBU4e4Wgrm-Pqlfan1m1jRD7Z7w3ARG684X89ptR0204aFofNIy1AhfFdX9QtOiwKWWrtTLA4XTs_lqqiXRDzH2d850Pe7i8y7jY8AShkS2L-oEdn2pGD8fPdN1mGS84rIUEslxTP5VD6SlkAQhwg754qPR-s-qWA5Xfxp_Ip1ZS_2yC9e_VRVuu_1JJamOP9Co9UTlKjgYYd3j3baxYUmO6reOosbJ1iYKwm9aN5fN84l0FMun9t432zZVGCR7AisKXmq6cnIzeIA0mFQEtv_OrexOkf3dgLKtLf8PtlX6av8-JcjaBPEuAW_O3a6Jaoxy0_hyG9cFVF1CPiWHHeYACAuuOAT4B_lAtYj03pMnlyjZ2hfjZa3ubJVzQtg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 621,
+    "coordinates": {
+      "lat": 34.110580399999996,
+      "lng": -118.2873114
+    },
+    "features": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJxZ6-1rrAwoARTELadIUlIdE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 3:30 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=15069367083279729228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Maru Coffee",
+    "address": "1936 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Cozy coffeehouse with a stylish, minimalist vibe for espresso drinks, pour-overs, matcha & Wi-Fi.",
+    "website": "http://marucoffee.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJb43hJLDAwoARh1TGU9s5VNc/photos/AWn5SU7N8XzociIbQl7HeGStMfR9MvwJJvH1KBl6iE2VcGOizlm1OsfD4payIpZMDJ89dtjJV2Z11WJJuYDigZRjIi3c3ta2SzznS7cheglCc_mK4HXBga3y3hjZ2OB0qYs7CxWARfR3vpsbldvjeKtiXy40wJ2vjZ2dcB4Dsbauf7iwlBgqqlg2UhJDQg4O_AIRHYxIaDp47gXKRWlZJ9bk9jjB3VWqmOdA_oH_ZwcT4BwuskYvk5diuSGtCWD_okfks-AQROcrQDIN6QNKUOvsJchHRGa0NgO2O3zT2VGqQlbEDohGeACVZX1MybT-JyjVdYa04H8b72hZ0B2MiAq_kd_hC0uGvf3FNc0HwRlqS4BgfkFE6KGsNN5xIuJTUqZCuKekOxOMNU0jcFoAV-EU4qJTdgxJttk24gingJdnTatDD-641-w4BwZusZwAEEeV/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 646,
+    "coordinates": {
+      "lat": 34.1065841,
+      "lng": -118.2872865
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJb43hJLDAwoARh1TGU9s5VNc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=15516090230364329095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Obet & Del's Coffee",
+    "address": "5233 Hollywood Blvd, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.obetanddels.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5_MG4Yi_woARVvHaFalpUhM/photos/AWn5SU72J27rsoBh1sWToZkOZn63WLGSf9bhuRF6jmWo9atEmDCet5z841KNuM8LSM0V-k9CEoRDWq9CICjfL614DHKjEBKSuWm1XtFpxtQfoyVDYmNcjNSFirjF_Xm0SnHSB18JW37etDB4cryywbcjfDL-ekjVEcEwXLjBdOHAD2pzjkeagCUOD84e5H6pfPCi-c5OzEAMcqc6NPrnpwr-zgZT6IjgDd1Ni-51S50FVWtTNUbC-Op4o98-bF1BxaPwrg6b2O6YTliMCkqs_OEpGX-wXefUkCu-EycFyKiv190JeQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 282,
+    "coordinates": {
+      "lat": 34.1018854,
+      "lng": -118.30454610000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ5_MG4Yi_woARVvHaFalpUhM",
+    "opening_hours": [
+      "Monday: 6:30 AM – 4:30 PM",
+      "Tuesday: 6:30 AM – 4:30 PM",
+      "Wednesday: 6:30 AM – 4:30 PM",
+      "Thursday: 6:30 AM – 4:30 PM",
+      "Friday: 6:30 AM – 4:30 PM",
+      "Saturday: 6:30 AM – 4:30 PM",
+      "Sunday: 6:30 AM – 4:30 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=1392291409747964246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Guest House",
+    "address": "1750 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Snug converted Craftsman house with cocktails, beer & bar bites, plus patio seating.",
+    "website": "https://www.theguesthousela.com/",
+    "phone": "(323) 660-9930",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCWqcBrLAwoARsfUp_Mi5_74/photos/AWn5SU7wUB9c5j2yvs435FFaIp_5wSe8pnAYnUHoA9fWimUN_LyVKg1fDNsaGWQk5Sp-ytT30xCOyexl6P8H6f3Y_UvtHawVFqt1ypguwvG81lF43rRXSXxp7_hrkdVvpRLRf5gF-V4XvwOIZb2byqY_F-R3KmP-i_fYsM4fG379MlmWlmj024cH6hmZJsREHPaZk8AnsZQpl-cxcKFupelzj1MUWYScwnhFoO9Jk7z5cWOWA2ZfoLxl5hOmn3BZTyGQYA2HIDAiBpJ-nKlpvy9DGy_SlpWi59VdG8fGwRZba2fJAw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 240,
+    "coordinates": {
+      "lat": 34.1029234,
+      "lng": -118.2871721
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCWqcBrLAwoARsfUp_Mi5_74",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=13762923259142731185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Figaro Bistrot",
+    "address": "1802 N Vermont Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": "Vibrant French eatery lures locals to its sidewalk tables & red banquettes with classic bistro fare.",
+    "website": "http://figarobistrotla.com/",
+    "phone": "(323) 662-1587",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtf9R7q7AwoARyAim-AJB8rI/photos/AWn5SU6ZD1id0aTIWhoMUPIrh4MBpuloynttBqCBLiQnHzfQq4IKR0XDf0UB18KATn9kV6lHY3rEkEKuK8fTwWOW9IGNTIMWAxh5IXdKOsWGVmUuzafC7W80AaJvc3AlBV0NmTwRbhNZI7b6GXQkDylXldbDScaQaJLcpEJ7V3DGwrZT5n5oQxEQz-zVKvDurWQ63RcB7y8pout2RbFjfHzlh5viYMqm2WSHHTgS4ON4k7I67V4DxmFcmBFatazqIaFnQ81NWQYbmITqGKMp1z9bqHwlga8MZsHDEda41xO6w38cvjmaJ-ovkT9U4p0-RFmbQgxoc4e3KonQ5E7eD-7hZ_4vdhgwmrBdXLCl2cMOhZkDhCNzM2U2ayAQvIoYHVf9hg-PEMb47f-P54Sf2N3-2xClblWfh043sNzW9Ro23enYoA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1339,
+    "coordinates": {
+      "lat": 34.103777099999995,
+      "lng": -118.29163559999998
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtf9R7q7AwoARyAim-AJB8rI",
+    "opening_hours": [
+      "Monday: 8:00 AM – 12:00 AM",
+      "Tuesday: 8:00 AM – 12:00 AM",
+      "Wednesday: 8:00 AM – 12:00 AM",
+      "Thursday: 8:00 AM – 12:00 AM",
+      "Friday: 8:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=12894440164132522184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Los Feliz Cafe",
+    "address": "3207 Los Feliz Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "description": "Cafe next to Griffith Park serving breakfast burritos, burgers, sundaes & more, with outdoor seats.",
+    "website": "https://yummora.org/los-feliz-cafe",
+    "phone": "(323) 661-2355",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM3z04unAwoARP2t6C05UTgQ/photos/AWn5SU5SSkoBuEH_p0XdorWya2j8yNccysW2zsDVW3LkJLSF3qH6wF81R2bLgyZhT0kSeQQ3qg-UIYZ6r5rAS0pYO4LEmjnjaJaPbajGOzlJ1qzpQpq5y7dDId2RjUURTsIr9s2Dt6_9NAB1u-bp6RpqCIYG0iYR3Urd0ZiMOJ_oTAHlf-OMp6akImVuA1z-8qE0rNk6CIb0_6LeYSEVPa8unOYuPmk95ti0HhnHtFX71wTYoKmzMv_TYTCtpAPsfYX01MMbs7Kk-NhyVnmith5ZHl6ScKU3cTMkNM6XmkAAeGKyPQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 620,
+    "coordinates": {
+      "lat": 34.1233398,
+      "lng": -118.2693678
+    },
+    "features": [
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJM3z04unAwoARP2t6C05UTgQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=310278118511897407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bru Coffeebar",
+    "address": "1866 N Vermont Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://brucoffeebar.com/",
+    "phone": "(323) 664-7500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdRJiGa_AwoARpoyB5B8iGVE/photos/AWn5SU7clyfvRzWxBEFeaMD0kRhYaxr0ORxvvCWANfK2mUPIfICi5KDZC6F5XnceaQ-Upyu4SHpbh0eDNxgNp0ur2E8KCZGd2fOxmTggz852Ap5PnkbecDmOzrfN_zuErrhMNO8nhNODaTqNgzMoutEO4ZcfGszdu2TOe9zBsiiGYDhxj1yMgyipqGv7gtZbjSpjxJdJlQA2xL7sd5uksz1L8rTZcueKdpTkNxIKClimSP2xw2UUlGJT9ega7inPh94NLrp2OONAk8sSvyWNsBJfL6X1PL-reYMGLM87K8-IXOdF_g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 238,
+    "coordinates": {
+      "lat": 34.104991,
+      "lng": -118.2916302
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJdRJiGa_AwoARpoyB5B8iGVE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=5843739511862955174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Loupiotte Kitchen",
+    "address": "1726 N Vermont Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": "French cafe serving classics like quiches, salads & pastries inside a charming storefront.",
+    "website": "http://www.loupiottekitchen.com/",
+    "phone": "(323) 854-4250",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJV5hWVizBwoARPGENLfwHIws/photos/AWn5SU7NnC_T_iWCpCL5WlVZ3yNeDpnEzC83PduI6X-rPNqTAtL_BMCAlQmabz52ghwNYOsIyaHpbdaJwY4oPDS3F3Ua6uB5wPVO-9obOyooDfh_AnLRSEaRoRr-Ijn3qzCuMnxWsIRFozcoyUgVi4lkE4Yk907U07ElIrkRNqZV2wXAoTLAjLZTWDTxL9obknJz1U-2lGXOUcVzeOe0kb3s5zUmTAdy-948T0K3YguBeRb89hpkaywXfqp6jiZ7GSWl7-8w88ypnHtMrjlNQd-iJZx_flZr57nKbTzgQA26o_IRcuxv-gAvkqO3Dfg_3RG47wZnwdYhyl_zle2T6taTKHmBLPoW4N8w4eLnZzH9544kAagofwa4qKEbZVfeB5Dmaht-myfYqPJaO_OeMCAp_qyI6N1ADayMnFx8TzNEF0mpHjZj/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 416,
+    "coordinates": {
+      "lat": 34.1024777,
+      "lng": -118.29148269999999
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJV5hWVizBwoARPGENLfwHIws",
+    "opening_hours": [
+      "Monday: 9:00 AM – 2:30 PM",
+      "Tuesday: 9:00 AM – 2:30 PM",
+      "Wednesday: 9:00 AM – 2:30 PM",
+      "Thursday: 9:00 AM – 2:30 PM",
+      "Friday: 9:00 AM – 2:30 PM",
+      "Saturday: 9:00 AM – 2:30 PM",
+      "Sunday: 9:00 AM – 2:30 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=802493938271084860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Standing Egg",
+    "address": "2833 Hyperion Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "phone": "(323) 407-6998",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJS048GMnAwoAR3PtKP_3SWH8/photos/AWn5SU48dDTjDrE8e9LssheQex22JOJ1jOYZIaxdxH01iYhcxq9417e6D5784LAK2kkY1mZFwMWi6U_tf_UBuNTOTGhYp_oBMngIWjvk5FdURrJYqVQ1Kfwodx46gbOxWjnED6eOIxRUZiABssm6BtbVhotgu74NngKZbvgZj2R7TPvOB6qy36rvpQoY57JjBY9bIPusT0__e_IYFd1h8IRkjq42x58_5mI9Yvp0umEdU7qAwfJAqg9khbIuC2z6a_0xxO9WsRJeL1dWWDQmR-kt28gjhc0T1zb_e3hScpmbxHQFrCQqYbJlZVA9JSSpfkPzDalysWRS4liXiW61us0GBr63m478Kie9CS6zXV5Cqz0zF3oEfStSjihq_mgZl4_VK7scU5g1FBHdWM-5FEvuZpCl2Zf3BRUA5QhjnagFc0Touxys/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 153,
+    "coordinates": {
+      "lat": 34.109041399999995,
+      "lng": -118.27185189999999
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJS048GMnAwoAR3PtKP_3SWH8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=9176316225897823196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Handles Coffee",
+    "address": "4459 Sunset Blvd, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/handlescoffee/",
+    "phone": "(213) 434-1997",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIf_vLQDHwoARzE6lXTxh9y0/photos/AWn5SU4w-Mi-vT7CwxswdWmxVEms82UqMgBpDtWJjXI2yS1CpmI4hwo8zqMy63lMfQZIXq2Jjm3xgFtnmw8JH_Or-2_eZfAbFsD7UQDqwjeGt-c3hbnwF519fc_cRQzhP415oUSVwvfZ62jy7dmi1e38T1zncEHqEjt7TcG-Y19ZNnXZ6A3Wp2n5tjg0t4DXjxCExZ4QKpnloWqB2Q8U5WFZHL81pPOZm7iR-58IiMBIbTOqbH87zbKLkSxcNq0cedIVBtqWWaXltkPR_C5xv95DvDJ9Et-8oLo42MLERpEACUQoLABpbzae2o9zNKOumjABW4p8O0pMytUr8w1QECMaIteCmEJ1LLnSG468-IStFN5Q4ETy3jRCdM3-D_nq1u301YhBF6T2U982yvQj50vKCDbQ9O2j8Vy8G4sEjFh8_rogJdg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 250,
+    "coordinates": {
+      "lat": 34.098047099999995,
+      "lng": -118.286622
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJIf_vLQDHwoARzE6lXTxh9y0",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 7:30 AM – 4:30 PM",
+      "Sunday: 7:30 AM – 4:30 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=3312222962851335884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fred 62",
+    "address": "1850 N Vermont Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Classic diner supplying updates on staple dishes, including veggie & gluten-free options.",
+    "website": "https://fred62.com/",
+    "phone": "(323) 667-0062",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYbf0Ha_AwoAR9Qotvys_w9c/photos/AWn5SU7DZeG1h_uA4o5x0hNmi328pLT-aykZTIVgYX_1LDXrWJ3J_NRus2asOIK3OZXE1UQulN1J7fHYtmQ93YZcW-l3i8sEm0SDAL9slTcmcVsFj7iUtuDZWIV5IfKJfc6DKl7k61qBtsP5otNlDAHc8d6BUgWYKTGVc5W2VRYEBLvJxbdLg0QhtNTGp7lJC6N0AgRP_qXId7gNgCVvQnUYi4AyQDOBibSgpZWC3dwTBHFQVykAOMV7-KC-5DUcyZqoK3yqQT4ICQg5FjMSIniiBCGA0mBpG4s8ErVHqY1cvc6gBw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1772,
+    "coordinates": {
+      "lat": 34.104636,
+      "lng": -118.2915368
+    },
+    "features": [
+      "diner",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYbf0Ha_AwoAR9Qotvys_w9c",
+    "opening_hours": [
+      "Monday: 7:30 AM – 1:00 AM",
+      "Tuesday: 7:30 AM – 1:00 AM",
+      "Wednesday: 7:30 AM – 1:00 AM",
+      "Thursday: 7:30 AM – 1:00 AM",
+      "Friday: 7:30 AM – 3:00 AM",
+      "Saturday: 7:30 AM – 3:00 AM",
+      "Sunday: 8:00 AM – 1:00 AM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=15547339795736627957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "the Village Bakery and Cafe",
+    "address": "3119 Los Feliz Blvd, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Quaint cafe & bakery serving pastries, salads & sandwiches, with a dog-friendly patio.",
+    "website": "https://www.thevillagebakeryandcafe.com/",
+    "phone": "(323) 662-8600",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDyEzzenAwoARGBxl7HF-Zq4/photos/AWn5SU6M0wwjGDdmyr9aJm_e-5VfM7s0MiDjwNyygYlWRSkaVyoY72XeeCddBB--uCPxfctk26w0d-skIi5GubLSw8PDjDzOVdOaJXYAzIm49FG3S_ZQw2oBVfk9q5MJQo5i7o68nprzc_8DEuzfGFEbs7hw4tH2Xo6CXJoch04uALQ6lpROuE1eiCSiTKBZfdK5qYLFVIcrHVW-Q4TPwwdm9LebbkV8rDIkbIJpDBVVvACIsj2SO4X7sQF3Ipy5FZpCnfngPZHj8gnmyLquFUugXiMwOPbWiZYr9L0rkkspotIhe1cl-hoy9j9Rrn4vjTa18HpuD7lGpeDc5-Wp-FOhTd2BEupRaEMMwaVsv11Oy3_xSWGAVVn-lKKTP0mdPJMz4Vm_kbB8CDKz9xP7fD32ql5RHlgB_hlqaHZwEkGvd2XoQsnt/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 592,
+    "coordinates": {
+      "lat": 34.1244203,
+      "lng": -118.26739909999999
+    },
+    "features": [
+      "bakery",
+      "breakfast_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJDyEzzenAwoARGBxl7HF-Zq4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=12566870837986401304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kava Kulture LA",
+    "address": "3111 Glendale Blvd #1, Los Angeles, CA 90039, USA",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://kavakulturela.com/",
+    "phone": "(323) 522-3122",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMWuihwnBwoAR6QTIEtoJKGI/photos/AWn5SU5G8yGPyvXZevQaCC9iqfymGiryozhgrxEn8Vwm1X0VgptuBa02e1gVXBn8xAyFbbmAVQzlpkobh44PHaIzXz9IPhzFZRYf0SZGFpx7vFpBsAyAYzcr9verIgNX-CCEpq-kVuYVyr9c4eZA4OBRLSO5huys6Q62uTtniKpqvPlqvlrGG14wjyShdYpMruXaXw2afD4G1EWpcdp9AiWgW279_o33Hyanhw-0Qcjow0q9A6_aF5kBdgaP4GyMlggj9AMIsUQzII07C2lDj6BhwYDZFZBrofGEnFxAMAxF_6ov5A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 114,
+    "coordinates": {
+      "lat": 34.1164924,
+      "lng": -118.2630711
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "night_club",
+      "food_store",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJMWuihwnBwoAR6QTIEtoJKGI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=7072914047007982825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Pergoletta",
+    "address": "1802 Hillhurst Ave, Los Angeles, CA 90027, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Customizable Italian cuisine where diners choose a pasta & a sauce amid a cozy ambiance.",
+    "website": "http://www.lapergoletta.com/",
+    "phone": "(323) 664-8259",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJW9g98LHAwoAR7eaxzvH95Uw/photos/AWn5SU4htyr9PWgi0aeDwCQOrLiMZQTXty9E4aESAnqOXrJLN0Zl2UNMAXG6OdxggFcOHZNYWKZ1liRlQr9NnEPcmLfZzyDedlqi4n4F9VGoiXWT3k6azy0vhA7ydcDBv6WZHAVC0h3li-J_iYdNKA-npf348BCaPxEXca42nv6Gn-W8Y0uFBtjdhJ0nPP89KF8mjuAO6NU4I4adv52SKPE9IQajDYUIGgFhtnBsaSRp8x37rqRIu0LL3dkswLtjB5Yi5LyjFeZwvhFz3ORpD81_WLOju5sl46YkRiOYxaanVax4FEVLsFw5xYdJeEiCYTNf9RV8lAttmPEdvap3dSPSVBWYb8R9HjCbR162jXxUcAJCvm_TV7V3B6zyM1O9Cqsdg6JP86dvJ1ZkGFBVc3F0JqlSV_NgenhmCVt1-bSzgGLlgQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 794,
+    "coordinates": {
+      "lat": 34.1038943,
+      "lng": -118.2869547
+    },
+    "features": [
+      "italian_restaurant",
+      "sandwich_shop",
+      "deli",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJW9g98LHAwoAR7eaxzvH95Uw",
+    "opening_hours": [
+      "Monday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:30 – 10:00 PM"
+    ],
+    "neighborhood": "Los Feliz",
+    "google_maps_url": "https://maps.google.com/?cid=5541114131545974509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Intelligentsia Coffee Venice",
+    "address": "1331 Abbot Kinney Blvd, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "High-end coffee bar chain serving daily roasted brews in a contemporary setting.",
+    "website": "https://www.intelligentsia.com/pages/venice-coffeebar",
+    "phone": "(310) 399-1233",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmQGsZb-6woARosdaaG-x8RI/photos/AWn5SU4W_pHOFPx55KIIvrAtpw-KjE4JavbRF3NyAK6EewbDthe8tcBC7XZIpDdyLrpojKYnK-Lz_7QP_uCizBlcccVGMaKv0D6Lsp7_v2QvfzfnfCDEQu16lY1WOVbNjm5_NQ2ykv00zF0Cp8-4h3piexhMw58X6XK9QG6P6TA5Q0OJ8tHU_P72aeF0h12C3IWdKd9PCMldCKZ_xfef5MfXh58t9eGiJnYfe0tmyNHbCxQQAYDduN41FraGAJwVyMjfaZq4g4oQ1gJ4DLe-A9ThMIl6ZshC-g73ij6yYIXx3FW3sUqiWFh8WRiy86vO5DZvnPTpa0RJwwsovSxrc0qZYB5GTavZLR-9obWVh18kxvKIm8h9QgEbYrS-GKVFQSL6d0Gu8bXEODvgm2OSXMlnNKltBZg9jj6_RxMwCoAGAdyc5n0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1922,
+    "coordinates": {
+      "lat": 33.9910996,
+      "lng": -118.46692719999999
+    },
+    "features": [
+      "coffee_shop",
+      "tea_house",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJmQGsZb-6woARosdaaG-x8RI",
+    "opening_hours": [
+      "Monday: 6:00 AM – 5:00 PM",
+      "Tuesday: 6:00 AM – 5:00 PM",
+      "Wednesday: 6:00 AM – 5:00 PM",
+      "Thursday: 6:00 AM – 5:00 PM",
+      "Friday: 6:00 AM – 5:00 PM",
+      "Saturday: 6:00 AM – 5:00 PM",
+      "Sunday: 6:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=1365067254120236962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Gratitude",
+    "address": "512 Rose Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "vegan",
+    "price_range": "$$",
+    "description": "Locally sourced, organic vegan food & drinks served in a laid-back, spacious cafe.",
+    "website": "https://cafegratitude.com/pages/venice",
+    "phone": "(424) 231-8000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-XNYc8W6woAR08pVuMkKKVk/photos/AWn5SU5E9O5kY2IMAgBWrKWwZMYmTlCiZSIwLRTsZ9FZWbezpAPAd98rHKQ6xXn6duavlKoji2W29eXxfaObTThLC9yl4ENRDwyJn_Hm2nSEvpJiWIT_O4CjXAQwxz2UHgInnJ3jyDG00hfAmVyXzYaeFgiEQyfS9SfQWeCvU53klJnBHSaG7WTD1OWrrkF0VAmqo2bFYxBteKnPGlGjmvaGpqDuAWb6JbM2ggEHj5qLafbsgKEuUa9xE7wPn7NJUQ-E7YCnT6M3HvWbsWmn7CcXUXuuokmYB67sYiKnNrfRNZz7RtpwjouWQMf79MaB3QABoZ4alOfaW6syYYlDFHlkTQZA_ledA4I5K2dXpHsAfR_0JhVhTDL3YXiyBj2Qfv7dj-Gn4LnyLRPEPPioAv9QTi31_mOh6bqc04VX12NTIJuYzEdk/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1993,
+    "coordinates": {
+      "lat": 33.998084,
+      "lng": -118.47373309999999
+    },
+    "features": [
+      "vegan_restaurant",
+      "juice_shop",
+      "brunch_restaurant",
+      "vegetarian_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-XNYc8W6woAR08pVuMkKKVk",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=6424678204918057683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Sidewalk Cafe",
+    "address": "1401 Ocean Front Walk, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "An extensive American menu, plus weekend brunch, served at open-air tables with views of the beach.",
+    "website": "https://www.thesidewalkcafe.com/",
+    "phone": "(310) 399-5547",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe6VgJri6woARwe6UOwDbEO4/photos/AWn5SU5Uj3BFPAz5f8iNe9qVLPGKNaRIi0_9m7PXRySfsaPP_X15jLXgNIPPH6OXCrq9WGdSihMHucGga47K7z8ZNqLxvrHco4_a5ygAoqxPjNlo5m6syGnMMrqs5cOckLMZphwYTvIixQzxYXzAp6qf8p7TyxO84DNhNzh5NlkgqAwWDz37hjbzKXWJkT0nR7BQ5dk7yY3aHLnmRJhVgCtJDZW4mz6kXMt7esaNcMhgMSMUeyi_XffAaDL3QfNW_c7U8V7v1ulnlyYxKpOeRDPj40R7Vhy6gT64CXH8fri52QPjVw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 3001,
+    "coordinates": {
+      "lat": 33.9879633,
+      "lng": -118.47448139999999
+    },
+    "features": [
+      "american_restaurant",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe6VgJri6woARwe6UOwDbEO4",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=17154451774700318401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Menotti's Coffee Stop",
+    "address": "56 Windward Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Gathering spot for coffee, espresso & baked goods in a white-walled space with an old-school vibe.",
+    "website": "https://menottis.com/pages/coffee-shop-venice-beach",
+    "phone": "(310) 400-0268",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5cyus7m6woARYX-sV9apPkA/photos/AWn5SU6XbO4WRDiUc7stUfqYTZaGp1Jstnn6bnBZ91j3e-lI2GrWmoIRJ_t9zu5CSOFzdRnJUb1O3jD6py0il-o7jO1F3fh2Lf5jZkpBp-GHQYIi8ll4jfGzhX0a-fXlOFDPRybmPQge70mVS2U3qCWM_gv-gyBvbt57ALM7W8MhO8yoxpxeCjyIMIU-Qev39yWAeUfHb3X20qirc278jby05U7GY-z7BiTRESEsrMswcmaWBLvC_16qALncf_bIs1T3wQxSFoh1tXyuj8sqHu7XiVNnwWwhC0yv8n1FaJnuw2CEfw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 825,
+    "coordinates": {
+      "lat": 33.9872045,
+      "lng": -118.4726305
+    },
+    "features": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "restaurant",
+      "tea_house",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ5cyus7m6woARYX-sV9apPkA",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=4629324205042466657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dolce Vita Venezia",
+    "address": "Sestiere Dorsoduro, 3956A, 30123 Venezia VE, Italy",
+    "city_id": "la",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.instagram.com/dolcevitavenice/",
+    "phone": "376 224 5916",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlSJN4ZmxfkcRkG0vxm3qe2E/photos/AWn5SU68kPPVD4KH5m1HvXNIS0qkZoM8me3cYPSBRk3vRdt2pzTdvSeTI1jUujXNiygfKpJ-hEhxdS4TESlc1UVupMIxEuDKX3eyi93S5k1PYf4DFmpuZd6IX4HkYmtYFjh74K0ulSnIjBtwxvcUyGF62yy1EZdIpA4Q15BX6A5MD9Hkz_UrMwd9yWycJt41mua6A8F7uHGMSBZ5XG1sgi4v6JlQOMXl0eo3jxOBU-6xkI9eJWbRO6fPQPd40nBg8dp84qQdXOyyFCIviq_SxCklGhJgqXRA0AN72twugelXjVzJxw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1287,
+    "coordinates": {
+      "lat": 45.4359037,
+      "lng": 12.325444099999999
+    },
+    "features": [
+      "bar",
+      "sandwich_shop",
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJlSJN4ZmxfkcRkG0vxm3qe2E",
+    "opening_hours": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 1:30 AM",
+      "Sunday: 8:00 AM – 12:00 AM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=7024465801011752336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Cow's End Cafe",
+    "address": "34 Washington Blvd, Marina Del Rey, CA 90292, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "vegan",
+    "price_range": "$",
+    "description": "Comfy hangout with espresso, smoothies, all-day breakfast, wraps & salads, plus a sidewalk patio.",
+    "website": "https://www.thecowsendvenice.com/",
+    "phone": "(310) 574-1080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg0loAaO6woARjZCajfcxjuM/photos/AWn5SU7RyDt9mgY8sWYTQAkJ_-tboS8XrSMYB2M0UnoqyvM7YnQWzyBQNsaMLDvy_5fxzwWmOiOzv6zUdl5rN-9XdkJwQZsGgOZBpcFC6ibcdwNerPAIy_x3bxPrwcyilvzqpaYK5i_etkWd4hrQ3AeQDlsLK_Emfmp5WVDY9BNhQWELO3h1yuRvO4LIAdG7mCU9cnyDp4ua4sVdbZrYRzr_IN3EMVQzPI093WlUYz_GTCUkqTuoDYdYkye2qxUKCrsaUsBTy7_7xsn-GsDxfYXXUVmKVP599UfIa2ems5S1eDF3Gw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1101,
+    "coordinates": {
+      "lat": 33.9794191,
+      "lng": -118.4657707
+    },
+    "features": [
+      "coffee_shop",
+      "juice_shop",
+      "deli",
+      "sandwich_shop",
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJg0loAaO6woARjZCajfcxjuM",
+    "opening_hours": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 6:00 AM – 6:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=16397098232604954765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Flake",
+    "address": "513 Rose Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$",
+    "description": "Cereal art covers the walls of this snug cafe offering a creative breakfast & lunch menu.",
+    "website": "http://veniceflake.com/",
+    "phone": "(310) 396-2333",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB5fFbcW6woARA2gtkRwPPF4/photos/AWn5SU4kdob8pa6rTPJsC6K8MhPTMBQ4UttQSoCBrbSmpJimRJ58lu5IzzQcUa2qFfqZEaeNjsIIKWba8-PQBPuL58JOqpTJKhxWWFCGtEMhzEuvRIzmf4_kDLvw5zy9H1QACZTnAHQ1QCY71O5huUAyoJ_uQnQm2oN2saRwKQ-kHTcNf27XGE8yYZopX0Yb3tcuhvjEgxv0UUJgp42fSCYZiq4RDC9Ge7v2fpJTQ8aFYDtKqC_CWILhDOITzZj0mtw0WgRWW5YjqvzV_-bSnRqLha66H-pMxYgpZFsZ3kwQTuF9qw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 823,
+    "coordinates": {
+      "lat": 33.998419999999996,
+      "lng": -118.473779
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJB5fFbcW6woARA2gtkRwPPF4",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=6790318953537038339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Superba Food + Bread Venice",
+    "address": "1900 Lincoln Blvd, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Industrial-chic cafe & bakery with Californian fare, including breakfast, plus bread & baked goods.",
+    "website": "http://www.lifesuperba.com/",
+    "phone": "(310) 907-5075",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0zR6mSu7woAR4GeLs8NKAnQ/photos/AWn5SU4oN1jB5HXS4XMwzBh0Sq7IEimg392zCHYfFHmxQzBsAHD-oM9yds07kpsVbD-Ev1-SFEIc3ofVpePTzNgJMTsKgNqawYYWXpScvGQIxkXs9CSx-K-ULMOQQ2ic1hszhaKUsyttdMkYXPJ0BEJbP2HIzL9axB51lk_856Ogl4t5j92uv8pkIuoCjMN8fPDGmDrRMdyjNwUMausPz9oJ5pS_HhUfg75SjhSqPuNMri1DgOXZ__WBOa7Qgt9MtDzMZO4UnfGtbSV196_vOVduioJDKDNlguAdcdPziX3bMV-YlaK_E6VSQf9YoLLD2e4FgJ9y3QX94_pNp5qOxiN1hG2Z79fj1JRVqI3s_vOHAt2fd3EcrQfX5YFgsPPZlm-eFiEAwy90VFfsAONxl5HJseMsb97Bz8h3MaaiFrLC1I3Xjpy_/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1613,
+    "coordinates": {
+      "lat": 33.9962172,
+      "lng": -118.4563494
+    },
+    "features": [
+      "bakery",
+      "american_restaurant",
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ0zR6mSu7woAR4GeLs8NKAnQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=8359326062744397792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gjusta",
+    "address": "320 Sunset Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Artisanal bakery in a sprawling, warehouselike space offers up special breads baked on-site.",
+    "website": "http://www.gjusta.com/",
+    "phone": "(310) 314-0320",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIb5F-cW6woARd4CTt6yz_pg/photos/AWn5SU4ao-Sik5i_9G1jM0zLefDS8rAAUHHgZnWeCPxUqa8sdlUxQYcTVi9y_4WyxjvOT11Ydp_ybGBpD3Q6-7JKZbGSe5Ku6HXlxPpTXOWAkawrXx9Bd7OBmDnZywqKtlbVVa-LD71o-MWi3vPtjd9eflGXGnEP5A0ECyl8CXL5S70XIS7Y0H1Ajx5HALBDRSQCuBFR4PPMoaODpb8o7EZBUd2vycGuhrVsXmPNBV4RUaQAAyvUh-Nqv88qI5etDe0r0bgMzbn-ytdMaKyXKb7WYMzYIVonX_9xZJYR8cx3M4Dsog/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 3352,
+    "coordinates": {
+      "lat": 33.9952076,
+      "lng": -118.47448229999999
+    },
+    "features": [
+      "bakery",
+      "deli",
+      "catering_service",
+      "meal_delivery",
+      "food_delivery",
+      "grocery_store",
+      "restaurant",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJIb5F-cW6woARd4CTt6yz_pg",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=11024446492245196919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Groundwork Coffee Co.",
+    "address": "3 Westminster Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Local coffeehouse chain brewing signature blends & tea in a relaxed atmosphere.",
+    "website": "https://www.groundworkcoffee.com/pages/venice-on-the-boardwalk",
+    "phone": "(310) 450-4540",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJXM59Le6woARNSAe_1kBYqw/photos/AWn5SU50edaxTMpE2jJCxMEFQwZYGZeXPHC6EyNuc0UbhVgR2M_1Az7qa-q1_EFYZW-NtO3QFZs9-bD3gXU15IfD0rJW88sEdlWkrhZHGFlcpbka9lKA0TxepGDWQedFozBB-7_Q2qbc-pSouvorOLCkqNuYw3u069MjL6JAS-t5TroFwiEdhShpOgttcyWtgsU17_3AHJThfdtiKKLd5Q6ehDHKnyjuXj-vwEwdArcrm_yborHxY-AZVKKve-sPZYjPmm9rGuO7R7joAelolAbOcyzP-4xMtYNT9Js1rO7iiR_afAbFZBRrHLz_kCno1z2mhLzCt4AadOGMaxP7_rRP3zP-AQNqYWAhCQD5ULmkA4jwSFKeu3WOLx77jAMI5e11yaBhy7JAKjWXP-abeFZkKUb4q42TV-p5WAU94SuiglOfzts/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 293,
+    "coordinates": {
+      "lat": 33.9886537,
+      "lng": -118.4749744
+    },
+    "features": [
+      "coffee_shop",
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "restaurant",
+      "tea_house",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJJXM59Le6woARNSAe_1kBYqw",
+    "opening_hours": [
+      "Monday: 6:30 AM – 4:00 PM",
+      "Tuesday: 6:30 AM – 4:00 PM",
+      "Wednesday: 6:30 AM – 4:00 PM",
+      "Thursday: 6:30 AM – 4:00 PM",
+      "Friday: 6:30 AM – 4:00 PM",
+      "Saturday: 6:00 AM – 5:00 PM",
+      "Sunday: 6:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=12421492208285130805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Caffè del Doge",
+    "address": "Rialto, Calle dei Cinque, 609, 30125 Venezia VE, Italy",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "website": "http://www.caffedeldoge.com/",
+    "phone": "041 522 7787",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgxfQEduxfkcRGbPbDICznyY/photos/AWn5SU54s309SWnQK0R_78KTpYfH-qRGCUJG97R4V3T3W9EyjO-HCmPi3uhpTHzQLoBMkhu863CJhFxaKwTA5Zgwg4UxNB9nYnCs819tI0EgQpouUuknuPEzdwnLkAVPnXhOf171fKJC6vrt6uu_2VSvHvAxsOIgvrjL6iaw_lphEGwHLK3eaxlqEfavP6_6CehbCrLOfylWelh0aj-zerPnhz9yDtBsfE6pBJ8njkdzeV-8LYTMjfe5jbeeirXsynMAN6SnBgDELdSepyzClGwK0UISuNn0YK7rSJvQWuTPm7P0YQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1959,
+    "coordinates": {
+      "lat": 45.438314899999995,
+      "lng": 12.3342826
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJgxfQEduxfkcRGbPbDICznyY",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:30 PM",
+      "Tuesday: 7:00 AM – 6:30 PM",
+      "Wednesday: 7:00 AM – 6:30 PM",
+      "Thursday: 7:00 AM – 6:30 PM",
+      "Friday: 7:00 AM – 6:30 PM",
+      "Saturday: 7:00 AM – 6:30 PM",
+      "Sunday: 7:00 AM – 2:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=2783140457291166489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Abalona Coffee",
+    "address": "827, Ocean Front Walk, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://abalonacoffee.com/",
+    "phone": "(310) 579-2487",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJD8HTQZWfwoARs88kb_NXP84/photos/AWn5SU5qylyrni8bsL3X0tv_K944EK7nGYl0KRJeIVza4rCkh7p5-pF5uLjFndIq6GtkNpenpdOceHaERyeUg__HKZKh2opM3x7xDLzE4KqYWs8pfbQ5h0WoK4ZvuaMzUmfPILBv86Zga2CT3L5k3PURKXY_cDGA8SyvLDDaVBhb--00Ybd-ocNmIecuEWTM1N95sQoJOz8R6enY4NODrXB6RlZb_A5Lmf30all1Lix_Bwd83O175FFD3fIQK2Lpb4hyAqCWvR_dsurOPJ3M0k7vJWTfnd9Jr2vD3-p-ukKeJ1NSqvskH0RIZJ5zzKd-e2WDNNoPLmsOfKN6Zl_D4bK29MSpLIFwIVuaZddYhNsTeq8UDWW6XmhPEakMFn1wYJ_PEBX0JxFU4TVsUKKe7_Kw_wjyieQSBOgrFpuztwGpeon0VA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 116,
+    "coordinates": {
+      "lat": 33.9906979,
+      "lng": -118.47690879999998
+    },
+    "features": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJD8HTQZWfwoARs88kb_NXP84",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=14861693998399279027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Collage",
+    "address": "1518 Pacific Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$",
+    "description": "Light-filled cafe serving organic coffee, smoothies & breakfast fare, plus sandwiches & Asian food.",
+    "phone": "(310) 399-0632",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw-DCUbi6woAR0mF5Ej7IIfs/photos/AWn5SU7gv5A_kdxZNS4wlOBnixrDvXhUHmZRtstK59ySQLhwvhPz7tJEvc9ULy1-ElvWlXnAs2KYE4s_K25pwV5vDkXBGpAeKA4GJWzWL0mUjgNnXZFAlxkvSDGf-GR3NK0s2xxJJ84N7VI6ZXD11RbIIHXz22xoxMJ2GJseoT1i7IP5cInYXo8vGgULw396pJ1AGeKey6v4FLYI-d6zPjypYDHwCQCwq6qLR6iSmFFeBFnt9JB3JfHDvRykvc2cz6RuXg6BoYlr_-UvYzWDwGkAuv7i4EnyW-Mb2MY0m6ja3_WZkke9O9E-0_-Iq9Y8oKfPiH5cv5PM7cSjo-DfmvkGtc-JPgVr9WVH-p6eWOJ-T4Jgtm1ckjc5tffWsscuKiEIICpWJ2Dp_w8kL6L6dkJlmvXkTGSlzIStJHYC9Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 323,
+    "coordinates": {
+      "lat": 33.987890799999995,
+      "lng": -118.4721967
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJw-DCUbi6woAR0mF5Ej7IIfs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=18095964946674835922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Groundwork Coffee Co.",
+    "address": "671 Rose Ave, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Local coffeehouse chain brewing signature blends & tea in a relaxed atmosphere.",
+    "website": "https://www.groundworkcoffee.com/pages/venice-on-rose",
+    "phone": "(310) 664-8830",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMdyyucS6woAR5ZGh1-AKa0Q/photos/AWn5SU5IV3nyAuqQ_sXoqba8FF6v9gXBLDtT9vdpdsbf1KktagB1STR2i7Q3I9KMYcAYVbl__wTmTbzDL-thWlDweqjyWdsdadJ_DX8QAvoHyMMQcfW5NPgZi4BNLJvyAs4XjCmLjFKv6AaXBqW372cq52yw2wSx-UoZ8iaR2eFBa6zIOTzPRR32sbj6G_Eq5vQ5Z2BralE4SyFGbKNsivo2t9Ly9of8KFNagR_lxNxHCB_fnjV32QAfn4j5SyjdvHW2ax-N_jmgjfMHcZ2cIHBLJupoK8quSSStnx7ASK53WDZFx1BI-IowjZKGaP-TP0XUV6fQ9-rXgtbaARLvt6LxgH16ZT3o8kGBPfffXHb7B2PGAW2yA-8K2NAyd0_FYJR2fPrH6Hc_u4YZP6jsgleBCj9ip8PjFio9Lr3D-OlLUJo9ljk/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 603,
+    "coordinates": {
+      "lat": 34.0003785,
+      "lng": -118.47029339999999
+    },
+    "features": [
+      "coffee_shop",
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "restaurant",
+      "tea_house",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJMdyyucS6woAR5ZGh1-AKa0Q",
+    "opening_hours": [
+      "Monday: 6:00 AM – 4:00 PM",
+      "Tuesday: 6:00 AM – 4:00 PM",
+      "Wednesday: 6:00 AM – 4:00 PM",
+      "Thursday: 6:00 AM – 4:00 PM",
+      "Friday: 6:00 AM – 4:00 PM",
+      "Saturday: 6:00 AM – 4:00 PM",
+      "Sunday: 6:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=4930046177893781989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Deus Venice",
+    "address": "1001 Venice Blvd., Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "phone": "(888) 515-3387",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg5uax5K6woARDdg3E-KACuc/photos/AWn5SU6eiYvNabWdiofMVJ1siVK_gcNDafYumebw2NYAyJyp2d2SCT4mwrivKW-k3T7LoFFDV0pBR0Hb2vjVe_ZHkWC4_j-rOtVzvoKcWGRR7WRWor_BA1KrzNFAVE8GoidmmPTJeNESrv95sEHBL2Brsb0c1AKgDCTrOv7oku3BN0IMjzgQmpsrBF3CFiL8e9-D983yXUVAIng93CKdR34nNfZhkpYaulkQVDCa7t9voNK_rOghacstXis_aIvzLnAcjIo3GfsGNS95lIuD-i1hrOI1nY1TSb63axqhmENRod26gCe_-Yq-SgEaw_-NkhtxT5bd-H420IMXp_QvHFwf--3EU7QgPRiwUjykQkfueSx5DXD5ZkHwZfRFNQdudAMNyfMHbK2WBKXfP_JSZJvk2dfxh19dmAVk3am7r2b9TDUgW7A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 145,
+    "coordinates": {
+      "lat": 33.994378399999995,
+      "lng": -118.45297759999998
+    },
+    "features": [
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJg5uax5K6woARDdg3E-KACuc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=16648260681001850893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brunch Cafe",
+    "address": "Calle de la Madoneta, 1457, 30125 Venezia VE, Italy",
+    "city_id": "la",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://www.brunchcafevenezia.com/",
+    "phone": "041 406 3286",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLR-53J2xfkcR20jNfKNaM5Q/photos/AWn5SU6NovviS4_oRcGRCwvGVmQJgm9xY9hng9h-3lVvTw0Vo5L-V0kc-1w7XhfVFFhWHSvWAD4fz_TOFA00MKNgBOrf3xqHRFsd_wqrHkUZNT-qL42jD7AQrLyvvd2vg9BhJsKDVbG1JDkRKGKzT0AyYE6niNmTrC-kiS3K1Si1K2PS2_IRANsXqC9Os8U3-FiTZtEM9iEkMGorIF_dqUOblIDI7uu9lfgu6nzf49hbi6O3jONMJNas5ZSTQz_v7tPOo7EEEMw3darRbIZc2rHhC3s5xatShrC8dOSukSoROzMxYwlZ2W9rWpw2uBSrfFffzBIrZJ3_Xbiw323uF-YWsnJQqhAL6c6flbcGFHFEzvg3OlRV5dPJh50nHSjyhG_V3baHeBt0XwxP_M0ob7ExMAuOfS-nLmL0MZkn2fDtpUGcrJSg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3646,
+    "coordinates": {
+      "lat": 45.437255,
+      "lng": 12.331149000000002
+    },
+    "features": [
+      "brunch_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLR-53J2xfkcR20jNfKNaM5Q",
+    "opening_hours": [
+      "Monday: 7:30 AM – 7:00 PM",
+      "Tuesday: 7:30 AM – 7:00 PM",
+      "Wednesday: 7:30 AM – 7:00 PM",
+      "Thursday: 7:30 AM – 7:00 PM",
+      "Friday: 7:30 AM – 7:00 PM",
+      "Saturday: 7:30 AM – 7:30 PM",
+      "Sunday: 7:30 AM – 7:30 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=10678978799645575387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cha Cha Matcha (VENICE)",
+    "address": "1401 Abbot Kinney Blvd, Venice, CA 90291, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "website": "http://chachamatcha.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCf1ykIu7woARFIUCr8tNBew/photos/AWn5SU4pHm6u3pGYsayUI_miePzvH9mtBxeo3rX3gELXEKFl2TikWHKRQsk_9YN_il5Q1a-ot-VKpPiCUOCe3IzepJYaae6I8L5a1EeuFTZF--gdonSejEd4Clhok9kdhxvFJzBmSI6sPp6vobXmDGALNaNMQFXMgrd30C_TZ_0FpNKC_h5TeIAIzYHmZJWlo3XjGGH5euve8o0HiD5tCRXwsDAuy9eMyHnheRMjsr3B8z3_G587FVDzrJeAEx1LjITo3cG7GqesSII-i703-xSZek7h06mYKqo_1AKue2rQukGZiQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 244,
+    "coordinates": {
+      "lat": 33.990729,
+      "lng": -118.46579790000001
+    },
+    "features": [
+      "cafe",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJCf1ykIu7woARFIUCr8tNBew",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "neighborhood": "Venice",
+    "google_maps_url": "https://maps.google.com/?cid=17007085105044423956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Urth Caffe Santa Monica",
+    "address": "2327 Main St, Santa Monica, CA 90405, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "brazilian",
+    "price_range": "$$",
+    "description": "Bustling cafe offering a vast menu of American eats, plus a variety of organic coffee drinks.",
+    "website": "https://www.urthcaffe.com/",
+    "phone": "(310) 314-7040",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh7mX0NS6woARseCGkcbQVJ8/photos/AWn5SU4vivVUgqTAXQrdoeN-tLwKezaKX_qDCH3m02oOqdlakCDB28lWdnmuUbbp2_pSZvYG80SPY3-mTn7Lh3I7qNNBWVvXFVtCa9hGInEbpOXDESclJ-QDwUamGuOh2dchh1l5TZ1lHfssiiuMTcrvp0QV9ck3l2vSrUbG6ewdpqTiNrHYBJFkfEMHyEB0sLDq1Jf1KGfzYUaWyCyaYiZCnvYV6SJYORk3gDaykxJwgVUAZqu8HAnbww6Odr2sBW46ESuctFhi0Sb7U5tqkftYMUt9-iSfN0yjkM-brQXvvZfbtQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 4266,
+    "coordinates": {
+      "lat": 34.0043734,
+      "lng": -118.48578479999999
+    },
+    "features": [
+      "coffee_shop",
+      "acai_shop",
+      "brazilian_restaurant",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJh7mX0NS6woARseCGkcbQVJ8",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Santa Monica",
+    "google_maps_url": "https://maps.google.com/?cid=11481030901337874609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LOKL HAUS",
+    "address": "2627 Santa Monica Blvd, Santa Monica, CA 90404, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "phone": "(310) 927-7271",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp9VC4Ey7woARqFNMYQfRTHc/photos/AWn5SU5y30oC-iAiimfZelbSSbi7DP9FZj6opMLrCWe5i6PqZRqipSJYcLIW1zQRD7GUq-04M8oZ4LA40kfU01EnNBKBUKOzuAPTarw4cj7jpamzDVirSB34GIeniV-E-sTWNNvmTwGQKwdjLyp3KQnyZVLXp9X-1kpSpDStUVZQsrBob1ELS2zhS1Sy5OZX2RyVHXmT6CIglvyYUKZ3lS0AKfZOfCSwffexUgbrcpXFwI6CZltyWE2_xLz2s_owsL7I5PinL0XjiMY-DjXhOXHKDHkeCuV-Apg0DuthlD0NTFLBuw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 191,
+    "coordinates": {
+      "lat": 34.0339174,
+      "lng": -118.47386130000001
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJp9VC4Ey7woARqFNMYQfRTHc",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:30 AM – 3:00 PM"
+    ],
+    "neighborhood": "Santa Monica",
+    "google_maps_url": "https://maps.google.com/?cid=8596475618370802600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La La Land",
+    "address": "1426 Montana Ave #1, Santa Monica, CA 90403, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "price_range": "$$",
+    "description": "Bright, stylish small-chain coffee shop with light bites, outdoor seating & an upbeat theme.",
+    "website": "https://lalalandkindcafe.com/pages/montana-ave",
+    "phone": "(310) 393-2656",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkyI8bQGlwoARPqzVUStcuzQ/photos/AWn5SU7lS2XpvqRrsQvyiY-o9vrkX4o3XVnOTTP1rn3gUQYLkP9RsFkkKCPYG-S4GY1k2cK-8cybJhbsRuGKykYhWZvdXWruGrAt-8zIDknzW66bBQvZlvaA2tKP9xyDYhp__6q225lleFQm9WIUyEp19szTcgsTS2FHzNQ3SS4Z4HeFHihGYMVzomFBrtQaPUfd-FKBmZGrF9ahNjsqwMnDeUVL3CDSuWxU812W8zQaHVRjWjcrsMJCLpO47y5ZnVB3qJztj8Qmj-y6BOLehhT2D7BLUc8Or_RYlyqL14GJCSqNKA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 630,
+    "coordinates": {
+      "lat": 34.0327992,
+      "lng": -118.49426819999998
+    },
+    "features": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJkyI8bQGlwoARPqzVUStcuzQ",
+    "opening_hours": [
+      "Monday: 6:30 AM – 7:00 PM",
+      "Tuesday: 6:30 AM – 7:00 PM",
+      "Wednesday: 6:30 AM – 7:00 PM",
+      "Thursday: 6:30 AM – 7:00 PM",
+      "Friday: 6:30 AM – 7:00 PM",
+      "Saturday: 6:30 AM – 7:00 PM",
+      "Sunday: 6:30 AM – 7:00 PM"
+    ],
+    "neighborhood": "Santa Monica",
+    "google_maps_url": "https://maps.google.com/?cid=3799732051743452222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Back on the Beach Cafe",
+    "address": "445 CA-1, Santa Monica, CA 90402, USA",
+    "city_id": "la",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Seasonal Californian cuisine with both indoor & beach seating offering ocean & island views.",
+    "website": "http://www.backonthebeachcafe.com/",
+    "phone": "(310) 393-8282",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE_xTqJWkwoARsz96qpZpw6E/photos/AWn5SU4XGqgA1XI3Vspoc84CDN05h5YLjMsZM7h2kxYlyebJqZYT72PnCoXqqgFS-I3X75spTIgzzPMe2vV3jY3HUKlRwyB0uTc9cPktm6lPSu3IM1d_bwv_WibKL_g-DTyQiD1IR2HnP60SgIH3CvBf4yLmUVaby-jV1NNKUdF3LmDEnI-0O8CJmzsHeAjFVxy9BNUhM_WJni5sb6-0FQUYfAliu186sPPLn_tDlgU067NmmULEj9gGDBy-lAhpVgsXsm1f_HeA8tUQ460Nsjyb4fWxhwnmAbtiak-K731TcyhBfWS6Wbmkycthiwv_AkRyw9nZZLeSja-_n8440f8i1_7bzbHn9PETd2HDoEXSnsggdGljC9F5J-2j-iJYGHI2gaAn06ixRDjCWCagZHKKQMJeApyRCxYpAJDz3QaAuYSfu2s/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1558,
+    "coordinates": {
+      "lat": 34.023750299999996,
+      "lng": -118.5129471
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "seafood_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "event_venue",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE_xTqJWkwoARsz96qpZpw6E",
+    "opening_hours": [
+      "Monday: 9:00 AM – 3:00 PM",
+      "Tuesday: 9:00 AM – 3:00 PM",
+      "Wednesday: 9:00 AM – 3:00 PM",
+      "Thursday: 9:00 AM – 3:00 PM",
+      "Friday: 9:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Santa Monica",
+    "google_maps_url": "https://maps.google.com/?cid=11656276356391124915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

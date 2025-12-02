@@ -1,0 +1,3491 @@
+[
+  {
+    "name": "Claudie",
+    "address": "1101 Brickell Ave S-113, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$",
+    "website": "https://www.claudierestaurant.com/",
+    "phone": "(305) 990-1101",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ3JrxAO32YgRbPAUfW6-19Q/photos/AWn5SU7BcQAXChL0toxHKZ1oUw3EyywVYQd955yFX9fJe6_rUkdaqCL6w3iald2ZSZ17t7JlNWoG2D0tUV1zZMDiUp8BXVS6nGR3W115zzkBjhrpCGjBiZ9ezdZpPbmTvloS1YW04HGSkEdG2RWPN1pjoBbiEYfxcYM08CCmtAjvLJCczBt1MPLt-Bk4UE9m4wYMaK7mBJ9A004xOaMfF_RelHwU3mynLV5TdGANXE-h-J7lvJEDlvQ6E5xGwK1baWIBG6xXQjG9hzMriufiLtqtu3LV5PsPcezrP0fVVd1gbshO7w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2834,
+    "coordinates": {
+      "lat": 25.7632665,
+      "lng": -80.1910857
+    },
+    "features": [
+      "french_restaurant",
+      "mediterranean_restaurant",
+      "wine_bar",
+      "fine_dining_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZ3JrxAO32YgRbPAUfW6-19Q",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 5:30 PM – 2:00 AM",
+      "Saturday: 5:30 PM – 2:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15336936437787717740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Elcielo Restaurant Miami",
+    "address": "31 SE 5th St, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Latin American fare incorporating molecular gastronomy techniques in a chic space with river views.",
+    "website": "https://elcielo.com.co/miami/?utm_source=google&utm_medium=maps&utm_campaign=el_cielo_miami",
+    "phone": "(786) 694-9525",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6VVxuZy22YgRlpY7iByTz_Q/photos/AWn5SU4ViPZkyf1F5ZXWfB3dldlUUl5aCuAgWtAkHpxIHS2qYdFEgI6pC7NWF4d_4JQ2XR5N-oGp664fcKpChv306Ac7GWkhgi8Pee6caywe8yQ5MZrqAwOyXVepDBcB5eq3Hyc_vKrLBC5vzHBC2l5UsZIEnxXJR1cDZNXmGpX5H9T3Odjs83u8YaYDAurTBsxbsKxsmWctEcu3aQ4JBa6OkWBWvPPlLhKO6TqhoSnJC83ZNuA_Ldd3we4Ayy_A1KsAuyrkH3-bioz_9GTMh0sf5SNOpDuBqkN0l6Agte7d1hoHYA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 510,
+    "coordinates": {
+      "lat": 25.7696825,
+      "lng": -80.19151819999999
+    },
+    "features": [
+      "wine_bar",
+      "fine_dining_restaurant",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ6VVxuZy22YgRlpY7iByTz_Q",
+    "opening_hours": [
+      "Monday: 6:00 – 9:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 – 9:00 PM",
+      "Thursday: 6:00 – 9:00 PM",
+      "Friday: 6:00 – 9:00 PM",
+      "Saturday: 6:00 – 9:30 PM",
+      "Sunday: 6:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17640480016187496086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "L’Atelier de Joël Robuchon",
+    "address": "151 NE 41st St, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://latelier-miami.com/",
+    "phone": "(305) 402-9070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJ3pnTr6x2YgRUcKI0-aDyJs/photos/AWn5SU5lolCnzaUnGsFuNqo-A7Qw_jNC82QtGkaU-uOnD72FNPffwSdp9UjJVkPVHbMref8MUOmSZjOIwXo9Ze1yJ--0-FONrqp6brLQooEl7QDfsrOqIGehuf0F-VF_N7IHfkR-VFKS4pAAPIc5rRfLNFin-lYbRbDiqGsw3o28EWIhCELEzr_ERl-16tC5_LbxbpOndwJVsbl_7zV3IvU_9oYsW7bBDAePo8reDaLixWZKxo-uIIM62UIKrJ2Ky6vHci6yS91wDo1bC6tAQJ9bFM9EwipqAc1DJD0EnwDD8jytyg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 598,
+    "coordinates": {
+      "lat": 25.8146854,
+      "lng": -80.19193539999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJ3pnTr6x2YgRUcKI0-aDyJs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11225367098635633233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stubborn Seed - Miami Beach",
+    "address": "101 Washington Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Chef driven spot for seasonal American eats plus craft cocktails in a handsome space.",
+    "website": "https://www.stubbornseed.com/menu",
+    "phone": "(786) 322-5211",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkwRTevG02YgRQqy7_cHUWGQ/photos/AWn5SU7S-I7wQS04ioFtBRxpzkbB1PHSE8_tBebMoGsFrnMLNcOnU10AfAeiGlC_4yI4-U3rTU_JOGq9OdlurGxNZsNed84WFOVT9F17BTa315WTI7fSO7AYMBrhtClK9M0vpck14Qum-WoP1oJyQMFT3iGlllFr9thvkcCSaEp-h3S3uejnwWmAPgtDW402Q_IwLyWpxP6esu1Sh36RJZPsDSUe_Uc5ZgvQMbJRWpUQFsPtIRE3qth76DX6qvR9Po4JGY3_yXbycfbIoPYtFohaE5j-OFSpT1Zn9oKO9JzbAXLkyA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1215,
+    "coordinates": {
+      "lat": 25.7701757,
+      "lng": -80.1348768
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJkwRTevG02YgRQqy7_cHUWGQ",
+    "opening_hours": [
+      "Monday: 6:00 – 10:00 PM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7230763131394042946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Mar Miami by Gastón Acurio",
+    "address": "500 Brickell Key Dr, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "description": "Chic waterfront find offering Peruvian & fusion fare, plus bars for cocktails, ceviche & anticucho.",
+    "website": "http://www.lamarbrickell.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7zD21YK22YgRrMuK5jIKk_U/photos/AWn5SU4neUeeSzYjOmTbNtbnRLYRYEalQSvVhFqu_HlzDPy1XwBBBmMpbgg0FbLqUuR3LHeaS6m1JfcQKKoFVijmSO68m-nIJfl-RiTES99R47ZduQovku_ZcO_awvb_4U6NSBE7tlYZpEZZ9u-Ox8wuzOjNl5EiZLBdeEP2RK7kvrj-5-c8WEyYXhnTGTavVQB346X_Sz6cqkVMYXli4rsKp62J2ywPDXhEI3uPfXv0U0YPN9XKorKmsfugxZMENb72UfoPZgFqWGMwhbMhJ6G4xv-LqLBcvIC5eJEkeQZgkv8RGKRq4mLeDwNKLkclRexuX4NWWoEuXuaTOdXGC1otWBZw37_ykE-ZXukKjjpx0LYvBzIuWk86nUzQHmH7mL5ir7OGfJmB7KaeNiBWFna5JBZGRNGS6fNA12Bb_YUatOacYnFc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2764,
+    "coordinates": {
+      "lat": 25.7655186,
+      "lng": -80.185588
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7zD21YK22YgRrMuK5jIKk_U",
+    "opening_hours": [
+      "Monday: 7:00 – 11:00 AM, 6:00 – 11:00 PM",
+      "Tuesday: 7:00 – 11:00 AM, 6:00 – 11:00 PM",
+      "Wednesday: 7:00 – 11:00 AM, 6:00 – 11:00 PM",
+      "Thursday: 7:00 – 11:00 AM, 6:00 – 11:00 PM",
+      "Friday: 7:00 – 11:00 AM, 6:00 PM – 12:00 AM",
+      "Saturday: 7:00 – 11:00 AM, 6:00 PM – 12:00 AM",
+      "Sunday: 12:00 AM – 3:00 PM, 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17695498574601309100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Giselle Miami",
+    "address": "15 NE 11th St, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "website": "https://gisellemiami.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "(305) 358-9848",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI-aAsE-32YgRlQrq8LqdUa8/photos/AWn5SU4_C_7Xrh26knzpr557DF3M32Gzz8Z4JfHP2CWlTXuwQAINlxfJ0Fl_ZgEaaEuASzgH8QwSYPQvLM3ucGW5TBr8HoPjcNPDGMeGuYkQqMsEp_7qn-pejJynMlfsA-zCe7N3o_FlJSWDQ49GJtBe_U6vqXnTUK2AM_CpwbpDmMQLDL8tszcWbxk5iWtbkQaLyej8Qqy9KHLv8dQ-eRJhyQtf_4qhU4E5D8eCuyDcjlUEige4b_2p3cr9XjoVKGMlM393ldesWFGKOhRahJali_25_PiPH5ciXsmvdPoaSAkb8w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2618,
+    "coordinates": {
+      "lat": 25.7849637,
+      "lng": -80.19341399999999
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "asian_restaurant",
+      "bar",
+      "seafood_restaurant",
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJI-aAsE-32YgRlQrq8LqdUa8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 1:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12633051855982299797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Crazy About You",
+    "address": "1155 Brickell Bay Dr PH101, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "An eclectic & budget-priced menu summons Spain, Italy & America at this stylish waterside bistro.",
+    "website": "https://passionrestaurantgroup.com/restaurants/crazy-about-you/",
+    "phone": "(305) 377-4442",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ56WSjYG22YgRV8CLvPG3z9E/photos/AWn5SU7UKB9OJETNB0FdH-yJhkcMYCn-PKQrCRQcpX0_t3cJIbB8uLpBw-5gKMPjzdwIFdsshzoIhkRcG2nkBdj6bolz_KWPKIgmFUZqZJbXpKaR6S6mh2g9mbiuqbd-wamAXCEGVQO3IfTMpSAk2dSezTN8FAfxTZ2uNzegGF0MU16fEWfznZ4iK3KogLzffP_VUBZbBaB6qTREhijrEiA-FzwYmpQLKCrUUUYehxo3TOWFOeR3W77sDarNOpaX2FFoc2FxqlNdNieSFNcEZBf0FwyFcy4OEMfu91GI-mnX8fnQBQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 17501,
+    "coordinates": {
+      "lat": 25.7620008,
+      "lng": -80.1889886
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "spanish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ56WSjYG22YgRV8CLvPG3z9E",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15118504722984321111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "COTE Miami",
+    "address": "3900 NE 2nd Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Sleek Korean steakhouse offering premium beef cuts and veggies to grill at your table, plus cocktails.",
+    "website": "https://www.cotekoreansteakhouse.com/",
+    "phone": "(305) 434-4668",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJT8zbHlex2YgRbmlvb54NTIY/photos/AWn5SU5pF3X4Gj0Ym5HHoJ4Q2wxYFuQUodpzRlIr249M4E_Hw7D0X3diZMCpKwVrGhyhz37338O4ngSefimf1GB1dkzrgY6D07_FKJ956nOZd7Pix7jpjN4sFd582VEHAatsTmRiUZ_96UCQkVe_QKb6Gl60Wj3-N4TFWynVJuPfE2XhXhVji8eRiy47Jyo4JoUK6zOUyhPrCVNYD_pF-JbOPpe5f1JJHL-_5PaqtUjOpv4l2vlYs7gNdnQL4783O7zVpnB4P6-wlDsjBE24TzcXG9pE2z5W-RxFAQwJ3eDINlB7Ug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2337,
+    "coordinates": {
+      "lat": 25.812890099999997,
+      "lng": -80.19149139999999
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "bar",
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJT8zbHlex2YgRbmlvb54NTIY",
+    "opening_hours": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Friday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Saturday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 3:00 PM, 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9677124673437919598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Boia De",
+    "address": "5205 NE 2nd Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Relaxed Italian-inspired restaurant offering terrace dining, plus polenta, pasta & tiramisu.",
+    "website": "http://www.boiaderestaurant.com/",
+    "phone": "(786) 209-6310",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJte0b2xux2YgRr8f-xaLb0jw/photos/AWn5SU78RCLhB07VaCnrazX-KxTTyip6fyFASnOj7hSZHeX_B5plFs2IOjkQwh1X4PFzHnFEQzv26khDUjluRVDktau5eJ73zaxcfan7luD9N3qVcnCP9JP-cZEhrJG4KOVlhSpzpq2aJIsISacs0sTAZsAKbd9pW_QLeCzKDM5hZiakz1qfTWeCP4isRhUNHrjFdsPeAA_8_5m3jCi6RMHYnoR77cQLndWcV6aKpMGiJLAlHiZRuFbp9B6j0p6SJf-RpzK_j7JiXLzU--wpzuH7GrSMD7FfTfWOfvQUT4Ct4xTXIQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 753,
+    "coordinates": {
+      "lat": 25.8242908,
+      "lng": -80.1913478
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJte0b2xux2YgRr8f-xaLb0jw",
+    "opening_hours": [
+      "Monday: 5:30 – 10:30 PM",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 5:30 – 10:30 PM",
+      "Thursday: 5:30 – 10:30 PM",
+      "Friday: 5:30 – 10:30 PM",
+      "Saturday: 5:30 – 10:30 PM",
+      "Sunday: 5:30 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4382806879537907631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Los Félix Miami",
+    "address": "3413 Main Hwy, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://losfelixmiami.com/",
+    "phone": "(786) 391-1598",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3YT7i5K32YgRvjbujmZU6Ak/photos/AWn5SU7tGL6Xucz0yNj9WUjLhV79L6p8rFtDasDsRCJmjFAkDkOmxhqTXyHe66J_8zj7nhwnbvY_Yo41544hU1Kshwdl24OAC1R3d44si7iHyl68Tlh5oOGEN0sfQ4UOpmv6q4yk5M-i8rpVvGf90c-2sTDNEYpVcMxxrv-HtDIcOPkL0R7F_f16raUYbTtIe9e8VKY76_lhcxhhXghZUfI4hu-I5kOU4T4S2YaUAip3qBTPQgDMLK4RPaxCM3129BM6zNs4OWfk0YifFYEkwk-dFokXX1pSFs6sNCbXKY2oHSKeQA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 880,
+    "coordinates": {
+      "lat": 25.727588299999997,
+      "lng": -80.2425035
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3YT7i5K32YgRvjbujmZU6Ak",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 11:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=713913340399597246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kaori Miami",
+    "address": "871 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "website": "https://kaorimiami.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
+    "phone": "(786) 848-5900",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-0J6oCi32YgRhhxfaT9WcvQ/photos/AWn5SU77dbruf6XtFPxM8vlxaUBM83Oe9Hv-A41LrAkdbudnAtKZchhq0O5x_FktjFQ60X4yFRa8IBtoWx0VFhY-oJdDKHw0GL0bjLnDjY1L60YuE7uA5OcfdTBVeV-0Yg3kh0KuuBUEm9b8JE-Hiysu7Lo57q7PDDFJ48YW4i5w1T_pUXrI8hjS9-8XkEpMLpBOqRb06yvcHg4kSJpAAzYDMkFF79f2MIsGjt5xyMCyyQyf2cTtcA1sWoRQT25QIGXy_OD2OcgJ8gR_qvZkyuCYPtbbDBhqSifjn4L6DydXS0mA8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 395,
+    "coordinates": {
+      "lat": 25.765565799999997,
+      "lng": -80.19304699999999
+    },
+    "features": [
+      "asian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-0J6oCi32YgRhhxfaT9WcvQ",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17614235922950200454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mamo Miami",
+    "address": "931 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.mamorestaurant.com/miami",
+    "phone": "(786) 693-2300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCbrH49O32YgR7g1uptCnXEw/photos/AWn5SU7siXHcYO7TcR4-uwLO0Orc72bgDNnfY1syFEM6NqI6JKBdksKKTBpQhY-iZX_vToSim9vbqxdLC4nXecYcmjKfIbJUXtmUOLxnfBKPT91gAXn-bR0qN9VgKXxnCetDF8qkML_SoscpOUOgBAVjMT-Pp3W3xu3_je31v_7SeaTTf6msbjqPbOW2kX0mUqs78lzV9B1pXlH31v0QbmP3up4G8NX-DdxDziRmGVdk4dDLzLdJbHUyabCXr7iSwnp6IZV8W7aXmWhYrHVDFZ3b-Bf0b7pBSlnyykJ9TjnsfL47hQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 408,
+    "coordinates": {
+      "lat": 25.7648142,
+      "lng": -80.190665
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCbrH49O32YgR7g1uptCnXEw",
+    "opening_hours": [
+      "Monday: 12:00 – 3:30 PM, 5:30 – 10:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:30 – 11:00 PM",
+      "Friday: 12:00 – 3:30 PM, 5:30 – 11:30 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:30 – 11:30 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5502457359327170030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Niu Kitchen",
+    "address": "104 NE 2nd Ave, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "spanish",
+    "price_range": "$$",
+    "description": "Rustic cafe & wine bar with a chalkboard menu of authentic & unusual Spanish small plates.",
+    "website": "http://niukitchen.com/",
+    "phone": "(786) 717-6711",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZaayip622YgREjbxQzuRm7Q/photos/AWn5SU5Wr9RJecLWG-QLg_IZrUioe8eXGkz_q9upDYrQplr4VldQstS73PUjW4HQXJNvHwhwZPwrSJd9oEyoSJ7To5FP4faGsG52ArikFTTxM1AgitE6BkPKwOOBvrImlJGYiAlMVBF4T3BCLJStbaC9tkaHd7s9K0I4rE52UMILjlkiJBwQ6bYOWgwp9qA9veE4onY65-cyJtG0SgtUQQu053ZsA4T2zMODCUQvEwhnq4GSZFrqoW7WrX49B5s6JYircDMcwhry96vYQAkeARTVqol-0E7t16zaMxQ-GuWjyD-2RA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 819,
+    "coordinates": {
+      "lat": 25.7753935,
+      "lng": -80.19044339999999
+    },
+    "features": [
+      "spanish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZaayip622YgREjbxQzuRm7Q",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:30 PM",
+      "Saturday: 5:00 – 10:30 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13014155231946159634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MAYU",
+    "address": "177 SW 7th St, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://mayumiami.com/",
+    "phone": "(305) 860-1426",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJP7Zy8Sm32YgRft46Ry2v194/photos/AWn5SU6Q4224pMMlHutkS4d8ni0PSyKUvECpYdpGTIdXZS8DUpOK7dClbdhOyqdNBXM_wNrJ6MgaT-3aI7SZRi5cuEjwVP5gM2gl7WmFs0jC3UYyUNGSEef45uHTyhRpUr3uYmtcfgWCYUTsXawZTdCyxNUSrkI-FTXiIN4mR5XgXAeh-ZVBOHZw1qF_LrKlUOuVS80501Wu_ddj5EB_j8SD6t9PbUUhPMho1lXPxSg6CFsHYvO5IojcoNYbfzan3ktzugj-jp1xvHLOOywqBajvqsv_BQFn58I3S9XkSpPAL0Fjig/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1647,
+    "coordinates": {
+      "lat": 25.767462599999998,
+      "lng": -80.1969397
+    },
+    "features": [
+      "sushi_restaurant",
+      "bar",
+      "seafood_restaurant",
+      "japanese_restaurant",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJP7Zy8Sm32YgRft46Ry2v194",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16057495605416222334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ariete",
+    "address": "3540 Main Hwy, Coconut Grove, FL 33133, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Progressive American fare & classic cocktails in a modern farmhouse-style setting.",
+    "website": "https://arietecoconutgrove.com/",
+    "phone": "(305) 640-5862",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEV1uzNq32YgReJLG9ncPUQQ/photos/AWn5SU5l94F72f2gAV0B_lm194d_wt2looYY_I4PLaJjCcgUganOK1EXD9cMf1uLdAQnwM_3RJgX3q2YLae2rOV86ZxJfeS4vKEzDnp8VWYZRRo-hXYaim8sHwy3kaCdJ2Pzg6fUyjsIWs4JAjf9QbL2UVEe99D-DvpZ2mzOnkviRtfjYCaWeRkVFx5-gO4A2B8Oc7Gr04g8JHbxS5Tm8TtzB8pcRyvy6fVUMelZpyrsPlyWNzFXb-DSv0mY1JJbV2tFpiD-MxyAbSSEiuM-7uiC9Ib1RYkkXSmv2rVhs8w1nMhy3g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 924,
+    "coordinates": {
+      "lat": 25.7252433,
+      "lng": -80.2450485
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEV1uzNq32YgReJLG9ncPUQQ",
+    "opening_hours": [
+      "Monday: 5:30 – 10:00 PM",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 11:00 PM",
+      "Saturday: 5:30 – 11:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=311046857181008504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Komodo Miami",
+    "address": "801 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "High-end restaurant and lounge serving Southeast Asian plates and innovative cocktails",
+    "website": "https://komodomiami.com/",
+    "phone": "(305) 534-2211",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJd6C8AYO22YgRYuO-L2IUdDQ/photos/AWn5SU7dUarNuDyIbu-7-KZM6oaqknP5O0Su_Oo8tw6nw0ocnFfiBHGHTMxizv_rZaNatLWP_xbe739tmd5JybYOXM4NOQ8bWCbpyN69a_TRTdblZ2bYXM7eaAPB6iOBYn1iV0QaM9c9XloSWnedCZdRLRpPXrSkV37teuIVnAw7KGjRTRjIys3y5Eawz79D3u2sEo-eUFDouxKsg8JnkaBtn8gnR65X9bMz1R4SdyxxjQj1wF6XyS2K4-3n94zkueI2x0smlEKwOYX7gL_bFw0n6WZHSXge-30csc4XY5SlNo3Mog/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 6702,
+    "coordinates": {
+      "lat": 25.765616,
+      "lng": -80.19006159999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJd6C8AYO22YgRYuO-L2IUdDQ",
+    "opening_hours": [
+      "Monday: 6:00 – 10:00 PM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 PM – 12:00 AM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3779668399211078498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "NAOE",
+    "address": "661 Brickell Key Dr, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$$",
+    "description": "Renowned Japanese eatery with a chef's menu of traditional fare in an intimate, minimalist space.",
+    "website": "https://www.naoemiami.com/",
+    "phone": "(305) 947-6263",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJW9aJbyi02YgRbItdSXI5Wkw/photos/AWn5SU5620rKlHc7LxZx_acWgUU7CU2XJ6iF1EhWjnVb4dq6SofjRyy_WT457VMrcaW_GPH7XP51w-CpPXyc1nqTYXd0lhpfwOePQ80rTHuI00NM6WzJGD_xHFeNbh7hbasUaGBddqOvVTS_3c3yuD6D5N5wmI13l6r_rI5Z9bxxikKOFuzEfjKbI5tZoMORgGYjSkY_8-EEtP6OLqBpAd5O2i2wneABHrMFQBdfh3OzRBmjw48hXqyMfxiXKbOyVyWc_dZy7iJgp6N7VKpGQC7ucOcyiDgqBrG_dtAOr9GHk8R2hA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 191,
+    "coordinates": {
+      "lat": 25.767649199999997,
+      "lng": -80.1857409
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJW9aJbyi02YgRbItdSXI5Wkw",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5501773057806404460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Le Jardinier",
+    "address": "151 NE 41st St Suite 135, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$",
+    "website": "http://www.lejardinier-miami.com/",
+    "phone": "(786) 376-0830",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq6q6Rlex2YgRLVY5meAunEM/photos/AWn5SU7TfpmYkd-DbzAvUyhgu_6L4X3I0ZPA_ULrMmY8vsmWgKe2K5tJFGqKZ5CwVBSvfv0Bg_TWe7uFKGr_i2Q2MpY9QPmZKVjZXIIs2FUkOipzUk-quvsquap9MQMaA2IhzJ3vtImUwNi_h9Wsx2bICb9Etv9hgvnk16iMbeeW1PiJXPBUoCjR9V4K_e32OMFlIi54ZcwqZoUKzs3bRtIiJO0T9IeNZgpBNlglGM4mSa77CKxvOV9LRt_iLv-xaLB60arAxxicNQbZZPVKoXExZGd9otb4mmsqJNYYRdIGo2lhAQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 635,
+    "coordinates": {
+      "lat": 25.814406299999998,
+      "lng": -80.1920834
+    },
+    "features": [
+      "restaurant",
+      "french_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq6q6Rlex2YgRLVY5meAunEM",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:45 PM, 6:00 – 9:30 PM",
+      "Wednesday: 12:00 – 3:45 PM, 6:00 – 9:30 PM",
+      "Thursday: 12:00 – 3:45 PM, 6:00 – 10:00 PM",
+      "Friday: 12:00 – 3:45 PM, 6:00 – 10:00 PM",
+      "Saturday: 12:00 – 3:45 PM, 6:00 – 10:00 PM",
+      "Sunday: 12:00 – 4:30 PM, 5:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4871820439086257709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gordon Ramsay Hell's Kitchen - Miami",
+    "address": "333 Biscayne Blvd Way, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.gordonramsayrestaurants.com/en/us/hells-kitchen/locations/miami",
+    "phone": "(786) 688-0082",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcyy30Xq12YgR8R5bvV3wbJk/photos/AWn5SU6RjEiYRZ_ziEBwynvPJbbcG6VPwHxeH7uu_LjyVk0gdtpGi0L6dhV7dwD3u5eT2WFAnVhbDRc6xfcs-F315m50QsnCHIUY9kHnvJ8D7fQ5n2Xaa5bK6NbcPf6YUppJD73mhmbLHPN2zbTlXbjb_FAA7dryObmcwi257XApX9achnfXvjbS64l91AaiHHFnQXObPUpaAyUy3lMYyEgTfLCr05QwhjoDe8yRyrR9Vc-fTP-ASUxjFVMQ3EGe_is9mMiisrZjK1sgBipJshrFahCrZ7pYbAXv3fE5J6qvQuDuSFXqLzNR_FTTMJa6PUupCqFrNDglKBtq9r4gcMBz52tnW-LEwB1yid4BtdMovOZRCSSfy4lj6bwL2L7jvvjPvyQEVRjzUFo3LK1wlZYK2CdDExPA7kMSKJGZLizVIkJkNg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 2092,
+    "coordinates": {
+      "lat": 25.771166599999997,
+      "lng": -80.1884975
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJcyy30Xq12YgR8R5bvV3wbJk",
+    "opening_hours": [
+      "Monday: 11:45 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:45 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:45 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:45 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:45 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 11:45 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:45 AM – 3:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11055475470687215345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Michael's Genuine",
+    "address": "130 NE 40th St, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "New American eatery with an outdoor courtyard, locally sourced comfort food & inventive desserts.",
+    "website": "http://www.michaelsgenuine.com/",
+    "phone": "(305) 676-0894",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfRgILlex2YgRvDRFonWLC4w/photos/AWn5SU6qFB_dlwdF7vEx3an7EixYhPoS6MV3YXFo9-9cFvUm5ToqEpLp4A1J0bqssUYroghGcpEotTrpYfPkhGYsm1KahH4ZgIEBCndDxmTWbWSbYUAeXlMGDmAgvCF2Urjeg9n6ZyPem3TcStuLL7oib8AZP1mTNPqQy10teSqM74fbITC1sQOBeRuHjLRmVGZFADd9I3KdZJxBBsKqRf4c1J4TFx1KzFyZj3pEdTeSU3zWtClIPbZltDodGgvFdgF1WrhgoaNPwWJLSJGpISDuEoRwO82uPjcxrNaIkm_fUshIdg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 2061,
+    "coordinates": {
+      "lat": 25.8131931,
+      "lng": -80.1926556
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfRgILlex2YgRvDRFonWLC4w",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10091312727403607228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe La Trova",
+    "address": "971 SW 8th St, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Popular Cuban spot on Calle Ocho known for cocktails in a vibrant space fit for large parties.",
+    "website": "https://www.cafelatrova.com/",
+    "phone": "(786) 615-4379",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZzgtHTW32YgR-k9p8IqD5m0/photos/AWn5SU5ebL_ZKjPMiGip7FcGMlcth4Q4i6J52XfHTey7i1jh1GFo5NMy9ab_baC7wod34u8lvm03I7ZkWqCsCli7p46phI9pcQMKCar7RSYhcEbvKtk7trO4G8mBe0EfkGjpyYH2RXzjUBBLJqT35uTSReKaIaLgbbG4JJJjFx9AjEVP0HsX4PCYMZS1Mb-pd5HWt77AHQKPGSlp2rg2iUkLqAA2Pc3wHACfXB4bUBGEEI20fZzwzFxveYXkkPkyg_iJvg7-LpeFzUqmX9p86YXTxJVCYMIOCb_J2YvViZzfY3Bjrg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 3624,
+    "coordinates": {
+      "lat": 25.7660827,
+      "lng": -80.2104785
+    },
+    "features": [
+      "restaurant",
+      "event_venue",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZzgtHTW32YgR-k9p8IqD5m0",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 4:00 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7919161627539755002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sérêvène by Chef Pawan Pinisetti",
+    "address": "1920 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "description": "Hotel lounge spotlighting upscale Japanese fusion dishes & cocktails in chic surroundings.",
+    "website": "https://www.greystonehotel.com/restaurants-in-miami-beach/severene",
+    "phone": "(786) 636-6440",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa0qI8Zy02YgRszEht2ShkLY/photos/AWn5SU4b4RRxi06Gjdo8JSKpvfhRwDtuxy2aGFsGS3t7KgeIdW4n8aJrwyUthkMGc5eLfbq7UnwaqE3QtLLUB4TdlnkTMW4TnMAPVjhRSXd5AJYEFPnpA9hgc0wOaGpyQyCQVq-zZs9f9oeyRkgPwGr_VHZVAx9EvYVeMGEGUrFZEYUmtqlUh66vXx4CdQ9-9D9-rmxVtyi597jCogKy2fNG4zhHffc_FVlLFAPPIF3aSpVkYbIAoL9aimvuoW0MZnb5LjazaEKXfE5ifJUl0UOkhebqc2HFwG62Irlzr8oEIGIdOg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 440,
+    "coordinates": {
+      "lat": 25.7956064,
+      "lng": -80.1295347
+    },
+    "features": [
+      "japanese_restaurant",
+      "french_restaurant",
+      "asian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa0qI8Zy02YgRszEht2ShkLY",
+    "opening_hours": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13155191965490426291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Macchialina",
+    "address": "820 Alton Rd, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Vibrant trattoria presenting rustic Italian recipes in a stylish, brick-walled setting.",
+    "website": "http://www.macchialina.com/",
+    "phone": "(305) 534-2124",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIUhk5oq02YgRsQu7AiC8UQU/photos/AWn5SU52kpZ-7RxfQZfT5BpI7cDznEerzOrs_VcEQfYhLarBx2J1c8kRohAzZkxQQgzzXlxAZtIrA4snwxRMBoi-1eAlgF0aOzx_4YWiMLN3t0ql-VDWri-pNnXVxQYYxHU2wMQECmSt1MCVwXRjkLB66Tz1yp1cTP_EUjU6zgTZ8Eu5XS3FlYfmgBEIYRmsHeRutbQeyVrcjHqJbfdPH3mvFTR4TUWQSIsUGlnTou16OwPxfulZ7bamaKG2VsMl0797VwrgoezPAgd27bPQUeyOHEHOmCese5-vS1pEIgNkqY9S1A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1585,
+    "coordinates": {
+      "lat": 25.778580899999998,
+      "lng": -80.14115129999999
+    },
+    "features": [
+      "italian_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJIUhk5oq02YgRsQu7AiC8UQU",
+    "opening_hours": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=383294288973990833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Zitz Sum",
+    "address": "396 Alhambra Cir Suite 155, Coral Gables, FL 33134, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.zitzsum.com/",
+    "phone": "(786) 409-6920",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs_Wd-pW32YgRwoXizRaCwUc/photos/AWn5SU7T7DbIDAv_dZZlpLmdfi54Xyt04Ikl3KSifFisqB4lVkfpzCBez4WuGXTd2HgN62kddMteGRyK5Es7PNvKqJq9U1fRB4VDVKRF1DJr2xRiVLMqitVifJ1IFmQJUyRJsPIBs47epasDDY2UBRCemfvRpaV5zI7b1OMZ3mDqMODkF2Td289D3xdxKC8MxTZbaISo_wgkuW5fXeuiY9FXtzDxj0F5RScicre9mpFqRPR2oFqKzpIsikjKCSW_6Ur7Stf40tqe9q1VXKAF1IaC9qPNrmqBCfIV5Dr-1xN0YzN1lg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 379,
+    "coordinates": {
+      "lat": 25.751446299999998,
+      "lng": -80.262316
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs_Wd-pW32YgRwoXizRaCwUc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 10:00 PM",
+      "Saturday: 6:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5170556881653106114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ViceVersa Miami",
+    "address": "398 NE 5th St, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "website": "https://viceversamia.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_x2nF4e32YgRqFyJn1Tfd3U/photos/AWn5SU6gRft25rmN9I5lwzs3zM7hFlJ2Zu7B5VBlTmlfiOUH8pgjWA-yba00ZrF191IbBjjH20hRgVi0H2jF0MkY-wfkOlSCjeY81Nn5LLUkotKjiKZb0VduRZC88EcMkxdFx3AQjzBIRM2yDu-zj45ufqLyY3GZRvcVuBOJHDfcvTqlAOZlaGO0xrTkB-Qi1lphp-Z9IRZvrHa1D3QNqCAwCkbYiZ4U_bhEEDGy9n0kpy8nK6ln3fYM6KRXUJu7j1kmH7k5zqBhMkcN5S1csRuNMNzKGOCrqlCmEos8c2FIZ5o5RGxhFkNyJ2ZUZ8rqouqEfRkKU4Kfw2SVrr2jIr6CdM5m2LQj0A7IMOaBiCABp56R7wG-10dkgI3bXUPGZw-3btc2yvNkXYSLG_WaisjlkHs3Ozsg0uw6mXPkh4JzLTMsLQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 288,
+    "coordinates": {
+      "lat": 25.7788802,
+      "lng": -80.1890556
+    },
+    "features": [
+      "pizza_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_x2nF4e32YgRqFyJn1Tfd3U",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8464479579212962984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Yardbird Table & Bar",
+    "address": "1600 Lenox Ave., Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Rustic outpost with a patio attracting foodies with inventive Southern comfort food and bourbon bar.",
+    "website": "https://www.runchickenrun.com/location-page-miami/",
+    "phone": "(305) 538-5220",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYzGk04e02YgRoXmsaZCIoJ8/photos/AWn5SU5tAI7ue0JgxZjZlAPzsxChz1-ljaPSIuKd84AjXQcQekjEjVYzIDp9jei7rtcpuygbJGsj6-7pAis4O1LpQpB87azlGPwq-iLO3LKcT6NPj0UiVhuGpjoFV6oAQ4lyTB79ZEnzaGwNzMaMwraLc8TqWtyzKkkEwYkTFv0rAcXTBEHd0IBY32KVTUHzFPvfyTa6jlt6HaDCx32ZqiwycDKR_CrtSsfgW5UF4szMeHVODP4CJPNYz-QD8uR4ZER64OO3MXj8TNbOcm3qIMrCKnmiMYA928mVE1XxETuPc9N0dg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 6573,
+    "coordinates": {
+      "lat": 25.7890685,
+      "lng": -80.14015789999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYzGk04e02YgRoXmsaZCIoJ8",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11502343602133825953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sra. Martinez",
+    "address": "2325 Galiano St, Coral Gables, FL 33134, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "website": "https://sramartinezmiami.getbento.com/",
+    "phone": "(786) 860-5980",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE71m6CK32YgRvzVM73VTlts/photos/AWn5SU5tY_FtskE46_L2tGwaDxNUnyKFFsnFm9tucDpMqnD0XivEuAGbf2l86z9Cm5twt97PwJTrbxasl9aARw2B7xA3HEDJHmWApS8Nsh33BHNoTIdocZ3aQi6ctQpQAFrDUGvXEjKdVL6VGV1kiFV-NSNf9RctNuP-g7hWBG3_Pk0-fxTib8iJcZr3nURJ8xRhLIy8RFE78aOzV2uH2DKODcFF8soGBeDeb7kWyOB95X7FIKwb2aq_2NSbTA093QQvknmI_icN1mW5vztvHTqlNxfwgricCK8dbBdRC_wYjzAQMA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 274,
+    "coordinates": {
+      "lat": 25.7508862,
+      "lng": -80.2565754
+    },
+    "features": [
+      "restaurant",
+      "mediterranean_restaurant",
+      "event_venue",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE71m6CK32YgRvzVM73VTlts",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15822926106803844543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Bachour",
+    "address": "2020 Salzedo St, Miami, FL 33134, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.antoniobachour.com/",
+    "phone": "(305) 203-0552",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCbLv6Kq32YgRmGu-sTDEPAo/photos/AWn5SU5W9x8WLI1QLof4nvEMnV6X5Aif-yr5mb3GDSJFTE1KQH4cbpc9yihBYKUDszayCwL4LQIHajCNiu_OiqcQhEpXKphtAeTgmoDrq2Dm6oHSCTnQW6NEUAwYjDvmLViMmTN9SJCiUlMfMJiHun4LUMy3HNNualnF7NGLuM3o9wRwiJ2qMX6ZC70o_T6B7j9wairQNRkt9DeBxbI1YWBVrDLEexkFn3jqgEEwf-93mWzWm43hb8I1XcewLOSHJ2b9g5qdmQgtry4pW53QxyGoS6yY_faj1mhZ6I_SVjlJFUrD7Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2470,
+    "coordinates": {
+      "lat": 25.7538809,
+      "lng": -80.26101200000001
+    },
+    "features": [
+      "restaurant",
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJCbLv6Kq32YgRmGu-sTDEPAo",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=737680152401439640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "James Beard Foundation",
+    "address": "167 W 12th St, New York, NY 10011, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$$",
+    "description": "Fine-dining eatery in James Beard’s former home, featuring multi-course meals from visiting chefs.",
+    "website": "http://www.jamesbeard.org/",
+    "phone": "(212) 627-2308",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7YeiGpZZwokR4OECOhQwnE0/photos/AWn5SU7B_ILRlMEDpGPe8d9Pje5ZUIoubWQarJcGWNO3QSOAoTw4XhkZaSxYMUcH2Q1fBW3jF1xlGP0xkZRhW5OaQOgugZMWeqDO5730USp5kia0VzBtBEuQuC6F0JdFQYEfjN6iYR4t68REzx67CZZUoDrx6amLc0ftOluWgLzmPnJr_gX2pM8o-BkpAZwDkp5Qa0WltrB-LvG9yOBxJNmR2Lohz7GuAmvGC9thTPInY_xhoVPzZYO9xPJhzbO1GzKR84HFmYbuuDqpX-f8wWTR4OyRB7poWRu5q5YTawbdW-7dCQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 144,
+    "coordinates": {
+      "lat": 40.737052399999996,
+      "lng": -73.9998753
+    },
+    "features": [
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7YeiGpZZwokR4OECOhQwnE0",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5592397700718060000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Stiltsville Fish Bar",
+    "address": "1787 Purdy Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Locally sourced seafood and Caribbean-style drinks in laid back, maritime-inspired digs.",
+    "website": "https://www.stiltsvillefishbar.com/",
+    "phone": "(786) 353-0477",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk2c1lX202YgREQg3HsiZvjk/photos/AWn5SU6lnQUFOAY00gRmpp2cSjOC0aPROaAf1njsQ-N07s91fevLFU6jot7NC3FLijJu0HudTrd7XyjrJSGdw97Ynod7UWxWwqR-hki6wX2UeQoNiTfAU89A9l4ETxMag-gIzqT6sj9ahrZfzZ8nsuk29Cf7uzPmUhPqj3sw8z_FxKV4S0t6VbUaMoVA572iasWAgUOABw8cWbgFFCU7DbjK-U9CYk6DJL0kGHJzNPLgwpkAwWr4X9qR0UwjyC6Ig4fVt-5lwLiM7KudYUIGdIRNwo3iKB4bqzD7bIFAJ_DZMRTO3g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3558,
+    "coordinates": {
+      "lat": 25.7932371,
+      "lng": -80.1441809
+    },
+    "features": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk2c1lX202YgREQg3HsiZvjk",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4160932190516348945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Paya Miami",
+    "address": "1209 17th St, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.payamiami.com/",
+    "phone": "(305) 397-8080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJi0N3kRa12YgRGEEl5N6O6kk/photos/AWn5SU7A_t6gzmP8ZMH2P6UrTAbnHVlJfdimBXhCt76NiaF_xCXAoherRTC9hm3-ilDwlDGVN1uPwAXvHVvJc7P6CqFbRQKDqIufx4_YP3L8I3IJ1gWhL3pk8TTsSgN1b4Sxw7xr9Px6meGgdUVGlgOmHlEC_1_N9YWzZbqg6n-Je2-dyTnOVUsZGVaJZ8HQB4415BjjBoAz1h-aw-oNkfM6FcQLzdi_KXJhKs2FWAOJVzFRy__1hBxJmZHOXGXcsl-Ks2bAAmiD6zi7n_NtYxLihTTKly3sEalj9WrwVLiMe8ym6Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 25.792080499999997,
+      "lng": -80.1417596
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJi0N3kRa12YgRGEEl5N6O6kk",
+    "opening_hours": [
+      "Monday: 5:30 – 10:00 PM",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 11:00 PM",
+      "Saturday: 5:30 – 11:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5326226597280563480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tanuki River Landing",
+    "address": "1420 NW N River Dr, Miami, FL 33125, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "website": "https://tanukimiami.com/?utm_source=google",
+    "phone": "(305) 433-2436",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeU7uMTW32YgRjmffReuy-rc/photos/AWn5SU5Rn2D5Y3l0sqyDkIIRI9bJfDcIB9evn4WacLauOs7WWCGkitnNjtmEngapp2HsvumxR7DziLaUQXxkOCZKvLGCqGS6qbCah9N5lgl7HxVpoWyJGQhhoxg9mc8ptgkj8OFZzPfOhBfMl4JBhBB9lICifcfFLRBa_XFSvpaz3o3MXb0IZt9hyT_vuW9f1INUeBYIJ-B_dJZMJ5KiVnP1B5wTsw_VpJPUsCFOeK0g62avjB30IkbmUXL85cPMj3dmaxRJ4sZY8wgsYL2s7XMvPtMkqcpz_SGOBatRx5sK2cWelA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 4195,
+    "coordinates": {
+      "lat": 25.7853295,
+      "lng": -80.2196917
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "asian_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJeU7uMTW32YgRjmffReuy-rc",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13257105176677803918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "RosaNegra Miami",
+    "address": "1346 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.rosanegrarestaurant.us/restaurants-miami?utm_source=gmb&utm_medium=organic&ot_source=gmb_2564_rnm",
+    "phone": "(786) 668-2114",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqxEB9li32YgRJOrdLqbY-LQ/photos/AWn5SU4nq_Z6hY15sGHf4K4vxCNzkfzUDCNKQyWnm91RNx26vGyEZf4EzyD8DBLecU3Tcr7vprhGgdk_FBB7YgHXUme1Kf3EVK5163MUVyzYu79dIVV-e-fyxbZD-nuLzcUKM9gM-sekHSKK3WPpBg17_1eAaRP5BIZH8Ya2U5wWwIrmGrHkZPW9jEsszAPd4CBfW6J1irQ94TzW0a2-ONfmekeIQw04ybUKqUJ7h3cqNzjsbwD4lwLHDQbTMbjPoioG7T9evmCYmk7OGEAGkj3sVCYkVZTKtQ5ti3Y52kdn9w37Sg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1348,
+    "coordinates": {
+      "lat": 25.7608161,
+      "lng": -80.1937694
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJqxEB9li32YgRJOrdLqbY-LQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:00 PM, 6:00 PM – 12:00 AM",
+      "Wednesday: 12:00 – 3:00 PM, 6:00 PM – 12:00 AM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 PM – 1:00 AM",
+      "Friday: 12:00 – 3:00 PM, 5:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 2:00 AM",
+      "Sunday: 11:30 AM – 2:30 PM, 6:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13040410929313737252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CASA NEOS",
+    "address": "40 SW North River Dr, Miami, FL 33128, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "website": "https://www.casa-neos.com/",
+    "phone": "(305) 800-6367",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ49bn4Vm32YgRh9MeU2fSIy0/photos/AWn5SU500xiyViWlBSIapQ9Y53k6E7YR5VQlFTXfRuQ88mjPSOlsKEhZzj093hJDe63Ku9eDs8U6z9mGkUlmTCCJNCg0ded7XXrtOhzyywFvaqMrAPAc4y8_NB538tDV14PjmL2R0dzAR3TaHkuXEwbE4OO10Po5W-AXKZJT43UVql-Wvs4oHStFfEmTmgzcWrWn3XEoeGNkMA9DlZ7XzpuSt_hfGj67vuoCmbQLjfqZYguHdvql-GQcvALpXvu-i3yqi5gGh_YWNDEuyKNtIYd8YJcaxAfBbbJMhzfpRr64dpi2iw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 6686,
+    "coordinates": {
+      "lat": 25.773616,
+      "lng": -80.2005081
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "seafood_restaurant",
+      "brunch_restaurant",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ49bn4Vm32YgRh9MeU2fSIy0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:30 AM",
+      "Saturday: 11:30 AM – 4:30 PM, 6:00 PM – 2:30 AM",
+      "Sunday: 11:30 AM – 4:30 PM, 6:00 PM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3252674697109623687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Lafayette Miami",
+    "address": "1111 SW 1st Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "website": "https://www.lafayette-miami.com/",
+    "phone": "(305) 535-0065",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJeVpjGKW32YgROG-7zMGpoVU/photos/AWn5SU42v7WWY-8Me7wtEq_E5UA9PpIGD5Y8Ovjj7ElqxIdScrrc9TDqrE5WF7_ApzeAONjoyDFmZlEN_tyIVfNTFKHHQzJgf_1OQ_m7so7yVWNdZzHI6qs7vIdKyf2mAL1-RT0nDKk3LdF1cQPHu44aITmpGEo2m6UfoZUbGPf1NsVrYa5hxb8LOQKrZlbZtf6b2Qhn5kQuWPE1SkQqV5C_zGdHjxFizgYVMM5O1ebqcSD-1SnLRKooWGxyHXF0bCmMOT7CGiLvaHPzu_2dLsOAPrmJsMrJhvsKz07C244SlWNO5w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 529,
+    "coordinates": {
+      "lat": 25.763261399999998,
+      "lng": -80.19496889999999
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "steak_house",
+      "barbecue_restaurant",
+      "american_restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJeVpjGKW32YgROG-7zMGpoVU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 PM – 12:00 AM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6170399614302908216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Recoveco",
+    "address": "6000 SW 74th St Ste 1, South Miami, FL 33143, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.recovecorestaurant.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6adu3PjH2YgRfqwJ-2tYyRA/photos/AWn5SU7bB-zxalTUx4-gjZf-FR6LwwoIXUmB7iQD-_82x82KVpHFuksXE6JZT7Kk3rGVxFtoEq5nVK2sorGNOWv6AB_2HYPaWDYz2xUQos9TsAgOnaZeGZOd5hYZyw3uaGg6ARPMBXaPJWhgYAh9uaZTLsTVymwiNwMwpmyBZak2_kHI8nvSCXe5JCxxYGLMtzDrlTMQfmyAT3IyMictPoH7KwrLC1fpsiR2tzHnvecOGhc7-6_b8--4Il40l6MM6UecNz4A-nlVaJptOxefMAz5lJa49ithvK5mfSp0O2VB8JG3CQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 102,
+    "coordinates": {
+      "lat": 25.702199399999998,
+      "lng": -80.2912837
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ6adu3PjH2YgRfqwJ-2tYyRA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1209595195722148990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mangrove",
+    "address": "103 NW 1st Ave, Miami, FL 33128, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://mangrove.miami/",
+    "phone": "(305) 614-2736",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq_ILbIu32YgR3V5gOaGygl8/photos/AWn5SU59ltFD3hVbnhHNVCJ923AQog-dzQiacAPwwTq_odS2DTIeVQ5ZIprZruSpc43D5rO-8W4IM2j5of4giTRgwZn62-u2vWpk03XLDRVc125MwutoxGvHbH0jxhAvRCt22mlJLZJxVqkq312U1RCZUztSaSM1_zD67C-s7mT_A6r-XTZx2ZW1dX3p2Q5f0_AG7fpciZ_r7HcTtgR4QWqPqNu2WRQOKPC4LWzY54eUnhfXoSQ98G_EVYr1V_4i0vSYIQazL8cuJnpsZ8jl6Ij56wMk98rjeYQNxFjN5SPkIf8jYA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 378,
+    "coordinates": {
+      "lat": 25.7752835,
+      "lng": -80.1950706
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJq_ILbIu32YgR3V5gOaGygl8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 PM – 12:00 AM",
+      "Wednesday: 5:30 PM – 12:00 AM",
+      "Thursday: 5:30 PM – 12:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6882259586097635037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Otto & Pepe",
+    "address": "126 NW 27th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.ottoandpepe.com/",
+    "phone": "(305) 989-3181",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJWCXdfG32YgRUpm4x06X_mE/photos/AWn5SU5xVfDUd4Y-AUKKqGztwv_RC4_OVR_uTvsRGUr2kZpfhemTJvnJ52f5mWhj2mxHZvtVG8WyG6SxFovxzI5TcQW_PZvLipXIwiC41UGQq0VaH5y5K_jD8paCkTbsFqh8Sr9oW28gwW_zQM4KtNCDKrfErNSHAjrc4PEnlhVVtN-NAbQhnMW6Jnq98SK0w5XlhzX_Kb1s5WVp61tT4YD2FCSmdgpY5Q8zoJ4FfiFCJiR4wLIGsDa0Eoc_k7isoE0zFrOTzBJ3AV0m6dk9QDyTkh8Vk7nlsBRDwoUcmoSwZE1W-Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 291,
+    "coordinates": {
+      "lat": 25.8019963,
+      "lng": -80.1976269
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJJWCXdfG32YgRUpm4x06X_mE",
+    "opening_hours": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7061247630377523538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Salty Flame",
+    "address": "1414 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "website": "https://saltyflamerestaurant.com/",
+    "phone": "(305) 563-8972",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJva7qQgC32YgRLBF4FWK8YWc/photos/AWn5SU5evC_43WWOVRG3iatwZyuAIGydL-mFdSjXDjd15YikIkVkLRVKkfVC5Tpu7Hhq2qElz8x4GzMcFddwOYUqar-C26EXe7CWpmQHnQOq5Yu-j1rz3aCVeJ1jHFUZT2-mIsn9VZKrlqNYMKnvPQb8v4_E_-CM3NMenjanXGc_Jk4eAnUaJ2_WQgJjm0kxyx_P_LBZCJetzvK3Ewv_r_7CIpXVlY6h3iobSMUm0QlKS0yT8fZjUZ5sbxm50OmnD5q1DX2LgFs_5y3YHX_43tT4DRhB9z6vDAQOZAr5JK-TnriTyA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 546,
+    "coordinates": {
+      "lat": 25.760263899999998,
+      "lng": -80.1926335
+    },
+    "features": [
+      "restaurant",
+      "bar_and_grill",
+      "asian_restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJva7qQgC32YgRLBF4FWK8YWc",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7449442388100518188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ossobuco Miami - Steak house",
+    "address": "62 NW 27th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://ossobuco.miami/",
+    "phone": "(305) 339-1166",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJaSnpyl632YgRXs-pFumdXn0/photos/AWn5SU4hFOtOuB5Ova6Y6DFrTiOzD4chTPO8WUMgclzKD-5UEsid2oyL4UtAcTxgfq2_PNn4GuE_96-P6mLaXm4pUFjgz26_LVU5nfvGA9Sj0xbkOSTAUUnymhPp0cL9370XotYOhF6HhkrhO0lsBxFqxCv7RC2fipH8K8IaqJlTwrdflzuTrmaR4UEF-0Ml7NwKmwrjZ-4zkbrI6Hq6qb9Ew9QGDLisDYRlYR1mD62F8INQ6aDhvhHDc6mPe7UK8IK-rdctgQ7fl4mYOf9AaxHM7yB642TSgyNBA1BAJ790neR2Aw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 2834,
+    "coordinates": {
+      "lat": 25.8020657,
+      "lng": -80.19629739999999
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJaSnpyl632YgRXs-pFumdXn0",
+    "opening_hours": [
+      "Monday: 6:00 – 10:00 PM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9033831526984961886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Felice Brickell",
+    "address": "1450 Brickell Ave Suite 110, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.felicerestaurants.com/menus-locations/#brickell",
+    "phone": "(305) 526-4800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuRFWJge32YgR7W8350fW4Es/photos/AWn5SU7Ont3U5wXt-fBd0VZZ_y8ygHsoz0vaCDKo-pf7bBrJFhcTEnwvldFmSB_3q5_SacutqVGmckmTgycYcfDFvXlR5XD8Dz8ciI3GJljBYgvJ4Xwe2q-gf5aCsXab0vf2FFkQiS07rtOkK03uGQe4TOuCOSp4z2rqN0vTrVCBi_PcdBAUgCJNFrJ28I3AqYuV2AfxLpmyAzQlNu9wGfxYNArCo0ZsRY5iDwzagaSoHWPknhnVD7rTXbeOvtCRENdPTIVpBvh6TOuJqUblxyFMd9XVDu7B6tMjQipdNCSHVQ4d2Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 293,
+    "coordinates": {
+      "lat": 25.7590696,
+      "lng": -80.19271230000001
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJuRFWJge32YgR7W8350fW4Es",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5467605551937974253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mutra",
+    "address": "2188 NE 123rd St, North Miami, FL 33181, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://mutramiami.com/",
+    "phone": "(786) 860-1213",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVxmvsZCz2YgRamqn_tHB5Tw/photos/AWn5SU61_3qvDN87NEQ51TacmGAYLCX8bI-0GdED_TRjnlkS2GxJQRpirulyPy7qtQT6k53Ag2aXmjFnbEpi7X62Ed_K811ku9D7U1IIFd8mLIjPDB0snHrrf58VgEwkMkKD_8hMIou3O1XaREYcWGmsS3GL-z-nbIreFxZFOwycLJuPYeqVtj2kUOQ5RAYVB8qMbMWillFwIOaDrSwFTSNNLJmhQhexXJzg5OZ8u224vdlmnB6Vn-idH8QRyEwIHWZ5ImL33JuQuTlN1dRBTAFsIIpNeD7mcV4YlT_AF06R0dqPLA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 133,
+    "coordinates": {
+      "lat": 25.889178899999997,
+      "lng": -80.15404439999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJVxmvsZCz2YgRamqn_tHB5Tw",
+    "opening_hours": [
+      "Monday: 6:00 – 10:30 PM",
+      "Tuesday: 6:00 – 10:30 PM",
+      "Wednesday: 6:00 – 10:30 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: 6:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4388126519607126634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "SORA by Hotel Collection",
+    "address": "50 NW 23rd St Suite #108, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://sorabyhc.com/",
+    "phone": "(305) 391-2899",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyxbKJMu32YgRd1-xgxi9p8Y/photos/AWn5SU4HoYS_GLhfFl_odFMZoHawyYOO4fLCFrac7JYYLYioJBh5cxumCtYv4hYJlqmnV-TlEhOl7odsDL4TR392AIIPM2Xsfd7ta0rRFfUwrsLtMW0ixlXDsMcb1jD974KLz8On7LMz3F8EEtvEWDRdM1fg5-u1vcVzT-ufDLk8Q7MmAZZDejed8oCfRcUf5y8Jswnifk_j_p0vGedac-77OwjmGqEDPYxtpw7ox-vdTZFPCmwG43pq2PT7BsuSaMwo7YONdKfskMemPprbH5PrfT5yFqVYaA3MBFVHmF_e7fSddJC3Xte_p8sO9QV4KPyvxTE4WYoByMyWqdlm07YLAzRla72rRvJ5zv1_1Ja0sCos3mEG5k67WZZ_j2Z8eFJsLuFzl1dFTomMU1M660SrcAcmnwS4j0yO8AfZiDaGRWs/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 331,
+    "coordinates": {
+      "lat": 25.799397499999998,
+      "lng": -80.1959814
+    },
+    "features": [
+      "restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJyxbKJMu32YgRd1-xgxi9p8Y",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14314617853606715255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dolores But You Can Call Me Lolita",
+    "address": "1000 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Fusion fare served on a rooftop terrace with city views & in a chic dining room, plus DJs & dancing.",
+    "website": "https://passionrestaurantgroup.com/restaurants/dolores-lolita/",
+    "phone": "(305) 403-3103",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9aBMC4S22YgRbGgugfhBkbA/photos/AWn5SU4t69MJBgNe8Hzqay9T4aoN3X2_nQ2VDmBZujLMAOf5ZZWbflqY88Ej6XimHs_vCNYzX0etQTthDsGlgTSXJLYZ2vU1SQmC2ZTeToTarKGHc9myy0deTEQbtEqVq53BGJ1lXG9r-BUHa_oqUIH_JVapeZET7RbELBTH3fwYw68YXdpmwSa9qviuT_GEmXOZjqgSJNakXyUf5VCIq7MfiYvtc_qgjDGGT7rst70x-0wUrQdiafyh53zLSfcrzPydISb_0sBTqjXVgKeY_csxutTFLKRJ9EN42IoyddHau38aLg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 11681,
+    "coordinates": {
+      "lat": 25.764271700000002,
+      "lng": -80.1934058
+    },
+    "features": [
+      "american_restaurant",
+      "spanish_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ9aBMC4S22YgRbGgugfhBkbA",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:30 PM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12723022957873358956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Over Under",
+    "address": "151 E Flagler St, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Hip, brick-lined bar serving cocktails & brunch, plus generous plates of hearty pub fare.",
+    "website": "http://overundermiami.com/",
+    "phone": "(786) 247-9851",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzwEW8bK32YgRoeQcKaBkwrs/photos/AWn5SU6J8RyshH-B4b5P9yGXmpPx9M1Hj30gdUI8sMBaqMjV3063boKOKZ96T7tuHjYqcWbLE4F642YEs9H3CsLxwtrFLG74FganWNXM9AKrzCCqdV47ctPT9UIy_wEWtmHXfQIcS8oeiUfBefJoc5YnUgaIU9fpvlSPP0grwdKYwScO_VoA_6sa_O05j1rF8luOqBc9Io84EbyfJx1P3P2B3kxN-YLDPEt9_7_Mn2QmWNswSDIAXegCyb0Z8SzcxZV9Wy04AjPH5pjcTPAHdoRaBxTWBQa18mjZBZFZ9YXuAE024Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 338,
+    "coordinates": {
+      "lat": 25.774428,
+      "lng": -80.190885
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzwEW8bK32YgRoeQcKaBkwrs",
+    "opening_hours": [
+      "Monday: 5:00 PM – 2:00 AM",
+      "Tuesday: 5:00 PM – 2:00 AM",
+      "Wednesday: 5:00 PM – 3:00 AM",
+      "Thursday: 5:00 PM – 3:00 AM",
+      "Friday: 5:00 PM – 3:00 AM",
+      "Saturday: 5:00 PM – 3:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13529486869621695649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LPM Restaurant & Bar",
+    "address": "1300 Brickell Bay Dr, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Upscale French-Mediterranean dishes are served in a sophisticated setting with cozy banquettes.",
+    "website": "https://lpmrestaurants.com/miami/",
+    "phone": "(305) 403-9133",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrVaLy4O22YgRX1HkHRigA_8/photos/AWn5SU5TJtVUbRLqB0Z5nF8kgSYHI9UJDb3h5rAXOqvncapGZx2zhgfuZ-f99fhzYSlWRloQQogqHK99e81Ng2sExj0WLBwrDUzEeUsBxOz8nzd0iP-cY6TT26z3iQ3bakE26veQBG1iJ_cKfane8nppIlRB97R3bDj5rUM5p1-q_7kF_dUOfEFO2jtmirun9O0OY1_04ceyVxcNyKsv8jmYkkO28xm85zYcya2TTxzEn63lJck2oEhB9S6jchY1zImyhCLRuw3G63Fh2DjXnhCwhdn6gd_4c5fyDtXKi-a5aMrAgQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 1209,
+    "coordinates": {
+      "lat": 25.7605686,
+      "lng": -80.1900512
+    },
+    "features": [
+      "french_restaurant",
+      "mediterranean_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrVaLy4O22YgRX1HkHRigA_8",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 PM – 1:00 AM",
+      "Friday: 12:00 – 3:00 PM, 5:00 PM – 1:00 AM",
+      "Saturday: 6:00 PM – 1:00 AM",
+      "Sunday: 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18375706930042917215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Amara at Paraiso",
+    "address": "3101 NE 7th Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "description": "Serves upscale Latin fare in a chic dining room with a large deck overlooking Biscayne Bay.",
+    "website": "http://amaraatparaiso.com/",
+    "phone": "(305) 676-9495",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7-kC5C6y2YgR8kFGy8pYlsM/photos/AWn5SU5hj0Oi3jDB2FgG5qNQFdIabqCTS0ha1lWUJv05nktdd4oqTdsv6phE_1HSQDmnOLSf65MUhpRVqk2eTBXiSFmWtiTQCDy1do8OwLVT9BMJVqNUZB2RzgyymP689N683NatAYO-B4OcUI0dYpOlPgVGMfMtBiYjD7GT3c23JGFsgXoyfUqKFAngOjrMsQFmAaTmhOPaPBKs4LOP2cnBIlbdJ049Yl0RGCr1kcu-rXxHJ-iUBQV-TDBEs_fBzrodpmD9AwkLVBoEXhT1LX4NdrwlwzPZMmhcSt36T6ZvPJhKIg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 3486,
+    "coordinates": {
+      "lat": 25.8064374,
+      "lng": -80.18568839999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7-kC5C6y2YgR8kFGy8pYlsM",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14093549711919563250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Joe's Stone Crab",
+    "address": "11 Washington Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Cavernous, bustling space drawing crowds for crab, Key lime pie & more.",
+    "website": "http://joesstonecrab.com/",
+    "phone": "(305) 673-0365",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgYZ4DvG02YgR6zxax8FTfHo/photos/AWn5SU6RTwQ30vM-xfllBoxJVqtPYp5qEn_XEsd4G0ZMcelT13iUfqJ9QH1qXDqsaJsvcx4wdFyoVTYvF4ayXFEK4dQJiriBKU_koDllqZ26v7V_z4gpb4H3ZikSoXFBqj6AkcI4fTPwvbonBvj1H1B0wEEJJbqrn7keGHYmdgqqWT2HQLlhc00QvBhvF01JCjNzU2zDNnHfCvgfWE89sHRWAcaKO9mkXsqm3qpLywfYbF5CdBUxBnLgBnChllbRf0u6WMRcIG4awKy19YgiS6ju176UvCwzXxGFM8EK-EUjyCQTrA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 10846,
+    "coordinates": {
+      "lat": 25.769112999999997,
+      "lng": -80.13501099999999
+    },
+    "features": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgYZ4DvG02YgR6zxax8FTfHo",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8826021461477702891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Klaw Miami",
+    "address": "1737 N Bayshore Dr, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "website": "https://klawrestaurant.com/",
+    "phone": "(305) 239-2523",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7zs-Bwu12YgRsANsU6aGqCY/photos/AWn5SU4AdEi3mXa6t4sGhvVxoTJxt1YodAhrEwvDkttNE5xBqvGtbABwOnF4BAE8eaF7mgkabXAk1EHlus3efCtia4pjYomzYJCPF3wuNjtxrLkPFdYf35Jml9g3qSPDoBiUo-rXgNs2vqr5Z_IHkvE3d4kSQ20-rKsfApgcv4qoPcaMmZ2xeqE2eb_HtfrP1SC6nMe03iB1-zM8BWkossqadRf1gWJL-LPcy1Grup95-DcoNhrNWvZvagbcIctG5cBlRaxkwkB902RjOV-WLOwd8Jgc3eK1XQwdueG0TFHVxj3IsQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1292,
+    "coordinates": {
+      "lat": 25.7921217,
+      "lng": -80.1858937
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7zs-Bwu12YgRsANsU6aGqCY",
+    "opening_hours": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 PM – 12:00 AM",
+      "Saturday: 6:00 PM – 12:00 AM",
+      "Sunday: 11:00 AM – 3:00 PM, 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2785624418450932656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Henry",
+    "address": "701 S Miami Ave Ste 131-B, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.thehenryrestaurant.com/locations/miami/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+    "phone": "(786) 471-0070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg3P8LKy32YgRXeY0Cr2NPI0/photos/AWn5SU7MC87hnaXNwrHQnOjPcD2CQ8ZJ8u9k1_d7Z9ZFeLL_l96GtMnlYFIJbdLeC3pWkK58UVrRilV2XqlSEwZXvVX4d0lEOyEbU7vVtveGcrTwamdVRUTTACFZ9p6Huib6UA1AUsXYFmTZtVBkOA_qS4rMzN3F3XLqMr4Dif8TTpBUHLiJju-qniWGSahtr6bW7J1wOhb6OfG7FBaghAOPdeq-2popVgkHWZrxuYCV8cJcsENQGo3UxwnJqU_4PCp0D6xYdvabY3V5MhB0t3T5APktPcz-my0IRLA3zOYwomsIbA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 794,
+    "coordinates": {
+      "lat": 25.766610099999998,
+      "lng": -80.1931985
+    },
+    "features": [
+      "american_restaurant",
+      "coffee_shop",
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "brunch_restaurant",
+      "cafe",
+      "breakfast_restaurant",
+      "bar",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg3P8LKy32YgRXeY0Cr2NPI0",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10177165101010052701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Phuc Yea",
+    "address": "7100 Biscayne Blvd, Miami, FL 33138, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "description": "Restaurant for pho and other Vietnamese staples in a sultry, industrial setting with indoor and outdoor seating.",
+    "website": "https://www.phucyea.com/",
+    "phone": "(305) 602-3710",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpUIxCNez2YgRv5o4hb33lwc/photos/AWn5SU4yhjInHi7IiRb4lgrbCzHwjvgfjom-4ug5s8rymShEDgHTBxT8r9w11iGIGIxRrd4TWeegjvAMGyowEFvNJXN7vKBl7AaRZ727CLCczcEDwk3DI4LYZzhXo-PjkMXgGW8ZTamw-r7uk6wPS0WcKpE1ItoJtJrJFkEnOVQYQNovlFg6ZnZlxNR_zy7kuS3xx2Vr0x8amPNTraLJTfQNak3nvDQioH8uS2mh9mkQphxL17oub6RqyN68v1HU0MTz-Y35oWf1HW-v9molLS681iTmb4ER0bn4JGE617J_XtKWQg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.2,
+    "review_count": 1439,
+    "coordinates": {
+      "lat": 25.8404512,
+      "lng": -80.1846044
+    },
+    "features": [
+      "asian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpUIxCNez2YgRv5o4hb33lwc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=547178273104763583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Regatta Grove",
+    "address": "3415 Pan American Dr, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://regattagrove.com/",
+    "phone": "(305) 707-4667",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5zIAFK-32YgR2Qilsz6Sqv8/photos/AWn5SU5mvBelL9lwVABicrB7gexybKPqkfn5dutoV2BXsPUczJm9QRC_QdG9c9CFAvl3NGgIat8CcyWXiHobnmjCkkSs5u290U6JL9iGUEsLC-C8kpm2kNj2d8LYkZapFGv0q0kIQbK7ONot1sGjNOI9ct5MADS8UD7YqK-oGCxb3Zw-Pf6yXFa_WNhpJvRtDaRnNY6cIFDJN4mnPkCJvZG9J9xQZeYPODfb2yIWUnPYRM174J6IRSaoVvupxulmO8fn1ZZpWi3mX0VGQzTJaLNhEdli0lQN85Mj58qhgqYaQ0LB5dW7NBj--DNfAoNwPVUzmlRW9rlGD67LcgunzxZV7Yaw6V2vT6D-pxJGycVYezWMyBk3qLs7YQ6xN3VoQrpXEuT0bi1FHjUndbBwxV688cKyo8n9AaaY35u1f-UNxIEnHQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1038,
+    "coordinates": {
+      "lat": 25.729069400000004,
+      "lng": -80.2330633
+    },
+    "features": [
+      "event_venue",
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5zIAFK-32YgR2Qilsz6Sqv8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18422698023712000217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pastis Miami",
+    "address": "380 NW 26th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://pastismiami.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
+    "phone": "(305) 686-3050",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_UffvmS32YgR-9_BmbqrJYs/photos/AWn5SU6h-N1uKQHqHfyV-HpzqePTKsd-SZehkRs_U4v2ikntSKGmKNEO97WMWj95jv6tnxmMFeXMUrnSOks4FVwanHyeyuamyasgYLVWUZZuxZBvJqD_VavE-kN-y4MXIn-xZ6HGo4DWfHZVCsmcBs-0Lh0PFdOhv_31_yo-wH9VT7rMYwpilfXoisfCrw1Ihd3t7SUdrKVVIv2Q4qDCIPCx7WLvHomyKzCeWr7Gapa7T5o0EkqbW8GgBNEySdXB_JAX_SnKX1-gWrAQxtB-GVfdZQWenN9u7OlSzoID6YZPE8403g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1283,
+    "coordinates": {
+      "lat": 25.801118799999998,
+      "lng": -80.2018901
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "bar",
+      "seafood_restaurant",
+      "french_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_UffvmS32YgR-9_BmbqrJYs",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 12:00 AM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10026608963342163963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "JOEY Aventura",
+    "address": "19505 Biscayne Blvd Suite 1150, Miami, FL 33180, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Relaxed, contemporary dining spot with a broad menu featuring international & regional dishes.",
+    "website": "https://joeyrestaurants.com/joey-aventura",
+    "phone": "(786) 763-2300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsx5kLqKt2YgRtWH2sru1V_Y/photos/AWn5SU46Utz4CxVzJ98v8AcOkIkWWxLLpQ7ydtMtxJUU2yZuuWntIPTxgMMK5hR9y6sSnj8UfYtxRoSGEnO753eWX1I7ZPB6ONsCQCeLzZucn3x5e7OoBVQFbn4ea6yAm4Wyfu5eWZEBZdrDqXZUWj_BVcXf62gHRRgwDeoDP3qE45AiruNbVrlr9N-nuOZ5GfPaxLAJd6z0AKFAcp2b_GEdL5BjeZ1ixU_MEY1Zy98nOb8URw1WDlckVl-aJwN6r6KBc7GRr90SAyFW56YtTpQRkdOBGVANIVvGJovEsF8HkLR6Ud11TM_av3fh6qQcNDkp-S5QVIHc9HTa5VUzdW9eaK7frW5O148mpY6uDTPo7QMJ_jNmKhNnc4vmvE3WolJAtpW5l6YvLxuSVNpN3zOxn-bYGsETEDteo4ttiLgcTA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 3855,
+    "coordinates": {
+      "lat": 25.955848,
+      "lng": -80.1436708
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsx5kLqKt2YgRtWH2sru1V_Y",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17750856274070102453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cafe Motek - Downtown",
+    "address": "36 NE 1st St Suite 132, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "cafe",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "description": "Hip restaurant dishing up hummus, pitas, rice bowls, and falafel, plus all-day brunch and desserts.",
+    "website": "https://motekcafe.com/",
+    "phone": "(786) 953-7689",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtQCVt7G32YgR3aHrmstwrrk/photos/AWn5SU4WfGvQM4YkDTwl8z4NdSCLcOeQmYoUTVB1HkF5z4rEqMasTmJGRfLzHZ47h6Hon694wsGOrfbjgjbIsekiUdTU6n_B6fgQ49HR2GAfsL-JsdVug40_FplAGAAOtec8xwo2uaIvDQwxWJaUG4CmJI4BgpvkiEWJy9xL5J89vOIlDJ_rPP-HGV03zxBCTmdz-KaQ26CmUxzId47k5DaTRvMNr876xtG7DGnpUg0MMrW8VEERECXefi8ut2cDT_sFVuM6CzEuKsfk4u-lQabQ3R2IsQt1ybmriDbpQZJAAF8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1876,
+    "coordinates": {
+      "lat": 25.774900499999998,
+      "lng": -80.1928441
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtQCVt7G32YgR3aHrmstwrrk",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:30 PM",
+      "Tuesday: 10:00 AM – 6:30 PM",
+      "Wednesday: 10:00 AM – 6:30 PM",
+      "Thursday: 10:00 AM – 6:30 PM",
+      "Friday: 10:00 AM – 6:30 PM",
+      "Saturday: 10:00 AM – 6:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13379755562744127965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sexy Fish Miami",
+    "address": "1001 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "japanese",
+    "price_range": "$$$$",
+    "description": "Chic, luxurious Asian restaurant and nightspot with surreal fish lamps designed by Frank Gehry.",
+    "website": "https://sexyfishmiami.com/?utm_source=LocalGoogleExtNet&utm_medium=Organic",
+    "phone": "(305) 889-7888",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdfkR4PC32YgRgxEP4swq1oY/photos/AWn5SU7WQ_AlQBhIyHwRZbjrzRHnaOy2FTPUYqNN8WGQeDfU1CvhExaB67I_wuojC27b_JpB8E9AcqqogpYX8XhaFrbDGebhFfSBbryvoTsStodJO7kA4LmroQb9L26Ejsze8mRkBMCJ4UzD06WQdlMBjOe68lHp8I_RRgKgZaTIfMZWb7wO_4ft-lvL1YZ1Fo4PZff-wFl7g3zLVtjS8ooBkHC0Pr8wEu5VMIK1cDYFc_Gzyf9X4_oJ0Bcn_oFytq3cb_SOsnFrlifD03Iegg1wxPHwMcbmZBKuSmtXesdUArEcuA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 7659,
+    "coordinates": {
+      "lat": 25.7643553,
+      "lng": -80.1930205
+    },
+    "features": [
+      "japanese_restaurant",
+      "seafood_restaurant",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJdfkR4PC32YgRgxEP4swq1oY",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 11:30 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9716000305552757123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MILA",
+    "address": "1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$$",
+    "description": "High-end Mediterranean and Japanese cuisine in a flamboyant venue with a stylish cocktail bar.",
+    "website": "https://mila-miami.com/",
+    "phone": "(786) 706-0744",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ__-_24W02YgRXJM6PONpVbM/photos/AWn5SU7wRUI1cr7Hqpt5QuTOEKgwoCW4HAiJSmlpGQnoclcxEPAsT6sfrlIf_sHEVYTe42lqrkTJn9mHvYp5V3ACww2paJP7C0XEduUCphYY7C1sLJHFQOnzjiOe7ywT2hi8VNo3r434IAXe-chMtOrTJ4zD6q5NM2HtOTqqTTCje4bHHlT7YP96iRgrSYUReyF81bSPivhvZ9wpuN6b_gY9-j2qdS6kITGrJVEmXYfjDfZnKLlTUzVIjT6gptM3ueC3pTrGM_AgSo3Xh_gYRFgOsC-hKoQjHHx6Bm06yTwr-kB_jg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 17934,
+    "coordinates": {
+      "lat": 25.790219,
+      "lng": -80.13673310000001
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "fine_dining_restaurant",
+      "asian_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ__-_24W02YgRXJM6PONpVbM",
+    "opening_hours": [
+      "Monday: 6:00 PM – 1:30 AM",
+      "Tuesday: 6:00 PM – 1:30 AM",
+      "Wednesday: 6:00 PM – 1:30 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 5:30 PM – 2:30 AM",
+      "Saturday: 5:30 PM – 2:30 AM",
+      "Sunday: 11:30 AM – 2:30 PM, 6:00 PM – 1:30 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12922351130498470748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Doya",
+    "address": "347 NW 24th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "turkish",
+    "price_range": "$$$$",
+    "description": "Airy, upscale restaurant with a central bar offering contemporary Greek fare & craft cocktails.",
+    "website": "https://www.doyarestaurant.com/",
+    "phone": "(305) 501-2848",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgf9eP_m32YgRHv6mVX9npl0/photos/AWn5SU7X61I3zRUPCa6giZ6QeKiqRKnkqzlIH3ZKTXc9XbbIAqwdrw2DN4P9eEqttDHZP3v8MIBDiF4EGZgm25ksA3d-3Pe9wJIkWjjwa2zuZpH8lTou_whrDSd-OOKheXmK85t543mih4CVzv_NWed0dzXoJ5bqTXS7peBcGhfZmnlSExfqY2s7CXJoVLNXcJqFGpJaCtdhP42DPtBIz0U8DwIiYnpyL4x7TztwBSH4KooDnYGj5o6MJ_FZJcluuQid-GFk7Yo7UMW6foLY8bs3WP4SlKyxw2SAwKt6NBV52ufrkQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3386,
+    "coordinates": {
+      "lat": 25.800235999999998,
+      "lng": -80.201449
+    },
+    "features": [
+      "turkish_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJgf9eP_m32YgRHv6mVX9npl0",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6748194888256781854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "COTOA Restaurant",
+    "address": "12475 NE 6th Ct, North Miami, FL 33161, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.cotoa.rest/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJn8SyL-C32YgRWuPY_2YmsAA/photos/AWn5SU5cQa-ji-z7MlRO9pBRyTNGXR51WtS8zrgkFEhA50N1vPoZTnDrOQmbXuAUW0Uh3Pe28HcfNnz_NuOwaPDK7OKBERbKMH_JG_UnTcfHIgLb82-4I7Aq6kJxpxBtdCZfnLjX_U4sFWYOZL7nOVUsfk6i0YvAVHs5IcKzmFD_Dx_v_Ou_q2nj5I-zXLueD3wMTFzY1g1sUGqbzY8GI7twfqhWlcwjRyk1EPb40MPJg7lZQHbwsAU-e5gJHhWHZQ2tB2PwfwmvJUGnTzFzVmzj0xMCW4gGddb0okYPGUi2r7n7Ag/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 606,
+    "coordinates": {
+      "lat": 25.890064000000002,
+      "lng": -80.1853012
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJn8SyL-C32YgRWuPY_2YmsAA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30 – 9:30 PM",
+      "Thursday: 5:30 – 9:30 PM",
+      "Friday: 12:30 – 3:30 PM, 5:30 – 9:30 PM",
+      "Saturday: 12:30 – 3:30 PM, 5:30 – 9:30 PM",
+      "Sunday: 12:30 – 3:30 PM, 5:30 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=49581819721999194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "One K Miami",
+    "address": "1000 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.onekmiami.com/",
+    "phone": "(786) 314-7914",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtwbj4ra32YgR9v8tVXmQOj0/photos/AWn5SU47gxn5nUi8m3PAM4nYDfL0nC8ZQ9xKXWjBCDrHx2QfkInjGjADEho6QyUdCamX8euoHR_1hHGI4s3Nw1e2y-fchMp5mSoNsMc_6Nf6pBGiid-QTi3iq8rcs8D_PV_UdHmhnufnX_raT9RQSG974Wv0ZNF1tBEB1AuaQlHFWBOCBO6AlUuKOpZVtYMJLyMSTdmfx541OHv1Lp_VwcGBTPpgpzjFjdB7RynhkztIE_tH5IsP8ND4xDLe_m76IE9HLA5csGh66gaWkKZWZTRJSpD9nPqdPOoik5AqCd9eLvk-pw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1176,
+    "coordinates": {
+      "lat": 25.7642538,
+      "lng": -80.193501
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtwbj4ra32YgR9v8tVXmQOj0",
+    "opening_hours": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4411997635757342710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Daniel's Miami",
+    "address": "1500 San Ignacio Ave, Coral Gables, FL 33146, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.danielssteak.com/miami/",
+    "phone": "(305) 912-2639",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEaB8S0bH2YgRPma2JjRRJwk/photos/AWn5SU7q-2TQITMbuBGKmMMmHiFOtE1ccpwYHj4TWEafl-o63jp_BEz8SCsaxfSvrD61PARb0V0CAzpaWhIo8Gu_7s32eh2eRBw5YZhUO-7dYvrfd268OToRN-WRpEcfBJ-y_rMwGWFkEd09G6YD9hHnQd1AwlNgVae-ZoWyf7WvBaqAWkuLR8nyMoMqTV0xb5RLOGdV5fZK6SZ0kx0wx0zINHAhaB35tccv2wYD3lzYth_ogoweWH-5BzV3OqqbHptnhutvMZF9gjgyPJ7bZ-YRKussoLtBOaLntVSyqc3P0ipfaILRw73YzRltbKVikJ1zZvJ25GTkPDSF9juORCZl8Q2Not5VhNErFpxe1HEO5otfeCcuEm-CBVH4JgM8Dqept3HftnuTDYBORJ77ePV89jvI6XADpuxoeGh1F3lXHkzR-hHV0JVhpVFfunJ8BYcy/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 483,
+    "coordinates": {
+      "lat": 25.7051536,
+      "lng": -80.28241480000001
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJEaB8S0bH2YgRPma2JjRRJwk",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:30 PM",
+      "Wednesday: 12:30 – 9:30 PM",
+      "Thursday: 12:00 – 9:30 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 11:30 AM – 8:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=659585154862704190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Moxies Miami Restaurant",
+    "address": "900 S Miami Ave #161, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://moxies.com/restaurants/miami-mary-brickell?utm_source=GMB&utm_medium=google-location-listing&utm_campaign=organic",
+    "phone": "(305) 549-8997",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4yC24GK32YgRAEsm4jvWV30/photos/AWn5SU7O0QoiC0jUBwmanaMDAs1ee73I-t9LKFTUNPoi8kJ4axewVdsG-YQGf8g1JWEl8MdJUFNuAfJH1CsBrwBvr6yDRZxViRtw-dNqva3AGJfjqGFwSQ11nhXqPyTFHdXze2edUUs1c0tu2eVMQxYA2175BP7ZNmGD0Pj7G7LMpfT-quE3Msv7Clr11qnW0bxforbGV3tkgfcjOLA4bR4kGU6ICQCgjgaXMexfTHdbpntklzQxYQ9c86Akyn6FGtu2qVXL7TtvJyUK3SFqpARwppfffQmylqclVmEgOSKBJbsTalAJKRTVVOF_2wcc7_XeffMBpsNmue0vEaAg1-MXBmvKWHC5b7qOw8iKaiV5DDfObJFq4DHMBgCNYr2fB0kpp32F28oEMKQgI2fPuDltNgwjRa_QRC9oMCwyslcmigvtdzgY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.4,
+    "review_count": 1615,
+    "coordinates": {
+      "lat": 25.765184599999998,
+      "lng": -80.1934168
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ4yC24GK32YgRAEsm4jvWV30",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9031923130400393984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wilde on the Porch",
+    "address": "1700 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "http://wildeontheporch.com/",
+    "phone": "(786) 400-1676",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB5mRuE-12YgRBKW24Am56ro/photos/AWn5SU6uNlykwZL7-p9PZaza2stjNaTeMJtgaw3Gmk9HyXEjFpz61yhJNJUauoFBQX2tFmuZUD_ejEgv1H4IYsG0mVd4wUbhEAbXH5XG5FAO2Fr9p3dY0FpXRHc9oyD3kyFWRyu5qkfHzsCfFJK46kJ14XXhQT3qeH-5xLP-28ruIloxifxM0BE4XZxSMCOqD5oZGsGA7BvQc9E3RLHgtgHSbhXAeY07pNaNNy1Nqmwm8_roSm36I7QXbm0zKnKIAZUDg7heuP8AOcfIOSaUUeW4mWv7jmOp2dqf0HXUMYk65Q6yJw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2775,
+    "coordinates": {
+      "lat": 25.7924555,
+      "lng": -80.12993259999999
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "seafood_restaurant",
+      "breakfast_restaurant",
+      "bar_and_grill",
+      "night_club",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJB5mRuE-12YgRBKW24Am56ro",
+    "opening_hours": [
+      "Monday: 8:30 AM – 3:00 AM",
+      "Tuesday: 8:30 AM – 3:00 AM",
+      "Wednesday: 8:30 AM – 3:00 AM",
+      "Thursday: 8:30 AM – 3:00 AM",
+      "Friday: 8:30 AM – 3:00 AM",
+      "Saturday: 8:30 AM – 3:00 AM",
+      "Sunday: 8:30 AM – 3:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13468781087680800004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tâm Tâm",
+    "address": "99 NW 1st St, Miami, FL 33128, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "vietnamese",
+    "price_range": "$$",
+    "website": "http://tam-tam-mia.com/",
+    "phone": "(786) 933-6378",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQS512_W32YgR_x8a_d5iUlQ/photos/AWn5SU4ZUQ-ZEtwMCI3HpXgYxw-7q0Ws5ABMDI8vQyUwPlmUocGjzA6XsAIcZHcmljyfAfoXKyMk0nhOPgAWYByukKcPe77Bjlnv9WH3xKaq7YRE4b43tscViuFOuJEobEfFWuPJd-JaH050jIGVrnHwWKex3SSFq1J2z2K2G4xmCTBYqGpi8q_vpOuXLkb3CzHPYL5tAxgCPOy8NOxboTreATI0WVYrXzBjhKD2hMIC-qBv2N5oIBSCT8xxVq5KFjrOSSNUzBu3YAgticjyyRA2r-SckoxAdk6H6_By8DUUVjcE2w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 473,
+    "coordinates": {
+      "lat": 25.775200299999998,
+      "lng": -80.1950777
+    },
+    "features": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQS512_W32YgR_x8a_d5iUlQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 10:30 PM",
+      "Wednesday: 6:00 – 10:30 PM",
+      "Thursday: 6:00 – 10:30 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6076027557144829951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mosaico Kitchen + Bar",
+    "address": "145 SW 11th St, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://mosaicokitchenandbar.com/",
+    "phone": "(305) 860-3874",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7UJG_je32YgRgdIduppRQp8/photos/AWn5SU6wShcmQGA8xoe1_ZcCPDpNRuTyDv2oX2lc4gnU6pnwKNxUTIoTTisxPR1Z4JOAkqDS2Am7vT5wQiwVgJtM9rRLHoDYVRfai1z4c0edhPnGbUR8Itqlmub0K7zrZNJoW2_8NQUTInhGV82APGM0ClUYao-wjgKl6ZwdK1FHMcqYZlyMTD7BUPRDBckxvySRhsmuNFpPIIG6I0-ZiTPe2BvZofQHlPPHOnlvyRu-1xFsf3P-C45xbu6dS5o_3Y0olhgBkEveCzl5iY3NaRZ3wOHABY2v7aJIlyJqF6qusTGWcbRSJsEvsFOPB-9uZKXXR3i4eG44Ile1eZSB_F0THwbRRiyiosYqPU5VztumNuNU62mkUx51APIgYfolV-EVa2Mm5c_qdMj4tqyujhW_z3F4RYXEolIt2w996ZbCGE8/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 252,
+    "coordinates": {
+      "lat": 25.763537499999998,
+      "lng": -80.1966618
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7UJG_je32YgRgdIduppRQp8",
+    "google_maps_url": "https://maps.google.com/?cid=11475824525482775169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Motek Coral Gables",
+    "address": "45 Miracle Mile, Miami, FL 33134, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "website": "http://www.motekcafe.com/",
+    "phone": "(305) 396-8547",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVzWobH232YgRNV1u-zsJi2c/photos/AWn5SU4UgTv1caCkGTyS7gSF4LNM1Ao5QrReUxNwO6B5flcJnsaHwguHpjKrC2d6JcgyX33jZPzscy3SBaSTYU5teRBYMT2KyG02V1NMCzPLfISozEA7Ahmnka2-a5Ild17uaojBo5QO9FFzww-7PjEN7bD5dFZwI3CDkstfETKtGA-J6zgRObLVvBnRMXPrnY2PS_y3Dez51bRmgPQCXW7Gttn3_pFuEHnz1kvuCCksH9fp9njX1fYms1TzqA4elNvTmzMIvUcsvMhVwz8eABwyfZMet7CdUssFiO29UtLRr2xL6Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 6736,
+    "coordinates": {
+      "lat": 25.7500425,
+      "lng": -80.2558088
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVzWobH232YgRNV1u-zsJi2c",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7461067360895393077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mother Wolf",
+    "address": "3841 NE 2nd Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$$",
+    "website": "http://www.motherwolfmiami.com/",
+    "phone": "(305) 990-0022",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJE5XxYEOx2YgRtM7W6KI9XfY/photos/AWn5SU58sVMsuLxOsZNmcb0ZHvcHuHPuHmzxVA3WXOSADbhc6ea2dnEHVNs22hJxsEexhw6fIZMMZ8nnV679LfkNXbMBWPRT8onKlL7Ixghh-rPyMJo-bjkDCK6Clk1zzBKEkXPrc8MZg4tzo_0iLn1uB6pjlD7q7kRT-dOj2FcDZbiU45Uun2qzpsjHtYYIBHxITdx3hqyBV2bXmlLHXOkIn6BYYeTt13m7Qn_jmQZ9DYA2iZgvbBS2yTNPJ8fZXQgChLJGDiG4WKD5GlFKqp5yKmFq6hrqssxeSuRzBRIMua9-MQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 367,
+    "coordinates": {
+      "lat": 25.8126049,
+      "lng": -80.1912526
+    },
+    "features": [
+      "restaurant",
+      "italian_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJE5XxYEOx2YgRtM7W6KI9XfY",
+    "opening_hours": [
+      "Monday: 5:30 – 9:30 PM",
+      "Tuesday: 5:30 – 9:30 PM",
+      "Wednesday: 5:30 – 9:30 PM",
+      "Thursday: 5:30 – 10:30 PM",
+      "Friday: 5:30 – 10:30 PM",
+      "Saturday: 5:30 – 10:30 PM",
+      "Sunday: 5:30 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17752413076064751284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "American Social - Bar & Kitchen - Miami",
+    "address": "690 SW 1st Ct, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Vibrant gastropub with updated American comfort food, craft brews, flat-screen TVs & a patio.",
+    "website": "https://americansocialbar.com/locations/miami/",
+    "phone": "(786) 706-8256",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8XrxI4W22YgRyZiuIp0HdhQ/photos/AWn5SU4c4hFJVNedbLVVfb_-pg8Rd4t1OcSD5Ion6nf7ei2RKjYns0OGsGJdqVJxofmIRAJt_NFCpfUA9We74bA3QMQgVUCsCK5NLsILsn_XP5UgAY_GYwT35mcH9q73xswodQkRUlJ3RKJZ61Oj75fdVIbq5UutZMShBQYOoEt4-hBGZC-L8bdfbNV3LHElIp7hGHEVvUt8RiZ8dk92IY-MjhFerZ9wXOkA-TWMUlwIDBjyrTi0ZAhyh7szkjZnT8ep3vPNAIgsvOiidGemu-UdVJVSM_2Z_7MQhm4o2Y3ENx9djQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 3737,
+    "coordinates": {
+      "lat": 25.767836,
+      "lng": -80.1962401
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8XrxI4W22YgRyZiuIp0HdhQ",
+    "opening_hours": [
+      "Monday: 11:30 AM – 12:00 AM",
+      "Tuesday: 11:30 AM – 12:00 AM",
+      "Wednesday: 11:30 AM – 12:00 AM",
+      "Thursday: 11:30 AM – 1:00 AM",
+      "Friday: 11:30 AM – 2:00 AM",
+      "Saturday: 10:30 AM – 2:00 AM",
+      "Sunday: 10:30 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1474374299483543753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Black Market Bayside",
+    "address": "401 Biscayne Blvd Unit 225-N, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.blackmarketmia.com/",
+    "phone": "(786) 558-5910",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs-Ieb6S32YgRDe7QpRL9l4c/photos/AWn5SU41lDsTI-RgUb7mkPwf2gTEySn2DJ8S9y2OlG_JZIkQMd-9YkURKi_qwKOq6Kz89Q4agKdF5V8MvYIY-Dis-i7nr6dyE2otkveg3Ij-yAw7yZQvIe1qcZiAmdRuc9P-Blc0l9jPypFPg0FZZnPyquVg33HiHIUto71YpuBuz8YSaJRw5Vhh6biEybrK-48oGkVGOaRoninliIOoGm4gTfoCEca1W47Zv6ga5ZBti_5BitJnJvO1wbeylp5a6AaeVU6WI5w0CIUZzxYw9TudaST0AoWdppchII3d_2KbvU7k3dJb0KdtP6z7kS4p4Ufk6gZdaH3h2cOGiyIR6m_NWkA1DK1-lA4regsJxYvEdDuGVPOzeCacwC76Vb3Q_Th72oHAfAgvSVL8-AiNWuUSbyOUMI6DekY7l_GGXr15KU8iVQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 3851,
+    "coordinates": {
+      "lat": 25.778422499999998,
+      "lng": -80.1864513
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs-Ieb6S32YgRDe7QpRL9l4c",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9770556173136752141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Motek Brickell",
+    "address": "701 S Miami Ave #412A, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "website": "https://motek.com/brickell/",
+    "phone": "(786) 744-5590",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmQV87I232YgRSwYnFMm_PmQ/photos/AWn5SU7w0rWb0q1ejYkQqh6KkgAz8GSa5tyuP0AKIDWhbXFy7jUeF2QAoO2AFIEs7CkkWR8bPg2hHIIyG00m4TgHmMALVDeCQ7fHPYmz7qWMgMZ2P5emoCo0hng7WVbORwrKPbq9VKHzXafc_9h6FW7-VslNAj4_-sObrJ1t_rV5TE4vQ56WvItnFAQ3W2vwfbaDocsiunVcawU76iP6o26NN6SXc-2UMq1mpoN5dzCnHHgDZ-J196wSgf-JvJGTffQ5loA8CQDFacQAxUoC32BilCbVAI-X084w2FQTu04cmXjW7A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1628,
+    "coordinates": {
+      "lat": 25.767073099999998,
+      "lng": -80.1939498
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJmQV87I232YgRSwYnFMm_PmQ",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7223421722696287819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fiore Caffe Miami",
+    "address": "228 SE 1st St, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://fiorecaffemiami.com/",
+    "phone": "(786) 558-5152",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbboSIGi32YgRmFVvBCOS50M/photos/AWn5SU4CCg2Pkm4Gq_mHLQ0ZGwS94_-3ydntRbOMPYr5hCWpOM90-6hP2zvxp7Xzrn0ctE057okmWsVNLMoVN2muXBN-8DHS6O4bihJjLM7oxJjO0gy_7Q3O8l0trz-eci6gT7oX0sQEfCgdXH52l1M3oX-su93GliFJHmjcP0RDHfGavLHiO9ezqMXWk3o_yM1HFofysmrutn0fmSdmmZJmUao11CTk0HwusfYbdhTwzGH9dwm8Tef4JJATlXzTD_AYNvzKlulvGNvhy0DuLS3kvA1JUVvn9VvVb3cmQSY7jiLe1lOXYue_h6-Va42jED5wR4yEwyDFFiLc8V9uq8vJHlORtV-mUfIXxGwrOC6AhmL3OALHC4r-tZyiMpae7-9vQxihmE8ZwlS_lTKFUpp_htiIaCEvhctIWKu3JaN_6og/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 6553,
+    "coordinates": {
+      "lat": 25.7732729,
+      "lng": -80.1895347
+    },
+    "features": [
+      "breakfast_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbboSIGi32YgRmFVvBCOS50M",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4893040199257249176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Level 6 Rooftop Restaurant Miami",
+    "address": "3480 Main Hwy 6th floor, Coconut Grove, FL 33133, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "website": "https://level6miami.com/",
+    "phone": "(786) 800-2080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVVVFQsW32YgRshiwWyuedns/photos/AWn5SU6daByLwnP1nKLc_xGsokF3jFyk5e4ydO3w05lkyCzEzeAfa4dBAN05khER_YnUhBic7qg3Y75GPPQnRZwKQEr2j_aN039w721Ku-BV26tlMEGdhFSwQ9r1eIASMgZBFKb0KqDzUCSm8qmZ8Js9SdlQh2R1_zc6C9s7t2O8bxx-rDjGQitaahhLz5CdLmyy3tOvzVAwdOsbHwQz44rq5Xw2WLrcmNBgwxsxEoSaRbtW821iJ52d8Ql2dNXdTq6XyXxbpuN8Ynd0hJU2nyj9xn3aHN3ibMwebqyfGFFNefGE0Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2366,
+    "coordinates": {
+      "lat": 25.7264563,
+      "lng": -80.24422179999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVVVFQsW32YgRshiwWyuedns",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 1:30 AM",
+      "Friday: 5:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8896472022976043186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ll Pastaiolo",
+    "address": "1130 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Vibrant, down-to-earth spot serving Italian fare in a rustic venue that has outdoor seating.",
+    "website": "https://ilpastaiolosouthbeach.com/",
+    "phone": "(786) 362-0152",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqSUo67K12YgR3T5kOxPXdF0/photos/AWn5SU5d2eK5TkJpzGJ4BCG7wdhgDP1_iCn9OX2bj_ffTuilCVS_8YXadMD-JhjpQFbqCCjgz00rW7KhOJMEe-WIXnGZwA4B8kIWE7IE728MVm_2HbDPuU1wSyOroee0-ECmWNNb6-O1dIoUVg-AMge-rptHXXVZsu4C7PIVlssKWvyEUIwVOIgibq-nOoNA2WZw0ZjnVsv3Dg6iPWXjmwydrHsfHioYhCjQ1uJWn1Uf0ky4D4Oiceqruv6vZyr1stqmUxN90Xihf6qU-8EafeSiUL-XqrR-BS_PgCPIki4UGt2Jug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 18007,
+    "coordinates": {
+      "lat": 25.782309299999998,
+      "lng": -80.1314663
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqSUo67K12YgR3T5kOxPXdF0",
+    "opening_hours": [
+      "Monday: 12:00 – 11:30 PM",
+      "Tuesday: 12:00 – 11:30 PM",
+      "Wednesday: 12:00 – 11:30 PM",
+      "Thursday: 12:00 – 11:30 PM",
+      "Friday: 12:00 PM – 12:30 AM",
+      "Saturday: 12:00 PM – 12:30 AM",
+      "Sunday: 12:00 – 11:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6734243820426510045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ZOI Restaurant & Lounge",
+    "address": "5808 NE 4th Ct, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "website": "https://www.zoimiami.com/",
+    "phone": "(305) 456-7247",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzQA4ykCz2YgRKrfU8MWyKrY/photos/AWn5SU6iA0HMH5ak91fzvFzWEjgUFYXazHCZev5CvHaV7lOwwCMBbrlr_aqmqR6EGhmy4WtUNXk1mw7VDPB78vr7LNSWTCuF0r2yuPE6K_TuY6GOj8ZDvymDNixjkUx8C6-ep7gdJD4f8pruiTjmf80DqPbGSMKSeptxs25mgNZC7qKk6SYrhIyUjywYbpr2KKiqFDSMOz_Sebs1ehP7f-UZGrBW-UPPZGw_ITL_DCtjIBaJTOCgTQbsMRfYW5pKMPOzZDks_zR3K-cZGzP3tZ1cz-G7cj5M-tVinzdWdAiL523pKg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1133,
+    "coordinates": {
+      "lat": 25.8293563,
+      "lng": -80.1870764
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzQA4ykCz2YgRKrfU8MWyKrY",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13126500627143505706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Carbone Miami",
+    "address": "49 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$$",
+    "description": "Sophisticated venue dishing up traditional Italian fare, plus wines & classic cocktails.",
+    "website": "https://www.carbonemiami.com/?utm_medium=Click&utm_source=GoogleMyBusiness",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJO00l3z212YgRMR2YmhbLEVE/photos/AWn5SU6dy0L-RbZnK5hThLlSDtOwHvPSsTclr2x8y8uw3-tUqTo_xPUM6amU30xk3bjqgKZa__DRQ_qfRQ5_vX1TYvosOn7NqVfhWDfnNeZmeWzuNvhgXWtGC5DLdETbUJ8ELb-QTQcd7USPeyqr39at0WlNoHn41aJAbVm6uySJezN2xj1sByrG5SyNsHBqBMN2ilStM3yVfyFblFpS0xbGBcn4S745-k_ewiYxO4bpdDBbSEC5BYfjmxt6XmU_aLMG3miBDCNayJV2fYZESrcL0fY1vilRkn2HHbEOcRjMFtN6ESBZOKrUdxawAWdZhwv9vP6Wkm5elwBcTV0Re2e0B02T2aBIwWIfxeNtOdVGVGOD7WqckJ0mHxrirHY65dxYKuWrh_qdGyFdxHCmk2SJl6rKwQpTgZ5jTo9078Fz_LmRt9c/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1873,
+    "coordinates": {
+      "lat": 25.769231899999998,
+      "lng": -80.1339071
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJO00l3z212YgRMR2YmhbLEVE",
+    "opening_hours": [
+      "Monday: 5:30 – 11:00 PM",
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:30 – 11:00 PM",
+      "Saturday: 5:30 – 11:00 PM",
+      "Sunday: 5:30 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5841673489619623217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Capital Grille",
+    "address": "444 Brickell Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Outpost of the upscale steakhouse chain offers classic American fare & a clubby, refined setting.",
+    "website": "https://www.thecapitalgrille.com/locations/fl/miami/miami/8006?cmpid=br:tcg_ag:ie_ch:loc_ca:TCGGMB_sn:gmb_gt:miami-fl-8006_pl:locurl_rd:1004",
+    "phone": "(305) 374-4500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKVAQIZ222YgRxqIAgjmhNz8/photos/AWn5SU5f4olaXD5Gamwlm0K3UOZ74Tb6a8UAy4Bt4H6RwsO4tXOzKcnUabdJfzcQdnBmj3vHhlepDR9xcGg8yWwTiQdd6O_r3q_ZEkd7mv8c3hHj9_NtJqsjcQedkp1ymoZyKCUN9DZt8eSef7hwCYDn-DpdZ4Y9WyW_wJu1tzBabODU3Jr1THcgBQ9f_D3EyumVw1AXrhKHgMcOJ0KgFPmlgFDApmj-hVNLJcq5WVrlJWfiuFBIv-ENP_T1ZfP7e3ksgQVKKojxgn1bDG8Txzw9dJXkdqZkhOJg1u6aqdoVrRT-1Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2556,
+    "coordinates": {
+      "lat": 25.769491,
+      "lng": -80.19032
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "wine_bar",
+      "steak_house",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKVAQIZ222YgRxqIAgjmhNz8",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4555286816474833606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Deck at Island Gardens",
+    "address": "888 Mac Arthur Cswy, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Chic open-air lounge at a luxe yacht marina, for wine, cocktails & refined Mediterranean fare.",
+    "website": "https://www.islandgardens.com/the-deck",
+    "phone": "(786) 627-4949",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJm9l4kxm02YgRk2Ou12UmkRc/photos/AWn5SU5ueVrDeV0hrO-HJAzuzRSYt9edZ3OuwelcpOVBDjdhSzzlDvlyfnwECNFuE3E-R75b0eksFzeSceZnAeAebSQC5np_y1XZEXpoLEBTaW-B6CDfJaGa_3lpx5FT9E1gEDwlqUn53gHCUsnvKhM-2TFfgkT4Iva14ghRhx3Thyt1IH1OqvAq8qX1GqInJ2ZJPtXHTlGUxR-QKoMbyk1cWZsKDb6uFddvImAilyomJOS91ErxazM0pDZ80VYgFAzvy0678SwaBM_alT_iQk3PjUdombLvT8-CHHATbFYBDGql0w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 1471,
+    "coordinates": {
+      "lat": 25.784244200000003,
+      "lng": -80.1779476
+    },
+    "features": [
+      "restaurant",
+      "mediterranean_restaurant",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "night_club",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJm9l4kxm02YgRk2Ou12UmkRc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 PM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 1:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1698180753347470227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Surf Club Restaurant",
+    "address": "9011 Collins Ave, Surfside, FL 33154, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "website": "http://www.surfclubrestaurant.com/",
+    "phone": "(305) 768-9440",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY9UXppmz2YgR8eMDCqFBR-0/photos/AWn5SU6MRhB1Vp2Q7HV2IbhfFt_troSpEULvM8cZ_svoPpBuI823JnTAM17TNx5SFZrVTwW_EGR8Db0y4iwe6KLqQdjQJMa_umbq76zDG3Ae47qSPgjV5b80yPPNPt7kjiOVJKp8gWDOBE_Z8KqrtXWHSUYUnYQEZayYrzQ6drKPfchi_8KfhpJHKdqsEcpYIawztEsDWxCHW55NKi7INrfwmdFjOj3oqwJOpD0jYfb-7oWF3N0sKp7HKE3fHlxn5c_Pf1vg7A1cAgN_uOeCD1GIbCRpDo-oOHevs1N0wwiQXRohEeYAk2MPQKzSmCdLWMVnvgwZ7WqdwA1aYcpR3ZTp6fqbQKOlsTcpMMgOE7YATWRtmqhQpAQN8gEdIG_2D0LUi9AWITiWvycFLTc-bJawxKZq15slMxxypyBo66M42wfAYRWTZebFjEHu-ZRPs15i/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 511,
+    "coordinates": {
+      "lat": 25.877484799999998,
+      "lng": -80.1215331
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJY9UXppmz2YgR8eMDCqFBR-0",
+    "opening_hours": [
+      "Monday: 5:30 – 10:00 PM",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:30 PM",
+      "Friday: 5:30 – 10:30 PM",
+      "Saturday: 5:30 – 10:30 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17097706670248944625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Mastro's Ocean Club",
+    "address": "315 S Biscayne Blvd Suite 100, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "website": "https://www.mastrosrestaurants.com/",
+    "phone": "(786) 917-2031",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtTdkfVW12YgRXqkIpBK2iNc/photos/AWn5SU5dJE6-rCnpMYSajbVkWvWkb36Bl__fhUvyY5LI8VtO8uWJh0jV6MfMFYE8X5PzQWsHb9o5C_5fVYH7gPoBMwDtutwj3ag4gBqDAQXEMPtBfpQ80Ij4CwTOSVVdndDHAoeLcbuk40Tu8cFmaW5lzEAQHQgqyU_VVVMThEvMPDXx6jMUFNef9zH5b5HMxrarJxPP6FaEkjjJjuMav4_drvBbd9kDzThJ87O-Cu_m0Att0QRfaaAfBAzCRSSMyOGswZr4Lh8eeDhqI9qNh02UwNjKWrvy4repicCBaNtEOx3Bkw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.5,
+    "review_count": 295,
+    "coordinates": {
+      "lat": 25.771280899999997,
+      "lng": -80.1869739
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtTdkfVW12YgRXqkIpBK2iNc",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15530863506164853086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Baires Grill - Miami Beach",
+    "address": "2200 Collins Ave, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$$",
+    "website": "https://www.bairesgrill.com/",
+    "phone": "(305) 763-8342",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlZsamMu12YgRJoP13RhIJEc/photos/AWn5SU5rofwG44jnmX5w7rVN81-Pn3msF-tHLbbrJW23lZAxSHf7ONjDLWNjKzeKlNxl61wczYoUb2ynU3OOAW4lLI-mdMaFKOVmm1P3je4NrobZN8Cay2xde4_yV8RQDAnPy1gAHU7YNdpu0GwmTZP00PTygIwfHI2G5vAjVd9Lx8KIDqd1_kLcsLD9n9nF2DMULUaOc-l1auINtPJjeLTyShBq0uYwnBwOnur7IqhhCU873EIk9d17bxceLk9jAT2uOH_mHL-rU5fFiHSuiR1E7G5Q5N6PT_ZQtm5gE_fA6SBmFw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2207,
+    "coordinates": {
+      "lat": 25.797976199999997,
+      "lng": -80.1283558
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlZsamMu12YgRJoP13RhIJEc",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5126301547494736678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Rusty Pelican Miami",
+    "address": "3201 Rickenbacker Cwy, Key Biscayne, FL 33149, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Diners pack this stylishly updated landmark for water, city & sunset views plus weekend brunch.",
+    "website": "https://www.therustypelican.com/",
+    "phone": "(305) 361-3818",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc2PcMM612YgR_kdEdDDuTrQ/photos/AWn5SU4kSCikmDfE5lNbWF-gm-BTYhb2w9RNYC4isDwYghPUNbb048YSMWQ4JZVelFCSgz-vq17U_JevkYQ5uPkohhOM6Y1arK49048DuOW7lKpkvl6gJ4XdaBcRfGi9O7iqb1FyJUzknIjmOgeiYk_aUO_JIrLXyYoftsEkrZx8suDmhj58mYCCmNvH9MBOJnXOemFR0NdytrDo5xrUa32-mXh25nfaDuQASbZHHGs1R5Yq57XO8ZZRGYrK8h2gPDY6-F-2rGCFtJwsA2LCnZW5X2dopwIAR2eZQmvcVd2d9FiXww/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 20234,
+    "coordinates": {
+      "lat": 25.7478443,
+      "lng": -80.17531160000001
+    },
+    "features": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc2PcMM612YgR_kdEdDDuTrQ",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12992583866886932478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Seaspice Brasserie & Lounge",
+    "address": "412 NW N River Dr, Miami, FL 33128, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Chic spot with an outdoor patio, globally influenced seafood an adjacent hot-stone & crudo lounge.",
+    "website": "http://www.seaspice.com/",
+    "phone": "(305) 440-4200",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg3VLL5S22YgRtjs7MkIFD20/photos/AWn5SU43pfinj8r3Q3tKyM5j9V_BDGBhdi6uNDaHklyD-zqJzDY3ACz4cG9eMEQurTZ5dCmo2m7u_dEhXzaRyk6J0LHo9QakerRtB7xEWvFgtEmCS7M2XE_Zwfnb6s9VKGRBf7hlmvg3yZHb_5mNEv7jXQXwVNuvVkIbKo_wyDeBpJRkJs2wmgsgSVEG54v-08JUgbFCnSGmSRXe4y_Ujdui3kVmY_MMWv0CAPozd-9Lz7_B2WgvGH6IcljR0VIr87SE4jImvxdRU8LACjUtGU5Cdut7nrpzlFXlv1egerUsp9sUTQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.3,
+    "review_count": 3483,
+    "coordinates": {
+      "lat": 25.7776298,
+      "lng": -80.2042871
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "mediterranean_restaurant",
+      "seafood_restaurant",
+      "steak_house",
+      "night_club",
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg3VLL5S22YgRtjs7MkIFD20",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7858505656653527990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Maison MURA | Wine + Spirits",
+    "address": "333 SE 3rd Ave, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://maisonmura.wine/",
+    "phone": "(786) 254-7613",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmY0-PmS32YgRVyEK6N8TDak/photos/AWn5SU7wcbbf_E18jxKzjEXUp7ywXX0efsGPpy6m4TOe8ATcFiR0s35FmxLJc1ctpfWBP2on92QpJyvXnHNaFPS09ySsuDkcDRV05nB6yh6CU9shsT4KJeahq3V150YPbVFEBaKIjYFbcavug-2vdd4Hdcg37n_dfPps_dh1uKLRH7YUia5N8YF-o2BIIJPOVBox2jTsh4Xuv_SSk8gv9yCSXY5rUm32E2H2RxiUM2JKKo2N4cEfOfuFi5pvl0_Jan0xRzIQmo-Pt73VnwjMz1XvvMgk2DYj2zIS0pc5o7HuMYIRv4Pi7IvK505KQsFMc98uT7w4U8_3gr7rnf3n8Cvped_peeEuZfvhng3R_bK1wYJqEFgcd81NGl6TEu35VTBLfVrry1jSNF1ODVIj0s36b31O3M9b52c-LVAQFetUhEcM69Cy/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 288,
+    "coordinates": {
+      "lat": 25.771247600000002,
+      "lng": -80.18878099999999
+    },
+    "features": [
+      "liquor_store",
+      "wine_bar",
+      "event_venue",
+      "bar",
+      "point_of_interest",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJmY0-PmS32YgRVyEK6N8TDak",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12181414419498672471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Schnebly Redland's Winery & Brewery",
+    "address": "30205 SW 217th Ave, Homestead, FL 33030, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Restaurant & tavern showcasing beers & wines with tropical fruit flavors, plus a tasting room.",
+    "website": "http://www.schneblywinery.com/",
+    "phone": "(305) 242-1224",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVdgh6Jzm2YgRC43vI1dgmDk/photos/AWn5SU5wjg4pzctImgaz96Q26gbQjgjBj-M0K2zjQZdFoV1BT1tvwJUmqxYGPMrhmVH8BT70Qp6m0kXzQWMZo8a0NORJp9LpBDsY_3otaforIvo5gy17_28L1dAdfoybLc9XYhEW-J1m8gbw9rRxeuo8EV70DqzBbJN-cP_AwHvS-KHjSnyLf8hWn_4t8REVSKTCYJ-Lf_HH4Xj3d3yG-qykIeuFkGWAT2XZNorSoRE_53rcXhiuN-xDK0XeTv0NjgXkLxKhYKD6yJkF9WFgMgfvCwmdGeGLx9zVWyY8yQzaPFk/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 7284,
+    "coordinates": {
+      "lat": 25.485571999999998,
+      "lng": -80.54070999999999
+    },
+    "features": [
+      "liquor_store",
+      "tourist_attraction",
+      "wedding_venue",
+      "wine_bar",
+      "event_venue",
+      "farm",
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJVdgh6Jzm2YgRC43vI1dgmDk",
+    "opening_hours": [
+      "Monday: 12:00 – 5:00 PM",
+      "Tuesday: 12:00 – 5:00 PM",
+      "Wednesday: 12:00 – 5:00 PM",
+      "Thursday: 12:00 – 5:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4150172984003235083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vinonueva Fine & Rare Wines",
+    "address": "5145 NE 2nd Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://www.vinonueva.com/",
+    "phone": "(786) 655-0324",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF_66f6-z2YgRDHpCGBBd4Xg/photos/AWn5SU7Lwl5YiipMYLoGARtwxj8vzb-36_6_nOl1bh9ONpsMO8vh0tv2XdifmElotkjdGECk9kBHQjqpy9DHfro6WcvPo8TpGhgi8CJRHUq1cc-ShZoeObBevPGXUzX9Rp4s0wjdW1i7FaHi6Q5sKEBW3axrlfNYr5M9BaEgnvvLJRmYewGGkfK0DVDA_1ZK8JT08J8TTDl8zIlWO41ktR2Q1NvtSqbvxbZncnd-u-8epXHFV7FlQaxacqb3A4qM92uJdJbXdBCWBAEyFRF6CDhttboOOhkPfaeEEjHrm6n-KMPfcg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 112,
+    "coordinates": {
+      "lat": 25.8235144,
+      "lng": -80.19126059999999
+    },
+    "features": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJF_66f6-z2YgRDHpCGBBd4Xg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 7:00 PM",
+      "Wednesday: 12:00 – 7:00 PM",
+      "Thursday: 12:00 – 7:00 PM",
+      "Friday: 12:00 – 7:00 PM",
+      "Saturday: 12:00 – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8710345478019119628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Negroni Brickell",
+    "address": "955 S Miami Ave, Miami, FL 33130, USA",
+    "city_id": "miami",
+    "category": "bar",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://negronius.com/brickell",
+    "phone": "(786) 213-4814",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq6ofhoO22YgRzT49Q7eCMTA/photos/AWn5SU77--Zk3bcbx436dDPB_IJsn2MhBmpqogHT9ylF1hmkgCEBJee8h1-eBZL_EVp2pMViVoZauv8c5fKi_fG2eK_Q-Nt3fKQ3VTjr6e86yuVET5qrKIAJpDqBwpBHd8bvSUjY9tFJCw4x3WsRUOXJeXDaXAVDTrhxlhxR9SP1jzBA8ztd_tN4M7MjU67_kTSHCZrGpWLXMsO-KA8u4N8lutjDtABrG-9SdsmmSf6Al0YrzmH1f8jS3vPwBVGxoOqjq27YsC66saoZhNxbbJRVsejZyJaGFOBnFSbgUwDfJ78njw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 212,
+    "coordinates": {
+      "lat": 25.764694199999997,
+      "lng": -80.1931258
+    },
+    "features": [
+      "restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJq6ofhoO22YgRzT49Q7eCMTA",
+    "opening_hours": [
+      "Monday: 11:30 AM – 1:00 AM",
+      "Tuesday: 11:30 AM – 1:00 AM",
+      "Wednesday: 11:30 AM – 1:00 AM",
+      "Thursday: 11:30 AM – 2:00 AM",
+      "Friday: 11:30 AM – 2:00 AM",
+      "Saturday: 11:30 AM – 2:00 AM",
+      "Sunday: 11:30 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3472700511298076365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MR. OMAKASE",
+    "address": "163 SE 1st St, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://www.mromakase.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5YlV6Vu32YgRPGaR6bFlMW8/photos/AWn5SU41QEkieEEr3FJYB-KZ-21ckDARV9hE2rStDSn9fBNlnEEZ5HJuouEigsulCTOyPabQHK4HPAfIQ74vAj0_K1SOSwyA6nx5ewcagoZIbCDGSx9qgcD3APwWpfVB-frFGlEf0eV6zB8yBP4_TTF_fq5maMqDjFzvcecJEHkk_p9VUbDPLdxlS1hKrvNvcxGVBMPxTMhiIcGfxfnY_tzQy0ahVUGTDs-mkAT2orhPGD38uJcauaal2T4SymAt5nLku8vlxDKDhYVp9ku_dYUpfCZ9O_MGZaoyECTs1zMgVtvE8g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 188,
+    "coordinates": {
+      "lat": 25.773584,
+      "lng": -80.190465
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5YlV6Vu32YgRPGaR6bFlMW8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 11:30 PM",
+      "Wednesday: 4:00 – 11:30 PM",
+      "Thursday: 4:00 – 11:30 PM",
+      "Friday: 4:00 – 11:30 PM",
+      "Saturday: 4:00 – 11:30 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8012297026871060028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OMAKAI hand roll bar",
+    "address": "186 SE 12th Terrace # Cu-2, Miami, FL 33131, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://omakaihandrollbar.com/",
+    "phone": "(786) 634-4344",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLXzhhoe32YgRxOvemuPcm4w/photos/AWn5SU4jesYE_tCO4NiAEVkfRgrr0sJKlYDw8ZEMas9p_H3PRbpiCorHghyJYfolONiwB987OlY7MHyqeA3GeYm4FFFbKAE3AHEbxhKN0Wa90ZmmX76vGCgtcHOtGOR5ffeRfmXBkO37rZab9-MbZYTBorOHro4rP23A4H70F57bbAfIDoIi-PkU6j-VhjZLtNqA9FcziFARtxrdk5HTBvOzd8brihYzuKtBsf3cSex0_fKLxUvh3addk5ZyyCaWd_WII95aRl73ny4HJAhVCuIhxhAfYu1AQQ2kGDQOCI9-RNYW-w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 824,
+    "coordinates": {
+      "lat": 25.7613332,
+      "lng": -80.1906131
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLXzhhoe32YgRxOvemuPcm4w",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10131934656814050244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sushi Yasu Tanaka",
+    "address": "140 NE 39th St #241, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://sushiyasutanaka.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJif9_nYKx2YgR2reqVHi0IFs/photos/AWn5SU5_TCaX6wEbwyEa-b6nBB8cG5LhgMMCyjPvN0UsQerI0JQKBkdOxrmix82oUeP4q16kKEv-7Ob7IEI6TVCIhOulGxJPNTQSChcpzzF-gGxnMDquE7hivbtBpwMyqSUgo0QDuv2pjv90RqOrwgCZzrzDJnVGS2VJwcUEsBZBgK5nCA-k8hMpy_jUDkmomegp65KQZriJikR5NicE929doNoD7SYTVKLA8hplxnq-RGglA0mPzTgAh4dgDOZXmErEZA5_VpKWnmX8H6xePzirr-wISMEUzYTyEh_rt4nemGWgEQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 249,
+    "coordinates": {
+      "lat": 25.8123337,
+      "lng": -80.1917201
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJif9_nYKx2YgR2reqVHi0IFs",
+    "opening_hours": [
+      "Monday: 12:00 – 8:00 PM",
+      "Tuesday: 12:00 – 8:00 PM",
+      "Wednesday: 12:00 – 8:00 PM",
+      "Thursday: 12:00 – 8:00 PM",
+      "Friday: 12:00 – 9:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6566446685615732698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hiyakawa Miami",
+    "address": "2700 N Miami Ave #5, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "http://www.hiyakawamiami.com/",
+    "phone": "(305) 333-2417",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3W2BBCa32YgRYpVIwDJVBUg/photos/AWn5SU4kpVv0DNk5iYQ5aRXUEi6rVG9AgcQ5SJGQ2vzGbE-1fbpqIOPAmpG6KXxOFI_vcGe6LblB5V5V_qF8fmLWTrI6GVXgwW6MgWxyaK2_4LNrq5MFHTrgcdsAVqx-HGXgxytmU9GrrUkBfvvqeJo6WzW9ArvrgtcsLUXlrsHrD75MEnW6AVES-0ItXQDXMdyG5IFQOE1u5DRhJMXmhB3GmFFBCgVISt_LbRlJCUrfar4SNPqEVxRfK8YPk0Ynp5uLCOeqACK2-yq-LH5SkFQi40iXYlqxeQ9GLg_UUj3KiKwX3Ht9dJn6mTXfcr8Io76JVgRCPeXebrJWsyz8ICqB-Qe0uWm0nWZxT5Pyunj0r0wJLorfpLqosrOjEfbUsXnKivM4vNrVCsJ3q_o_AY0Sw40jwxn_DuaKB_4eCdWKoUSj5ZY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 273,
+    "coordinates": {
+      "lat": 25.8027376,
+      "lng": -80.195396
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3W2BBCa32YgRYpVIwDJVBUg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 – 9:30 PM",
+      "Thursday: 6:00 – 9:30 PM",
+      "Friday: 6:00 – 9:30 PM",
+      "Saturday: 6:00 – 9:30 PM",
+      "Sunday: 6:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5189647822077072738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OMAKAI hand roll bar",
+    "address": "80 NE 2nd Ave, Miami, FL 33132, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://omakaihandrollbar.com/",
+    "phone": "(786) 644-5333",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJP2YI03i32YgRyaGxpk3iyo4/photos/AWn5SU78BYbSsP5GanHGpeN8Vr806zD2rRUfsA3kv_D74nnpuRO_A-au9t69ounzLMhiy3xzdh_HcfqujS8xyLPCUN_vBY7vSqw6s9MaOHMooJcHGtg5GrKtd8ODquu_vSdulNylGfojKdmpWDvRNDVSCLnWyxj2VXf4pcolptVjSMJ8wmk58-kM_f1qPgOIR8pSRA935rETlLAO4aIgStyMZn9cLYZRuMwik6XuEfLRI46tvvfSgvmgyDzTd4rRkz3dcEP-FE5tlJki-qRXPmcgcVnkqowDYjnwJQz9hUsJl8dT4w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 865,
+    "coordinates": {
+      "lat": 25.7750353,
+      "lng": -80.19041779999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJP2YI03i32YgRyaGxpk3iyo4",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10289285121818337737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OMAKAI sushi",
+    "address": "2107 NW 2nd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Contemporary destination offering tasting & a la carte menus in a minimalist venue that has a bar.",
+    "website": "https://omakai.com/",
+    "phone": "(786) 579-9995",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVe-HmOW32YgRpcNDW2ZCkyo/photos/AWn5SU6HGjMTXgsNw9bnTENap-1EJ7jdpytXApccIBG3pBHpU9X22WMV1NjpiDarFHs4sf8jZnwOr8od_lnitC66xX9cnjDyzOw8w4CAJ9JAJPEWkbK1l59FitMCwY5rJnRAix2WtWUDikemvst9XLGJOD3bk-_5DkJ6WNIc58lqrQ8xVh_IWKtj6dXiJg_aYF-bqgH2FO-Q81V03R1ZgYVUwUEnb8BAaGa44hRNLykIqTWVzYub2Qqv7Cwbu1yD5QTQd-GEV_KQ9zaKvPnaB6A3mpQ9vId05Ze1zyvIZuGHsMKd3Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 3026,
+    "coordinates": {
+      "lat": 25.797040199999998,
+      "lng": -80.19878349999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVe-HmOW32YgRpcNDW2ZCkyo",
+    "opening_hours": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3067868778554704805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hiden",
+    "address": "313 NW 25th St, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$$",
+    "description": "Small, upscale 8-seat counter behind a taco stand serving an elevated omakase menu plus sake & wine.",
+    "website": "http://hidenmiami.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEaa-UrK22YgR6rXu_t7u2hg/photos/AWn5SU4dId_epDOHw9hgzmTCFcrboABhoFeyE8e6qzvdr0b_G_0ToGCjkWIAAi82Bugdfjtk5i6z3v5OGy2FzJI8F8UzSUoSyAEyK1w9ctZZWPVHkIhjmZ4CauLOtFn7aKDjwh5qvipBgx92XJRB_J4hN_Y7KRuVYfs-_ayZ6l84lYGbr0ainfDwS-ldvEQx4RsHffJGwW7cN7sDN5wkrEbO6sM8YWq17mo2TQXYVIQ6JEc8s6-nZYLWTCYdtqRykjIF0DSgAHQp-T--C5hmSStdeAGY-B1sql3rFc1SR_0JwZkVQqK2iUwP0y9KanDaHb6hsFHKiuGwFtQJpbJExUDp2CbzNWsomD9jHLiZg__rv00GfIRW8hvmu7pFjKfYRaEYaZSz1sYgdgAUVv3dJ9llkRyi6h7CEckjFtRX6ur-iGBJjyCP/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 136,
+    "coordinates": {
+      "lat": 25.800880000000003,
+      "lng": -80.201386
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEaa-UrK22YgR6rXu_t7u2hg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 9:00 PM",
+      "Wednesday: 6:00 – 9:00 PM",
+      "Thursday: 6:00 – 9:00 PM",
+      "Friday: 6:00 – 9:00 PM",
+      "Saturday: 6:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1791006443360400874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Ogawa Miami",
+    "address": "7223 NW 2nd Ave, Miami, FL 33150, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://www.ogawamiami.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0-tCRMux2YgRJIUcLt_1B7s/photos/AWn5SU6oiW4beTEqqYH8qPYuGt_aHKNdIacmdgzjOg26Wu9lx-1-ypgEliZKgj5zOiZc7v7nRKclgI-qdn-iPvkP4JdcpUQII4M0q0xuhILhAe4DN1r0wzfBd24swG0HZpTalLER3Ea4Ubr-BvAeV8ZpaNaBWM0aWmoP-fOSA1lVfUzzHgxiYSXvEA92qU2Lo_GtqLH7ms5L9ZhrMWcIpehqQnhMnaRCqdVGY6sa8Crka6ygnERR3Mxt-uOmnO-PreXKSyRC2MRfLif3IcMy9F0beUVTzgC1zbJWVZc0DqEFDMioJfjYO6HjLMU-F1zoIDNcsqyMuuqMeABFnLLhhT4Z-L2jy2mIJLEXuR95THrGFVGr6p-054Zx4toRWHRGah39cLlIAimEFR65a_9VFXt96Qh_PtRQfUhIazaiyFmoycao888/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 248,
+    "coordinates": {
+      "lat": 25.8415286,
+      "lng": -80.2006421
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0-tCRMux2YgRJIUcLt_1B7s",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 9:00 PM",
+      "Wednesday: 6:00 – 9:00 PM",
+      "Thursday: 6:00 – 9:00 PM",
+      "Friday: 6:00 – 9:00 PM",
+      "Saturday: 6:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13477010748829631780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "SHINGO",
+    "address": "112 Alhambra Cir, Coral Gables, FL 33134, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "http://www.shingomiami.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu5d4Dui32YgRs6qW_4aQOWM/photos/AWn5SU5HJ9ac57UwZyeZ33TfuMGYH2CLxOm0dcbvdK4HTnvBeViqD8emajxo8EthCjOjQt5mtjOJ4vkhGBDLaYE0IdBFQEuniJ5XrcDdGjww9AXZr50BVvwd7ZZ0o3VKmt10wxRXDZGxtYNVX-2QLiFwqCDWxseV57uWlWKSajj8D5Z8uRvcCFBYaP28kGAR7ePPdOuP2B7AToUgFQ_SkZCb-3ayso5I8eG8MDdM15dnwGmFd-rcsJxGUtLpFiAH1KpUDpkQAnPwWakNC3VbqamdPcuVuRICV8cgLwwwuwB5t8HJFFIrUOib5wwuywzDT6T7LX0JyA7yADnv8m6VlFjVLIJqUAh3-tIEug0L3Kb8Mf6slGl5rM3ayi6Me7FI9tPD0XedgyuvApEzmk7lYUaGOgnKnRdVi9gWOInu2iAFdGg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 119,
+    "coordinates": {
+      "lat": 25.7530311,
+      "lng": -80.2566214
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJu5d4Dui32YgRs6qW_4aQOWM",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7149904792915454643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OMAKAI sushi",
+    "address": "3304 Mary St, Miami, FL 33133, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://omakai.com/",
+    "phone": "(786) 644-6494",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqzqaNWy32YgRqOkC7Mzqqm8/photos/AWn5SU4-o0tf6sBHnofCkVLdkOdTwJDgx1vEe28n1IEeQ6sHorZDuxAET0Xu9j0ICEKvnAQPJfJe6b5XlBmm8hG2OmTZHQDr9wsCZkaDyME1hMMl-1iEI7meRmgAwPiW3r9DNRcZiHc8Keon-Y1oylTY28bO7Md_bOBuzMQFxjifB3io8hl9Sp_AH4IcZyZdcJARsRQSG3Bbrjwa7yufitboCrFZEqtJgL4P1VIYbKhvKitJopKZlxyG79GSBKInFTFRNHHqbtOgXTD1JOhOXrvXw6lqCmvYx7uGGz708qjcpYuW-A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 1747,
+    "coordinates": {
+      "lat": 25.7298494,
+      "lng": -80.2396436
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqzqaNWy32YgRqOkC7Mzqqm8",
+    "opening_hours": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8046501850104654248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "MILA Omakase",
+    "address": "800 Lincoln Rd second floor, Miami Beach, FL 33139, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$$",
+    "website": "https://mila-miami.com/milaomakase",
+    "phone": "(786) 706-0744",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ14MHi9W12YgRoVGPExLcKzs/photos/AWn5SU4MA3rnaJqS_ubVtQjml5kawcg_KEuR6VOxAoGz3vxuCBqFSzcpl14TPQEOORBBPOUd-kLKOokxEuLzSkA8mFkOs0rRwogTrhkHUIzBQKof9O55EgRna55fOX3-oPzlUpivoA4hw52ahuMwJ6M2FDb4OQDfZLfOkDvk7o8kusI-pP2icKnlk9a3zNh8f4qN2RZ4IItzDi-9HeJEwRtXDAZ5H-82NNNKjgHD_4c22d44GWPrYjZJnuhJIhZ6ftWpa2v9YLFcOt5O9-Q1Y3ltIzi1YSS6KgdPM2Wd8043gI868w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 100,
+    "coordinates": {
+      "lat": 25.7902116,
+      "lng": -80.1368046
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ14MHi9W12YgRoVGPExLcKzs",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 7:00 – 11:30 PM",
+      "Wednesday: 7:00 – 11:30 PM",
+      "Thursday: 7:00 – 11:30 PM",
+      "Friday: 7:00 – 11:30 PM",
+      "Saturday: 7:00 – 11:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4263743442431988129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "IKI OMAKASE EXPERIENCE",
+    "address": "10728 NW 74th St, Doral, FL 33178, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://ikiusa.com/",
+    "phone": "(786) 766-9993",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZZo-WLm92YgRAFSlEjaUNb4/photos/AWn5SU5O354LKvB2fFw4ppSHJndhBHKJukCcZzhR7CBQPF_3K9FzXAsdrzEMAi359QkuJw5xC4PbBhusE4mgiZ2sIE2XD6rPC0dCDAg0wE50mCXss6RxRqzPAQdZi19MuYs2XcA08-MZlmfQZoG8rFBXQGQRiagEQGFh-EGstdJlnbEyHnYJO-C-GHZ5TFrjYS-uKILSj4HL5EcLIoA5GdweXet1uTdEqw50EMGUaGCc-9UDKJi2HK0fQnKyekj8inZkZC0E67_06b3_r1QvdA-AjUhQ5kZ_TyYgKm8Qo2UYVfC8q02NhrPww-7D4ad5b18_ODkYAvl67_xSn8V282vKKSpEjf4vKz7Nd-Vo3Z2h6EIxgD-pVpKiWFB6p5ByFik4xyXEQLBtvIArihzAm8B_dNWDD47yl75FJpBUkrrODsQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 107,
+    "coordinates": {
+      "lat": 25.8393031,
+      "lng": -80.37121359999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZZo-WLm92YgRAFSlEjaUNb4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13706024000933942272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Double Knot Miami",
+    "address": "2550 NW 2nd Ave, Miami, FL 33127, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://www.doubleknotmiami.com/",
+    "phone": "(305) 564-6899",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9dBUJdS32YgRC84m54XgA10/photos/AWn5SU5s50oV1aVKumwoWKC7Gi-jDKFy9SqJ7zO0IB_-qK6uTJdsWOFJbfud25yd994xZCI7DGGYXv3mpTRLQP_c7wvCR4_AY05-VbxIip0z-ScBgO5wfQmIB1ZICdsKsjMkQJLuKyCUoyyx5eDO9ikDG3phBf7mW49UtPabktLaMACva18caA37dGLenRmFWyA0YoYdqUNBlIGudOa8w43TJl2POf4F7SyTqdhydarb4-YRztZidG58pX068HquxIujkTl-jLOUPtRJrbE0wnhw1P5Flq49LCQpKUouWcFlpJaDRpWShidIZjg2PQaPiefVlSGaBRZm2mLcDyZqCw4CckxS4BdnZrayEee3mQ_Bp16jWDGRwVR8j74xkVHvtJQR_chJ_y1NWG5vaaIFemGHmEUEnHXMO8HrQPb_qksIOeo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 459,
+    "coordinates": {
+      "lat": 25.8012649,
+      "lng": -80.19931869999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9dBUJdS32YgRC84m54XgA10",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6702447536170782219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aoko",
+    "address": "2304 NE 2nd Ave, Miami, FL 33137, USA",
+    "city_id": "miami",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "http://aokomiami.com/",
+    "phone": "(305) 290-1293",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhys04xK32YgR4Kppya-fBAU/photos/AWn5SU7T56ot1EcSlGlP2DNy-251jpf-A9009T07ELtvWr7UvAWq0nUzvp8h9gzAmKT45i7s_Me9sh8v6QisLeRFRI2V_cImJ2LxcYQS06dV17ATRlir4nvDTAqos36M4bnhv9Jqy7QNbWQX9bbaOtwEF5ckoehuWEPn1j95kc9g6IcZi3KMQAQGh26Y2vhDH8uqjc4O5v2KNd0V3YUQSvLIZT37CTNuq5lvAwE_4GQ87Oy-ROKh1OIp-eL9BLliWOdqfTInSYIbZRclnvcCBk6oIEf3PhteRd3FYdKIhjTAlNfD0Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 137,
+    "coordinates": {
+      "lat": 25.7992355,
+      "lng": -80.1910527
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJhys04xK32YgR4Kppya-fBAU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:00 PM, 6:00 – 9:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 6:00 – 9:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 6:00 – 9:00 PM",
+      "Friday: 12:00 – 3:00 PM, 6:00 – 9:30 PM",
+      "Saturday: 12:00 – 3:00 PM, 6:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=361589447443720928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]
