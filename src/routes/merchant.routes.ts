@@ -17,7 +17,7 @@ router.get('/profile', async (req: Request, res: Response, next: NextFunction) =
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const result = await pool.query(
@@ -26,12 +26,12 @@ router.get('/profile', async (req: Request, res: Response, next: NextFunction) =
     );
 
     if (result.rows.length === 0) {
-      return res.json({ success: true, data: null });
+      res.json({ success: true, data: null });
     }
 
-    return res.json({ success: true, data: result.rows[0] });
+    res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -40,7 +40,7 @@ router.post('/profile', async (req: Request, res: Response, next: NextFunction) 
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { business_name, business_email, phone, website, description } = req.body;
@@ -53,9 +53,9 @@ router.post('/profile', async (req: Request, res: Response, next: NextFunction) 
     );
 
     logger.info(`Merchant profile created for user ${userId}`);
-    return res.status(201).json({ success: true, data: result.rows[0] });
+    res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -64,7 +64,7 @@ router.put('/profile', async (req: Request, res: Response, next: NextFunction) =
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { business_name, business_email, phone, website, description } = req.body;
@@ -83,12 +83,12 @@ router.put('/profile', async (req: Request, res: Response, next: NextFunction) =
     );
 
     if (result.rows.length === 0) {
-      return res.status(404).json({ error: 'Profile not found' });
+      res.status(404).json({ error: 'Profile not found' });
     }
 
-    return res.json({ success: true, data: result.rows[0] });
+    res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -99,7 +99,7 @@ router.get('/stats', async (req: Request, res: Response, next: NextFunction) => 
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     // Get merchant's venues
@@ -110,7 +110,7 @@ router.get('/stats', async (req: Request, res: Response, next: NextFunction) => 
     const venueIds = venuesResult.rows.map(r => r.venue_id);
 
     if (venueIds.length === 0) {
-      return res.json({
+      res.json({
         success: true,
         data: {
           totalViews: 0,
@@ -153,7 +153,7 @@ router.get('/stats', async (req: Request, res: Response, next: NextFunction) => 
       [venueIds]
     );
 
-    return res.json({
+    res.json({
       success: true,
       data: {
         totalViews: parseInt(viewsResult.rows[0]?.count || '0'),
@@ -165,7 +165,7 @@ router.get('/stats', async (req: Request, res: Response, next: NextFunction) => 
       }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -176,7 +176,7 @@ router.get('/venues', async (req: Request, res: Response, next: NextFunction) =>
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const result = await pool.query(
@@ -188,9 +188,9 @@ router.get('/venues', async (req: Request, res: Response, next: NextFunction) =>
       [userId]
     );
 
-    return res.json({ success: true, data: result.rows });
+    res.json({ success: true, data: result.rows });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -199,7 +199,7 @@ router.post('/venues/:venueId/claim', async (req: Request, res: Response, next: 
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { venueId } = req.params;
@@ -211,7 +211,7 @@ router.post('/venues/:venueId/claim', async (req: Request, res: Response, next: 
     );
 
     if (profileResult.rows.length === 0) {
-      return res.status(400).json({ error: 'Create a merchant profile first' });
+      res.status(400).json({ error: 'Create a merchant profile first' });
     }
 
     const merchantId = profileResult.rows[0].id;
@@ -223,7 +223,7 @@ router.post('/venues/:venueId/claim', async (req: Request, res: Response, next: 
     );
 
     if (existingClaim.rows.length > 0) {
-      return res.status(400).json({ error: 'Venue already claimed by another merchant' });
+      res.status(400).json({ error: 'Venue already claimed by another merchant' });
     }
 
     const result = await pool.query(
@@ -235,9 +235,9 @@ router.post('/venues/:venueId/claim', async (req: Request, res: Response, next: 
     );
 
     logger.info(`Venue ${venueId} claim requested by merchant ${merchantId}`);
-    return res.status(201).json({ success: true, data: result.rows[0] });
+    res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -248,7 +248,7 @@ router.get('/happy-hours', async (req: Request, res: Response, next: NextFunctio
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { status } = req.query;
@@ -269,9 +269,9 @@ router.get('/happy-hours', async (req: Request, res: Response, next: NextFunctio
     query += ' ORDER BY hh.created_at DESC';
 
     const result = await pool.query(query, params);
-    return res.json({ success: true, data: result.rows });
+    res.json({ success: true, data: result.rows });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -280,7 +280,7 @@ router.post('/happy-hours', async (req: Request, res: Response, next: NextFuncti
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { venue_id, title, description, day_of_week, start_time, end_time, deals, menu_url, starts_at, ends_at } = req.body;
@@ -294,7 +294,7 @@ router.post('/happy-hours', async (req: Request, res: Response, next: NextFuncti
     );
 
     if (ownership.rows.length === 0) {
-      return res.status(403).json({ error: 'You do not have access to this venue' });
+      res.status(403).json({ error: 'You do not have access to this venue' });
     }
 
     const result = await pool.query(
@@ -305,9 +305,9 @@ router.post('/happy-hours', async (req: Request, res: Response, next: NextFuncti
     );
 
     logger.info(`Happy hour created for venue ${venue_id}`);
-    return res.status(201).json({ success: true, data: result.rows[0] });
+    res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -316,7 +316,7 @@ router.put('/happy-hours/:id', async (req: Request, res: Response, next: NextFun
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { id } = req.params;
@@ -332,7 +332,7 @@ router.put('/happy-hours/:id', async (req: Request, res: Response, next: NextFun
     );
 
     if (ownership.rows.length === 0) {
-      return res.status(403).json({ error: 'Not authorized' });
+      res.status(403).json({ error: 'Not authorized' });
     }
 
     const result = await pool.query(
@@ -350,9 +350,9 @@ router.put('/happy-hours/:id', async (req: Request, res: Response, next: NextFun
       [id, title, description, day_of_week, start_time, end_time, deals, menu_url]
     );
 
-    return res.json({ success: true, data: result.rows[0] });
+    res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -361,7 +361,7 @@ router.delete('/happy-hours/:id', async (req: Request, res: Response, next: Next
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { id } = req.params;
@@ -376,13 +376,13 @@ router.delete('/happy-hours/:id', async (req: Request, res: Response, next: Next
     );
 
     if (ownership.rows.length === 0) {
-      return res.status(403).json({ error: 'Not authorized' });
+      res.status(403).json({ error: 'Not authorized' });
     }
 
     await pool.query('DELETE FROM happy_hours WHERE id = $1', [id]);
-    return res.json({ success: true, message: 'Deleted' });
+    res.json({ success: true, message: 'Deleted' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -393,7 +393,7 @@ router.get('/pop-ups', async (req: Request, res: Response, next: NextFunction) =
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { status } = req.query;
@@ -418,9 +418,9 @@ router.get('/pop-ups', async (req: Request, res: Response, next: NextFunction) =
     query += ' ORDER BY pe.event_date DESC';
 
     const result = await pool.query(query, params);
-    return res.json({ success: true, data: result.rows });
+    res.json({ success: true, data: result.rows });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -429,7 +429,7 @@ router.post('/pop-ups', async (req: Request, res: Response, next: NextFunction) 
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { venue_id, title, description, event_date, start_time, end_time, ticket_url, price } = req.body;
@@ -443,7 +443,7 @@ router.post('/pop-ups', async (req: Request, res: Response, next: NextFunction) 
     );
 
     if (ownership.rows.length === 0) {
-      return res.status(403).json({ error: 'You do not have access to this venue' });
+      res.status(403).json({ error: 'You do not have access to this venue' });
     }
 
     const result = await pool.query(
@@ -454,9 +454,9 @@ router.post('/pop-ups', async (req: Request, res: Response, next: NextFunction) 
     );
 
     logger.info(`Pop-up event created for venue ${venue_id}`);
-    return res.status(201).json({ success: true, data: result.rows[0] });
+    res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -465,7 +465,7 @@ router.put('/pop-ups/:id', async (req: Request, res: Response, next: NextFunctio
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { id } = req.params;
@@ -481,7 +481,7 @@ router.put('/pop-ups/:id', async (req: Request, res: Response, next: NextFunctio
     );
 
     if (ownership.rows.length === 0) {
-      return res.status(403).json({ error: 'Not authorized' });
+      res.status(403).json({ error: 'Not authorized' });
     }
 
     const result = await pool.query(
@@ -499,9 +499,9 @@ router.put('/pop-ups/:id', async (req: Request, res: Response, next: NextFunctio
       [id, title, description, event_date, start_time, end_time, ticket_url, price]
     );
 
-    return res.json({ success: true, data: result.rows[0] });
+    res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -510,7 +510,7 @@ router.delete('/pop-ups/:id', async (req: Request, res: Response, next: NextFunc
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { id } = req.params;
@@ -525,13 +525,13 @@ router.delete('/pop-ups/:id', async (req: Request, res: Response, next: NextFunc
     );
 
     if (ownership.rows.length === 0) {
-      return res.status(403).json({ error: 'Not authorized' });
+      res.status(403).json({ error: 'Not authorized' });
     }
 
     await pool.query('DELETE FROM pop_up_events WHERE id = $1', [id]);
-    return res.json({ success: true, message: 'Deleted' });
+    res.json({ success: true, message: 'Deleted' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -542,7 +542,7 @@ router.get('/analytics', async (req: Request, res: Response, next: NextFunction)
   try {
     const userId = getUserId(req);
     if (!userId) {
-      return res.status(401).json({ error: 'Unauthorized' });
+      res.status(401).json({ error: 'Unauthorized' });
     }
 
     const period = (req.query.period as string) || '30d';
@@ -558,7 +558,7 @@ router.get('/analytics', async (req: Request, res: Response, next: NextFunction)
     const venueIds = venuesResult.rows.map(r => r.venue_id);
 
     if (venueIds.length === 0) {
-      return res.json({
+      res.json({
         success: true,
         data: { views: [], saves: [], clicks: [] }
       });
@@ -590,12 +590,12 @@ router.get('/analytics', async (req: Request, res: Response, next: NextFunction)
     const saves = result.rows.map(r => ({ date: r.date, count: r.saves }));
     const clicks = result.rows.map(r => ({ date: r.date, count: r.clicks }));
 
-    return res.json({
+    res.json({
       success: true,
       data: { views, saves, clicks }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 

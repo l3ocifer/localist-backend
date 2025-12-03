@@ -46,7 +46,7 @@ router.get('/stats', async (_req: Request, res: Response, next: NextFunction) =>
       "SELECT COUNT(*) as count FROM venues WHERE created_at > NOW() - INTERVAL '7 days'"
     );
 
-    return res.json({
+    res.json({
       success: true,
       data: {
         totalUsers: parseInt(usersResult.rows[0]?.count || '0'),
@@ -60,7 +60,7 @@ router.get('/stats', async (_req: Request, res: Response, next: NextFunction) =>
       }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -97,7 +97,7 @@ router.get('/users', async (req: Request, res: Response, next: NextFunction) => 
 
     const result = await pool.query(query, params);
 
-    return res.json({
+    res.json({
       success: true,
       data: result.rows,
       meta: {
@@ -107,7 +107,7 @@ router.get('/users', async (req: Request, res: Response, next: NextFunction) => 
       }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -119,9 +119,9 @@ router.patch('/users/:userId/admin', async (req: Request, res: Response, next: N
     await pool.query('UPDATE users SET is_admin = $1 WHERE id = $2', [is_admin, userId]);
 
     logger.info(`User ${userId} admin status changed to ${is_admin}`);
-    return res.json({ success: true, message: 'User updated' });
+    res.json({ success: true, message: 'User updated' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -132,9 +132,9 @@ router.patch('/users/:userId/role', async (req: Request, res: Response, next: Ne
 
     await pool.query('UPDATE users SET role = $1 WHERE id = $2', [role, userId]);
 
-    return res.json({ success: true, message: 'User role updated' });
+    res.json({ success: true, message: 'User role updated' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -152,9 +152,9 @@ router.post('/venues', async (req: Request, res: Response, next: NextFunction) =
     );
 
     logger.info(`Venue created: ${name}`);
-    return res.status(201).json({ success: true, venue: result.rows[0] });
+    res.status(201).json({ success: true, venue: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -185,12 +185,12 @@ router.put('/venues/:id', async (req: Request, res: Response, next: NextFunction
     );
 
     if (result.rows.length === 0) {
-      return res.status(404).json({ error: 'Venue not found' });
+      res.status(404).json({ error: 'Venue not found' });
     }
 
-    return res.json({ success: true, venue: result.rows[0] });
+    res.json({ success: true, venue: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -201,13 +201,13 @@ router.delete('/venues/:id', async (req: Request, res: Response, next: NextFunct
     const result = await pool.query('DELETE FROM venues WHERE id = $1 RETURNING id', [id]);
 
     if (result.rows.length === 0) {
-      return res.status(404).json({ error: 'Venue not found' });
+      res.status(404).json({ error: 'Venue not found' });
     }
 
     logger.info(`Venue deleted: ${id}`);
-    return res.json({ success: true, message: 'Venue deleted' });
+    res.json({ success: true, message: 'Venue deleted' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -231,12 +231,12 @@ router.put('/lists/:id', async (req: Request, res: Response, next: NextFunction)
     );
 
     if (result.rows.length === 0) {
-      return res.status(404).json({ error: 'List not found' });
+      res.status(404).json({ error: 'List not found' });
     }
 
-    return res.json({ success: true, list: result.rows[0] });
+    res.json({ success: true, list: result.rows[0] });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -247,9 +247,9 @@ router.patch('/lists/:id/featured', async (req: Request, res: Response, next: Ne
 
     await pool.query('UPDATE lists SET is_featured = $1, updated_at = NOW() WHERE id = $2', [is_featured, id]);
 
-    return res.json({ success: true, message: 'List featured status updated' });
+    res.json({ success: true, message: 'List featured status updated' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -260,13 +260,13 @@ router.delete('/lists/:id', async (req: Request, res: Response, next: NextFuncti
     const result = await pool.query('DELETE FROM lists WHERE id = $1 RETURNING id', [id]);
 
     if (result.rows.length === 0) {
-      return res.status(404).json({ error: 'List not found' });
+      res.status(404).json({ error: 'List not found' });
     }
 
     logger.info(`List deleted: ${id}`);
-    return res.json({ success: true, message: 'List deleted' });
+    res.json({ success: true, message: 'List deleted' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -309,7 +309,7 @@ router.get('/merchant-submissions', async (req: Request, res: Response, next: Ne
 
     const result = await pool.query(query, params);
 
-    return res.json({
+    res.json({
       success: true,
       data: result.rows,
       meta: {
@@ -319,7 +319,7 @@ router.get('/merchant-submissions', async (req: Request, res: Response, next: Ne
       }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -331,7 +331,7 @@ router.post('/merchant-submissions/:id/approve', async (req: Request, res: Respo
     // Get submission details
     const submission = await pool.query('SELECT * FROM merchant_submissions WHERE id = $1', [id]);
     if (submission.rows.length === 0) {
-      return res.status(404).json({ error: 'Submission not found' });
+      res.status(404).json({ error: 'Submission not found' });
     }
 
     const sub = submission.rows[0];
@@ -351,9 +351,9 @@ router.post('/merchant-submissions/:id/approve', async (req: Request, res: Respo
     }
 
     logger.info(`Merchant submission ${id} approved by ${adminId}`);
-    return res.json({ success: true, message: 'Submission approved' });
+    res.json({ success: true, message: 'Submission approved' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -366,7 +366,7 @@ router.post('/merchant-submissions/:id/reject', async (req: Request, res: Respon
     // Get submission details
     const submission = await pool.query('SELECT * FROM merchant_submissions WHERE id = $1', [id]);
     if (submission.rows.length === 0) {
-      return res.status(404).json({ error: 'Submission not found' });
+      res.status(404).json({ error: 'Submission not found' });
     }
 
     const sub = submission.rows[0];
@@ -386,9 +386,9 @@ router.post('/merchant-submissions/:id/reject', async (req: Request, res: Respon
     }
 
     logger.info(`Merchant submission ${id} rejected by ${adminId}`);
-    return res.json({ success: true, message: 'Submission rejected' });
+    res.json({ success: true, message: 'Submission rejected' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -425,7 +425,7 @@ router.get('/merchant-profiles', async (req: Request, res: Response, next: NextF
 
     const result = await pool.query(query, params);
 
-    return res.json({
+    res.json({
       success: true,
       data: result.rows,
       meta: {
@@ -435,7 +435,7 @@ router.get('/merchant-profiles', async (req: Request, res: Response, next: NextF
       }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -446,9 +446,9 @@ router.post('/merchant-profiles/:id/approve', async (req: Request, res: Response
     await pool.query("UPDATE merchant_profiles SET status = 'approved', updated_at = NOW() WHERE id = $1", [id]);
 
     logger.info(`Merchant profile ${id} approved`);
-    return res.json({ success: true, message: 'Merchant approved' });
+    res.json({ success: true, message: 'Merchant approved' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -459,9 +459,9 @@ router.post('/merchant-profiles/:id/reject', async (req: Request, res: Response,
     await pool.query("UPDATE merchant_profiles SET status = 'rejected', updated_at = NOW() WHERE id = $1", [id]);
 
     logger.info(`Merchant profile ${id} rejected`);
-    return res.json({ success: true, message: 'Merchant rejected' });
+    res.json({ success: true, message: 'Merchant rejected' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -481,9 +481,9 @@ router.get('/venue-claims', async (req: Request, res: Response, next: NextFuncti
       [status]
     );
 
-    return res.json({ success: true, data: result.rows });
+    res.json({ success: true, data: result.rows });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -494,9 +494,9 @@ router.post('/venue-claims/:id/approve', async (req: Request, res: Response, nex
     await pool.query("UPDATE merchant_venues SET claim_status = 'approved', is_claimed = true WHERE id = $1", [id]);
 
     logger.info(`Venue claim ${id} approved`);
-    return res.json({ success: true, message: 'Claim approved' });
+    res.json({ success: true, message: 'Claim approved' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -507,9 +507,9 @@ router.post('/venue-claims/:id/reject', async (req: Request, res: Response, next
     await pool.query("UPDATE merchant_venues SET claim_status = 'rejected' WHERE id = $1", [id]);
 
     logger.info(`Venue claim ${id} rejected`);
-    return res.json({ success: true, message: 'Claim rejected' });
+    res.json({ success: true, message: 'Claim rejected' });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -518,7 +518,8 @@ router.post('/venue-claims/:id/reject', async (req: Request, res: Response, next
 router.post('/import/csv', upload.single('file'), async (req: Request, res: Response, next: NextFunction) => {
   try {
     if (!req.file) {
-      return res.status(400).json({ error: 'No file uploaded' });
+      res.status(400).json({ error: 'No file uploaded' });
+      return;
     }
 
     const userId = (req as any).user?.id;
@@ -528,13 +529,13 @@ router.post('/import/csv', upload.single('file'), async (req: Request, res: Resp
       logger.error('Async CSV processing failed', err);
     });
 
-    return res.status(202).json({
+    res.status(202).json({
       success: true,
       message: 'CSV import started',
       batchId
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -543,11 +544,11 @@ router.get('/import/status/:batchId', async (req: Request, res: Response, next: 
     const { batchId } = req.params;
     const status = await csvImportService.getBatchStatus(batchId);
     if (!status) {
-      return res.status(404).json({ error: 'Batch not found' });
+      res.status(404).json({ error: 'Batch not found' });
     }
-    return res.json({ success: true, data: status });
+    res.json({ success: true, data: status });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -561,7 +562,7 @@ router.get('/review-queue', async (req: Request, res: Response, next: NextFuncti
 
     const result = await reviewQueueService.getPendingItems(limit, offset);
 
-    return res.json({
+    res.json({
       success: true,
       data: result.items,
       meta: {
@@ -571,7 +572,7 @@ router.get('/review-queue', async (req: Request, res: Response, next: NextFuncti
       }
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -587,7 +588,7 @@ router.post('/review-queue/:id/approve', async (req: Request, res: Response, nex
       message: 'Item approved successfully'
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -604,7 +605,7 @@ router.post('/review-queue/:id/reject', async (req: Request, res: Response, next
       message: 'Item rejected successfully'
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
@@ -616,8 +617,8 @@ router.get('/scrape/status', async (req: Request, res: Response, next: NextFunct
     
     if (jobId) {
       const job = await jobService.getJob(jobId as string);
-      if (!job) return res.status(404).json({ error: 'Job not found' });
-      return res.json({ success: true, data: job });
+      if (!job) res.status(404).json({ error: 'Job not found' });
+      res.json({ success: true, data: job });
     }
 
     const jobs = await jobService.getJobs({
@@ -625,12 +626,12 @@ router.get('/scrape/status', async (req: Request, res: Response, next: NextFunct
       limit: limit ? parseInt(limit as string) : 20
     });
 
-    return res.json({
+    res.json({
       success: true,
       data: jobs
     });
   } catch (error) {
-    return next(error);
+    next(error);
   }
 });
 
