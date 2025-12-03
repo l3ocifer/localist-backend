@@ -31,7 +31,7 @@ router.get('/profile', async (req: Request, res: Response, next: NextFunction) =
 
     return res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -55,7 +55,7 @@ router.post('/profile', async (req: Request, res: Response, next: NextFunction) 
     logger.info(`Merchant profile created for user ${userId}`);
     return res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -88,7 +88,7 @@ router.put('/profile', async (req: Request, res: Response, next: NextFunction) =
 
     return res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -165,7 +165,7 @@ router.get('/stats', async (req: Request, res: Response, next: NextFunction) => 
       }
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -190,7 +190,7 @@ router.get('/venues', async (req: Request, res: Response, next: NextFunction) =>
 
     return res.json({ success: true, data: result.rows });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -237,7 +237,7 @@ router.post('/venues/:venueId/claim', async (req: Request, res: Response, next: 
     logger.info(`Venue ${venueId} claim requested by merchant ${merchantId}`);
     return res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -271,7 +271,7 @@ router.get('/happy-hours', async (req: Request, res: Response, next: NextFunctio
     const result = await pool.query(query, params);
     return res.json({ success: true, data: result.rows });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -307,7 +307,7 @@ router.post('/happy-hours', async (req: Request, res: Response, next: NextFuncti
     logger.info(`Happy hour created for venue ${venue_id}`);
     return res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -352,7 +352,7 @@ router.put('/happy-hours/:id', async (req: Request, res: Response, next: NextFun
 
     return res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -382,7 +382,7 @@ router.delete('/happy-hours/:id', async (req: Request, res: Response, next: Next
     await pool.query('DELETE FROM happy_hours WHERE id = $1', [id]);
     return res.json({ success: true, message: 'Deleted' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -420,7 +420,7 @@ router.get('/pop-ups', async (req: Request, res: Response, next: NextFunction) =
     const result = await pool.query(query, params);
     return res.json({ success: true, data: result.rows });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -456,7 +456,7 @@ router.post('/pop-ups', async (req: Request, res: Response, next: NextFunction) 
     logger.info(`Pop-up event created for venue ${venue_id}`);
     return res.status(201).json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -501,7 +501,7 @@ router.put('/pop-ups/:id', async (req: Request, res: Response, next: NextFunctio
 
     return res.json({ success: true, data: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -531,7 +531,7 @@ router.delete('/pop-ups/:id', async (req: Request, res: Response, next: NextFunc
     await pool.query('DELETE FROM pop_up_events WHERE id = $1', [id]);
     return res.json({ success: true, message: 'Deleted' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -595,7 +595,7 @@ router.get('/analytics', async (req: Request, res: Response, next: NextFunction)
       data: { views, saves, clicks }
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 

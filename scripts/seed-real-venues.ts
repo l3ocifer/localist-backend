@@ -3,11 +3,12 @@
  * Seed Real Venue Data
  * 
  * Uses Perplexica (AI-powered search) to discover and populate real venue data
- * for the initial 5 cities: NYC, LA, Chicago, Miami, Las Vegas
+ * for the 15 MVP cities as defined in the PRD.
  * 
  * Usage:
  *   npx ts-node scripts/seed-real-venues.ts
  *   npx ts-node scripts/seed-real-venues.ts --city nyc
+ *   npx ts-node scripts/seed-real-venues.ts --phase 1
  *   npx ts-node scripts/seed-real-venues.ts --dry-run
  * 
  * Prerequisites:
@@ -27,13 +28,26 @@ import { PerplexicaScraperService } from '../src/services/perplexica-scraper.ser
 import { SearXNGService } from '../src/services/searxng.service';
 import logger from '../src/services/logger.service';
 
-// Cities to seed
+// Cities to seed - 15 MVP cities from PRD (ranked by population, Yelp activity, search volume)
 const CITIES = [
-  { id: 'nyc', name: 'New York City', state: 'NY' },
-  { id: 'la', name: 'Los Angeles', state: 'CA' },
-  { id: 'chicago', name: 'Chicago', state: 'IL' },
-  { id: 'miami', name: 'Miami', state: 'FL' },
-  { id: 'vegas', name: 'Las Vegas', state: 'NV' },
+  // Phase 1 (Immediate)
+  { id: 'nyc', name: 'New York City', state: 'NY', phase: 1, population: 8300000 },
+  { id: 'la', name: 'Los Angeles', state: 'CA', phase: 1, population: 4000000 },
+  { id: 'chicago', name: 'Chicago', state: 'IL', phase: 1, population: 2700000 },
+  { id: 'sf', name: 'San Francisco', state: 'CA', phase: 1, population: 815000 },
+  { id: 'miami', name: 'Miami', state: 'FL', phase: 1, population: 470000 },
+  // Phase 2 (Week 2)
+  { id: 'houston', name: 'Houston', state: 'TX', phase: 2, population: 2350000 },
+  { id: 'austin', name: 'Austin', state: 'TX', phase: 2, population: 1030000 },
+  { id: 'vegas', name: 'Las Vegas', state: 'NV', phase: 2, population: 660000 },
+  { id: 'philly', name: 'Philadelphia', state: 'PA', phase: 2, population: 1600000 },
+  { id: 'seattle', name: 'Seattle', state: 'WA', phase: 2, population: 755000 },
+  // Phase 3 (Week 3)
+  { id: 'nola', name: 'New Orleans', state: 'LA', phase: 3, population: 390000 },
+  { id: 'boston', name: 'Boston', state: 'MA', phase: 3, population: 680000 },
+  { id: 'dc', name: 'Washington, DC', state: 'DC', phase: 3, population: 710000 },
+  { id: 'nashville', name: 'Nashville', state: 'TN', phase: 3, population: 700000 },
+  { id: 'portland', name: 'Portland', state: 'OR', phase: 3, population: 650000 },
 ];
 
 // Categories to discover
@@ -103,33 +117,56 @@ class RealVenueSeeder {
   private searxng: SearXNGService;
   private dryRun: boolean;
   private targetCity?: string;
+  private targetPhase?: number;
   private venueCount = 0;
   private failedCount = 0;
 
-  constructor(options: { dryRun?: boolean; city?: string } = {}) {
+  constructor(options: { dryRun?: boolean; city?: string; phase?: number } = {}) {
     this.perplexica = PerplexicaScraperService.getInstance();
     this.searxng = SearXNGService.getInstance();
     this.dryRun = options.dryRun || false;
     this.targetCity = options.city;
+    this.targetPhase = options.phase;
   }
 
   async run(): Promise<void> {
     console.log('🚀 Starting Real Venue Seeding...\n');
     console.log(`Mode: ${this.dryRun ? 'DRY RUN (no database writes)' : 'LIVE'}`);
-    console.log(`Target: ${this.targetCity || 'All 5 cities'}\n`);
+    
+    let targetDescription = 'All 15 cities';
+    if (this.targetCity) {
+      targetDescription = `City: ${this.targetCity}`;
+    } else if (this.targetPhase) {
+      targetDescription = `Phase ${this.targetPhase} cities`;
+    }
+    console.log(`Target: ${targetDescription}\n`);
 
     // Check services
     await this.checkServices();
 
     // Get cities to process
-    const citiesToProcess = this.targetCity
-      ? CITIES.filter(c => c.id === this.targetCity)
-      : CITIES;
+    let citiesToProcess = CITIES;
+    
+    if (this.targetCity) {
+      citiesToProcess = CITIES.filter(c => c.id === this.targetCity);
+    } else if (this.targetPhase) {
+      citiesToProcess = CITIES.filter(c => c.phase === this.targetPhase);
+    }
 
     if (citiesToProcess.length === 0) {
-      console.error(`❌ City "${this.targetCity}" not found`);
+      if (this.targetCity) {
+        console.error(`❌ City "${this.targetCity}" not found`);
+      } else if (this.targetPhase) {
+        console.error(`❌ No cities found for phase ${this.targetPhase}`);
+      }
+      console.log('\nAvailable cities:');
+      CITIES.forEach(c => console.log(`  ${c.id}: ${c.name} (Phase ${c.phase})`));
       process.exit(1);
     }
+
+    console.log(`Processing ${citiesToProcess.length} cities:`);
+    citiesToProcess.forEach(c => console.log(`  - ${c.name}, ${c.state}`));
+    console.log('');
 
     // Process each city
     for (const city of citiesToProcess) {
@@ -188,9 +225,9 @@ class RealVenueSeeder {
     console.log('');
   }
 
-  private async processCity(city: { id: string; name: string; state: string }): Promise<void> {
+  private async processCity(city: { id: string; name: string; state: string; phase: number; population: number }): Promise<void> {
     console.log('\n' + '='.repeat(60));
-    console.log(`🏙️  Processing ${city.name}, ${city.state}`);
+    console.log(`🏙️  Processing ${city.name}, ${city.state} (Phase ${city.phase}, Pop: ${city.population.toLocaleString()})`);
     console.log('='.repeat(60));
 
     // Ensure city exists in database
@@ -211,7 +248,7 @@ class RealVenueSeeder {
     }
   }
 
-  private async ensureCityExists(city: { id: string; name: string; state: string }): Promise<void> {
+  private async ensureCityExists(city: { id: string; name: string; state: string; phase: number; population: number }): Promise<void> {
     const existing = await pool.query('SELECT id FROM cities WHERE id = $1', [city.id]);
     if (existing.rows.length === 0) {
       console.log(`  Creating city record for ${city.name}...`);
@@ -229,16 +266,31 @@ class RealVenueSeeder {
           ]
         );
       }
+    } else {
+      console.log(`  City ${city.name} already exists in database`);
     }
   }
 
   private getCityCoordinates(cityId: string): { lat: number; lng: number } {
     const coords: Record<string, { lat: number; lng: number }> = {
+      // Phase 1
       nyc: { lat: 40.7128, lng: -74.006 },
       la: { lat: 34.0522, lng: -118.2437 },
       chicago: { lat: 41.8781, lng: -87.6298 },
+      sf: { lat: 37.7749, lng: -122.4194 },
       miami: { lat: 25.7617, lng: -80.1918 },
+      // Phase 2
+      houston: { lat: 29.7604, lng: -95.3698 },
+      austin: { lat: 30.2672, lng: -97.7431 },
       vegas: { lat: 36.1699, lng: -115.1398 },
+      philly: { lat: 39.9526, lng: -75.1652 },
+      seattle: { lat: 47.6062, lng: -122.3321 },
+      // Phase 3
+      nola: { lat: 29.9511, lng: -90.0715 },
+      boston: { lat: 42.3601, lng: -71.0589 },
+      dc: { lat: 38.9072, lng: -77.0369 },
+      nashville: { lat: 36.1627, lng: -86.7816 },
+      portland: { lat: 45.5152, lng: -122.6784 },
     };
     return coords[cityId] || { lat: 0, lng: 0 };
   }
@@ -444,7 +496,7 @@ class RealVenueSeeder {
 
 // Parse command line arguments
 const args = process.argv.slice(2);
-const options: { dryRun?: boolean; city?: string } = {};
+const options: { dryRun?: boolean; city?: string; phase?: number } = {};
 
 for (let i = 0; i < args.length; i++) {
   if (args[i] === '--dry-run') {
@@ -452,6 +504,30 @@ for (let i = 0; i < args.length; i++) {
   } else if (args[i] === '--city' && args[i + 1]) {
     options.city = args[i + 1];
     i++;
+  } else if (args[i] === '--phase' && args[i + 1]) {
+    options.phase = parseInt(args[i + 1], 10);
+    i++;
+  } else if (args[i] === '--help' || args[i] === '-h') {
+    console.log(`
+Usage: npx ts-node scripts/seed-real-venues.ts [options]
+
+Options:
+  --dry-run         Run without saving to database
+  --city <id>       Process only specified city
+  --phase <1|2|3>   Process only cities in specified phase
+  --help, -h        Show this help message
+
+Available Cities:
+  Phase 1: nyc, la, chicago, sf, miami
+  Phase 2: houston, austin, vegas, philly, seattle
+  Phase 3: nola, boston, dc, nashville, portland
+
+Examples:
+  npx ts-node scripts/seed-real-venues.ts --phase 1
+  npx ts-node scripts/seed-real-venues.ts --city nyc --dry-run
+  npx ts-node scripts/seed-real-venues.ts
+`);
+    process.exit(0);
   }
 }
 

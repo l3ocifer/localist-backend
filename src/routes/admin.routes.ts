@@ -20,7 +20,7 @@ const getAdminId = (req: Request): string | null => {
 
 // ============ Dashboard Stats ============
 
-router.get('/stats', async (req: Request, res: Response, next: NextFunction) => {
+router.get('/stats', async (_req: Request, res: Response, next: NextFunction) => {
   try {
     const [
       usersResult,
@@ -60,7 +60,7 @@ router.get('/stats', async (req: Request, res: Response, next: NextFunction) => 
       }
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -107,7 +107,7 @@ router.get('/users', async (req: Request, res: Response, next: NextFunction) => 
       }
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -121,7 +121,7 @@ router.patch('/users/:userId/admin', async (req: Request, res: Response, next: N
     logger.info(`User ${userId} admin status changed to ${is_admin}`);
     return res.json({ success: true, message: 'User updated' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -134,7 +134,7 @@ router.patch('/users/:userId/role', async (req: Request, res: Response, next: Ne
 
     return res.json({ success: true, message: 'User role updated' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -154,7 +154,7 @@ router.post('/venues', async (req: Request, res: Response, next: NextFunction) =
     logger.info(`Venue created: ${name}`);
     return res.status(201).json({ success: true, venue: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -190,7 +190,7 @@ router.put('/venues/:id', async (req: Request, res: Response, next: NextFunction
 
     return res.json({ success: true, venue: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -207,7 +207,7 @@ router.delete('/venues/:id', async (req: Request, res: Response, next: NextFunct
     logger.info(`Venue deleted: ${id}`);
     return res.json({ success: true, message: 'Venue deleted' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -236,7 +236,7 @@ router.put('/lists/:id', async (req: Request, res: Response, next: NextFunction)
 
     return res.json({ success: true, list: result.rows[0] });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -249,7 +249,7 @@ router.patch('/lists/:id/featured', async (req: Request, res: Response, next: Ne
 
     return res.json({ success: true, message: 'List featured status updated' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -266,7 +266,7 @@ router.delete('/lists/:id', async (req: Request, res: Response, next: NextFuncti
     logger.info(`List deleted: ${id}`);
     return res.json({ success: true, message: 'List deleted' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -319,7 +319,7 @@ router.get('/merchant-submissions', async (req: Request, res: Response, next: Ne
       }
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -353,7 +353,7 @@ router.post('/merchant-submissions/:id/approve', async (req: Request, res: Respo
     logger.info(`Merchant submission ${id} approved by ${adminId}`);
     return res.json({ success: true, message: 'Submission approved' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -388,7 +388,7 @@ router.post('/merchant-submissions/:id/reject', async (req: Request, res: Respon
     logger.info(`Merchant submission ${id} rejected by ${adminId}`);
     return res.json({ success: true, message: 'Submission rejected' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -435,7 +435,7 @@ router.get('/merchant-profiles', async (req: Request, res: Response, next: NextF
       }
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -448,7 +448,7 @@ router.post('/merchant-profiles/:id/approve', async (req: Request, res: Response
     logger.info(`Merchant profile ${id} approved`);
     return res.json({ success: true, message: 'Merchant approved' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -461,7 +461,7 @@ router.post('/merchant-profiles/:id/reject', async (req: Request, res: Response,
     logger.info(`Merchant profile ${id} rejected`);
     return res.json({ success: true, message: 'Merchant rejected' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -483,7 +483,7 @@ router.get('/venue-claims', async (req: Request, res: Response, next: NextFuncti
 
     return res.json({ success: true, data: result.rows });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -496,7 +496,7 @@ router.post('/venue-claims/:id/approve', async (req: Request, res: Response, nex
     logger.info(`Venue claim ${id} approved`);
     return res.json({ success: true, message: 'Claim approved' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -509,7 +509,7 @@ router.post('/venue-claims/:id/reject', async (req: Request, res: Response, next
     logger.info(`Venue claim ${id} rejected`);
     return res.json({ success: true, message: 'Claim rejected' });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -587,7 +587,7 @@ router.post('/review-queue/:id/approve', async (req: Request, res: Response, nex
       message: 'Item approved successfully'
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
@@ -604,7 +604,7 @@ router.post('/review-queue/:id/reject', async (req: Request, res: Response, next
       message: 'Item rejected successfully'
     });
   } catch (error) {
-    next(error);
+    return next(error);
   }
 });
 
