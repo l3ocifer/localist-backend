@@ -26,7 +26,7 @@ const monitoring = MonitoringService.getInstance();
 
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 100,
+  max: 500, // Increased from 100 - images and API calls add up quickly
   message: 'Too many requests from this IP, please try again later.'
 });
 
