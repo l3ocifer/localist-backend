@@ -24,7 +24,7 @@ dotenv.config({ path: path.join(__dirname, '../../.env') });
 dotenv.config({ path: path.join(__dirname, '../../.env.local'), override: true });
 
 import pool from '../src/config/database';
-import logger from '../src/services/logger.service';
+// import logger from '../src/services/logger.service';
 
 // Google Places API configuration
 const API_KEY = process.env.GOOGLE_MAPS_API_KEY;
@@ -364,7 +364,7 @@ class GooglePlacesSeeder {
       throw new Error(`API error ${response.status}: ${error}`);
     }
 
-    const data = await response.json();
+    const data = await response.json() as { places?: GooglePlace[] };
     return data.places || [];
   }
 
