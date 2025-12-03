@@ -1,0 +1,4129 @@
+[
+  {
+    "name": "Ember Kitchen",
+    "address": "800 W Cesar Chavez St Ste PP110, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.emberatx.com/",
+    "phone": "(512) 291-6846",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0ZHePHK1RIYR2vIKkhQevxQ/photos/AWn5SU64q3co4_87SH3WH7OfuHzuDy8MtcdFiujPobXdX4iiWlEXhLcfLRA_qBKiYeXFNGYOqDAW2fflscrJYTByl5fhZ3YB1Iq_GUqmTNiPuhWqq-X99Ue-lltWMhwc_XuauKa22pwuM7rXGj_w1kpRDCCoj7VRPG4g4UZl5hh_65CsEaPlICqWz5IvCKXHiDVLI0yhdVKH9WlCTr6V0yBjAiDmDnOZRgK9y_VbOK8ps-HbcylOo5L-O5JWGiLw7s0fzv30CTQfb8gFJhD5gNs0fhIBV3gWUdcEi48dVVrvy-tnmw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2162,
+    "coordinates": {
+      "lat": 30.266876,
+      "lng": -97.7528456
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ0ZHePHK1RIYR2vIKkhQevxQ",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 10:30 AM – 2:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 10:30 AM – 2:00 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1494946675008664282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Red Ash",
+    "address": "Colorado Tower, 303 Colorado St #200, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Craft Italian fare, from wood-fired specialties to housemade pasta, plus wine in rustic-modern digs.",
+    "website": "http://redashgrill.com/",
+    "phone": "(512) 379-2906",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWfpBiwi1RIYRvg4iIbIE2go/photos/AWn5SU6EbUFkmfHDQ3oruZa5kxWq_06bjwbBfTQe1izq8vTNXl8b-2tWDyeYWHbIj-1t_oIrg-xl8RLVaJzt9tCN7pjanCBOHY_YiQH_CJK4qGWrwh9xe2ROYj1mp2sq__feKSA21l-bgqEdpw7LZpyUWo0v-QIG-Qn7r36QP8PHfevSr-nH4KYyQ8BKb0_L-f53fumgqLYq50zTQuu4hRikTaTe4b5tzl5nVYcLfH3RKESiMH-eLGhDtbnGmt_FgQzaxY_FA9u1exYdEO-gsfkcuunaCSnmVzLSt_V3n3HVnTEClvVg4EzLBKdYGtpZ6fKWSK9LiuPKt9WXiK8qYIn0qGAj7LT5yPCZZ7Xrb96UCpHqLP2Tb9E0tkrPsU61ubOzIfiAQhLpJMujYFsQnsrZO5iIhrIyOYht6kPfCU6M1DOy8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2283,
+    "coordinates": {
+      "lat": 30.2657022,
+      "lng": -97.74494089999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJWfpBiwi1RIYRvg4iIbIE2go",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=781942648408772286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Craft Omakase",
+    "address": "4400 N Lamar Blvd Suite 102, Austin, TX 78756, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://craftomakase.com/",
+    "phone": "(512) 887-8889",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKWBVYbLLRIYRBUllLQyqLSI/photos/AWn5SU4G39fkZEEtpEcV2hM5prKE4pym2jq2UCvxPhxQ7UomB8_DDUwYwBEP2s7ndNBqARJX9csjfO6brdXZhYe2w1TxlO3ZQOrVmG2iIQ8Vayt3YvoX3H-OEou9reNluQMtpGyT41nANwUBJWUfeeMoy2neJAJWu6GXoA-5xqMNIle0K1sHfE3dTz2lUWkTT8ecro0lva4Z8ewlugXVjFtQAUKMW2njRt20U8x6ptrW96_U_RDFYwIXG6-vPQE7OGtJMBr2PXkMShu3zht2gBWNfGFUI0YMvVKitjzCHBWZKguIng/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 5,
+    "review_count": 403,
+    "coordinates": {
+      "lat": 30.312625899999997,
+      "lng": -97.7385724
+    },
+    "features": [
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJKWBVYbLLRIYRBUllLQyqLSI",
+    "opening_hours": [
+      "Monday: 5:30 – 11:00 PM",
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 4:30 – 11:30 PM",
+      "Friday: 4:30 – 11:30 PM",
+      "Saturday: 4:30 – 11:30 PM",
+      "Sunday: 3:30 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2462811540519471365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Jeffrey's",
+    "address": "1204 W Lynn St, Austin, TX 78703, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$$$",
+    "description": "Posh fine-dining icon featuring upscale New American cuisine in a tony setting plus an active bar.",
+    "website": "http://jeffreysofaustin.com/",
+    "phone": "(512) 477-5584",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJn64e4Wu1RIYRGNdMhqJ5jNk/photos/AWn5SU4yh5VX3Jc_-bH6PsRnu-ESOSMr_iyCYgrSZJrzy-pud04Zzvf5VjWqJZAKltglynThc02uh3WDLICQR_A9p-G7Jx0TAiaKU-RF4iV_17JBQw6XNtkiwkv3TYtdymiUuXCrpPhumGkq_z7-4zsO5Q4hLg67c4Sue1ROflILgBrKvxLjpeBDcOH2ca7wDcsglVw6bz7-KuxnR_psWE03Ulxp9kYV_Pj7PwUTp5M68DCBL2kp3h5CNVqTZMN0m3KvPGp6wEjyDku0TcDSk4-bByIke76LQHwPb4uuipGzKkhvDU2BMztwNvQ7CuqiC2lNjwRcgiAt2lj57lwPY-4Rzr2TpJCVNlVHd6DTyGS7I1OGUN__m3104Pjr305xevLyIYV68EpkCX-q_yauYiU_qmdOrvvSe6ZhF37oiEcrABB9cwFo/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1109,
+    "coordinates": {
+      "lat": 30.2804227,
+      "lng": -97.75909519999999
+    },
+    "features": [
+      "steak_house",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJn64e4Wu1RIYRGNdMhqJ5jNk",
+    "opening_hours": [
+      "Monday: 4:30 – 11:00 PM",
+      "Tuesday: 4:30 – 11:00 PM",
+      "Wednesday: 4:30 – 11:00 PM",
+      "Thursday: 4:30 – 11:00 PM",
+      "Friday: 4:30 – 11:00 PM",
+      "Saturday: 4:30 – 11:00 PM",
+      "Sunday: 4:30 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15676038141914699544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Barley Swine",
+    "address": "6555 Burnet Rd #400, Austin, TX 78757, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Foodie hot spot serving a fixed-price menu with seasonal American small plates & a deep beer list.",
+    "website": "http://www.barleyswine.com/",
+    "phone": "(512) 394-8150",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJid3yLt-0RIYR_JPyeaoX0Uc/photos/AWn5SU7GdI3lSwvjOVOOgLBydZumoDONUGnJf9Kqkmy8uMR4YJk5D_afu90Rv5DfU0s3HBiMDYFoPUcIb-bRYhRjZCbNd20pl7gEnTRJHDXIPFchnSSNV63ltgxzMAeK1Z8g7PniGiXjjx_PBh4detaz86al50yW2c-hJelsqZsvc10tOgJ0PnOy06Ptpp01kPo0ViK1xWBhEmbE5A5syCrdKom26H4DCGtWfx0yznDBy4c80npu6klEGxcqnXEK5gRxz4x6y8OGKOYOh6gkUcHh3OCG4Xivz-uv427SSOwcbyVLGA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1355,
+    "coordinates": {
+      "lat": 30.3413146,
+      "lng": -97.73828669999999
+    },
+    "features": [
+      "american_restaurant",
+      "fine_dining_restaurant",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJid3yLt-0RIYR_JPyeaoX0Uc",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: 4:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5174943467783230460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Perry's Steakhouse & Grille - Downtown Austin",
+    "address": "114 W 7th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Upscale steakhouse & grill serving a menu including chops, seafood, wine & cocktails.",
+    "website": "http://www.perryssteakhouse.com/menu-locations/austin/downtown/",
+    "phone": "(512) 474-6300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJz7o2jgm1RIYRi_5Y7JfjH0A/photos/AWn5SU4OFgqL7E6o_hIuVvuqra0b9VmvhO_uVzoepCW6d_8ChRmaSwtwbVf_kMBe6GsknlYF3Y6stKCWP2s_32FCbH2Oq4nWHJxeQUc61Tc3StyAmCTtkCXIHqfSS9CGzLBLiHlkO5yPC06kS8xa2o3ouQSuNzSCwkG8VngeFAzRRgyIYZgk7sFQfUZ9lGe0vVk4YacI4iHYE6rMQ3YcNV2Gi_17SLpTLHl3-eXvsoy0Hpc1-8rz7LYkhXabJN3i4sVQBLNp_BXYMM4bmBWldoa8Bom8UDre_NW3dBSpckAW022Obg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 4361,
+    "coordinates": {
+      "lat": 30.2694225,
+      "lng": -97.74352689999999
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "wine_bar",
+      "seafood_restaurant",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJz7o2jgm1RIYRi_5Y7JfjH0A",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4620661984350240395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Aba Austin",
+    "address": "1011 S Congress Ave Bldg 2 Suite 180, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Hip spot serving seafood and Mediterranean classics such as kebabs, hummus, and falafel, plus cocktails.",
+    "website": "https://www.abarestaurants.com/austin/",
+    "phone": "(737) 273-0199",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDfhk1ja1RIYR3NIISvjn88k/photos/AWn5SU79FiaaL9ezBMiioYB13FFtqlpITH6a8nu70Fpj6ocmI_jkYVBffZ0F0e4nwptvNLJuYX-gq3lKLP9O9tv3TWdhM6rN7528l_HaDpyliCYauXZjnDgsPm_k-9Wudmh2FQZ3AMF836VwHgXsQCevwQiYrlrZDvilucAk-hMN1cuTC_uI84n7lxCcpvC-xP9aVpl9Qm9p-hZHVyErIAZPnFbJqA2JNOZUxYg2WGHEoEgo2zwO4pu2NEq54fHIjB2GlMPPhOXr1EOK522oxZCGiKRQSWpZUelaMKb2677za_9PcvCp4YB_wW-yAYBYUFgjeIPdP1J_rWRD_oErWxhbLdjsVOaaEkJMmHDORlUlLebtABa4UNIqeP2-aINNSOtFh2HfIWSx-Sej1DtR8MNuWz-qcMxPxDxg3GoDYFcqQIsyqg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 6124,
+    "coordinates": {
+      "lat": 30.253315399999995,
+      "lng": -97.74802439999999
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJDfhk1ja1RIYR3NIISvjn88k",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14552229874544202460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Garrison",
+    "address": "101 Red River St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "A menu featuring local & internationally-inspired dishes & drinks in a contemporary setting.",
+    "website": "https://www.garrisongrill.com/?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+    "phone": "(512) 600-2000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdUdA46i1RIYRJnc7t8vqHxw/photos/AWn5SU6s4Lm8j4Ok4RJ0HP4yIKvGSFVA-INNjMxUGIUpi0GV89FmiPoeOh2hRDlIdLR2n7YNSnaFZ95SkSWwvC9gF6V-8DtLlYB22eeHwd98H0gD-uDfEV1YeQaJw8R-R3o87lHiB9BnlBQIEsqqxcFc3s0mdn67O9fDeFv93pi7IrXy0mMFlFZ-2LvNCENKRiWYrszEnwb39PvaNeXL_BzRCqljmFHdOC2uiTCBKYgjSHeE6ix0v63MhmACxaKsL2vxdR_HsXLPdGv_Jb8UKMOEEblz7uD3JH9HSvi8aOIG3UGFTA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 384,
+    "coordinates": {
+      "lat": 30.261996500000002,
+      "lng": -97.7380364
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJdUdA46i1RIYRJnc7t8vqHxw",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2026596518013400870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Truluck's Ocean's Finest Seafood and Crab",
+    "address": "300 Colorado St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$$",
+    "description": "Upscale seafood & steak chain featuring half-price happy hours, a deep wine list & swanky surrounds.",
+    "website": "https://trulucks.com/locations/downtown-austin-texas",
+    "phone": "(512) 482-9000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5e4J-wi1RIYR0VuNKIr8jbs/photos/AWn5SU7uxT23FVJV55qfHhS9G0Qykfo3sMTEBl_tvf-LeLZ3eetHSz_fbobWepJl0YGp48a2czQm7n228lTiZMm6lly2ueOlg5qpCgXfvRVaTsY7wNd_iECPy3eiKDqjkLwT1JkI2DCKFdQn-jdBaykHqv4CyoxdPhSDggHdxt3wlphY6MBEySiBhnODE0w2keIFFKwInuteXYCRFESkKvlUcEMaY6RrUS_12jDcrrfbGdQPxCW_zG8zUfSSj2M4zJ165jCke_x2PvMzaKppWlNQhxfcRMdDon2BzgmSo0s2nz71_Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1903,
+    "coordinates": {
+      "lat": 30.2659685,
+      "lng": -97.74531999999999
+    },
+    "features": [
+      "seafood_restaurant",
+      "steak_house",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ5e4J-wi1RIYR0VuNKIr8jbs",
+    "opening_hours": [
+      "Monday: 4:30 – 10:00 PM",
+      "Tuesday: 4:30 – 10:00 PM",
+      "Wednesday: 4:30 – 10:00 PM",
+      "Thursday: 4:30 – 10:00 PM",
+      "Friday: 4:30 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: 4:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13514735727124765649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pasta|Bar Austin",
+    "address": "1017 E 6th St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.exploretock.com/pastabaraustin",
+    "phone": "(512) 360-8207",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVcPwM3G1RIYRr4vXlKPHBAI/photos/AWn5SU4ZFAaKL9TlWRzhMXcrK9VY4SRIB4ppFbkqrX3L37A0LU9J09PhH9bwHeSfA-6Oh2_QCBuMx0wwkReYy94OS4MDoiscGK3yiR_4Wsa0pCAkdH6cvlAzjUgDnUZo-gnDcmgm8aNKf3YF24IRyrs7DYxQfvFIwjOX9jDeznHeiibXvSjrVGWjISnu8UhOMtKNdf0fOcXVdmQpsmRqGUFzfnATs9SnP8laYbdY6l78X-ymd7csd807z5jWH18CzClsVsFblMEAQy3Cp2qOLaiLKQvJaiipISW8nH4idCgd149BRn_LvFl_YshEBUEDJ8j3JcF_wR5fDVsyqfHnaKy7AklR-RnP09ZseZyCDvrBWj9e-IfHBK4zIhnIsJH1QB17meN0y4uSWLsyXInLFbz3OBaWimol0z85Rm4XHCjJRxEdCAzW/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 129,
+    "coordinates": {
+      "lat": 30.264681,
+      "lng": -97.73185509999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJVcPwM3G1RIYRr4vXlKPHBAI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=145460593373449135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "III Forks",
+    "address": "111 Lavaca St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Luxe, clubby chophouse & seafood chain with a broad wine list & many private rooms.",
+    "website": "https://www.3forks.com/austin/",
+    "phone": "(512) 474-1776",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqe38AQa1RIYRh8jExRIRmZc/photos/AWn5SU46uk6StbyzSq_ntXZFWe2ievAHXXCfQf6Xfbn_hOVEo4Lf42hfUf2CCpI2DcFS49Eci0_2hxwkRJjS1PfljPXB1atcX-IgjbfDjNrkxKfQD1mbts4SFR85R3Q0ZmhSIbVdaBgdorEHDJXNRsKqJBAfTHvm7NfR1Yl9trexc059tVGkzq4LvU6G-7ZGf8cUWbVOQ4hQhvp0Iu0BBqg0Hhr21aarVOjN2m0_6wqcLcfPdAuotsz5ufpMGCCjICPOvTFTZl277__x_yfOatVhuDJocI8DyI_o_3rjAjlQvI81ug/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1432,
+    "coordinates": {
+      "lat": 30.2641922,
+      "lng": -97.746646
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJqe38AQa1RIYRh8jExRIRmZc",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10923781143488940167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fixe Southern House",
+    "address": "500 W 5th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Upscale Southern eatery for grits, biscuits & creative seafood & steak options in chic dining rooms.",
+    "website": "http://fixesouthernhouse.com/",
+    "phone": "(512) 888-9133",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzcQxtg61RIYRlTVfnv-nAd0/photos/AWn5SU4SXZJMcmJW3iZva3BQ3-Vk1VwOrx5PlfoBiprqbz8SlOzvygJYb-jaMyZAKk-pe0eMVzctZ0LoDUpg5-325xArKmgjraQ2DetzCFC81pPh14J29UM-uR-LnVAl4c8-rjWsq3Aj5qN529sm633mdaybddBLVuARulaAG0Mip4HYKQK80lTTPPpcQ1_1CSUhvMvXP0eOqvYHq7_Tcb2ZDk4h8cHUGQ6OVhX26EM6tnuBlEAVYJkVBsMRyYxOJ3m5C-cIbEEkp6Z1X2nSBrqqOouR6OlSPkJ8lIb00P4JRKmGygQVvU9cF6VnoF0qW3emTSpmQNltkv5Pcjhjg90U2zgRzOIUU8c43-V59M6V9pD14w5cTAw2CEqpG8M4XINveWyb9JLKCPwPPQLfxpKcm2_suoXmGrHsSADgzvvJ3hSVTA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1992,
+    "coordinates": {
+      "lat": 30.268877500000002,
+      "lng": -97.7485651
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJzcQxtg61RIYRlTVfnv-nAd0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15925194473674323349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Uchi Austin",
+    "address": "801 S Lamar Blvd, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$$$",
+    "description": "Sushi plus creative hot & cold dishes from chef Tyson Cole in a stylish, sophisticated setting.",
+    "website": "https://uchi.uchirestaurants.com/location/austin/",
+    "phone": "(512) 916-4808",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJz2Whyx61RIYR7mCeZje-QWw/photos/AWn5SU6Wz9h3dgrVR1UNEhvCyQNFHVlUJYJPvK3errOnJ69Hx-lUqn_3pz8V7vW7176gZwzqGRVTzuIlNAGxGhvJ-M8szJfoFdWnXrDs5wOC1gc9JLqpk26OKf2uCX9dgbylRlGnUwJ2gRzmxSVH1Ew5qDGhYlrO1e4r2mxzCfyQFPHmzXFtov_8dYihBRkL7jZ0Hn7bEOK_dn0t6EUOHYIs6DF6gviUKkzF7XK8WEEnOvOv-IV1DxnSSlNH-6ojyP_V4w6qz08maG-UnjMyqeVKuxyj9pwpsUVbCuJepd-U9AeUzVioEk_Ie8WRE4I5lgAVnZ8jYEDatllF26cvD_V4ydW08q_mfDoQyVVNqO0q72kBPecL5JtIZQijSIqa_lfo3lpuYIXip2986cBqArAM2ZiVftVkFDt34g-363zaZv7faA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3314,
+    "coordinates": {
+      "lat": 30.257539199999997,
+      "lng": -97.7597958
+    },
+    "features": [
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "meal_takeaway",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJz2Whyx61RIYR7mCeZje-QWw",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7800725174736543982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Eddie V's Prime Seafood",
+    "address": "301 E 5th St., Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$$$",
+    "description": "Elegant fine-dining chain with a seafood & steak menu, plus a cocktail lounge featuring live jazz",
+    "website": "https://www.eddiev.com/locations/tx/austin/austin-5th-street/8501?cmpid=br:ev_ag:ie_ch:loc_ca:EVGMB_sn:gmb_gt:austin-tx-8501_pl:locurl_rd:1001",
+    "phone": "(512) 472-1860",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlZRUkae1RIYRm5oaF2g0dSM/photos/AWn5SU5BW5rWfBWBIChLVFQT0BF_31Qzp061H1CRrD8G-5f_c2toJfO0vxZRlbrL2JZhkad4ObNYJd-tsOWyiEw7BLwEoTbkcg5H-1jpa_n1mM1_iveXqOOVo0ACNqgDbp4QxdRHrF3uhNx6S_3P9Xjt80kBSRU0dypRE2C3xVnm1cimjD8cZK8FpayQkmTKIriiL75TEVRbd_tkNFIRpRudBTqQOUbs8ljdezAsWFZM2-QBUnZ6iQ0RTVQ5mcpqG1lEHciG0EH7PpA67nQSrfRK9gyhI6239hdSX2Q4MEnXxK3vPg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2570,
+    "coordinates": {
+      "lat": 30.2662488,
+      "lng": -97.7406292
+    },
+    "features": [
+      "seafood_restaurant",
+      "steak_house",
+      "fine_dining_restaurant",
+      "night_club",
+      "american_restaurant",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJlZRUkae1RIYRm5oaF2g0dSM",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2555005985271487131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fabrik Austin",
+    "address": "1701 E Martin Luther King Jr Blvd Suite 102, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$$",
+    "website": "http://fabrikatx.com/",
+    "phone": "(512) 222-9816",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv-uDeMq1RIYRvxi1IOQLRj4/photos/AWn5SU4SPDvj0C5c0nO1rIqTH3dkR6lzkaURIL6ZWus_EF7qjS5MA8tIiEh8Ae-cLvX5R0PTPzFfilzVYmZV-Zg8exdtoD-s975pqcm6ZfB5K3Sn65keS8r8ZwgqddZkqGtK0jFpQaYFUW75LoKvXup_pPFSlDIUlvEqhsY4t_tIFvJvOxqc1jqbOW9s6zX2el1hh_ANgCxGTs_PGanzo7_sG-U1OvYmHCWVfRq_ycXbGyXElj9DF5rorsUJT1jQIKhKOOfMS-9FaB7McbO3rsVRER72IbDMJgCoYCcqk0VIMqHlLQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 232,
+    "coordinates": {
+      "lat": 30.279341000000002,
+      "lng": -97.72301949999999
+    },
+    "features": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJv-uDeMq1RIYRvxi1IOQLRj4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 10:30 PM",
+      "Wednesday: 6:00 – 10:30 PM",
+      "Thursday: 6:00 – 10:30 PM",
+      "Friday: 6:00 – 10:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4487287153150466239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dai Due",
+    "address": "2406 Manor Rd, Austin, TX 78722, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Farm-to-table fare from locally sourced ingredients served in a rustic space with a butcher shop.",
+    "website": "http://www.daidue.com/",
+    "phone": "(512) 524-0688",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsx9cWey1RIYRpeZVdPR4YtA/photos/AWn5SU5JlyOR34Wj-AP18_-81rwlA0LWHXR1Ir6s9UXhP3UwbyCylViM2EiNDqYhCPRFTEUgSUJWxL4nGcaHe6alxsDrwV1tpLCa4xozfIi-vIihzLpansNOc2l8fMB1fuZbJIG8IT0B8J8qMs5BTo1Orf7EbleXIocattTHCIpXZHwp0t4yZWvF5m0xD1oK3r6PSTnGxGnzOJKjOsjneFyNSLAQIDTzhlkeP9C7hpoFR4_o16OFYl0E_HS1rhrBlcQLCtTR0XvQhZNrPTv-w42z-ZrTyURO7SRAxAA8tSCyDgYfsJSNKllu-cTkeQEAxq595VM2QDEne7EZ46enxmijbH06Z6kYr9Ch-VQmWNif4xhHYPAnQoLbCure-zCeMyvu17u0_chH6mATcVRuz3AfwMiMjT6PEcLkG8SPXRuHjXBRJ1p_/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1329,
+    "coordinates": {
+      "lat": 30.284850400000003,
+      "lng": -97.7167556
+    },
+    "features": [
+      "american_restaurant",
+      "steak_house",
+      "brunch_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJsx9cWey1RIYRpeZVdPR4YtA",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM, 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15015697098925794981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Canje",
+    "address": "1914 E 6th St ste c, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "website": "https://canjeatx.com/",
+    "phone": "(512) 706-9119",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiTXrX2G1RIYRwMqfb50ntjE/photos/AWn5SU7HqnwGG1C8H6H6M0T9__F2LsO39Z2_ZHkY6Z6CQCso8OD8AGx0648Qwj1ElRtntn_cobKH6WGJ3PYNu49geSiG3eY1ZxklifZMSdCvaOP5jpceIFOmnRQZ9JiRmkVHhrnEkWdb8PnkDLApO6CmH6Qjl6YMqblKDkPV-SD7tVmA_jbl3pO884aAltIyNlm2pNZutiG6en1ryYJigAq778LQSPNANcsCyrNxidnuDlquQmvvi6DDheoXL59JnWqRTi8O31ZVLRhbi-pObvkpka2kUr-AJfCQ9bvP3lY2SnZrHBDtyeI0dr90tACnNGtZ-vNKwK_0VK8A8uVv9ZHksVlsMrSs0fNn3-CaArgu4XD7rWFwGx7x1H4HhVNSEsDT38QXXyuVZ6yZwJAUEdyGMzDvGDVDj83lDg9IAZalcHMKXg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1269,
+    "coordinates": {
+      "lat": 30.2616642,
+      "lng": -97.72142710000001
+    },
+    "features": [
+      "restaurant",
+      "american_restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJiTXrX2G1RIYRwMqfb50ntjE",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3582094110755900096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Odd Duck",
+    "address": "1201 S Lamar Blvd, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Upscale eatery doling out locally sourced New American chow & drinks in a contemporary setting.",
+    "website": "http://oddduckaustin.com/",
+    "phone": "(512) 433-6521",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJi8__nx-1RIYR56djED9FLLE/photos/AWn5SU72qZklm_045fwR3HqMfM6Vby1hrfGVYXBq4tpUqOv9oz4TKDh0yIF-TCjdF71bZvsa1giUEHwX5ki2Ymj7HM0tRgFkuqR8Lj-Z1fs4T3EEJWWIaH0JyXu4G3nG8KQdXsT4T-YWtF3IA9OrrPBNPKXoZBaQJRp2xbf232avApI5eQqAjbYWyxerEdDcFh9QRdnbATyDCtjI_SPDKFVmdFDrdpGq-o9iPJrlBSqNKYFqfkfZ0iHwtdYy7r2pPeDWbPCrRKmQb3-V1XLuMoZMJ2EMFDxYQQBiGX1s3OqrpaKQqbllujmSHQQuR7yyPfsECEbjG15Fr6knhoKXI_YzAU_yG7imEqqDpfR1_Gbs9dMSYqVi5p93eX-L2wZ15eKBR7I_xYqFXSywPR_RsFySz0et1EKn34aEV0y8Onn8xDJMEg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3519,
+    "coordinates": {
+      "lat": 30.254672000000003,
+      "lng": -97.762051
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJi8__nx-1RIYR56djED9FLLE",
+    "opening_hours": [
+      "Monday: 4:30 – 9:00 PM",
+      "Tuesday: 4:30 – 9:00 PM",
+      "Wednesday: 4:30 – 9:00 PM",
+      "Thursday: 4:30 – 9:30 PM",
+      "Friday: 4:30 – 9:30 PM",
+      "Saturday: 4:30 – 9:30 PM",
+      "Sunday: 4:30 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12766655180848736231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Este",
+    "address": "2113 Manor Rd, Austin, TX 78722, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "website": "http://esteatx.com/",
+    "phone": "(512) 522-4047",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdTGqexG1RIYRS03eNwgxz7Y/photos/AWn5SU5yhPRSo9avfIRUTFZsIIMPI_3B6Bke05t_qZNWtz1jLlayysJkRaKYiIcr6IbCorllLSSzaHau9PqCSefnRwDBoSCs_tH1vnR5K8L37eTL3_vy74uUqCg8dweyvguIkCqka8hESR-H4OWA6IcNezsHFY2lALc-cG2ctlgoL_P7wdnSNwEvieh4pVks-FM5mC4hXDCOODykWuwyia8065CFRPrLIGSGwZIpVhgli0CrImM4Hq2vKuM4ajAf-ARp74nTCFTutN_5wuxLSCwzX6u-eUj781otJThFDyujJ0rh9Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 964,
+    "coordinates": {
+      "lat": 30.283932500000002,
+      "lng": -97.7194787
+    },
+    "features": [
+      "seafood_restaurant",
+      "fine_dining_restaurant",
+      "mexican_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJdTGqexG1RIYRS03eNwgxz7Y",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13172801346448805195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Suerte",
+    "address": "1800 E 6th St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$$",
+    "description": "Contemporary spot serving interior Mexican specialties and snacks, beer, wine, and craft cocktails.",
+    "website": "https://www.suerteatx.com/",
+    "phone": "(512) 522-3031",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJAQBE-7a1RIYRcZNYsxWYIUg/photos/AWn5SU4lI3wGVQ6g875E8VI3RTrqlif4pVG7Xbja6YnyX5gVWIYlEYBJUpL3pGJjS6zAEHD5qkhx8sGSrs68SlbYPVjU5ZlTcDAuRfhrPXrsugAKKHzyv_123Jo3X155j1j9j48dOKqOGqSoXA9P9twQOX3_ZL0w_ZgFDi2kDt_F9ay2t34SNEuLIU0UTPqiFSvAwJPvPBHLVMoQV1Iud5Qxcd9W-Y3oIAvziO1q5cvXmwJ1xLx1sr6mBbYQ3Kf1HVSoRzVgq4xSCrqKDghSG8yzTC912hl7T0RBvpYEfFovFzwKuvgkZs3DinUZeGeyqBkt07j_4Cq2SuOaPIDKc37EUWMBw6y0NfonrhrZ6og47sBts-3_g3sizxkpnRjbW44RcXsVPBOBVLsfBI935IcVNY-UxjEurr3WDHM4kAbxmqzsg1Wt/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2905,
+    "coordinates": {
+      "lat": 30.2622778,
+      "lng": -97.7232758
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJAQBE-7a1RIYRcZNYsxWYIUg",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5197602663932924785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "KG BBQ",
+    "address": "3108 Manor Rd, Austin, TX 78723, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "barbecue",
+    "price_range": "$$",
+    "website": "https://www.kgbbq.com/",
+    "phone": "(737) 294-8598",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJf5JQtli1RIYR9XTsHPaGtbI/photos/AWn5SU5L8wSxk1IaiDXpHa94JJsGomH-78U6ZY1ERz_xN3EMjYeprSJmcZDo3CQIyxm-5DTcA-vyfzA8lYs5k_DyUUq5nGfrE5tvVy2qaIET5oedC5fB4jpXXaVDfE57rk2x6vr8hHr4a_2Ybh9FUCjXw8Hj9QcwfwlsVvLufB-Wk14127j59vNO7dWXgYcBJgJhVsuCvN12Jb4ZMKegrWxgDtUyiFvmfxP3NxLfrcOg9nMMLQvorNlRPz3uLE_eRDv1d_g1vZY2zAeulBwfucwtPJNeyYuHnUoNXufmLui0Awo7fIY508ibdXox_w3XzDBBdgJgQOi1BUYcqi4DuOUa_aCt1ZQe5yNF9wyPSMJxwOE_FcgfkWKfVJewhXdxWF4a3v6MEbTUrCsKFrNG4Xy72fFkVxVjDp22Diwq2E2TSNkZBZVB/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1404,
+    "coordinates": {
+      "lat": 30.286754799999997,
+      "lng": -97.7051671
+    },
+    "features": [
+      "barbecue_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJf5JQtli1RIYR9XTsHPaGtbI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12877347101141136629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nido",
+    "address": "Rooftop, 1211 W Riverside Dr, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "website": "https://www.thelorenhotels.com/cuisine/restaurant#nido",
+    "phone": "(512) 580-1183",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy3FovG-1RIYRSwDtdD_AfC0/photos/AWn5SU4cVFt_x8fk0j0Ovc-DKKjkMyD_e68o7WXlIE1CvRblC3k932EymtI_QBXCmp_xbsMCISrm549KCb8Cmhi_RM5XnuD56gUjc9OyzQSb7qyszSkKm3H6UvGS3cZDTNAwt2mu3JEfZQ6PfXHMBYMRcOqNmS3jl_wegf2ktVbfkerm3_OCRZJuC7OQTb312AZkzHW7vRr5T6_cJFv-xTccZNyDh0H57GRaigIIDYUcWuy0J-Rd714B4ib8_kkHK3MRGWCZKicqXDZemA36_2USAtSADr7rwPU9Mokb6YjlUUCvPA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1366,
+    "coordinates": {
+      "lat": 30.264083799999995,
+      "lng": -97.75673669999999
+    },
+    "features": [
+      "restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy3FovG-1RIYRSwDtdD_AfC0",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3277706007596040267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Siti",
+    "address": "1123 E 11th St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://sitiatx.com/",
+    "phone": "(512) 628-7484",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6fZwBru1RIYRfFRi0BiSYp8/photos/AWn5SU74p9Yi9x4BFt2k6DgnV767BmscjevYYMu9dqkSgF06OjxX8og0x8_z6pZiH2unLL05BRmBSc_WZHbEEvL80m3kEbVdl-XLVc-5ltoMo2xQfT2XTnyCS609Ee8QoOPSccPuoiOaxYSTP9fAChuWD29cSQdiLdgFoQ4AxwtvgdIEOEtgjXkpsXvVaZ2Spennb4BNj6NUl2M0TJXaGOs0lV7as11zHTDvPrhGLLOAGCKPEWqJc2vE5I373Ob9ML25uJecMoeV3VsI2SS_0K6DqoDTKNmLSAR5AdKxG0KuneqkFMREZ4FL8UWbT5Daae7GrS_d13y66HyEZYnH3f9Y5sEozTXV-_HaY-DGjD0xcOfFA_0SJEj82T49tL0NFzElrLTj3TWKwSGlqBNpFZ1zsEEvtGD7sYz0BX1j5mUQ10ujaCkKOyb3l83NAtunCA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 152,
+    "coordinates": {
+      "lat": 30.2687234,
+      "lng": -97.7284
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ6fZwBru1RIYRfFRi0BiSYp8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11484902635021161596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Casa de Luz East",
+    "address": "1915 E Martin Luther King Jr Blvd, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$$",
+    "website": "http://www.casadeluzeast.org/",
+    "phone": "(512) 444-6406",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJs8xFx1-1RIYRunL9rJFtWwo/photos/AWn5SU7fysYMHeT1AxE8hFHu777DWrRMmZRtTvKXRvT4Nc1vdoCS7zCN7OLoH3CR5QpYPg8qpo-3EOrx7alwo9RekvS5zZExkEc9CYd0xhF8LGOU6rUc3OrzE1wY5w0VkFkgmo8xWCdPNVbOfzevtO0oZM2SDrRBVD8bpVizAZDRfR9xrrAXT0_2t_J82XVP1mIWuzWGRxUufLK4Y-qqFSywffD8aY-cyvt_ZM_jedV2ykTxOoDzxKx8dYfbWNrTA9FeMGBXyKwK5Uh_PDEIbvA-TGOY3NesF4yGY5G_b9THpOlMWw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 176,
+    "coordinates": {
+      "lat": 30.279635499999994,
+      "lng": -97.7201999
+    },
+    "features": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJs8xFx1-1RIYRunL9rJFtWwo",
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:30 PM",
+      "Tuesday: 7:30 AM – 8:30 PM",
+      "Wednesday: 7:30 AM – 8:30 PM",
+      "Thursday: 7:30 AM – 8:30 PM",
+      "Friday: 7:30 AM – 8:30 PM",
+      "Saturday: 7:30 AM – 8:30 PM",
+      "Sunday: 7:30 AM – 8:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=746310635699925690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Old Alley Hot Pot Austin | 龙门阵火锅奥斯丁店",
+    "address": "11900 Metric Blvd F, Austin, TX 78758, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://order.peppr.com/online/old-alley-hot-pot",
+    "phone": "(512) 582-0088",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJbcrk4XfNRIYRJlPxBNM2FFA/photos/AWn5SU4JWmR4aY888dC4zPhgZoRQNT-LVTEcqMVPrir3YnByKNr5UslX_otgpQbYBdwAgHTY0Mzq6pOiZ2nU0dMmjTn0jZICB-Ea_bXkVIjvwmOepArslmFXe3fNvEQccPNkCLqzRZ_xF45ris1VGgJICguDwJ-1ukaFvlcLogv5ddllcr-TF7IZsjTPrKZzU28_f21hIBK_UkOmASQYicqoFtAl1oeyRwc9ea6fO9266gM6D91u_VGr_Z8sy1jqM21EDwtZI56R4EeSpTKV5Rxn9ZjnNAU2Kmv1AfN0-eDPLGvPxg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 323,
+    "coordinates": {
+      "lat": 30.400424799999996,
+      "lng": -97.7040911
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJbcrk4XfNRIYRJlPxBNM2FFA",
+    "opening_hours": [
+      "Monday: 4:30 – 11:00 PM",
+      "Tuesday: 4:30 – 11:00 PM",
+      "Wednesday: 4:30 – 11:00 PM",
+      "Thursday: 4:30 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5770297302517371686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "P Thai's Khao Man Gai & Noodles",
+    "address": "4807 Airport Blvd, Austin, TX 78751, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://p-thai.com/",
+    "phone": "(512) 387-1852",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2dsfwi7LRIYRHlX0SIPK380/photos/AWn5SU7rJdE-6XDGr-ZV-UjirqBN4C_yKxcupmFWX1Zez7gY_mLB9ZiKgm8GmQpG6nMIWry1lv3aWObdBE-P8XwZnc6_emg9-BDuxyLPnwZXfyeRlZmmwE9EAck9I19VoLLKYRb1xrqtXW_pyNXs89D0Hli7WxrilB6CdQhzYOr-LWTeAWl8cEhtagt0Xcr48iLIrgV7YuW1KEBmn16eyDkZpcS-OPpqpxZkWnKBL-kjrBR3ZXX5BBybwfufJ-3bZWOTX0oTtu8FfyBp8ukrtWuD1VWfUhT51m09MIgZxMwPJ_dZew/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 339,
+    "coordinates": {
+      "lat": 30.3087135,
+      "lng": -97.7153532
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2dsfwi7LRIYRHlX0SIPK380",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14834798362795201822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Casa Bianca",
+    "address": "1510 E Cesar Chavez St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "http://casabiancaatx.com/",
+    "phone": "(361) 903-9303",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXaUptum1RIYRUEvy4n6Fz-E/photos/AWn5SU66eN57zM9ecKHw44siY4gJ_MBxz2-hisJ37c2WsUFrSXXWhP7tlX2wAUbijChMHQEhTVB1ssYy_lb0YBuXjKiTiMxMySG83jZx2KhZU1YXfwhVIiFrZPpIx4vLbEY7LcA7BE1OZ0P4jQCcn0Yal8BgrmtFwmItdBeSdG_Wb9UYQXXUmtCN1Y9u9gz2Nf6xWxz2Iu4L6zIQweN4gs310y3rkXDc6jA0PK5lI9qCvhUnnsysU9hXVO3GOiDVlhvG3N3Ht7qIezxbE3J4VsZPU4yyKJPO50-H_FiKIVGTvOS8lA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 224,
+    "coordinates": {
+      "lat": 30.258816699999997,
+      "lng": -97.72879150000001
+    },
+    "features": [
+      "italian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXaUptum1RIYRUEvy4n6Fz-E",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 10:30 PM",
+      "Saturday: 4:00 – 10:30 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16271370758732794704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "JABS",
+    "address": "75 Rainey St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "phone": "(512) 887-0076",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQzNKxy-1RIYRJnAVJvCZOh0/photos/AWn5SU5xu2R9aUwrNkBrcp5kkRnGvWIveQC5Lsx8bR73vTcMkLsZKThSP_sS036rucel5SuVofWIaTjIg6g7VVzkg7dNyRR-uvgxlm4oCXW4unkGjfQ6p5LpaXyTQ4V-zr3rm9qUftQvv_imm30vG51JfJTeUR9d87T7FlLW2rOODcxjUADu-It31UEnj5kAA-o2fRmVNPi2r3Gk48gg0cpindAVyjCZzTuTUo2wqG9DfvdvdCgvBrv2EPv8j4mJd_zc6XcYTN9Sn-NZcTrrlR95EWpnjUU0T0DCDb3fPCl_4SqRgvnIszn1Y47jdzxGVC-yuSB3abhBUcLeGEFUP3PHP53Gox0Q3PPud4aro5bd-fbn9mIDnz6QncTTBthehqqv1Lu9yVVqQgVoVj0VEJTEBdHv5-zL1nb6nUgTFCy2r6OysI2mcAIV6aXpOdHJaQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 128,
+    "coordinates": {
+      "lat": 30.2583048,
+      "lng": -97.7386547
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQzNKxy-1RIYRJnAVJvCZOh0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2106165032459268134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Patrizi's",
+    "address": "2307 Manor Rd, Austin, TX 78722, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "This food truck outside the Vortex theater dishes up old-school Italian standards & housemade pasta.",
+    "website": "http://patrizis.com/",
+    "phone": "(346) 658-5171",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ_SqzjOy1RIYR0-au-H5SDZE/photos/AWn5SU63dUzf6RH7iTVcBv6KAMUjKif2PvwC7zL86OuJ0AJoQ4ruh2kKloZfJ3Lea3Lm9Z42maWEi2s7Rze_rbCJlGpueQO05xH_rO5QIyExnHD2mOAMJgYKB9vzURTk4QqEQ-KRb8Vm6kTM45951WYZMb8Ecs0pWvFxWlnDzRKLm4sKUau7CaFR86hqjuOOk-g3gPp85TLK9cSEUYiEIVB1ldl_jfrYGPR2ZdCG1fVsDssH9CX-ifgudJ2KBLIOuPut31YJcAq8OvqCD2u8K6zLj0_muEv_YzRcnpCzFKr2PdHJJKtctNeha56Tez7phE3GwuutG-vzozntx7vz_Hk43z0o8fV7FhMCraztAbXfQfKHZfNKnrlFNuqu-Wvc4McqAzyCpe-cjEFns7TYwEDkYUeY_COJivcDAJIcwvJaJtUTKdhM/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1833,
+    "coordinates": {
+      "lat": 30.2838954,
+      "lng": -97.71726199999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ_SqzjOy1RIYR0-au-H5SDZE",
+    "opening_hours": [
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 5:00 – 9:30 PM",
+      "Sunday: 5:00 – 9:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10452101015488358099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Evangeline Cafe",
+    "address": "8106 Brodie Ln, Austin, TX 78745, USA",
+    "city_id": "austin",
+    "category": "cafe",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Funky, intimate Cajun-Creole restaurant offering classic fare such as po' boys, gumbo & alligator.",
+    "website": "http://www.evangelinecafe.com/",
+    "phone": "(512) 282-2586",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlbOTlodLW4YRf0F9oWpMCdw/photos/AWn5SU6mwvXfc-cQYaaY136-NSwW0_dkHvXr5VZOY9z2GvSNzaI0YQmVhjIT8POaJ1WUoF0hMSqIeriOyIcbB6n7lppNlcnmMqyj_53pHOTw3lU1xtwun5ww-9tzFRkq9grr_UC0WvYQtpoeQoJQlmIrz-jbiocKbBVS3ykoRP4OBa4MSoYl96z68sLI91dzzR5KQnY43bQB2r8zykyRDxFpasVctOPum0Whwmc_7p5PTa2ldfRL1mhJ9o8JazAfCOigeKWi29K2g6KwqJpEvovz8DhMOA4ceBGvDeC7apgSlSZ5dggbhlU7QVuR5FuU926Pbiebfzvb5hGi0n822vMRdp8UichgkhPoOpIPD0Lha9Y42WYyMCMGW8cpjrRlAs1--ZoIeJ7fNkIDwcv3SnmbEaUFp4TtsVBw2GqSkchYIIEdMQatQD2880pjpOAbhbaD/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1685,
+    "coordinates": {
+      "lat": 30.2021265,
+      "lng": -97.838733
+    },
+    "features": [
+      "cafe",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlbOTlodLW4YRf0F9oWpMCdw",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15855287983994126719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sapori Italian Roots",
+    "address": "800 Brazos St ste 215, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://saporiatx.com/",
+    "phone": "(737) 351-9271",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp7tO_dy1RIYRW9_xLOG_ehs/photos/AWn5SU4OGgB8_Ea5UPXXgKYLAnPuJw9P4guAKxrlKcUXzRIcHH4q6GWz5usHeynrpgy3gMM12-j5I1SChhWo8laxENoMXOuyjYepmHeLsiKfPx3eFIbQBwWFlMh1KMsVXNehi3PZprP6IqhsE7wblpQ0f8CscYvRwVIh8fx9wbhC_dadXMXZGddKcrdRgOOoWlpK2qZpdPICEr9ya8u23hIypJVCmuoc4a2EZCgnJA1RnXMUlGvvzJDwAFuVFSzD60LuWbUWYEog_ysd6gVwMYmNUDYC5ZAe50GWurqtTW4u07P3L64lXqSo8c7tSXLrEhwjGrCekSzVlcJHVxKVfIUjo0pASiTU9WJ3S0cAwdC8lN7adelnVpjzx5B89BKlQTBc1jSlpEwZ1fBbvnzryBbIuVZyv73A-8lt-E2s-M9-G9X7whXVc6LE3EpolsUZlgIe/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 688,
+    "coordinates": {
+      "lat": 30.269833499999997,
+      "lng": -97.7412877
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJp7tO_dy1RIYRW9_xLOG_ehs",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1980105960025349979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Honey Moon Spirit Lounge",
+    "address": "624 W 34th St, Austin, TX 78705, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "description": "Vintage-chic hot spot with ample outdoor seating turning out imaginative cocktails & global mains.",
+    "website": "http://www.honeymoonatx.com/",
+    "phone": "(737) 209-0319",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2TVDkSHLRIYRcMu6D8p_-2I/photos/AWn5SU5Kw9Aij5XSM2Qyiw_fWFD02wQjb-cDAu2L7jDfG7q5495boqB-jHDpPi89v5BGBQFNlemRrqvFC5zwypEkFrUVZHFIpt5pjaRRf7pfVeue-Nx0Krfj8u2kpPpZsaNiitE41xpQkAkHeWB_FnJKYQZi0_KE5cRPBizuEVTpyrxXnYCZ3xkUHeEJ4qgweweOBLvsiDUN0PfhA6WDstAXBsmFl24B41mznTe1MBqoWIUns0RaBPMGx2tiMLiBLkmzc99HX4MUtDMGcjpj3dDo7wqwyhrsFC3WUPe7WHi3K1H9nAJiQesORb7UBvOR2-8pTFAkSseMWYMGzY0kYPMuPbA9XpwCcZjJoiWYPpYx5jv7_vAnkWHkwFK4s1olDHG5NB9E3qmf0YIFRvOjHYDW-pf0f_Ur17aA0WLMVzhnKp6H8SFm/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 515,
+    "coordinates": {
+      "lat": 30.3010289,
+      "lng": -97.74060449999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ2TVDkSHLRIYRcMu6D8p_-2I",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+      "Wednesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+      "Friday: 11:00 AM – 3:00 PM, 4:00 – 11:00 PM",
+      "Saturday: 10:30 AM – 11:00 PM",
+      "Sunday: 10:30 AM – 3:30 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=7132434940695333744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Corinne Austin",
+    "address": "304 E Cesar Chavez St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Polished eatery with a global menu highlighting brunch, seafood & meat dishes, plus craft cocktails.",
+    "website": "https://www.corinneatx.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(737) 787-7018",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB5Ku76K1RIYRwGbv_w3DySk/photos/AWn5SU7GaFi_vpNRtAreRqoxOgcdZn3O0alXBGnMBe2l0ddCE3z3KnDyyW1ieH2-9p8vQl7o2EQNTmLH9SfsIPIvOauLslA8LZDTangoPt2X6O8K8CUY2CoDhXUJ4LeLq75a3eOnyp1tnp6IuB9vQosVykymlAu1xwN5v1ez8wOVzdY3EiM0aJ42kTxxQSI8NxLs3jfATFqcd-6zgz9AgL67jh1IJzEv_v5tspJyRXuXsSWhfY6jCMUOUYA12fI7Bcsa2NuP2YHZPLbQLfE5vGK1S_D6thK1mQBAAZO80kD6-bm9OQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 5349,
+    "coordinates": {
+      "lat": 30.262701099999997,
+      "lng": -97.74157629999999
+    },
+    "features": [
+      "restaurant",
+      "american_restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJB5Ku76K1RIYRwGbv_w3DySk",
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3011152290769757888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ATX Cocina",
+    "address": "110 San Antonio St #170, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$$",
+    "description": "Modern Mexican fare including seafood & mezcal & tequila cocktails anchor this upscale eatery.",
+    "website": "http://www.atxcocina.com/",
+    "phone": "(512) 263-2322",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWaH_cA-1RIYRNKX_6H4CwaA/photos/AWn5SU4HXsIMDdAIhmZ2EMDySLk1XoJ-nu6qR6XD1C4jzfY1JQej0BEFfCRj2bnxJ_0kNaavmjkJwiPLxka-25WjcwfJAT5AlKM3TlcYsWwqD8d52xu7_b9sd81xGDBLjfuVX1oznH7BZ8T07w-NLtmfVpcsw89_-9wVfEMckM1qIyj4UcLPFVyA1cfkW7nQnpSvlC52BjkVR1gMXIwvRy4BcU7RsQojYusDtAR-8C9dNeSpsH_18H6Eoa0kXsiMl3zqI3Ye7MBlFXZpUr__wneSjnKBNr4eV79emO48a5y6uWTKOeYC-niCkPR-lAdDs9lk6Xqp2zoseYdTyqddQIykcHrCO6MnEA_xTNAIn1E3lxEK960PoZDtD7mebB5eFmypNvN__14AnEgwPKtVGWxaa8Vfc0Qnd6BZKprqe8Js3xO8vA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1823,
+    "coordinates": {
+      "lat": 30.2649201,
+      "lng": -97.7492858
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJWaH_cA-1RIYRNKX_6H4CwaA",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11583542460671829300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dean's Italian Steakhouse",
+    "address": "110 E 2nd St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Urbane outfit with a subdued vibe offering wagyu beef & homemade pasta, plus a cocktail terrace.",
+    "website": "https://www.deanssteakhouseaustin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(512) 608-4490",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVycNKfm1RIYRTy7RJBzfPtc/photos/AWn5SU5dFaP9JVOhYC-yJxyvNgsAHJOIjjE6Z78grODQtHChoTSVpLKgSh3snEHnbb1MfIJ_6jQV9tTOD5cq5cReki4i0ImAkA7ofA-1qBda8_PuOp1FkFCjMMUiPcnF1SfizVjbSt761MBxM2RBz9sPEUDHScRC34pZVR5vL1eHn4FSnawyN-iI0Um0efftStcEk_YHDiYH33Tin9LTcmAe118cf-UjyvVd5vFqihAsqa4eoImdOGYTHea73tQtzcro22NXC2pkl0GVOQC6xhG5W74nZKos6ecQNNkblmhXwXrY-CiCbGIdH3tr6uUAhLrhC_37N61jXGk-4UXZLExhH1ddjqc9Q5k0aFRWpjonHKyFsxZMqEJixi69EB7wZTWkp3fSR5JaRkNjUJuY7QnbuPz3IEqO0D4s_GHTLPehPUhl7ojm/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 2778,
+    "coordinates": {
+      "lat": 30.2641454,
+      "lng": -97.7430761
+    },
+    "features": [
+      "steak_house",
+      "bar",
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJVycNKfm1RIYRTy7RJBzfPtc",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15510079478680333903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "In Plain Sight",
+    "address": "612 Brazos St Suite C, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://inplainsightatx.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCUZ6aWm1RIYRpbGQFPkKBK0/photos/AWn5SU7ub24Biy3DPzLh2OMxctMKZsaACMmOV1VfZXhKPsS-t6L6FAY_QZcxKlJ2pHYSHnSQfwnUXJDqT5pLT9bVr3r5wEAOgMZJZf0-pTSPlR5E7Lub0fN9kJlk99GntX7ns3mEuXhgU8ksY90maeYBuG0fAtT8874x-lUTD05W4cZlrTF8-8fAMZh0D38ECyDhNMTbBWC1PoT3SvrDtbxxrr9HTMBeWiT01C7Yi6tl3nNuEbHzQtCt7I-Nk_RraZz1km5N2R-Qu6dZ_y8PO2iGjG3Zv0jreSqHMDIxlCVTlgNWFjYHBODQkpG3T-70uCkLkm58SyuLv4SDqjPaP_U0W1KkT8pPNvqtqqkYFrL8RynJDaKLo47omCixB9a_N772FtxQzjY6okSl3_EtEkkY-5d-8HT_9N9NP0SA8KTwkCA-Ng/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 182,
+    "coordinates": {
+      "lat": 30.268553100000002,
+      "lng": -97.7413337
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCUZ6aWm1RIYRpbGQFPkKBK0",
+    "opening_hours": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12467101733376536997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Corner Restaurant",
+    "address": "110 E 2nd St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Modern restaurant & bar in the JW Marriott Hotel featuring Texan menus, cocktails & a clubby vibe.",
+    "website": "https://www.cornerrestaurantaustin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(512) 608-4488",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxcCceAi1RIYR9AqXT8eWDyc/photos/AWn5SU4-Nrzbve8iVPsK0Fvy9sZl7G6VbD7HnIkcdz-fzaDIEBFyEmcTOpydk3T1KUa9KN6zy23i-56HXAOGD4Tbr_VuJWhot4XrSsU1IuivSFzqS65mfY2HFW9QxyXXtVXXtl14Z149tcZbonwaysRZxqTi3uIsjjGDuEAdBAk3sJQ43LzGcj6shlwm2DQ_Sn2Tyl-nOow8QqeGYZ-aMeuwc_HTgMEAQOWVPFg2Dl7aHZ9twQ9gCiHVRQJ1gyRyAhKOX74wce82tAcon0PMsCLTJGLZ3xFTZgqpEDymYn9L2K6Ocw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 17058,
+    "coordinates": {
+      "lat": 30.2645703,
+      "lng": -97.7438317
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxcCceAi1RIYR9AqXT8eWDyc",
+    "opening_hours": [
+      "Monday: 6:30 AM – 12:00 AM",
+      "Tuesday: 6:30 AM – 12:00 AM",
+      "Wednesday: 6:30 AM – 12:00 AM",
+      "Thursday: 6:30 AM – 12:00 AM",
+      "Friday: 6:30 AM – 1:00 AM",
+      "Saturday: 6:30 AM – 1:00 AM",
+      "Sunday: 6:30 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2814634074907806452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Guest House Austin",
+    "address": "110 San Antonio St Ste R140, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://www.welcometgh.com/",
+    "phone": "(512) 720-0000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqQ7aNPa1RIYREETlax1ArpU/photos/AWn5SU4z1IlGE8h_XgUJbLUJIER0CBNfpy61fJ9vy1vcGM9igMs9IoU-kujfNiRKSP8f6u2p9aKzvm6sV8nX_xfbZ-9Wa8RtLr16hWgCg0WnftkNTH7f3RrdQVJLycj30lCpUIoXvWtCUFBbFN0TTtEP4Dvrgqd4s2fW0FqKg-jyutWEg1atkPOnNL-1Spx9gBGFrDX3FQsaLPCpTiyGjpE8WdNBKRFUR5l84W6MH3tBI7pGSx_pcXwwy0lgpAh1UGsJpBzDjPqq-DARZfYNUcJojzWWGfJyT15s2oGsExtTkgduCghc72yUPrDNkUoUTqyYjTKGckepJEXukrJdGOwAKjjzBGKJ7ri-vClUUpA3hY0l3bBOXaR2f5xfbqBY5OlIfUeXvvx-NYZ0EjAaKQNOzbPmilikBgmS5OuqaHY79vOH3-ZjIaJqqBDR4TdYyX-F/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2095,
+    "coordinates": {
+      "lat": 30.2656426,
+      "lng": -97.74932559999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqQ7aNPa1RIYREETlax1ArpU",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10785628652707333136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Roosevelt Room",
+    "address": "307 W 5th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$$",
+    "description": "Inventive craft cocktails are served in an airy, industrial-chic space with a cozy upstairs lounge.",
+    "website": "http://www.therooseveltroomatx.com/",
+    "phone": "(512) 494-4094",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIeohJQm1RIYRG-NyRBlsnuw/photos/AWn5SU5urnUynS9kBsmSJ2Z0I0KZtVcvHTwtMqoDyYmSmSwp041kyvWAh41gTRG_fNfzlbkN8wqWSYza5lTWFSj_jfiKePhFEDhRKbcno4faaabkiPoSF3ghs3jK0yena2-FGSE47PxwQMiFihKgGAPHa8VghOF5aVCbfT0zHdIZJqpUtbdecTjBVFzbf6kaMHIz2siH5bpYQcZJUIDroZNniOPVtfig7hD0-f95zAmz3VZMeJSOfkbBS6q0AyY4J7lGOxjTUfxMNn6fEndYrHDseRIcA3l981_aPu6B6-YgcyM_8A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2220,
+    "coordinates": {
+      "lat": 30.2677886,
+      "lng": -97.74627729999999
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIeohJQm1RIYRG-NyRBlsnuw",
+    "opening_hours": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 3:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17050184095049638683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Electric Shuffle Austin",
+    "address": "91 Red River St STE 102, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://electricshuffle.com/us/austin",
+    "phone": "(512) 894-8779",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzbbxmGO1RIYRuZ6Zrc8aQuY/photos/AWn5SU5VdUWpSt2ElWRm-JYwT9RWq4hjyB99frCszvVr0jNV8Eu94XNi2oFIxdZupQI1a1VHDO5m-VmvAEkK3JJzO_vT4QE5BSlUBxDwR7P8gk0-Ge5oTuwPYgs-PxvIRowSB3lWepcZgcWaff43lIVfIr3jsw3lbMk7wzqv91WYEKTQWBXCk4MMyN48Dq454VcJ5oBEHlBU9Zk7H5g_Ki0oueRcWLblwYxA_aHMUceoyigm26v7x89UIF2NqMbQSyPtVJUIzQI8NDNGe_TNbWCHxLadnUFMESgfGm4S5QYKcV16GQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 360,
+    "coordinates": {
+      "lat": 30.260507099999998,
+      "lng": -97.73902849999999
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzbbxmGO1RIYRuZ6Zrc8aQuY",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 – 11:00 PM",
+      "Friday: 3:00 PM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16591853456459407033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Vic and Al's",
+    "address": "2406 Manor Rd D, Austin, TX 78722, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "description": "Cajun cooking & cocktails in a warmly furnished restaurant that has wood-paneling & chandeliers.",
+    "website": "http://www.vicandals.com/",
+    "phone": "(346) 658-5809",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFQSGyW-1RIYR3dKfrAy1KB0/photos/AWn5SU5du_ktlsMUXhU4kql-bDIMu4paqpuP9MXt2B8HYGDusWm50RJrCt86UFyi7EYR_SQ9zrPFciEjn0ylQcO1LWxNjjG4myYnaINAWqwKA2TpiXE8WTz43wHSLNN_pdd_GTzoCpiwhB75JktbaX9AdervwPzmtSsHKheAnFZck2VwZDo1hjR-6wdEluMMiFLvd-ZIkd0pLQRQTKpelUGejp7GfKgxYGvtS856-n-Q2z6SoQgCDFdgT5qfEtOxiBQquXwFDBm8Fn7fx6n8r4B3ChHYrzWPcLf_qLoRDf5EaFyw7WOIT7DUhAvMROukxGTz2XjOxTQw0Xe8SXvNwVKoTvu3MknqzFaMZvdM0ZGAjJyiS-31geVFBZ9ejQQEIl5bPDkR8DZBvgYEH3_d27JNOVoQ4znpqXTdU66vrWx_93Bviw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1252,
+    "coordinates": {
+      "lat": 30.284942999999995,
+      "lng": -97.716982
+    },
+    "features": [
+      "breakfast_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFQSGyW-1RIYR3dKfrAy1KB0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2101128292208726749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Steiner Ranch Steakhouse",
+    "address": "5424 Steiner Ranch Blvd, Austin, TX 78732, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "Sophisticated steakhouse serving prime steaks & wines, with views over Lake Travis.",
+    "website": "https://www.steinersteakhouse.com/?utm_campaign=gmb",
+    "phone": "(512) 381-0800",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj0qIvv0zW4YR8W5ZjSbSqC0/photos/AWn5SU6jcV0NhFyxBRWXdKWg0TVaI5kOQkLuk7a6zBv-e1nQxQAJZ0Yb0fe4GVUW3LeOWx8IRhgMHj5NbB2ZHhwp19_FP5NfE2mLSleMyVUwJU4kOAiInugra1pUgZ-JYQ_CG5nYPRjvTK6cw7ihTItOMXCOaBlXTnrwGtbVfXKCtgKJb1HNgquBvVBqLLfWBAqCurKbJyk0vLUY8_1HnoK86z2wc9HmndA_CDxG3VHxoFwccIQQ2DBPr19-WrXfetprGW166jUDRd4uT2mJJOULcb26qc6DYVi-g6Z7A2Avcq_Qxg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 4549,
+    "coordinates": {
+      "lat": 30.390127399999997,
+      "lng": -97.87158470000001
+    },
+    "features": [
+      "steak_house",
+      "bar_and_grill",
+      "fine_dining_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj0qIvv0zW4YR8W5ZjSbSqC0",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3290110590816186097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "OTOKO",
+    "address": "1603 S Congress Ave, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$$",
+    "description": "Modern omakase tasting menus plus craft cocktails in an intimate space within a hotel.",
+    "website": "https://otokoaustin.com/",
+    "phone": "(512) 994-0428",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJke_4iPy0RIYRVz6Ttf70Y78/photos/AWn5SU6md-Iz_dHGUFWBpaKhAcbl0p5N6wVx7qSlqC8Y35_Hzm5VUf0stlqVNKs3cjHSMER_U9-n-mSZ6q7e520_y_eG89p7SCyhSb5yW36omG6Q0jVNhJDD6ZsKL_Gg1Cyu-HhYtgpA9jZxZqRJqIvm9W5ZYG8-0YkhcXyWRL5mnRcsLAHqAm2e1OkNt1iKISjy_fxV0tu_O9siDaq2TOa6z7VNjmmBKJ4lCUSA6zIJVyE9aNqryGHXMpoI_UM-wW99jqqFNQ9G1QFpl_Iq4nYnKtpPgCZ7agOl19WaXLwBjno1jQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 412,
+    "coordinates": {
+      "lat": 30.247543699999998,
+      "lng": -97.7502607
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJke_4iPy0RIYRVz6Ttf70Y78",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13791135858743787095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Standard Proof Whiskey Co Cocktail Lounge + Kitchen - Austin",
+    "address": "51 Rainey St Suite 140-A, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.standardproofwhiskey.com/",
+    "phone": "(512) 220-2318",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfyXMHs-1RIYRCrjk2bbxIvI/photos/AWn5SU55MM5JNcgm4U7twxywUp-UE7eT5K2smH2edG_H7MTpbeMhhWaipCv3KzopvaXbTVoMvYm0NHR0PBFijO3ZMb1pvcc0NfH-YgNGod23vfpaz7q9j2--07MuPx3KDIOD6WctaY8tVvjOEJ4SFx-eLSDA_-I_rXjwtYmmxOlHLoLZmQ3PEAg2-R8m4rcleANfohNl-Vlo2sE0bMCr1c0dMoWv7iYzYJ6_YrLFbZRB_xu8Lsik3aKUXPN4JnCFxRyIVYgGnJcDa-iiwNd9gSRafZCJPOU6dWW1daWCXCHgifUebrYZjhY59DVGV4Qd5JXoAUvWihqrfL29k8MrIHCInrMc4XXSEmNfOOxCVeMGgnhlKzKnxAbTx77AalHE4TVW81xVc1laefSx-ZPpqa-qL-nEntUTWmbuCScnEXLoN19PXOhe/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 150,
+    "coordinates": {
+      "lat": 30.256931199999997,
+      "lng": -97.7393266
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfyXMHs-1RIYRCrjk2bbxIvI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17447773674028709898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Upstairs at Caroline",
+    "address": "109 E 7th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Open-air space with full bar including draft cocktails, tacos, TVs & bar games.",
+    "website": "https://www.carolinerestaurant.com/upstairs-at-caroline?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(512) 982-6766",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQyfp5wm1RIYRuYHlan7PCQs/photos/AWn5SU76DAykqDRZ2HPx_wlXGXuvZtGLRlbpDF9VQ-mS_iJu0h7t29LjbHtI1R8vGxfWyKiG0a34ldKQgrDAG2gVaPT_GLsh3OSSjpM1zJqPQgvX24Nc-eN_Amo5lKlDdPGCgRrUjf90M37TJtJA_v9j7UVOBCPwnOE7jmfOv_31zcxnEkGWQ5hTsgXC-u8qlATRKV68NkFxoUezUvfJ2EZ8A3Ag51UXVBjgGyJFMmCO9mn9ch2sFMNllCrIwqFrnIPEyWRwP62JR-5VAkBSuSAPkUhVHHFCaJKU2RqWrvb95TAjow/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 6245,
+    "coordinates": {
+      "lat": 30.268663500000002,
+      "lng": -97.7420691
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQyfp5wm1RIYRuYHlan7PCQs",
+    "opening_hours": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=795394951073857977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Seven Grand",
+    "address": "405 E 7th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Masculine watering hole with hunting lodge vibes, crafted cocktails & a massive whiskey selection.",
+    "website": "http://sevengrandaustin.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJvYIs_6a1RIYRMcxe8rqXzNw/photos/AWn5SU4r8ZXAiz17QrLKSCMl5LlUlnIpfR8qUYDlLyZo_CyC3JnwhaHyNEAmjgqRSzMeNnJ9AszLfJF9HleH4kUAojH80vmXAATfC0HC-qS-K0DPesgYgIlJATnHuu3KB_d1s9bzLJeHKnuoXznicVy3lY50cOhFIRRWiFgnP5S-v_Ml8qbR5IaMHUm0F0rjzSaLcgLkEWoINWOaOS4FvXShmDcXbWDb3yTaDtRNyY1xa7rK0wjPWU8yOqleffFyrm1X_RQ18VJ_6sviJOlDD80wdl7Z88grndyBbrSvBXCkE5SgFg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 681,
+    "coordinates": {
+      "lat": 30.267697199999997,
+      "lng": -97.73862690000001
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJvYIs_6a1RIYRMcxe8rqXzNw",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 4:00 PM – 2:00 AM",
+      "Saturday: 2:30 PM – 2:00 AM",
+      "Sunday: 4:00 PM – 2:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15910258412779129905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Cape Bottle Room",
+    "address": "500 San Marcos St Ste 102, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://capebottleroom.com/",
+    "phone": "(512) 222-7840",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-Zq-fC21RIYRBasa8442paI/photos/AWn5SU7x5pVM3MzI8c_KUuckybv6tdsRZphV6PoTfVU6TKDxK0W0GIEEAGCd8oLSkPZjVzcKIAMKo1HEkfKruHCDNfkVQnG4MW-vbBJQwtKgPFEHrM63rupeTAS6q75vT0nSZr9H93PPu_27-_VTI55qJob6AJI87gUiZwcMthwywu-5MOWoIjIz4JT46GEY5byF5LERHB5CH1G56mcSLK8p866tixKp9QJ2jDCVK1X2P4f1hEjHQyxUxrg9pbKHSFT3lKmy6SXUn3EGptjn4QqAUHb3dem0_qvlgV77YfT_oenEUQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 100,
+    "coordinates": {
+      "lat": 30.264573700000003,
+      "lng": -97.73301860000001
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "farm",
+      "wholesaler",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-Zq-fC21RIYRBasa8442paI",
+    "opening_hours": [
+      "Monday: 2:00 – 10:00 PM",
+      "Tuesday: 2:00 – 10:00 PM",
+      "Wednesday: 2:00 – 10:00 PM",
+      "Thursday: 2:00 – 10:00 PM",
+      "Friday: 2:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 2:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11719833592893451013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Wanderlust Wine Co. - Downtown",
+    "address": "610 N Interstate Hwy 35, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://wanderlustwine.com/",
+    "phone": "(512) 522-2551",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3fA2rLK1RIYRNUpvt7u0vSY/photos/AWn5SU79RxJvUQWGPPTvF9t6mVeN-75m6whN5vY2dZcpe6xV1VOjGbkS3vBokWjPIRSIjoShz2Sl9RaPml3u7Fi4TlNB1uhex_4KNOwDS9-7tCriYJCAYITbvxFAklzaZc45aThNMa4U1fvsuEgAGs4lLXYWyBq_CehKYl6Zx65Yhccy0rpXAIPnjkeCaINo3wm9wl7vfp7bAD763xUQRJCJQO42GLjyXUxesPZyYfDlez_vk9BLdY4hSAFNE2UArtJgwhFwmjcGV9-NmBZEbTZSxKdIu0LBhq-FJ2r40aSmsObuWw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 194,
+    "coordinates": {
+      "lat": 30.266388,
+      "lng": -97.7351274
+    },
+    "features": [
+      "wedding_venue",
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "farm",
+      "event_venue",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3fA2rLK1RIYRNUpvt7u0vSY",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 3:00 – 11:00 PM",
+      "Sunday: 3:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=2791586062368983605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Uchiko Austin",
+    "address": "4200 N Lamar Blvd, Austin, TX 78756, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$$$",
+    "description": "Offshoot of the famed Uchi restaurant with upscale sushi & small plates in a farmhouse-chic space.",
+    "website": "https://uchiko.uchirestaurants.com/location/austin/",
+    "phone": "(512) 916-4808",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXQ-Uy2LKRIYR3W5SjLhBBj0/photos/AWn5SU5wwJvjRUv5l3peHezoL7-s6wDElds-u5HLG1QApHM8k-83zE0SwrvL0X7NJ80V8RL83-mqlahgWl9dn8KIauAXW-X3LXGSs-FAXbxq0qCzq6lkb_ECMYX9DSnfIt1TPMQZwKaA0XDbsrMeXyqH_6O5cX4Ztdn1DXstiYrqhedfc0xniHuMQBcjbwVo7le-AO8uSpTlEkxYc8Z_vu90F2Jj9UnKFNwjNFIXWWPWsRbGuCxmDkVeVvo02hLy2OAFzljGUgSleDSr_xWnviDO38ECSl4gfiYLbhoc6UpJiH5DQevyCrQmwZrnW-WeUbYxPGn-ROcCSJDflG9y_EVj0DdVeFXmjT8GWETkn93PLPlmSyq-bSQI4EgQ_NvnXvWgzu1ZjgKyGqniBhGQo5NP4bO4Y3Xrh_PqzwvwgEjJuGAzhKQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3317,
+    "coordinates": {
+      "lat": 30.310775900000003,
+      "lng": -97.73998429999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "meal_takeaway",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXQ-Uy2LKRIYR3W5SjLhBBj0",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 11:00 PM",
+      "Saturday: 4:00 – 11:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4397274347057868509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Still Austin Whiskey Co.",
+    "address": "440 E St Elmo Rd Suite F, Austin, TX 78745, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Whiskey distillery, event venue & tasting room with daily tours, music & a food truck.",
+    "website": "http://stillaustin.com/",
+    "phone": "(512) 276-2700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc5iyPZi0RIYRO6_p1mHdgKo/photos/AWn5SU6Enz8QzQuLStyH-FmyOvQtfFcEjo8-4jUaxNfgEel78__pp4ZzfTxo869IkQCxIWiPbGaC1npHp8Qkj1O6_X-LCbnGSg_dJH7eJAVWy6iSq_UuGfTbVnlNABfBtD55bW5VGpEcoiM-DrNnBWHsfo3rfki2xi3Eyt4eaMPF6TIlpcpLRdYl5wqrBiW2EXpIHA4fJTkvTseOUivFQUOxCxGDy3gnHXZzPn1FhXLUD8t7kUJ0WYO77gNqPHk-vsShwIUH2Vx6bBls-x8qz8YkOjNUx9Eh3na-_85s6P2rbAX7Uw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 806,
+    "coordinates": {
+      "lat": 30.216991099999998,
+      "lng": -97.761353
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc5iyPZi0RIYRO6_p1mHdgKo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12286063195753918267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "LoLo",
+    "address": "1504 E 6th St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.lolo.wine/",
+    "phone": "(512) 906-0053",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNxfDT5u1RIYRMm3dgzuqmVQ/photos/AWn5SU6AhzgI8WVDYBukm1pFrgNzwhfgj4MWJOhV5_8vfjACpi3TfJODscKr-azx6q80w5O7B6xHzk8D5PXtwV86Jzg6ZTL7CebYoAXselNo_342HpG_2qUSr_aP7R4JhIW0ZhXgrKPcwAnn-pWh5Lo2qT4c8MYyoUfq7CyNKXKB6pLCxFiCTOwizAtqtL8n0oynLnjHnHA82QMlMqUlPBQFPtk5Cv2bc_z82Eu1OoUdjsYY6iaI15meGt_m67a3DlX3Gf9ntu2wO7JT-5PQy6v9BdJ6FXw1co88VcYbSRbLa69Mzg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 195,
+    "coordinates": {
+      "lat": 30.2633834,
+      "lng": -97.7270688
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJNxfDT5u1RIYRMm3dgzuqmVQ",
+    "opening_hours": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6096090743214796082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sushi Junai Omakase",
+    "address": "315 Congress Ave. #100, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Upscale Japanese restaurant offering a tasting menu, a sushi counter & booths, plus sake & wine.",
+    "website": "https://sushijunaiomakase.com/",
+    "phone": "(512) 401-3822",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJY4aIpwO1RIYRNuwCbsPuPdk/photos/AWn5SU7WPvgYZPN-i9KeHlp-y5W5ZP4TnONC2uUbvQ_AFQFLV-qYb_Ol1mv9_lfCaNDyujMON_gkjw765ssK4Uhz89O1PFS4UF8z9xY1e9IYu0ofv5tDFOpxkc9xFAk-MKOQeFeLhmxipMQAQh3vqqdnA6DhHuwwzBGrJORzyo3efp7gkYdUsWS67MSeGeZU9arPzL6Cgy3ICH6KnhmUuLyCQqt59v8810b7yy6FU1Ksck7j2_9iAYeqGyWX-lHN54AACm3CZVQYJPo5FOjTFq6LYjSmFbiCCwMVbeLOiNL7QTVdIQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 472,
+    "coordinates": {
+      "lat": 30.2656326,
+      "lng": -97.7434918
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJY4aIpwO1RIYRNuwCbsPuPdk",
+    "opening_hours": [
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15653930402941430838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Endo",
+    "address": "609 W 29th St, Austin, TX 78705, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "http://sushiendo.com/",
+    "phone": "(512) 350-2789",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVVVhDn-1RIYRELQcWm1BsJQ/photos/AWn5SU5S0SNcLNtzr8GVFiLVIVo-lj3EswnXnmLHKk-F9cbSwXBYdjDUGj5aQInkFE2vwp6mLw1v-aRzdksBZWScpsK-mikYWXEvzHXpRRsXnYyEX8qoDehi-TEzjxtp15DsRCDA22f0WlMQ7AmSSUnh_QL9L3hlJwLq1Rn8FzwNkufM4Z3IkkLGAX-hi4xQnGwPzurQmKwqTJ_nPGXL3mUuqDt-RjagQbdZ1AeY198XlxRBPMg5DeCtZh5L70XCp2OJrmIGD-eNRS-5c29mFpE5cCnJPzeZtk5l4wxLtpVnQRZTmA0kfvNqgbsueLoGroCV0etDgx_Air1o2xRnt_umlEUf1mutJIwQGiJkr4-O6nwBCJK7npIPVsyc_FbgRl2w8f_J-Ca142I9Z1NQ09sQTUYgOBg-_WtsOz-Tc6Iw9t_w8EXF3lg4AYGgL7pXSllO/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 135,
+    "coordinates": {
+      "lat": 30.295346,
+      "lng": -97.74343150000001
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJVVVhDn-1RIYRELQcWm1BsJQ",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:00 PM",
+      "Saturday: 5:30 – 10:00 PM",
+      "Sunday: 5:30 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=10714135451433481232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tsuke Edomae",
+    "address": "4600 Mueller Blvd #1035, Austin, TX 78723, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Cozy, unassuming restaurant plating omakase meals spotlighting high-end traditional sushi.",
+    "website": "http://www.tsukeedo.com/",
+    "phone": "(512) 825-3120",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp30jG-S1RIYRmjvTat08Eno/photos/AWn5SU50PdudSLNF38IZ3KO_7OFD9Ve5Ps5ziLkEoeCnuhhZ6YgSyijukj6PReYgtv6PwuvhjQE3tcJ1L69LhC92A7Ue79Kg6epngDtrZBBbuCf896JnH-YrtecgZkNSCfuvJcX8t_njBHQH0yXUI7Ky-ak7GqGRmvrFdA8eU7Bre-ncSPaiGIyl3bNvGlDBoAKqm7D0WmRsuvnFtQ2BLZfYSW6m1I9qz2wI-xEQ7a4_joP6-m351BTVV9dlCnClxU6xULaDzPWbDG18Ll5ng3pfvm0-pMZ-LsOA2Anz6g-HynNOrlZYNi57lfv_kIg4wV2mGkfd-gL3GQLw0a-39EbmOqIUnAGwAHSGDdvWg91KrTy_qLhNd7ilc8LizjSUVpcWMDT5Nm0Js_bAwOmDlCHPJ3OXbyLM91qbj6MYe7QdFkAZ0mrAt5_8C1Nd00iuPlr3/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 125,
+    "coordinates": {
+      "lat": 30.298540300000003,
+      "lng": -97.70744599999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJp30jG-S1RIYRmjvTat08Eno",
+    "google_maps_url": "https://maps.google.com/?cid=8796159943885667226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Uroko",
+    "address": "1023 Springdale Rd Bldg 1 Suite C, Austin, TX 78721, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "description": "Tiny, informal sushi house offering sashimi plates & temaki, plus sake, beer & wine.",
+    "website": "https://www.urokoaustin.com/",
+    "phone": "(512) 520-4004",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AWn5SU7M6deHSH8TYt6Dmqr-q0v1Yr_eRhK3LEJ9DeGQux7GeQEHhEHZbaIvGBi5k2Hj9sjmBIrfWMUra1_d_09nknwKF87YhRvXkQZ0a6kMeyl-XTV_WaF-49EZjtOagPktDdViJcwzFFo1T_DsN8mWOPJuMCWD2No0m4h8g2OXfjemxFOlVLmtn2o20O84zSkvJl9fErmj3AS_-oetAHa6AetkW-ENJ145oqxJkYSK_CRqGlwRUobDGGBlibnpjcw-hLKr7pQ0XEJzLvF0dY9aa9dmCgbz_ha73taB9JFIDvP0xQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 402,
+    "coordinates": {
+      "lat": 30.267715700000004,
+      "lng": -97.69391859999999
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJe5D78l-3RIYRPmrA68S_Mbg",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13272600429327313470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Soto",
+    "address": "1100 S Lamar Blvd Ste 2115, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$",
+    "description": "Upscale Japanese restaurant that serves sushi, cocktails & more amid a sleek, grey & black space.",
+    "website": "https://sotosouthlamar.com/?y_source=1_MTYxMDkxMDQtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+    "phone": "(512) 531-9142",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJz7WqZx-1RIYRg92N62_QVKk/photos/AWn5SU7BCK0KYgWJbDPJN0kinVNuX0VTD4Bmpa52E8cjLVIPqtuYiqVD6pdYjznZk9gY3l2Yqtc3kWgKcaJR5tzWGZLRsMkkic6rSzk9u-lq5Tw4rm1Tmua5X-KTN7Zq4O-qx4mCp15uCJI9MB1UjCK0oXBrfruccU8QIt5WDnuFvPuXjA76GCBIPOqIsCqbsAdrHw9jfeojPOHx4U8Ggu22L-pLa5xrhKXvRcSf2bZnssOOsJMnj1nZeFMp6--pX8htep1z7LH7Ky4Fx7G3vQdfOWOBlokyXxoSs8_cPSwOwfwXbA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 3639,
+    "coordinates": {
+      "lat": 30.255685399999997,
+      "lng": -97.7620804
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJz7WqZx-1RIYRg92N62_QVKk",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM",
+      "Tuesday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM",
+      "Wednesday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM",
+      "Friday: 11:00 AM – 2:30 PM, 4:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12201606469565406595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Sushi | Bar Austin Downtown",
+    "address": "419 W 2nd St Unit B, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "sushi",
+    "price_range": "$$",
+    "website": "https://sushibarhospitality.com/locations/austin/",
+    "phone": "(512) 518-0707",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv2Muuf-1RIYR_gnsi0IYMK4/photos/AWn5SU79jCTwEwffPS3jyyMDHKyVk7E2ESMf7LksI3NzCPBqs96VGm8pthqft5N0CiDvPXWkA2L-YFaSWHb7QI1LkPyvPmudS6Uc3xBZb7gNIlOwIvDqZbLQDhymGH8Wmr3DNu-1XPbMZNgz0icG8arzHl2p7S9XKGxTItHuaTywKMgJyWc2nsy0IoOJRdhPOusiMcfA41EaGoPBufY63NR4eZJU4WJzWxymJWFKufySe_QBGEy09BrFW4ZrKFdgDAAlbw3AOgXolI4b41hoAejhEtJeNQ9pEXJULZjiq5kfoP_tRw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 278,
+    "coordinates": {
+      "lat": 30.2653019,
+      "lng": -97.7486565
+    },
+    "features": [
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJv2Muuf-1RIYR_gnsi0IYMK4",
+    "opening_hours": [
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 11:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=12551558835575982590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fukumoto",
+    "address": "514 Medina St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "description": "Japanese izakaya serving skewers, sushi & cooked seafood imported from Japan in a lofty, hip space.",
+    "website": "http://fukumotoaustin.com/",
+    "phone": "(512) 770-6880",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJB8Da8a-1RIYRHNa8cLsxPrU/photos/AWn5SU4kGd3jXf4FzHgRHaSYdi6NRv9u0Q_243iVfnDobr9-uY1sR5Ivg_WMlTXRvmK4emdX33BYs7oX2oUB55U1xYqHm4CJgv2a6R9uZkQslzOl9oiZ1f0nI1ICBRaA4i4aFVndilet0CS-QNgh8xjKMvVbbspvN5kFAblPA39-rS5VFmSCv_EQzN_CpEaCkah9EmRbK_CzoUq6Zdq8-V1ObJfRCPstN_nqSGx3fNCQk7u_2qF_1mLvIGBoSV9jY-bJ22ruia66VoD-1U8zaeOL1rDoMEOHIa000bUkTnVtrlXaOtmIvHK8r5dNfkvyC-J357NU9ryWqWmM1o8AXjEG7hVYrLVoXKG5sPfrC9Pc1CWwsbCmH-dcAAjU8qVJEVOXauiY_y469MrrrmYL_cbJIO-TgXMF0Lsc5Xi0vvVeDbdTi_dW/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1002,
+    "coordinates": {
+      "lat": 30.2646193,
+      "lng": -97.7317102
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJB8Da8a-1RIYRHNa8cLsxPrU",
+    "opening_hours": [
+      "Monday: 4:30 – 9:30 PM",
+      "Tuesday: 4:30 – 9:30 PM",
+      "Wednesday: 4:30 – 9:30 PM",
+      "Thursday: 4:30 – 9:30 PM",
+      "Friday: 4:30 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13059930650541086236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Nori",
+    "address": "3208 Guadalupe St B, Austin, TX 78705, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$$$",
+    "website": "http://www.noriaustin.com/",
+    "phone": "(512) 520-5775",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfURtWxjLRIYRW7IldmIck1I/photos/AWn5SU6-jz-xdBYazyV5QgPwUqMZ-eelAk4Id0VDYDgxGWIyrm0x9pN9q1gZ6B3adxaLZ16M7ZDKWa3WD9HyR598iJMPf8VzOM_MjoSHzxHMW_JVz2X0A_bsrIECkBpiP4ggFDtJWxh84iqpbsF8gyU34BwcEilK_RyHiu0FDg7AIVm4WG51_esdfYONATBb25Yl8tQwpTEBSj5rFRc-_vpZfj5vG6LTCkid1oRwJCdcy9pjsf_wPhJxnfEIHBdDEjzSIiEPZ4yBYf0e0GojVOUmn2M6LgPAc4TUr7_1WCHDqr7uZA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1116,
+    "coordinates": {
+      "lat": 30.299867099999997,
+      "lng": -97.74020860000002
+    },
+    "features": [
+      "vegan_restaurant",
+      "sushi_restaurant",
+      "vegetarian_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJfURtWxjLRIYRW7IldmIck1I",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5950130741901111899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CHOO SANDO",
+    "address": "5222 Burnet Rd Suite535, Austin, TX 78756, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://chooatx.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJwV-8ODHLRIYRmClMNaa6KU8/photos/AWn5SU4g3m_Qp1OwZhM661C9vZmI-XqVIM_saaIpY8XrvMtdaPRcgQuM1LkMr3qJD9-VL4wx1TU_Wl3K2X6_eMKyK0trYkgn9A10_RxexMS-TznviUDkX0KZdPVEh9biorFN0dkAxyPgPM6TprcjpfRV-QUUeNX9olPtpzVLZih-gPBgc1MlfqCMzRqpf23zSbdKKP54LC32a172ctvFeC_PAmMI55HL7R_9jWek4sNQGyuVSD4x0crCbykSQqudum91ojWeQiVBh9I8mtfAscpuvt8LMNPIZcRqVQqkmKVS_reRG8daCQp84GCvKFokQeYkQlEOl-AhiiQQx5h4e54nrHNuK6oNDxCBtr1si3ZiDd2is9kNlVKgBk9LMITjXnlCsuzh9QnzmkyedPV1hrIPfl0T7jAk8z2OIm9qZzSrOC-p4Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 336,
+    "coordinates": {
+      "lat": 30.324704299999997,
+      "lng": -97.74008409999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJwV-8ODHLRIYRmClMNaa6KU8",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 10:30 AM – 2:30 PM",
+      "Thursday: 10:30 AM – 2:30 PM",
+      "Friday: 10:30 AM – 2:30 PM",
+      "Saturday: 10:30 AM – 2:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5704295626062965144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Acre 41",
+    "address": "1901 San Antonio St, Austin, TX 78705, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Clubby New American restaurant specializing in burgers & steaks, plus happy hours & weekend brunch.",
+    "website": "https://www.acre41austin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(737) 243-9020",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ3e2rtqW1RIYRZTwAriI4gDg/photos/AWn5SU6lkRjweZp39RulcviVjvetRvGv-EKpR0x3nssGI9qnGH-engZPzh-0GSSG0iS9CwnFZ4_HOnPgdN-nvC7OCQVGNPB5bhRvwoM_ZX4EHxxCWekE6tZIL6kLWis85ag2Vhz73yxxkFGQEHHfhxpL-49qt-Sr7n9aXK8Q2ZnOtEItuIcDP_f4tsU62Q-t-cdfjrrKpAMt2sJbD3po0RrIZrZQR0jwxgcLWrm75hT14r8ywJ_JqH0HOmQ34qk7ktOG0kbYCNtT_Msc8t5eZW1cf_XN8KJqwSYDjp-MNSj9NmVZlg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 2018,
+    "coordinates": {
+      "lat": 30.282409299999994,
+      "lng": -97.74287299999999
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ3e2rtqW1RIYRZTwAriI4gDg",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4071315784742222949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fig Italian Kitchen & Bar",
+    "address": "3403 S Lamar Blvd, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.figaustin.com/",
+    "phone": "(512) 749-4988",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJndqjXQBLW4YR4e4Edn7JQ_8/photos/AWn5SU6O0s-XM_oPj8kKuIcXp5AuuwG7m-hOCyIs1Ll7J7knsjeqDM0m139OmeNVdcXiZaKHx5lQriLl1KQpBLsPQCOEtZwQrwRqCN2Nx7pctTf5IJ_T7tLT7qRpTFY_h5hymM0xGW-ZnLuKeWkp9YZ1EQ5FUP1u4e1pEp6xwXOdDqt1EpswrzpffcCPkfUUSKzdO2HiVfhp9tfn5QtVYnQ67ZYXC1myNolwYHUCyY1Op9t8YmB-Qh77Db0CPyXwP682sjpq9tf9IPAqXlS-d-TdQMmt9YWJKOBIzBpc75YP_oQzKg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1127,
+    "coordinates": {
+      "lat": 30.2407046,
+      "lng": -97.7858874
+    },
+    "features": [
+      "italian_restaurant",
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJndqjXQBLW4YR4e4Edn7JQ_8",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18393766848094334689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Intero Restaurant",
+    "address": "2612 E Cesar Chavez St Suite 105, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Sustainability focused farm-to-table Italian with pasta & artisanal chocolate on a rotational menu.",
+    "website": "http://www.interorestaurant.com/",
+    "phone": "(512) 599-4052",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrxfsWDO0RIYRzhXtXuegE1Q/photos/AWn5SU4uGfHItcG4jdGvA4JEpQMhv6lyC7h6lTIY2zfZz-o9NRQY0TF5KQVVloIO1zq-6fn14XZXVgvdEF1Q9tJnHy6vr5GRc1BqST7BQK559jb_VzKzZxzmjR46aNgVpCe3bIM2KPTTrJJQlSLQOuCVv_4hSMgZuwwFeCyMNGVQJPgF1jZtv580mTDRmnhdLtlYfCFj73zaxR7XBWyaYkcTW_D7rGgtGiUXnZm3eClyoNozy5mogboQVsAuLHz6g-KAHMZrkNrEyYBWyk8bWE_pkaUXF2Y_tMVLlXVOr6DN8NrpNpwC1W_6xvNlzoT3S4928b4iV3c5bT2U-NODPutvkp8sEG1YUSZMD7SKYw5TSKZnFcCeH9Zncdgx9oIhIRnBBrc6Qrqagsu5bOV4d-hv5fjVJmEB6rWe7IpYdD-_-IpA4A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1138,
+    "coordinates": {
+      "lat": 30.253700000000002,
+      "lng": -97.71443
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrxfsWDO0RIYRzhXtXuegE1Q",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6058362839333934542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Caroline",
+    "address": "621 Congress Ave. Suite 101, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "cafe",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Breakfast, weekend brunch, lunch, and dinner in modern surroundings with cocktails, craft beer, and wine.",
+    "website": "http://www.carolinerestaurant.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(512) 982-6766",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQyfp5wm1RIYRd7IXfFuFzTg/photos/AWn5SU7odZcbW8FYiwlI6A9a1VrLiAHMPTpblqfiD690_6OoKwlt7bD8_vBBPoswUWoOnstlMmasNb2vZDRTjUC8sLo6entCSyWqHd8NBbD_MnVjTrfCGh27fUgs3vmw8MnC_14K9kUUyDWy4R2JJk0UOQsQD1VeDaANXJo0UlcSF5BQgP9dRMjR2WBhObOJt-gLynjW7KY6lt7LI1Vn06A4DSilqMM0u6EQFMlKDUFkbh1-69xoTdKuHdlFl-7ARh-FNzYu239dWq6aOY2ppqZjo10bNMRq9OCd_5ebDWtgcuQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 13436,
+    "coordinates": {
+      "lat": 30.2688157,
+      "lng": -97.7422982
+    },
+    "features": [
+      "american_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQyfp5wm1RIYRd7IXfFuFzTg",
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4093074264320094839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "ARTIPASTA Italian Food (Austin Highland)",
+    "address": "6406 N Interstate 35 Frontage Rd #2510, Austin, TX 78752, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://www.artipasta.com/",
+    "phone": "(512) 919-6574",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzSxoj9TLRIYRKKFYimt2_Xo/photos/AWn5SU7PmGZzbx0xvgowwwkHjEovJ9IB6eyOjZJzrYQZi77T6Ov-yZYinM1tXpK6gOncP82zqOlXh2FEHIbB7G1ztT8WJa4HiBWV_G3VaD6LZXtRw0z6ai_s39sCMRgsuhisDk5Ml1370i3zA1f1BVvnckJNTRpZ1OHbsDICIqDu-Fgw_s7SJQSJQo4CXglPuEWZ3Alz_ad2hs2zH4Jm18kdQGbZMy-4x46HhazfmvLgIfA1oGV0yokSak0-IVyVhcGMbK_MkZGepIlWGIkiipAKmqyka0WIPFeVF1wZ4Qh0_XGrDg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 552,
+    "coordinates": {
+      "lat": 30.3252964,
+      "lng": -97.70749149999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzSxoj9TLRIYRKKFYimt2_Xo",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8862369845989646632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "La Volta Pizza Club",
+    "address": "900 W 10th St, Austin, TX 78703, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$",
+    "website": "https://www.lavoltapizza.com/",
+    "phone": "(512) 291-6772",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCTBEeTS1RIYRZ3XVvyoxf1A/photos/AWn5SU4Wm8-hNhaJ3MAr_PfzLeoNSstXrWPqvXkgauFHnUG0WG2INIX5g2lw-PUpPsmXt1ujOdUDDDIy-1aQVQ2eX1L4TS5avuOQMRk-Tym0o4rflAmAs2E0yUIAr8Mu2r1-h7fdFLoNCuhRuBwkAamCSvQm8siWO9QwwTrwhQG66TGyIjsj2Vm28mIXaVm_c9rUSGYNkeUIEpNQahhPOJtE4XFNic0XHAcck19cJ-9lV0EG7fVqWQv294J2vlOj5FCC7VEMdteAWc-5fYAzg2Nb_AYPQV3JuwbUGCrPg21TM7dOn6sOLM5mvCdxgXCgb0Bc_dgchoK1rH0d8_nbXwKgjITQiEzUgaiZI5_nR85gmdHGhDUwl1mxwNl8rESaApps_Y9_5KbE98ft68JtYlwlUI9FF-voUn80xNjNiX0mHOdvTg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 414,
+    "coordinates": {
+      "lat": 30.2749728,
+      "lng": -97.75170759999999
+    },
+    "features": [
+      "italian_restaurant",
+      "pizza_restaurant",
+      "wine_bar",
+      "bar",
+      "food_store",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCTBEeTS1RIYRZ3XVvyoxf1A",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=5800408904753313127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Gyu-Kaku Japanese BBQ",
+    "address": "1211 E 5th St. Suite 100, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://www.gyu-kaku.com/austin/",
+    "phone": "(737) 209-0351",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJizb87hu1RIYRBAj41G3cmV8/photos/AWn5SU4_7-8keYhWDiPIIBhO4NcfYiEPE23RiX4g8gBde36ts1vah42cDf1AXufr05ZINuzcX5oaGmElsLVmhYzaeDRDJdBTx4-fs8EkGPpfzKiyNM5B821ZJG04Q6SvR_Spes6K-boFksBIxKBw1BcPybWBzRodK_j7e2d1-KLVYGgZsHiJNMhGpctJLErgd9qEQ8JY-MaifbUwXWdJkSwV4p7yf2qb0IhT2u3o-oMd6jyzFwWFIq_GnrNaYShkek8AA-i6lu6VooBTnhMnCBQMJrFgfCMim09s28cg-rseHRGHrsbtVz4vUI54gbdl5a74_XTXYcnxLU1oJoM_dmWFZzzjnnmY2NRNeF-ojNK-TlgaQ-BmYFlmsFopy6T4n4LpXkTq08c2PVJLb_KS4cJ0Ap3LcMLtaDpFB3oKzwnxCqe1zQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 3918,
+    "coordinates": {
+      "lat": 30.263285999999997,
+      "lng": -97.7307745
+    },
+    "features": [
+      "japanese_restaurant",
+      "barbecue_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJizb87hu1RIYRBAj41G3cmV8",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:15 PM",
+      "Tuesday: 11:30 AM – 10:15 PM",
+      "Wednesday: 11:30 AM – 10:15 PM",
+      "Thursday: 11:30 AM – 10:15 PM",
+      "Friday: 11:30 AM – 11:15 PM",
+      "Saturday: 11:30 AM – 11:15 PM",
+      "Sunday: 11:30 AM – 10:15 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=6888779469322455044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "SUSHI ROKU AUSTIN",
+    "address": "405 Colorado St Suite 100, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.sushiroku.com/",
+    "phone": "(512) 651-0990",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtxx1fZO1RIYRR1Gn6q4Rwe8/photos/AWn5SU7bcMBP3FM6FQ4BnzBB3OAtYVeivyMoSigROVABd5Afi73NCrZ-2BWMpxN4GTU3EN5M5wZUSH591az2B9i_QNt_yd3_OkXuKIgAxruBKpckqD_qS6MjU_d6jRasVO_L4F-X-ao-E_vi2Yh72XHTy2oZZthVkvwdeeZGJs5cEYlTX7i6gD4gRBdqaa7ApxSNNbu8LZQwFS6AkdfXPtDFXPJu5qMeCKMV6eymflWTKQHfxK9Zf1xAhw6RYuFp6WQIkKF9ZAPLB2gNZeDGeHem9rpGE-F3Cr7jGt418wVEQqKOkBsRTMB93oTMQIDOd4-Nf4LzntIpP34NC_F13z2tRB9pW_RkK4IsMxsFL6WQX3I-9RQnsjxDJu1WL06NQjwaUukwiQzFqUeNgyN8maoSA4SJSP0PPsRMbzuL6LPD_C9JT07CZ3Pnw25HoJ2KQOEy/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 400,
+    "coordinates": {
+      "lat": 30.266888299999998,
+      "lng": -97.7443502
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtxx1fZO1RIYRR1Gn6q4Rwe8",
+    "opening_hours": [
+      "Monday: 11:30 AM – 2:00 PM, 4:00 – 9:30 PM",
+      "Tuesday: 11:30 AM – 2:00 PM, 4:00 – 9:30 PM",
+      "Wednesday: 11:30 AM – 2:00 PM, 4:00 – 9:30 PM",
+      "Thursday: 11:30 AM – 2:00 PM, 4:00 – 9:30 PM",
+      "Friday: 11:30 AM – 2:00 PM, 4:00 – 10:30 PM",
+      "Saturday: 4:00 – 10:30 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=17276109088528748871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Little Nishi",
+    "address": "603 W Live Oak St unit 4, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://www.littlenishi.com/",
+    "phone": "(512) 529-9903",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJl39eMiu1RIYR-EnQqJ8ecNA/photos/AWn5SU46h9ug_ueJlVzwTthPxmA3WVVxNwJyKIFsK_haGOyOtlPpP-CIR0Cjz5uIrC2GGDtossO9cBKLk8E729z8tFtPyHk6dKtuMwKsVlPdT093VLw7fubQ6FQBYRQCCczofMxX_mtMci1VKSX22NGSV4rXMqJS-hSTJ9ioGcq8-yIo8orPHldo9rjD8nm-7rFhUtRP_95a0tcH2reZQEX0yfftjLS6jgY2M3QcIs8HS_jo0PTSDZIpoc29mOTKhWjq9wL0NMorXqvvKOB_tlbxtLXWxAUbv32GOXcC0AwI6Cs/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 117,
+    "coordinates": {
+      "lat": 30.2444179,
+      "lng": -97.7580971
+    },
+    "features": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJl39eMiu1RIYR-EnQqJ8ecNA",
+    "opening_hours": [
+      "Monday: 4:30 – 9:00 PM",
+      "Tuesday: 4:30 – 9:00 PM",
+      "Wednesday: 4:30 – 9:00 PM",
+      "Thursday: 4:30 – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15019538428361460216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Machi Sushi",
+    "address": "2200 S I-35 Frontage Rd, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://machisushiaustin.com/",
+    "phone": "(512) 358-1117",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZ6z4jbe1RIYR5mH_PDKq6HI/photos/AWn5SU73OzdqyaMBg8CWz93j3_QfGaLqoVVK0z5G1HfWnReQXWL2ZzsXofNkEFm4NPWwrDZkhvaVE-nsJJxtYldzWf2-BV33H7j-WKeimYQx95qwMh2YyGyllUBBvlwbHZgxgHchxgHw4MmUnzok51kuXcRYmM83NU_pV32BAahVeW3YcGXaLbTGKZHIFZng6fOANpYCaT9MivDrGtMuoxopaHvBcHGMUd9EkaQjcwdP4YSR5-djCvB5XtUPUVZ4hParVEvDMnf9QmBN3rn2RY0EE-zALJy_7FqhkKwIjQqPeJCi8g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1587,
+    "coordinates": {
+      "lat": 30.2348527,
+      "lng": -97.7417114
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZ6z4jbe1RIYR5mH_PDKq6HI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8280055047669113318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Taqueria De Diez (D/10)",
+    "address": "206 Trinity St unit 110, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://taqueriadediez.com/",
+    "phone": "(512) 633-4829",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDSfb3Dq1RIYR6BUfB7JSNRU/photos/AWn5SU5nhvWIuhYGb_7UNI2EOTVIzb14WxLGOEPLh-rcdVITP12uFyj2ZDekx1045ekXL8Qc4_mSzpRuLBovwV9-pcR6etKdXxGfytU8EhD8oZgMI_CH69V2l3aiAr4Zavi1kvZjrG4Vyx-01_Xq2qaF7dKXJ17sBrMSbR6oyeamraVN5qT6lLha0McdlI9dk17YDGRYAudKbeXeF6iMRDdxRYJUmQ6H9fLC0WezkUNGEmDgwkChWy35fmHR3C0dpdEfSarNZZ_jeONWOPHpLJDkDf8nYb7eWZvnvBIJOB6dgVmHTGSLzWAjcOJdGOZxXs1RTPeFlih6--MTnB5XvFTPFSBQitPtXq0wzOf6br-1VcRtEgjwAuFmtQduA9fPN8fduxvUTzYv4cASlzwF8qPjHRpO1brSS2g9aAdscX0BpwcD72sZ3C9dv9vXwkHsPw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1475,
+    "coordinates": {
+      "lat": 30.2639708,
+      "lng": -97.74081260000001
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJDSfb3Dq1RIYR6BUfB7JSNRU",
+    "opening_hours": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 1:00 AM",
+      "Friday: 11:30 AM – 1:00 AM",
+      "Saturday: 11:30 AM – 1:00 AM",
+      "Sunday: 11:30 AM – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1528218573139285480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fonda San Miguel",
+    "address": "2330 W N Loop Blvd, Austin, TX 78756, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "mexican",
+    "price_range": "$$$",
+    "description": "Sophisticated takes on traditional Mexican cuisine served in a colorful, hacienda-style space.",
+    "website": "http://www.fondasanmiguel.com/",
+    "phone": "(512) 459-4121",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJc7Guu_XKRIYRSxDQUZwxkns/photos/AWn5SU7lJdFqGOk0rRmuUIkCdFQkdofUYl1s1j9BM6w93eHJlO9dDyi_K-u0nNFIqi8xukv-O30NVBjNTy1Z6Umgt2fGHVcQ-140KNFuFuI91DHmTdWOBV1yAhtV3_BPPTexmBHa9NrHsPbemrbAm5rccChX07nVincLrH3UKL1FjBsBQS0BvUDgJJjIUpWAjADonV_mJDFKVG0XfPx3KIvuwtMHWrQV51sWad_LHTDnYrFv13oZaHYGEv9Q8sa4yUULA-UOeu80DktFmxj9-Sqq1I3WvU-xe7LE7mimrgfaJoxdNA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3504,
+    "coordinates": {
+      "lat": 30.325583499999993,
+      "lng": -97.7433722
+    },
+    "features": [
+      "mexican_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJc7Guu_XKRIYRSxDQUZwxkns",
+    "opening_hours": [
+      "Monday: 4:30 – 9:30 PM",
+      "Tuesday: 4:30 – 9:30 PM",
+      "Wednesday: 4:30 – 9:30 PM",
+      "Thursday: 4:30 – 9:30 PM",
+      "Friday: 4:30 – 10:30 PM",
+      "Saturday: 4:30 – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=8904233960722141259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tacos La Catrina",
+    "address": "2431 Webberville Rd, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "phone": "(832) 672-9505",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOXSCBgC1RIYR3SSolf1UwZg/photos/AWn5SU4hfR7yScW0oqCef_6DNqJMWmRdmswtt-BLdC-ZmbxK9V7rDcM-oJoGiO5DYTJiSbgIzecac1AjJvTH6gLqhU2FDu4wj1a_wFM942wVy7T5PdiYhekLaIwnp-MMvvQY-FYxGl412xLp0qqwAZ5DqWbuQE7LwPi3JDwTOmQfY1qCtuMBRIcrhOjqMb3y2YLYqQoYQpgCKmm2GCanqLuylQcpvnAEq78n3znsTJOboS-qGRU5uVZwsPCn7HrigyZBi60V9GY3cPCxWBpRIldJmEtfiAshz2TtYapVXOZjRxr3_A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 108,
+    "coordinates": {
+      "lat": 30.262905999999997,
+      "lng": -97.7140811
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOXSCBgC1RIYR3SSolf1UwZg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11007172412384486621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Eldorado Cafe",
+    "address": "3300 W Anderson Ln. #303, Austin, TX 78757, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$$",
+    "description": "Colorful cantina serving Mexican fare including enchiladas and guisos, plus creative cocktails.",
+    "website": "http://www.eldoradocafeatx.com/",
+    "phone": "(512) 420-2222",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMW6HHQrLRIYRGYgJdE4dGwI/photos/AWn5SU7jmu2GWogKJXdwdfITYhbjEXabRbclTO-oCl8oAqWwAn8A8thZz2WgBa72AipR6FcdgJ2K6pfEY0hulYn6d5Goin0h0shfPgOfLZt9SPdSxELNgToE3qBvSM8eQThcGoFEzv6PHGACuxqrjfr6Ctwa3gz1RDUgP6BN7PD2DlqyiJxu3V2Yz1DpGXTvDH51TDekqlgwqaCKHi_pQUFll0ZuDvTVhHsjS5kOECHvBH1chDGds8ctONn-8HTfk88eoEvsneKWEAPcssR-yIK48JX3WzpamXN5r6gFxFHmpWgAl8EnabP3psUmm6bYN-VClbmZ_rPaxgk2rhsE6jSWrhvc5ZfxMBjr4qv5KyutMNhSMPQLsOexQnMfctLpVXoBJe8IpMQ7jnw48YoUK2V6aH0wdDzNC_YLHWNmNdlP2E8uFQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2907,
+    "coordinates": {
+      "lat": 30.362223699999998,
+      "lng": -97.74233609999999
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMW6HHQrLRIYRGYgJdE4dGwI",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=151747235238479897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Las Trancas Taco Stand",
+    "address": "1210 E Cesar Chavez St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "mexican",
+    "price_range": "$",
+    "description": "Utilitarian food truck offering Mexican street food, plus a covered terrace & picnic benches.",
+    "website": "https://www.facebook.com/Las-Trancas-Taco-Stand-307145385983596/",
+    "phone": "(512) 701-8287",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJjwraDq61RIYRl2V3r3ME2N4/photos/AWn5SU4QsZF8OMw-xAOT5Uq7Vr8wuagDdsRNWnxvAJndlRl1lM1DknwTAEkTKSMclTqadmBaU58ZA1HdZsnXxCGlrFSVdfFkv1a933OHvZFvqpiYKLjmzRaa5wSFhQvAhVqSKwT22BIGcsXbGwjfM5yQkzXSTRp1-1XAHmLFIXgNQ4sM66ALbJz16qczXWj4E6spWnMJ4AY-tF-cUNw9YTpJb4zL55Vxlfw-eny3WnGfQoUZoV_HF6AJIhXCRnDCp-c5A5CUYCpOY_QVZq39dcc2_l9g2ARTE98iP8MEkimzoN_6CoVFK1gRi7NUSBCiZhGlkXOZja5Nae5m_dH8bki8V6wxNAf9qoDxo4BJHFvA1C7FMAUL1DNYQgTMyJnRc3p1Jinmlx1O_pb98cneYsUvAqunl1GGNd_Ku-sbGsVuDOfQK_tkvMlT05fp6U0A8oKT/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 2623,
+    "coordinates": {
+      "lat": 30.2597778,
+      "lng": -97.73166619999999
+    },
+    "features": [
+      "mexican_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJjwraDq61RIYRl2V3r3ME2N4",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 11:30 PM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 11:30 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 11:30 PM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16057589366301091223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "J-Prime Steakhouse",
+    "address": "301 Brazos St ste 150, Corner of, San Jacinto Blvd and 3rd, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "http://jprimesteakhouse.com/",
+    "phone": "(737) 309-3301",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2UxoaLG1RIYRQ__HJYNlbRY/photos/AWn5SU4uBc9AWG2TfsE6ScFdBl212quJBjKK-yvj46RY4oUi3E2Ssdbc0UDm8wPeaJ9FtY_xdNeSZDEkynvIuYtgs9doWPOWWhtmkn4-GBKDfHJMfRm9Wx2q1ZMcVxfy0G8CxKymb3uAmN9LF5O-t51DS4IdoLagwN1Z3M2yNnWXvb5SW1IV8OXqDgchQeBbwGjIg8HnqeeKge4iOt6q1C5QkFaUkz_4kRJ56fjL_C_gTNT5QQgWzK80CkYD98xmRPCdk_2y5km6wh2f7-c8wlDDwkpRAg_1C9vI4H4ZfF1zS1g2l2tXJEIHoxL92k-wLkuxcdAo7toNBy3ffiXe2tT8SPxawy_U2feUzh0N0kZUf3HWIyqmjVJ5c5pxdKowcNsePMe2MgmDb7ciJjCE_qGmmcwowMZK4TcmUCljynpkxJ8lBoVH/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1036,
+    "coordinates": {
+      "lat": 30.264744,
+      "lng": -97.7414483
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2UxoaLG1RIYRQ__HJYNlbRY",
+    "opening_hours": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:30 PM",
+      "Wednesday: 4:00 – 10:30 PM",
+      "Thursday: 4:00 – 10:30 PM",
+      "Friday: 4:00 – 10:30 PM",
+      "Saturday: 4:00 – 10:30 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=1616059455244861251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "BOA Steakhouse",
+    "address": "300 W 6th St #100, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://boasteak.com/",
+    "phone": "(512) 651-0700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJG8VwUiO1RIYRHpMt95QAc8E/photos/AWn5SU4v9srEiCG6znO83YmatbrjEi0cWhPx5EYnnqPAstiJibkrhLLDOX3YJIqtFQH4tIynrrSGef-WLa4q6lk6wlEjzLcEyD1q9Gk2iAxBjzu5PG_nSMrw2juCPXmvThMEjvgEManzJfD-ZPr_M_PDclLvTo6yJf-0wQXiSb9tBzFesDwOz2rgWOuKX9Frw7x-WKq6bjrlqtsOCUgFEezaDcGYTb2v2wPR9cTvF1WTjmW2Uow4perv4spyRPFt7pY7GF0e0BfHtLNOQBVf19NvmxuZjMhvEUCGJ5gO6E84RMdAq9M7lGDBtEyOm1hR3_3aC5THBcwpibgEl_L7--1SiMh8yCO9yZ9ccmizGY41-oT8wB3LFCHLZYy2KWrrcl-Vb8uDboT3utTTb6NmtseOLRQ8RrAvkj7GlhRah31g1n158kVw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 685,
+    "coordinates": {
+      "lat": 30.269081999999997,
+      "lng": -97.745542
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJG8VwUiO1RIYRHpMt95QAc8E",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=13939485911443936030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "J Carver’s Oyster Bar & Chophouse",
+    "address": "509 Rio Grande St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://www.jcarveratx.com/",
+    "phone": "(512) 782-0650",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJq6rWgw61RIYRvB-swqBEnv0/photos/AWn5SU4WbBG853zJYv-HWX136OgX_VH4MUT2Nvzn4HAsG0xHuj7QiV7cYmV1sglk7wZUZekJr0juQmjlPRK7up0RMLi2bghObBPoJ8LktnjV5WcblfxYqwI0ZmLibw5QJfMlmHAmQuHVYSQSM6ZXb0AUdS-SeM23sU11xlHpyMiZf2RIae3-pkoRD9twBi94ypmd96jHnDxpfUTz4lITYwIHFWGMUvtBdtQXJkegkXDajHINSmoCokEWuy2DS0DDdstzUSBAcrNf-LJRyDrNgX2eARCjEXdlcdIEY1-QcEnML2ZDIg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 511,
+    "coordinates": {
+      "lat": 30.269552700000002,
+      "lng": -97.74945810000001
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJq6rWgw61RIYRvB-swqBEnv0",
+    "opening_hours": [
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18275119795167567804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Casa do Brasil",
+    "address": "10515 N Mopac Expy NB, Austin, TX 78759, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "brazilian",
+    "price_range": "$$$",
+    "website": "https://casadobrasil.com/austin",
+    "phone": "(512) 351-8086",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUWNxVCjLRIYRJvF3RVr6KeE/photos/AWn5SU7jVAhrzn-2EBoic_Xc8-w0o-BWzlpRgPI7MPM-EUtYHmKg_6T8yidHTRhXnQb6-XNpQ7daI0Q6CynpE5gMnhfVsmAdxWYnRSpXUvMEU6vyH3cD7ie2s-6OJZzqlXw3YZclK13AC91IXAW_21zs2n8eBQdioQ6LNynfhcXQaVg_q7jAdjrEkp5WFEtZp3_JHew20-FhO9ojbIcWvX8pFD-OdbU6-vDmAolGKBMoQk-BVH3WgBHl-hQRq3enFplTIqeGfDRaVceknZtr71T5TsWavt5vOSeuLM1xhWSoyGchGQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 4551,
+    "coordinates": {
+      "lat": 30.385930499999997,
+      "lng": -97.73426789999999
+    },
+    "features": [
+      "steak_house",
+      "brazilian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUWNxVCjLRIYRJvF3RVr6KeE",
+    "opening_hours": [
+      "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:00 AM – 3:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=16224774398198411558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fogo De Chao - Austin",
+    "address": "200 Congress Ave., Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "brazilian",
+    "price_range": "$$$",
+    "description": "Upscale Brazilian chain for all-you-can-eat meat carved tableside plus an extensive salad bar.",
+    "website": "https://fogodechao.com/location/austin/",
+    "phone": "(512) 472-0220",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ7_1MCai1RIYRsFrrp7OT0zI/photos/AWn5SU4TZMlN_z3z5E67E98oIrOSZIcUd3upT0kU0O8jg4C2fchPtDHpuFP6mcc5FDJg6GI4HB6kLE2GrXk_EqXnWa88HcvvqMDjop8gmyrZk44kl_uv1QSVcVaeUtcez9pHrVUyazPZxb2ynL868VXu_kLAsISNhjc6JH3kQ_8DTMdeviOkU8_ASBGMa46PFgUYexpMAri59O8phkgMQNCFtLe_reCoDVH3Hlm_5OEdY4LSVnwQjLWzi_FugATbem9Jy_le73S78nEiBRRcB4gI9E6RBGdcS3WSWq7tE-7Bb5H1Gg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 8535,
+    "coordinates": {
+      "lat": 30.264823999999997,
+      "lng": -97.744512
+    },
+    "features": [
+      "brazilian_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ7_1MCai1RIYRsFrrp7OT0zI",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=3662433321807993520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Capital Grille",
+    "address": "117 W 4th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Outpost of the upscale steakhouse chain offers classic American fare & a clubby, refined setting.",
+    "website": "https://www.thecapitalgrille.com/locations/tx/austin/austin/8053?cmpid=br:tcg_ag:ie_ch:loc_ca:TCGGMB_sn:gmb_gt:austin-tx-8053_pl:locurl_rd:1048",
+    "phone": "(512) 322-2005",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIcQ99wi1RIYRDk-jP8lZ0fw/photos/AWn5SU49GhqSJqRPHZMDSOvV8dbON5jfFhcdrEbB36ow7TdJCS3eYPtrpaLElgiEjiEZA3Dqp1_zzCR5lo8Ti9_SIYYxI0_YfyJGt9Yt2h2HFsYudpao75iCSqfMN6MiHdAY9-RcXwZW4XPg6bJ08pMfKFx-CFcVMRA7WARZg6_qrLZDajhIutkbIJxuDj2tJ_cvnC9iSMi1YkQTaafN6gS-ud8BEfeZxbEmFCjMxhlGbac7XJtVe5u37jW5tzeNdGnzGnTE8gHJWKefxxdt1uxu2c_T45xH9CAkfpTc4TXNh1bAsg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1373,
+    "coordinates": {
+      "lat": 30.266270499999997,
+      "lng": -97.7444668
+    },
+    "features": [
+      "fine_dining_restaurant",
+      "steak_house",
+      "wine_bar",
+      "seafood_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIcQ99wi1RIYRDk-jP8lZ0fw",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=18217440688581332750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Brunch Brunch Baby",
+    "address": "1620 E Riverside Dr, Austin, TX 78741, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$",
+    "website": "https://brunchbrunchbabyatx.com/",
+    "phone": "(737) 742-1798",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdysyqsG1RIYRldttOnNGh5k/photos/AWn5SU5iZM5S9BlH_QWvt7prH2_X4aovnGOcuTnzdT6VFTu-9oG6hea4D6uVWcmMWR8GEMB4ZGgqJA3O7pdQpfczotud2x9CDDF736eAoAOFcMLlrBX26XpcI5nT6aY1xz8zA2Rvv_jQzwWiNrGgzoGDxRrSyTTeMCId_LlqH34-h28zv6Kc02_j-OzQnboMyZWFXeJR1FO92m5q5R9HXfYlMY7gFUZYaXOhiw0o37vcDq_IASpwjqL-tjVp8l59DbiF00Rp3JpWDqne0yjj6nXOxDD8FmGeT7VXWveIHcsB3Z_TYQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 261,
+    "coordinates": {
+      "lat": 30.2454127,
+      "lng": -97.7288809
+    },
+    "features": [
+      "brunch_restaurant",
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "food_court",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdysyqsG1RIYRldttOnNGh5k",
+    "opening_hours": [
+      "Monday: 9:00 AM – 2:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 2:00 PM",
+      "Thursday: 9:00 AM – 2:00 PM",
+      "Friday: 9:00 AM – 2:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: 9:00 AM – 2:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=11062888470374374293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Another Broken Egg Cafe",
+    "address": "6406 N Interstate 35 Frontage Rd Suite 1600, Austin, TX 78752, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Casual chain featuring egg dishes & other breakfast items, plus brunch sandwiches.",
+    "website": "https://www.anotherbrokenegg.com/locations/austin-tx-frontage-road/",
+    "phone": "(512) 777-4428",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJCeFHVCTLRIYR3dEU_-HqoYE/photos/AWn5SU4u4T0nLh1XEqCkdek3expmxiJ3UdMPh2eIMBf0P5EauNed0TFfFeL8ilZo6QR5LIiSfz-pgG2CqU2CrP5ZbZdTOHVJbIEx3Mw1G5LoO3NH68ybsQGsMggvGOQXxMbG7RoaEfV3fnHolVwwTB-2bVq2NPOZB7MczddDRAxfl1H2YIv27TGHwRlzNZxRyey2LUFsrhDdBfUPrLUGRRbGLsccopxyRm-ZE7Mix0QteSR-pwQEEV6OMLpzC5eay-L3eZgG0ZDb2sUkaiwAZxIx4pmHrPoJ865IQJzglmUjNz0NduhAzN9FWcSUnMs9qousYJjQAazW0rYMgRAR4ptR_RRGy5YHvYlBvKdmovSdqnAD7z30Y0ddMH1eMvx70MU36nhDNuKEHZm1JTAZ-bbMY9yVYRWxY1TWL1T1lLvNbbRObgVahLLDQD9ZUePNICVS/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 5497,
+    "coordinates": {
+      "lat": 30.326317799999995,
+      "lng": -97.7077827
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJCeFHVCTLRIYR3dEU_-HqoYE",
+    "opening_hours": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9341005358511215069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Paperboy East",
+    "address": "1203 E 11th St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Breakfast, brunch, and cocktails served in a warm, hip restaurant with a patio.",
+    "website": "https://www.paperboyaustin.com/east-11th",
+    "phone": "(512) 270-9980",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4Y1SrLu1RIYRDZHWbSNOvIk/photos/AWn5SU4VR56sD_6yq-lCnhwWf4qgGY-OYYNgEz7lMEJP8No6QCZb6UKzr6TQ7UdFw5wJ1vVuIs9LkMfZxNZCYpAmEbMTjxy4aJ64GEdNmAvxK5NDvPwSnfQcpS8sj4zsSaJWGz500Kb_fFXf6MESeA0cP7rHJh5ep9cFT-xPpRZyUv4rVIOnNoAFFvnqmpUaiW4W8JtLsqpuXtDxbRqdaU9YcqwXNIfP6Ag5qv_45XMiKYOe1JCwCQopLTEGVnLbIIO3gdUv6o5FseMXKpynNhy_sErp7T11gB-g46eE6Bk0SsI2hw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1793,
+    "coordinates": {
+      "lat": 30.268404099999998,
+      "lng": -97.7276077
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "coffee_shop",
+      "food_store",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJ4Y1SrLu1RIYRDZHWbSNOvIk",
+    "opening_hours": [
+      "Monday: 8:00 AM – 2:00 PM",
+      "Tuesday: 8:00 AM – 2:00 PM",
+      "Wednesday: 8:00 AM – 2:00 PM",
+      "Thursday: 8:00 AM – 2:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=9924893592891330829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Day Maker Half Day Cafe",
+    "address": "1101 S MoPac Expy, Austin, TX 78746, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "website": "https://daymakeratx.com/",
+    "phone": "(512) 677-6338",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu2oVQpK1RIYR1afjiUhY78U/photos/AWn5SU6TzSzJWKP92vKSPOnd_PaQTYrNCp4WwfetTjzX5eEkNb7eOq2OUMDshaxjcfHPXLJDeUgBb3_-RgKVAonfQgS3yJ75agcRpgUstvgIVBKk8lIZmz4IrV5J_AWCI2VNY7PPmTJK-68GzUOa0yT0YPPbgY2tpk8Cep8Kp8h9e6NOFKI8vfWjNe2RAyRhRjDigq436kaZweGu_-chUCLWW726Ws1fd8DieBULcLD0e_6-LPTCLwNbtMCPCNZ3ls5uXs2pvRP4SLmJuJc6BHg5873zwdlKnFwZJiLruc1Hri4Ma8hkpvimROhb0oj9QunBOUinB5N_Wz7bkI_SID8lh-miDiVnbihgbEOqCswmUyVC1LEnT820njALGDPbGOST9sLU6-WHfJa56FjGf4YCJvZAe90Us5F3ZlrYsJeOrUTMaXUs/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 353,
+    "coordinates": {
+      "lat": 30.2651234,
+      "lng": -97.7814459
+    },
+    "features": [
+      "brunch_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJu2oVQpK1RIYR1afjiUhY78U",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=14262715613479938005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Phoebe's Downtown",
+    "address": "408 W 11th St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "description": "Local eatery with a few sidewalk tables prepping modern morning classics, plus burgers and sandwiches.",
+    "website": "https://www.phoebesdiner.com/",
+    "phone": "(512) 359-8338",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrwTh8gm1RIYRABl3q1dbW9c/photos/AWn5SU6qPlNYuo2b2CjcuU6sy8YUD35r34xzordo1mJryDdCkshhtO2OX8EeouvylwJ3PyysfNrv5Zel8RXUJ02DEXURNpAnZzuH7N0EX5yQpiwxEjRNFg0k3wj3c08zAdgc9fbrC6M2CyY4PvnFqqYjcdANsJtWFUflkSNsTOky6Qy0YFG0OlHTVxRIo93uUnF7Tw8x3GbbBIAFHpgsqYLEaG-_9IL1TeThuIL5LCTbL3Q-9eZq797s6wWip59lyCTf4g5OpIcQAmWDNOpsmyG7MtePHe7t7Ut2c1O4H_CXSU9cA7yityvE-8Yuc9y9XXNT0zWlYkv7SwHQB7qSFdmBXn9new_uhzoZiT8OGLJy_i0y-8JH-23fNO8D8Qn4FNM20jtsL7_C690OLKToNPDATwHnuFNB3BXIE8OFKZyv8cTP5g-W49sdU_JciVMWulGT/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1198,
+    "coordinates": {
+      "lat": 30.2740975,
+      "lng": -97.7449381
+    },
+    "features": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "diner",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrwTh8gm1RIYRABl3q1dbW9c",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=15518097373132167424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Moonshine Grill",
+    "address": "303 Red River St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Contemporary comfort food & cocktails in a historic home with a patio.",
+    "website": "http://www.moonshinegrill.com/",
+    "phone": "(512) 236-9599",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzTkDkai1RIYR9PpN5L6zHD0/photos/AWn5SU6jesbccFGOyLCiyEqs5_hTDeshr9BNmkRiVcUWZS4tQGgJ_XAMaiWZ7CyDJZmx8M1eKz2zoksTBrG1zdkMGDPZYp3h1Nfb1DtxZbZJH-iJ2OuI93s6GxCWmXqmvK4ViLbujvhow9vyX4_RwqCys_LAIx6TU2wyPjLiNJuaEsEppmnTFC8OI0xK-hhNGPIQyd2HJ_0QenfYgb3bI9-PFaU7csIAI_sbXEJfKLXGRNOu8WzSg_yNdAPVKWhCd2F4nuTCEqU43iNMNkIweFI6UJqUjg759aBUhfSs8jzYUU5YSg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 7185,
+    "coordinates": {
+      "lat": 30.2637562,
+      "lng": -97.7380259
+    },
+    "features": [
+      "bar_and_grill",
+      "brunch_restaurant",
+      "bar",
+      "event_venue",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzTkDkai1RIYR9PpN5L6zHD0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 2:00 PM, 4:00 – 9:00 PM"
+    ],
+    "google_maps_url": "https://maps.google.com/?cid=4403592168116976372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Launderette",
+    "address": "2115 Holly St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Gourmet New American fare served in a polished cafe space in a converted gas station/Laundromat.",
+    "website": "https://launderetteaustin.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQwHkAku0RIYR-lvYDf4FijU/photos/AWn5SU50Agme6peo0sjhYAkR1r8URdnCXGLSCBXK-EheYFANbxgWW3LMOYS37oX0LodG1v2ECSQFjL3LzHuBVOQdAvA--v_cUS9H9zCzJzcOpiK2SGibKxijErepgnJZAgeZolp55K_7nv7xbgUsdACBandaH3avG9NQAzbvUY1d52VmQw85eslmxdUOINS48gX9j6nhWgmB3GZ_83zUIr301f5sV0BuTIcHRBsVB9TOCXjWmhmthc9HmUaJPxyFRXaV2CZ3kXJRimxcxcAFHy4SbkT9SV4AxlCobtqjxUtuJDsQUpe364EKXSvE19QgUlUYoHvcgyDYquQw9yAB7ltEtiyV1HJth3a9ke1ZSi8uTli3Zr7EqKO6z8M7ET6ycsRo3RLM4fntAYIrXN_xPktXn8ZVprqN7Gvva-jjuisOeyDx6Pk/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2143,
+    "coordinates": {
+      "lat": 30.251890199999995,
+      "lng": -97.7227868
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQwHkAku0RIYR-lvYDf4FijU",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM",
+      "Friday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM",
+      "Saturday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 2:15 PM, 5:00 – 10:00 PM"
+    ],
+    "neighborhood": "East Austin",
+    "google_maps_url": "https://maps.google.com/?cid=3857902619508366330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Zanzibar",
+    "address": "304 E Cesar Chavez St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Crafted cocktails & global bites are served in this fashionable rooftop venue in a lush setting.",
+    "website": "https://www.zanzibaratx.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "(737) 787-6969",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFaJVsLS1RIYRcUZU0nlHQJ8/photos/AWn5SU65EjWcRnB28wsh9WLB9YB4e-XD0ajIMre2PJ24NBn8nPHhqrpVImNTLA5481UqvHfWVdwAUABf9QfwIkfzMA_JPwasogdZGfqa7WvZxTUdALOjFs96GW4q6IBYAxgI1GqQ33EU13H37bkVS3EzbLTRBGXC_JSLQ45peDD0GSrgQminG4t04OkTvm3j0JGO-PvLcs6XAHrWST1IWqN1uzGaXGBQGmvsP6XQJgJ097pAXQm_Xoz2khmBztmWMnvnuLLLhdFnraT9HKaccL_K9keiN6HMRCIlKDddmwMy1-SCzg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 7933,
+    "coordinates": {
+      "lat": 30.262830899999994,
+      "lng": -97.7415705
+    },
+    "features": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFaJVsLS1RIYRcUZU0nlHQJ8",
+    "opening_hours": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "neighborhood": "East Austin",
+    "google_maps_url": "https://maps.google.com/?cid=11475250439085377137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Franklin Barbecue",
+    "address": "900 E 11th St, Austin, TX 78702, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "barbecue",
+    "price_range": "$$",
+    "description": "Long lines form early for brisket, pulled pork & other smoked meats at this bustling spot.",
+    "website": "https://franklinbarbecue.com/",
+    "phone": "(512) 653-1187",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM8w7rqS1RIYRhEz2-KuoqzE/photos/AWn5SU4YhrsY2fS-Vuko9UJ2dsuu0i1g7TLMrw9ChnYqJlS7qP6HMa_A0qje3NeTrPGNyFOO4sit02bPOv-ytACYxAsSxsuuh1mQE7z9c69FSOdI2uIe2D01I-MIhPHPjERX4DgWXjQA_6rZpN6L5mPN2QXJ-7gOxihvfopQ5FRoWYtHKKfMWYlmm3MhBoE2StwLxWgrt5P08evgpTPlCnf3sf8LEDEfZaIx-oziszg9voWhYjQAw87GB3K9Gd2_wz8uPBx21JCUYo0s1HgSNOEoyni-op3oJJ_n8L8AxryrXr-T0g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 6838,
+    "coordinates": {
+      "lat": 30.270124999999997,
+      "lng": -97.73134189999999
+    },
+    "features": [
+      "barbecue_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJM8w7rqS1RIYRhEz2-KuoqzE",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 3:00 PM",
+      "Wednesday: 11:00 AM – 3:00 PM",
+      "Thursday: 11:00 AM – 3:00 PM",
+      "Friday: 11:00 AM – 3:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "East Austin",
+    "google_maps_url": "https://maps.google.com/?cid=3579139785445756036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Salty Sow",
+    "address": "1917 Manor Rd, Austin, TX 78722, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Braised, poached & stewed dishes, plus cocktails & craft brews, are served in a laid-back setting.",
+    "website": "http://www.saltysow.com/",
+    "phone": "(512) 391-2337",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ61i-aZO1RIYRKgxgoJHJc28/photos/AWn5SU7fI4vfaILD3u_v4NFE8wAXbK8i6T1VFtE_HxdIXCfEZpUkXvrM-DkCPU_eVo2NfFeGYKtk9yU5avRgjF_YyG1EgCxwHwUC8NLLBh5lfv5dxg-zxZluU2paDiuxo-yzY1ueN5iFqSsm58HHu72w3fHKcZdCD03eu5olrZUapMd3L9WbyURI9xqFCngE11FM4FYtW51Ub-HzJZ1zSfmfttg9SjcR8OhfJaVCFF7dFuNvzPSl4R3d9-XAomyBkz1ndLMJ_6lMmpC0-llVe54havddiKVHjBl-LbaqRqfhXnYTBFJuIzWl3XSVWpbY2j6a6FGAu8pBqelT3Q1tFryMj_8x4PTkp7QH2raUBwRFtVACP07xj6Rz8hkNQ0qlxqcwQazbmLgWK5z-6ywHNE7v7JnfuAMvYsDTOofarsTjXcJUTKnY6TFiUNQ7AhUSp3IK/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3171,
+    "coordinates": {
+      "lat": 30.2838279,
+      "lng": -97.72123169999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ61i-aZO1RIYRKgxgoJHJc28",
+    "opening_hours": [
+      "Monday: 4:30 – 9:00 PM",
+      "Tuesday: 4:30 – 9:00 PM",
+      "Wednesday: 4:30 – 9:00 PM",
+      "Thursday: 4:30 – 9:00 PM",
+      "Friday: 4:30 – 10:00 PM",
+      "Saturday: 4:30 – 10:00 PM",
+      "Sunday: 4:30 – 9:00 PM"
+    ],
+    "neighborhood": "East Austin",
+    "google_maps_url": "https://maps.google.com/?cid=8030984187829816362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Little Darlin'",
+    "address": "6507 Circle S Rd, Austin, TX 78745, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$",
+    "description": "Neighborhood watering hole featuring craft beer, global bistro fare & a spacious yard with games.",
+    "website": "http://thelittledarlin.com/",
+    "phone": "(512) 814-0999",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsdixM1CzRIYRqib6RW0vgww/photos/AWn5SU61orlj7UzuvIN-XU38oYvX5RD7yc0enyVN6wjifTlLVxjdGD3Hff_hmZdaD4Bm2GEknfqnve9MpYpNZsC_A3-CRSwpCVHJz1RvDOYPXhmCfLLJ0pCiIp9X1IpL-SzcmaU14FxtngDFfCPw9oUaknHu3P37YgD5-ZPpKgDWsrnf4MX0RTd2_nEp0ieBsEf4zRBUbdVxuatQJQk-0hG2czIGSbG8NdGg85hmbrkGY4ujT5o1RevXnP7ZD_BKEvQdnXOeY79zCiOfkjrYlS5GDPAPzE9RNQKG_IVTUX5-iQ_1OT7Kgw_DkeLtq9C_BZzAz7WTODGnGP80rSGmxMfa6AKAa76srFaUkA6luibW8o821eJ3wuMnRy1eKPpmFkznLdBBCouNY7yyObh2j_sEfhHERFW6cgWr0jhoRaICuQUnXfiN/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 3173,
+    "coordinates": {
+      "lat": 30.1945091,
+      "lng": -97.7767964
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsdixM1CzRIYRqib6RW0vgww",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 2:00 AM"
+    ],
+    "neighborhood": "South Congress",
+    "google_maps_url": "https://maps.google.com/?cid=901616496776193706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Taste of Ethiopia II",
+    "address": "3801 S Congress Ave #107, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$$",
+    "description": "Simple spot presenting traditional Ethiopian dishes, with a weekday vegetarian lunch buffet.",
+    "website": "https://tasteofethiopiaaustin.com/",
+    "phone": "(512) 814-3141",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ194OoJW0RIYRV2QO0jxceLY/photos/AWn5SU7Se7qtTqL-88fVYJMSrk-RKCleLFddQ-6qoxNTpin3XJPw24AFkeSyhShLT1ajhtyGBu4V0YYIu0qcGwVRIgeNS948xjztg25QmmXb8DrqL2DmvbFwJRPgFam2mcIb61Y5VkoxWPa14zTwHe9xIOtaXDfXJmgYlrW87lGHp1HpZ4ANagAatiLMcKaDHJ973JqCx9oFUWeYCWEOWBbMZcb4rp6X3XXDHHs_9TIxBiHPM5PvLo61pA6cnhvLo5VMHBlEeu2AlwFt8Iwp9mb-WyoCV0NHi8tUKMZ65rN_Xbc/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 1081,
+    "coordinates": {
+      "lat": 30.226026200000003,
+      "lng": -97.76195519999999
+    },
+    "features": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ194OoJW0RIYRV2QO0jxceLY",
+    "opening_hours": [
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "neighborhood": "South Congress",
+    "google_maps_url": "https://maps.google.com/?cid=13148360528400114775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Toasty Badger",
+    "address": "2206 S Congress Ave, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "cafe",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://www.loboshospitality.com/toastybadger",
+    "phone": "(512) 240-9966",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUbhQoKe1RIYR2Ltf3qyiy-A/photos/AWn5SU6u5j5d8qWYD8SUxkR1jJxrVIhrrNaDQYKafbyjYPv5wfeJHfwcfORk0WI5cA8FqS5c_36ht71PFZz9HPbNRzFGbVhOML-pbFGtJJGWtoJ8ObrX0n2fqdDQdt2cFZT0S1d9Dzu0647uD4C_4Z9YOhjUp1XWFdQFKlpJQI6ZLrtNoU78LL3pVwrjPjan-NAVtE35J3seyZTWCBXqag41QaArdHh7FacHGIg1wcnyR9Lmobmm8rgrWMblHThlmldKgVxRI_EHDmDZp49HBt73HDsKIAX2ZD1FGKl2AqoSuVuNjA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 547,
+    "coordinates": {
+      "lat": 30.241089600000002,
+      "lng": -97.7529007
+    },
+    "features": [
+      "restaurant",
+      "diner",
+      "breakfast_restaurant",
+      "american_restaurant",
+      "cafe",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUbhQoKe1RIYR2Ltf3qyiy-A",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "South Congress",
+    "google_maps_url": "https://maps.google.com/?cid=16198219348117011416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "More Home Slice Pizza",
+    "address": "1421 S Congress Ave, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "website": "https://homeslicepizza.com/location/more-home-slice/",
+    "phone": "(512) 444-7437",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ01xiAA-1RIYR37-zBPAuyII/photos/AWn5SU7_ZcTioQBl9yUtMAwD-WEopEeQL-T8h5q-671CBoR8fZae5irtsMM7_lKwPZD0tDUJQ118s2Vilzy--jbLX_pSIXMvXCV8k1MQ_Tk6nL05vqUMW3eCSQyiXFaf9617TL95fsCEnAMbiEEULtZsw5Nfh1tgWaq7gIx3bnBZ8yuoT2Xpl4g9log_SRI4V_YebvvpyrOBXU6X9kcs32_OENgZqc0hpznuqu54eAvv__1k__443BoSCS_rU9k47AI9naiN231RncFh5wG4EpYYB1WstwvSB6VXgEU5h7ymqZ_H4Q/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 351,
+    "coordinates": {
+      "lat": 30.249021700000004,
+      "lng": -97.74959390000001
+    },
+    "features": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ01xiAA-1RIYR37-zBPAuyII",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "neighborhood": "South Congress",
+    "google_maps_url": "https://maps.google.com/?cid=9423833828678680543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Hopdoddy Burger Bar",
+    "address": "1400 S Congress Ave Suite A190, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "hamburger",
+    "price_range": "$$",
+    "description": "Hip, eco-minded burger joint with all-natural meats, housemade buns, shakes & interesting beers.",
+    "website": "https://www.hopdoddy.com/locations/southcongress",
+    "phone": "(512) 243-7505",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJK7_q__y0RIYRA9j-Q5KFOP0/photos/AWn5SU58lbp-cdTUKhYbIxEmiORcOhve18IWcq7AC0ja0OCLbrM9E1pOjuFrbxHu51slXrsCvJVi8GHYcyNBc-3CWYkAKhsuHA9MR304WEipf0IDZj9FBIRPskxDUVjOImV6Juwha56Ol9560p_Di5YRtP9rpvlZqvdUML8TmXFWzjrNlvnS_dSxkzcsJ0-Xvee6fvOPpioMBuO_gSmYz0qYnquanCwbzaWfmtWlnKtxDO7C-Wq_wZEHMXCR2rzDS28mD7O4VgZsUC9qZZ-eGyBVcK7oT2cdHiNXhx40DeYS3Z1J-w/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 6419,
+    "coordinates": {
+      "lat": 30.249599800000002,
+      "lng": -97.749967
+    },
+    "features": [
+      "hamburger_restaurant",
+      "meal_takeaway",
+      "fast_food_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJK7_q__y0RIYRA9j-Q5KFOP0",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "South Congress",
+    "google_maps_url": "https://maps.google.com/?cid=18246480753544058883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Anthem",
+    "address": "91 Rainey St Ste 120, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "description": "Design-savvy eatery for Latin & Asian pub fare, plus tiki drinks & sake bombs.",
+    "website": "http://eatdrinkanthem.com/",
+    "phone": "(512) 731-1411",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJH0IH5ai1RIYRH4MAJJpnw1A/photos/AWn5SU7w8eqdC9z2noAQkE94VJXRMpUupEPLhPrLrXUUBGdKilGlz-HaurDht1oXptlIOyxhg-i9qoQckCpTQopGyBWk0sz8MFEEli6iboI-bgm_-ngxh06B_1xI3qDtvhLqvSKPR_BYa2X-v_UFL0V86XZzTSsLZZbATqNc3eyPximjbj1BTRQzT1GH0xxKqE8f54Q4Aex9lubSVF5j0FdhJvSOAFWRoEsWsyw5ipFfSIRC9L8QGBCohuho5o7lAqu15kDPk-7CxA5S-GUQSJM_JptEHEZqHwaov4i59FR878az2g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 853,
+    "coordinates": {
+      "lat": 30.260495100000004,
+      "lng": -97.7379794
+    },
+    "features": [
+      "asian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJH0IH5ai1RIYRH4MAJJpnw1A",
+    "opening_hours": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Rainey Street",
+    "google_maps_url": "https://maps.google.com/?cid=5819609055219450655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "The Stay Put",
+    "address": "73 Rainey St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "http://stayputatx.com/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0R3w3qq1RIYRJM0-nmntaIU/photos/AWn5SU63E1ZaLW9BlQArB7Ime26HDPjpAO-LyBJBi59-rHKeySlxB2X0nPY84bCrRgh0Frq3x4IvpAa8VnA0o5nCIO766xf4yhMlaHxyTCVk6F9rjx_5UBUiS6_xWsTzFN_TQaA9mZ9CHHvVxCjzASWAvYG6cn3rrqkcozIGHyKiCVUY76DdqJ7IpC5iW_wnNmeBaW1aS0unMmL5i4bvLa8ZuQwaj7lzrkuuA30bZF6Xp3B7DPsB_t956J9hral71_Z09TmUlf7Zq0llV0VdKnf0tANTZD08uHpDVRiOuAVl9uF8lg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 147,
+    "coordinates": {
+      "lat": 30.258296599999998,
+      "lng": -97.738665
+    },
+    "features": [
+      "bar",
+      "pub",
+      "event_venue",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ0R3w3qq1RIYRJM0-nmntaIU",
+    "opening_hours": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "neighborhood": "Rainey Street",
+    "google_maps_url": "https://maps.google.com/?cid=9613194442504588580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Tómalo Grill",
+    "address": "44 East Ave #100, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$",
+    "website": "http://tomaloatx.com/",
+    "phone": "(512) 517-1656",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJNXekRxi1RIYR4IXCFYL2un4/photos/AWn5SU6dpWqc35RPFknmPJDKH7i41iwI8wo8HUVUTZwGb8Xj3NtjO73mHWX8qKu61o8QMAmyswnx9ijBXn0Kv4qe7vqPsDGzFbgHGE_dmt7D4dPmuTANHyAJqmInbdGiaLoZjs8NN6mPJfS8nCwpyNkeHMc8krSkj7KPUTHeqWjzDR-UasLqUphnYbQyYbVDmlGEzZegU6ssA-za3h8h7N4WpCreBhJUpNtGKIFKtLkZAJ-ecv6Bo969lhNfiaQXnFRC1D7LKfXaDCxkrdxy8ENdbyzl_1SsoA1oVMw2fv8L1goDZQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 470,
+    "coordinates": {
+      "lat": 30.255753000000002,
+      "lng": -97.73905409999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJNXekRxi1RIYR4IXCFYL2un4",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 8:00 AM – 1:00 AM",
+      "Sunday: 8:00 AM – 2:00 PM"
+    ],
+    "neighborhood": "Rainey Street",
+    "google_maps_url": "https://maps.google.com/?cid=9131882233018353120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "TCHIADAI",
+    "address": "94 Rainey St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "african",
+    "price_range": "$$",
+    "website": "https://cyrusramsey.com/places/tchiadai/",
+    "phone": "(737) 235-2705",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0UNnesm1RIYRBtCbQwUecYM/photos/AWn5SU4lxBL-XMsBg9kxykTWlDrOKxDHAWJhp_yMyjPUoT22rORkOWepkrpGGeAfWFhMXISPi799xaxrZZDlM8uGyRKtHZjy5Fa-I7opulpl11W9xLXqMK4m72H-VoEN9AlWpCBy9KQlBADwdIXdAxImkWOb3KEs8eGMJKWhawFMaMaYnv8Ptq_vp8gVPwgQkpxT8BCiF3OQXorBDWcxPuhlJMjYFA-6yC88Z63w-D-G8fqyPjl7CFnxeJ_dOrJG6fMnLQzovEP7y70q0RDOEGrbVshBi7aitdYXrpQIHbgXkoRqUHUbb2EyuGj4ezI_7LxhPPr-BWXcginSiFSyZn8c9X0sByD0Y7oHzj3oztb_kfLdEImHltN06vxMWpAyC4EHNQETps874hqlxJrp9ooncpDOeFMOp_DP7xqScQ3IYea7ffbaeMkHiwGsYLdrId8a/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 194,
+    "coordinates": {
+      "lat": 30.260666,
+      "lng": -97.7383098
+    },
+    "features": [
+      "african_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ0UNnesm1RIYRBtCbQwUecYM",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:00 PM – 2:00 AM",
+      "Thursday: 8:00 PM – 2:00 AM",
+      "Friday: 8:00 PM – 3:00 AM",
+      "Saturday: 8:00 PM – 3:00 AM",
+      "Sunday: 8:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Rainey Street",
+    "google_maps_url": "https://maps.google.com/?cid=9471384499294818310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Half Step",
+    "address": "75 1/2 Rainey St, Austin, TX 78701, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Low-key lounge presenting a short menu of craft cocktails in a cozy space with dark wood booths.",
+    "website": "http://halfstepbar.com/",
+    "phone": "(512) 672-8698",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx7Hw9qq1RIYR-Wd-iTGDcU4/photos/AWn5SU65uaLwe_lPRsfAM8z0YSZpkn_5og3_KOGxXyNi7t9jLUb3v5MK8BTMoAq_6CYgoqmV3VWXuRAVGgEXyMgKc7SCld6BIxi5KRGejFdn1D7vAMfEJrI00-ykFUAtzeW8WyCKC55IqAWcRZThOjlpVklGkpDAo16NlmfKWHjs8rLM-iYkn1_oKzfPgtg8xGnb88ZWdWrkFB6pAsDch45j9tt2nulhVacEc6jXPFOVI_1UOAKuVS7iPUvls9fbBKcUJIzxNZ-0Des75nSmR0hzg5NfmJ7xlZWhHtxavxLsfSCy_g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 936,
+    "coordinates": {
+      "lat": 30.258613,
+      "lng": -97.73859399999999
+    },
+    "features": [
+      "bar",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJx7Hw9qq1RIYR-Wd-iTGDcU4",
+    "opening_hours": [
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 4:00 PM – 2:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ],
+    "neighborhood": "Rainey Street",
+    "google_maps_url": "https://maps.google.com/?cid=5652443256110082041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Dock 17",
+    "address": "2231 Madison St, Clarksville, TN 37043, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "https://dock17tn.com/",
+    "phone": "(931) 444-7717",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkSS-eevfZIgRKR6SZ0vnrvg/photos/AWn5SU7BvtBgrfxFfF4-1ge3Yzl8vC9i-Xc7tLuVLHiNrPghEVbOlTG0AdpbUuLgF6fqfBHNujgyEI1bUwk0M4r5zUJL_oS4BViNNTTw7ovqznji8enn09pjjauwQpmB7jieh5V3mwaNSZhpbqZgdvH6SLrbv9VEdCPi9fR383-g0wdYhPf_vfPgUnksf-3C5R-92iR_NzzYyMlMbtvL5KzFJfIt8aRoCLxHVDxdCwNZKTiB39nedyVXkysKiJw_TI3fmAUxsFM8ONS-ZJ2uOwRa6b5FjoNnVczv6A67Ra3wgMjIQQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 4776,
+    "coordinates": {
+      "lat": 36.5112169,
+      "lng": -87.274564
+    },
+    "features": [
+      "restaurant",
+      "american_restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJkSS-eevfZIgRKR6SZ0vnrvg",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=17919514278399974953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "CASA D’ITALIA",
+    "address": "1345 Fort Campbell Blvd, Clarksville, TN 37042, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "website": "https://casaditaliaclarksville.com/",
+    "phone": "(931) 378-7762",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGffTFxPXZIgRVRBaYtBukdk/photos/AWn5SU5hjRlMf5zRNeYF90PNrOIK1hh7QlAeL0Ko5iwp0eTKPG687BceTXNDrCH4o__zPqjYA3sXg0dNKB1t-ymlgPmdIwtmxVT5uEUrH6mCgVwbLk3oF9myv5irin34xsRHU9MQo1M3kHueCJnHehbpZ9-tmEF61N0vhyWucgxFeHYKgNlSysyWgVK18GLSWHG9G7r6DCKOnC3ftsnsaX3kAJLNngY8fZfLMR3pMIlH8oT0tGGeTWNi9L-HhZNCclnc1jl8g4X892FWi_P9IenNhvlAD1M29P3wVsbsn_04kzz2xA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 1411,
+    "coordinates": {
+      "lat": 36.5662841,
+      "lng": -87.4028893
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJGffTFxPXZIgRVRBaYtBukdk",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=15677433619135729749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Blackhorse Pub & Brewery Clarksville",
+    "address": "132 Franklin St, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Several varieties of house-brewed standards & rotating seasonal beers accompany elevated pub grub.",
+    "website": "http://www.blackhorsebrews.com/",
+    "phone": "(931) 552-3726",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJhcb0nrfZZIgR_me8KSXsIeQ/photos/AWn5SU4hehgd1T83TcRwWBKIC6GHhbEMr3Y6tIuiITSATSLbZXfMPwo0bT5DtLehSybJv9iOz9_iCuSCu2MhANMvUTtUGEgh3DYpADdqbZ0ympQN_qNB-EYjtrNcOlkT-f5LHuUB_S4Eft4ruzCHJpzJV6LyhUWpJu8i0dyh5f52e334ZEycYKrBeIGIiF2rVuV-32n6mz0K49pFdsBpBZXmgueXGtVF9NSlLUiRvOlcYmSWfuTBA99hVYJexoE3b7wbWIia8tM4sv1s8QCzGB6kHNjyJiNkPQ1Ml2ZBInyR1a55DQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 4070,
+    "coordinates": {
+      "lat": 36.527374099999996,
+      "lng": -87.35883539999999
+    },
+    "features": [
+      "bar",
+      "pub",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJhcb0nrfZZIgR_me8KSXsIeQ",
+    "opening_hours": [
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 10:30 AM – 2:00 AM",
+      "Sunday: 10:30 AM – 2:00 AM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=16438679759237179390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Strawberry Alley Ale Works",
+    "address": "103 Strawberry Alley, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "description": "Industrial-chic haunt with an all-day menu featuring brunch, comfort food & craft beer.",
+    "website": "http://saaleworks.com/",
+    "phone": "(931) 919-4777",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1amwpLfZZIgRP5kapai_6WQ/photos/AWn5SU4tAGvYAaXYFlCeHbrq7IqwqssNWS2USUv1ZhusypG7BIqnl3SaO1D77o4GT_c3FDOuzgvZ0HQ74MJGukKA_iAc1ac1i0rFSmFs5bUIDOIWTWuRV1jEtlluX1_82k-ckARtypsCav1YuEjmxKT1YWi2FfgMyzVEvuV7kId6ToMo0jcGYqqMGyLq0VHKnAMladnr_vq6TJByDFKwjoRDg_kBMDilyg0rb544ShFZu6E4CjWhu-EyE4hFavpCtMhf2hRJSg9qfs93o3Uxa6evZ1IwGagUGdIUOM9db4it4xvAnFbL2GGyB97dIlWuDxHdsz7VKTJm3BirbUcThgE1sUzTqXdC-XYsbdPpFxFQXA3SE8JvptUmQr08NMPRwKnPRXHLV45Rt1OOt55PavVQW2gAQCOojlkdVg9JNRWvIo30YBgWDJY4VS3jkgYQxGYq/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 2269,
+    "coordinates": {
+      "lat": 36.5280189,
+      "lng": -87.36026
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ1amwpLfZZIgRP5kapai_6WQ",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=7271553804411771199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Old Glory Distilling Co. Restaurant",
+    "address": "451 Alfred Thun Rd, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "website": "https://oldglorydistilling.com/restaurant/",
+    "phone": "(931) 919-2522",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJSSw9QwAhZYgRB15FPYNPW2w/photos/AWn5SU7y85NnC0cEZ95DsBjGEbOMaUJi-KNG9Mn27kVVrYar99xVpfM1f_-ugaKm0Kwri28sAQ9Xqd825mZ7yCy6uMLKaeS5AvOFMe6eQR5n_juMvkfpoCboDG4IZ0bQ9k3-U_J92j0rWGOn9m7LzGZJ7t7IKseH1qqtltY8NcAuDKzgW1ArUpRe6cnYLKiGDK6-3zmm6Xs2zebi9lMao10LOFiVmkmCHOj0OCeySwqMnOKgqrku0txDbD68RNeJbaYeOnwxHngQFmzHZfR9Ztu3piDw7OgeovHSeFcBUOYp-j5aAA/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 202,
+    "coordinates": {
+      "lat": 36.596693699999996,
+      "lng": -87.27762829999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJSSw9QwAhZYgRB15FPYNPW2w",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=7807921804064153095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Pbody's - Restaurant and Event Center",
+    "address": "334 Fairway Dr, Clarksville, TN 37043, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "website": "http://pbodys.com/",
+    "phone": "(931) 241-4040",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPbPobenZZIgRlsEsKiaCb3g/photos/AWn5SU6pKo9wCecX9iAeCZDSrO3rzU6kSHrVrUbfx8RNqr0yZjzcd5EsUSpd6NIdBmsZ6md95LhqzqL4OLm5KFwD6hqHOGdhWkNjqFxUleGO0RaP8bTjEeleU79K6Nc48OUzxxJXns3teEwryHmTX-D_sSbhsOGbRQQNASa5CZjs9grJJU5J4uL2oSZq_AIIsWXcfulA7x-0B5hT7RSwB9qzTWnJh8B_yqO3HAXmvt-BBsQDesroqFftPVvVZC8QuxliFliucUOlbapfolo860s52pGNToglifg3N7RDQBwNG7WPKO6SZawP6YJ7rx3KSMFvQMBKiQV4WnVtdKSJ4E_yZfjuo2Sc9yRGBb-atwPMtBPvYSIbQCKCwBUmBV7ppREZBMFn0rcwv-kI5rjggyL1pl79rT9a4OVrPtsF0NQt3Hba2g/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.8,
+    "review_count": 1695,
+    "coordinates": {
+      "lat": 36.5278547,
+      "lng": -87.29067119999999
+    },
+    "features": [
+      "american_restaurant",
+      "steak_house",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJPbPobenZZIgRlsEsKiaCb3g",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=8678298107394179478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "WildFlour Bistro",
+    "address": "2237 Lowes Dr, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "breakfast",
+    "price_range": "$$",
+    "website": "https://www.facebook.com/wildflourbakeshoptn?mibextid=2JQ9oc",
+    "phone": "(931) 919-2692",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJF5t-5OgnZYgR6-CZSHxvLvQ/photos/AWn5SU7I1iSn58oyxaHGTTHbrBVJEY-fVWr3m3puUmcVP0YjO4ceCJAx50bflCJA7S8wEGvs9JjmRlZ11Y9TZwPVUrE-2bWP1kN3I1Wa7YN9I1IP94z-pGKHaje-tILcOy3QIZiT0FgJ8XfZj-QCTDrSdj4bBFfLqXDt0lqgmucZ8CjvQyq5lmodSOfo471GGtE6CHjqFJFlboFEJsf-RirMUpHXHW3nkaq56OYLSWZQCCBQLIamjhu7NhOBHZFpGIH77Dx5V_s3k3ccrdzIdxbEYql1j_FXX7mbfaGRzR9GqrxdHROlrwSP9FRJ5RKiEGLH_X47zFpktrisSdBkSpbk1m5yDHhIAZns8Gix1UqH39joeXRnYXXWPs--4Nj9tNyMLwjzAaZm0Xv27SxksT1eEFJBfCBSkbQYXbJAGH1Hk64uoQ/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 433,
+    "coordinates": {
+      "lat": 36.5779352,
+      "lng": -87.3135413
+    },
+    "features": [
+      "breakfast_restaurant",
+      "sandwich_shop",
+      "bakery",
+      "food_store",
+      "restaurant",
+      "point_of_interest",
+      "store",
+      "food"
+    ],
+    "google_place_id": "ChIJF5t-5OgnZYgR6-CZSHxvLvQ",
+    "opening_hours": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=17595123373767778539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Fujiyama",
+    "address": "2257 Wilma Rudolph Blvd #6193, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://www.fujiyamaclarksville.com/",
+    "phone": "(931) 645-9300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJN567YtHZZIgRumtS0ibzJgk/photos/AWn5SU4PU8QTsfI5lNaLsPFzp0v4ngd_qPuc3ICiR7rKdKpNS661FVDRwzrB9KQJJ0ZxmzIPhIAMSLBy1NRSYvRrf48mCRz2yMyT90y2Qn6fTyWq-KaL9TT0KxVf9D0rGmej0ae_GLPAaTSRddtpBBTIqQX8i33l2P48AMqpOeQ9d4MrH_wmnDnbcNMBljTW7daT7lcTl-fZvHyUdby8YJIPN9fvauOGk9ckwTmRi1MW6RMZqkQTZJB7cF4Pm_JdJ37mIss1_frAP2RzrqU2_nX9n8khGtyIebVgrh2Sn289cIYkSDQynnZLaZfRZs7paEk1gqQIskQiW8ZBRYL_rYvVzUG4IbC2UPV9oJmnGOpBHM35vZI8kIFsIyke1WXhgrl3QywdHofe3dM-6oeY4VF-JTg3oLEgG6WHmgDvBFHBtZY/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 404,
+    "coordinates": {
+      "lat": 36.5685278,
+      "lng": -87.3042148
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJN567YtHZZIgRumtS0ibzJgk",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: Closed",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 8:30 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=659481743519280058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Borintojitos Restaurant",
+    "address": "2185 Unit, C Wilma Rudolph Blvd, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "phone": "(931) 218-4871",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJmyjIENbZZIgR1PN-0Mlq-r0/photos/AWn5SU4afTxXyEyR1QNGNZLqbyHoSqG9eM5Gtlu9r9W2rIEl67WLdvYG_RJSDNCainIAiMBtpBA4a3vKWEl2XXMUc-kMT1Urtcf1R83gS_yW6vz-rALXBzp3hbFtFqhRyrNzxsAoZIgiT1BRGN-rk42QqhOR1L9K4hvefQgSlXb0WzUHK9tlYzg0ZZqSP3PeSpqxjvHVLORMHlkZpFJ7kox9BIPCC3XpFwpbvoIKUhCnSeMNwFXw9C4HEubE4T2H-NsVuBv-dTceLsUGRu8YlDH0QWDsvtNhmtJ99zhgwVg0xyEouw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 253,
+    "coordinates": {
+      "lat": 36.565854900000005,
+      "lng": -87.30789159999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJmyjIENbZZIgR1PN-0Mlq-r0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 11:00 AM – 4:30 PM",
+      "Thursday: 11:00 AM – 4:30 PM",
+      "Friday: 1:00 – 8:00 PM",
+      "Saturday: 11:00 AM – 4:30 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=13689371432364995540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Kyoto Ramen",
+    "address": "2088 Lowes Dr suite k, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "website": "https://kyotoramenclarksville.com/",
+    "phone": "(931) 919-2626",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4apyMfXZZIgREYLR7B29JAs/photos/AWn5SU6prbA7xbup2a-84mHa3NN1npt9CmXIgkxR5QdcWqeYl_BdtqzE90OuzmP65envf6WKOZMVqmqzx1hkd2deCgZJGxRlVdj6wLf6Hv2Sa5dxsTL15AexFaH5bU_olxA2XdElG3N939x8KsAmV1174ImNNBoCPd36noVbEGoavPea_YX-__uTc_TJfuO1DbIQae7rw5shYI6r9VZQhoPZRFnIlSx_0mWMBG2iRFs1OJBl7EsLCt3167SzrYNjoPg3tlsaer8Th3Rr1iaZ5VhQm-jxzzW_uLqYtZm_zROJmBwKbw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 218,
+    "coordinates": {
+      "lat": 36.574884399999995,
+      "lng": -87.3081893
+    },
+    "features": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ4apyMfXZZIgREYLR7B29JAs",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=802974569803645457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Campbell's Kitchen",
+    "address": "549 Dover Rd, Clarksville, TN 37042, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "price_range": "$$",
+    "phone": "(931) 906-5500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJx0jerbPXZIgR2W60ltHT2F0/photos/AWn5SU6HjqhCFEsnb55aQx8a9zMHiXWyoKNm3ZBX5kKzsiDzdMbfigu1cWmTQWTW9OdmW4vSC_wEEJSkJsmWhzma8fzq0SQVhW4verOrBVdLRD1Yq95S5VRDfiqKrqhYWRVa6s7I-Grs6KDKg-gR0Eicnx2d681MeojwRdcvInt3yi83wAl3-QYnaaGlwnLX7ax9stkWcoln0ysVFJpDb1zqrainwF39BAFU-_bjRjHjQgHiCP2a_DjgT_E_ywCLb107JJrsd9bcQA_U-2Ii5Jlu8yJRYubmtxhReuCIa0p5xzCS3PlN5gMNsREq_Yb5zkGtKsnlcwVcQtLL4zODaeJGlA7jAJ8FqDGfBw5zOn4HzqP8VbzQSUCHi6s3waHaR8sw4Vu5mlXcDIc6vSP4jLSHmFZzqDQHUskMkGmkjxW3xUXnuOk7/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 834,
+    "coordinates": {
+      "lat": 36.5526412,
+      "lng": -87.41812039999999
+    },
+    "features": [
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJx0jerbPXZIgR2W60ltHT2F0",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 7:45 PM",
+      "Wednesday: 11:00 AM – 7:45 PM",
+      "Thursday: 11:00 AM – 7:45 PM",
+      "Friday: 11:00 AM – 7:45 PM",
+      "Saturday: 11:00 AM – 7:45 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=6762387737626832601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Arapaap",
+    "address": "37040 100 Main St, Clarksville, TN 37040, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "asian",
+    "price_range": "$",
+    "website": "https://m.facebook.com/arapaapcafe/",
+    "phone": "(931) 343-9937",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ13fX0mTZZIgRwm0XvXafTzU/photos/AWn5SU5jwRcdL1uHDp7MBQ3llL8myEqXF3iXXkOJHGf7Y3nTI9y4pQk5Ng8M13D0Yagcph8005TetO8TPevfi_6RelnHQjcM8UIWefqT8nx5FAqpG4oW1Jrwk_LZ-w_-Y4MF493asBdYZoNMhXvsTNHBK6UTaeKmJDwcUw9D60ZYexIgERg5A1E3oGyLj83gD-bJv3Ju6r8UFzn4ehJKefK4oxpWg5JORIQrXClsNLEq2kNnyTpfODY9o8tSF_SN0sEVpnTCQvV-9whFvpVJ3yVui2orQzc1I-tBop81JlGCWQCP-LKOsagWTbRmhcBStsF8N33bez3Zrc7x7UYkD6zx80s58Ug--89FgpgRY31XjyBo369GlWJvWrC-iZR46xQvGondepabjpen1Hf5t0w4sKgs1wHqky2Vt_9I1itg2X0/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.9,
+    "review_count": 143,
+    "coordinates": {
+      "lat": 36.5283807,
+      "lng": -87.3605418
+    },
+    "features": [
+      "asian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ13fX0mTZZIgRwm0XvXafTzU",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 2:00 PM",
+      "Wednesday: 10:00 AM – 3:00 PM",
+      "Thursday: 10:00 AM – 3:00 PM",
+      "Friday: 10:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "neighborhood": "Clarksville",
+    "google_maps_url": "https://maps.google.com/?cid=3841464339497708994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Postino South Lamar",
+    "address": "1301 S Lamar Blvd Suite 102, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "price_range": "$$",
+    "website": "https://www.postinowinecafe.com/locations/postino-south-lamar?utm_source=Google&utm_medium=Listing_CTA&utm_campaign=Google&utm_content=South_Lamar",
+    "phone": "(512) 364-0300",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv1KpvLC1RIYRxITBkRCSwss/photos/AWn5SU459H_gU1sqNUrpHnRRpolvnopBlN1F9TM3R3FpSTLVpQxPRkIAN1ST34klquo0a38EUliUuMsmOXNaRH_HTGMxl9ZZ3mqiw4y0erV0EPcTQYDZAHTTAOpWF1uekapUyJC_j0bxu2DkOjLd7-Hzafqq0gmNv6tMkNlwujXY1YeCdM_o_1yJLXAb5MCtgZ8fObzTJcTKD610gHlhLZwB-CHb-250lZ3oHBp8r8TSkQBzPTiIEk7chRSsJnHcjO1VS13wqozxk8hyJNwoqEo6UZjSPwoifMHOHUOoNHTMK5co1xNCxTfbS1Z_ZzW5D2WCPn2plwpQgZxXZMQgsACFIodCOISwxOD6hlPeaY3KHLFh7Vc-oUPxnKr9DoK68SBUwYhqHnXYRrUk-6ZS-SPjE_QXkzKmpoLeOCruxPSEcq1wpv6IPd4GGOXCSDP12A/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 171,
+    "coordinates": {
+      "lat": 30.253645199999994,
+      "lng": -97.76240639999999
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJv1KpvLC1RIYRxITBkRCSwss",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "neighborhood": "Zilker",
+    "google_maps_url": "https://maps.google.com/?cid=14682458335043749060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Terry Black's Barbecue",
+    "address": "1003 Barton Springs Rd, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "barbecue",
+    "price_range": "$$",
+    "description": "Spacious, casual stop for pit-smoked meats & housemade sides from famous 4th-generation pitmasters.",
+    "website": "http://terryblacksbbq.com/",
+    "phone": "(512) 394-5899",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZSqCDhu1RIYRx1iRoCvCOsA/photos/AWn5SU5EpMQ2e59m9rK_9-o3aT44p8ssK5FBtgIgnspijt5SuJRSp1lNCsizYiuiVAFKuve-CxVvt1s-Y4A_r68Q1nRedm2NlpBau4k6nt6eT2PCyCbu7d6qLw7rIZ738VUwutBeAH2SZ3DD1AnmrAMh2m2Bmqb1P-KzqIL0Kv6TCi20kbHYM4P3mNTmuBAkbpWLGwTDO_r4gB_ae9oZthgL_bf4OMb28vX7wlJBgqD8d70cwsPxLZ2BGt1ZiT6dWoNCL-BFME4AEblSxTmwDX--R1u8nr6lhZV-O5UTeYGSRJm5W4gRvHzqZsfzRmsbNVgoDljXH_0490dZodA1bLv47Aysc7U3svjHI2CNXiIjcn7K8ZFUAL8K8K3SDnPphBNSqgZ5TQVsgso8nTDWA_ucuWKxreCq27UybU-EBqxA7_p0blEai950kgHSScCAU7zC/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 23155,
+    "coordinates": {
+      "lat": 30.2597015,
+      "lng": -97.75482339999999
+    },
+    "features": [
+      "barbecue_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJZSqCDhu1RIYRx1iRoCvCOsA",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:30 PM",
+      "Tuesday: 10:30 AM – 9:30 PM",
+      "Wednesday: 10:30 AM – 9:30 PM",
+      "Thursday: 10:30 AM – 9:30 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 10:30 AM – 9:30 PM"
+    ],
+    "neighborhood": "Zilker",
+    "google_maps_url": "https://maps.google.com/?cid=13851597096564644039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "El Raval",
+    "address": "1500 S Lamar Blvd #150, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "bar",
+    "cuisine": "spanish",
+    "price_range": "$$",
+    "website": "https://elravalatx.com/?utm_source=google",
+    "phone": "(512) 473-2211",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4fxAgzO1RIYRLf1MVadJ_TY/photos/AWn5SU78BT_al6whe9iUSclGApWr7N8w1oJaB5HKaWrQ44AodgTY2j1mQBRMCezd8RusHEoV5QoS7TnzAr7snqW1nkD9W2B60Pv-wvA6vooAORdSjw9XfS9Xxh2LIPaF62yifMTMhi2l-TgQPjahbcSO0kQy-zIVY-hxe4P_yOJJhwGuT1SazumclWpROdUyNfFFipA9Mc-Uc9xomU-1vdkaP-W9PNc9tRp67U1VD2TDPBdsXgtzzyzG9-WrcUkdVsP6MX-CO04txSUpJ8A_ZAgxJ7fSO47WxriqLkHs27KXHvhVXg/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.6,
+    "review_count": 581,
+    "coordinates": {
+      "lat": 30.252384399999997,
+      "lng": -97.7644134
+    },
+    "features": [
+      "spanish_restaurant",
+      "fine_dining_restaurant",
+      "vegetarian_restaurant",
+      "brunch_restaurant",
+      "seafood_restaurant",
+      "catering_service",
+      "food_delivery",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "google_place_id": "ChIJ4fxAgzO1RIYRLf1MVadJ_TY",
+    "opening_hours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "neighborhood": "Zilker",
+    "google_maps_url": "https://maps.google.com/?cid=3962404230195379501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
+    "name": "Casa de Luz Village",
+    "address": "1701 Toomey Rd, Austin, TX 78704, USA",
+    "city_id": "austin",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$",
+    "description": "Vegan, organic & gluten-free meals, plus classes, workshops, fitness & conferences.",
+    "website": "https://www.casadeluz.org/",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8flvkhe1RIYRLQ4n--ovbts/photos/AWn5SU4lTKv3DItjD_gtZ7BBnedzpTL2z3ZBSLi7q0bolPlVM8mAeC63Vws1Cs6avAOV3WPy-KjhN0uUCIr2vxC-DxdtbWnRjf6C7cBTjhF9jHOI5B-OOgHxb5xd_vTDapm1wLvkBvMDAI5zgqF2jnDe_Vw-om-kLMRFGTM_7L9jhz5iGzhK8iGStS9nBrTuaW7OANmSyfPlCsACY_vEl2cNOTdJYPRB-uA7E--cYD7_nnrVzrizsosFzs5a68PzWNuOo3GY1x0rhQb0K9dAxGCAFKYOdUh9Nhte55iRN--cmzX9Xw/media?maxWidthPx=800&key=AIzaSyDOeMpiLYcJxBFr3EeOf4pnwCmfgb3AR1I",
+    "rating": 4.7,
+    "review_count": 697,
+    "coordinates": {
+      "lat": 30.264163099999998,
+      "lng": -97.7617126
+    },
+    "features": [
+      "vegan_restaurant",
+      "breakfast_restaurant",
+      "vegetarian_restaurant",
+      "community_center",
+      "primary_school",
+      "yoga_studio",
+      "fitness_center",
+      "gym",
+      "sports_complex",
+      "consultant",
+      "sports_activity_location",
+      "event_venue",
+      "school",
+      "restaurant",
+      "point_of_interest",
+      "health",
+      "food"
+    ],
+    "google_place_id": "ChIJ8flvkhe1RIYRLQ4n--ovbts",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:30 PM",
+      "Tuesday: 7:00 AM – 8:30 PM",
+      "Wednesday: 7:00 AM – 8:30 PM",
+      "Thursday: 7:00 AM – 8:30 PM",
+      "Friday: 7:00 AM – 8:30 PM",
+      "Saturday: 7:00 AM – 8:30 PM",
+      "Sunday: 7:00 AM – 8:30 PM"
+    ],
+    "neighborhood": "Zilker",
+    "google_maps_url": "https://maps.google.com/?cid=15811628028026883629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+]

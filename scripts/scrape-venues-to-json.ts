@@ -15,11 +15,6 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { fileURLToPath } from 'url';
-
-// ESM compatibility
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 // Inline the Google Places logic to avoid database dependency
 const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_MAPS_API_KEY;
@@ -73,30 +68,57 @@ interface QualityFilters {
 }
 
 const DEFAULT_FILTERS: QualityFilters = {
-  minRating: 4.2,
+  minRating: 4.6,
   minReviews: 100,
   requirePhotos: true,
   requireContact: true,
 };
 
 // Cities
-const CITIES = ['nyc', 'la', 'chicago', 'miami', 'vegas'] as const;
+// All 15 MVP cities
+const CITIES = ['nyc', 'la', 'chicago', 'miami', 'vegas', 'sf', 'seattle', 'austin', 'denver', 'boston', 'dc', 'portland', 'nashville', 'nola', 'sandiego'] as const;
 type CityId = typeof CITIES[number];
 
 const CITY_INFO: Record<CityId, { lat: number; lng: number; name: string; state: string }> = {
+  // Phase 1
   nyc: { lat: 40.7580, lng: -73.9855, name: 'New York City', state: 'NY' },
   la: { lat: 34.0522, lng: -118.2437, name: 'Los Angeles', state: 'CA' },
   chicago: { lat: 41.8827, lng: -87.6233, name: 'Chicago', state: 'IL' },
   miami: { lat: 25.7617, lng: -80.1918, name: 'Miami', state: 'FL' },
   vegas: { lat: 36.1147, lng: -115.1728, name: 'Las Vegas', state: 'NV' },
+  // Phase 2
+  sf: { lat: 37.7749, lng: -122.4194, name: 'San Francisco', state: 'CA' },
+  seattle: { lat: 47.6062, lng: -122.3321, name: 'Seattle', state: 'WA' },
+  austin: { lat: 30.2672, lng: -97.7431, name: 'Austin', state: 'TX' },
+  denver: { lat: 39.7392, lng: -104.9903, name: 'Denver', state: 'CO' },
+  boston: { lat: 42.3601, lng: -71.0589, name: 'Boston', state: 'MA' },
+  // Phase 3
+  dc: { lat: 38.9072, lng: -77.0369, name: 'Washington DC', state: 'DC' },
+  portland: { lat: 45.5051, lng: -122.6750, name: 'Portland', state: 'OR' },
+  nashville: { lat: 36.1627, lng: -86.7816, name: 'Nashville', state: 'TN' },
+  nola: { lat: 29.9511, lng: -90.0715, name: 'New Orleans', state: 'LA' },
+  sandiego: { lat: 32.7157, lng: -117.1611, name: 'San Diego', state: 'CA' },
 };
 
 const NEIGHBORHOODS: Record<CityId, string[]> = {
+  // Phase 1
   nyc: ['Manhattan', 'Williamsburg Brooklyn', 'SoHo', 'West Village', 'East Village', 'Chelsea', 'Tribeca', 'DUMBO Brooklyn', 'Greenpoint Brooklyn'],
   la: ['Silver Lake', 'Los Feliz', 'Venice', 'Santa Monica', 'West Hollywood', 'Downtown LA', 'Arts District', 'Culver City'],
   chicago: ['Wicker Park', 'Logan Square', 'Pilsen', 'West Loop', 'River North', 'Lincoln Park', 'Fulton Market'],
   miami: ['Wynwood', 'Design District', 'South Beach', 'Brickell', 'Little Havana', 'Coconut Grove', 'Coral Gables'],
   vegas: ['The Strip', 'Downtown Fremont', 'Arts District', 'Summerlin', 'Chinatown'],
+  // Phase 2
+  sf: ['Mission District', 'Castro', 'Hayes Valley', 'North Beach', 'Marina', 'SOMA', 'Haight-Ashbury', 'Nob Hill'],
+  seattle: ['Capitol Hill', 'Ballard', 'Fremont', 'Queen Anne', 'Georgetown', 'Pioneer Square', 'Wallingford'],
+  austin: ['East Austin', 'South Congress', 'Rainey Street', 'Downtown', 'Hyde Park', 'Clarksville', 'Zilker'],
+  denver: ['RiNo', 'LoDo', 'Capitol Hill', 'Highlands', 'Cherry Creek', 'Five Points', 'Wash Park'],
+  boston: ['Back Bay', 'South End', 'North End', 'Beacon Hill', 'Cambridge', 'Somerville', 'Seaport'],
+  // Phase 3
+  dc: ['Georgetown', 'Dupont Circle', 'Adams Morgan', 'Capitol Hill', 'U Street', 'Shaw', 'Navy Yard'],
+  portland: ['Pearl District', 'Alberta Arts', 'Hawthorne', 'Division', 'Mississippi', 'NW 23rd', 'Sellwood'],
+  nashville: ['East Nashville', 'The Gulch', 'Germantown', '12 South', 'Hillsboro Village', 'Downtown Broadway'],
+  nola: ['French Quarter', 'Garden District', 'Marigny', 'Bywater', 'Uptown', 'CBD', 'Magazine Street'],
+  sandiego: ['Gaslamp Quarter', 'North Park', 'Little Italy', 'Hillcrest', 'La Jolla', 'Ocean Beach', 'Pacific Beach'],
 };
 
 // Search tiers
