@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS merchant_profiles (
 CREATE TABLE IF NOT EXISTS merchant_venues (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     merchant_id UUID NOT NULL REFERENCES merchant_profiles(id) ON DELETE CASCADE,
-    venue_id UUID NOT NULL REFERENCES venues(id) ON DELETE CASCADE,
+    venue_id VARCHAR(255) NOT NULL REFERENCES venues(id) ON DELETE CASCADE,
     is_claimed BOOLEAN DEFAULT false,
     claim_status VARCHAR(50) DEFAULT 'pending' CHECK (claim_status IN ('pending', 'approved', 'rejected')),
     created_at TIMESTAMP DEFAULT NOW(),
@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS merchant_venues (
 -- Happy hours table
 CREATE TABLE IF NOT EXISTS happy_hours (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-    venue_id UUID NOT NULL REFERENCES venues(id) ON DELETE CASCADE,
+    venue_id VARCHAR(255) NOT NULL REFERENCES venues(id) ON DELETE CASCADE,
     title VARCHAR(255) NOT NULL,
     description TEXT,
     day_of_week INTEGER[] NOT NULL,
@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS happy_hours (
 -- Pop-up events table
 CREATE TABLE IF NOT EXISTS pop_up_events (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-    venue_id UUID NOT NULL REFERENCES venues(id) ON DELETE CASCADE,
+    venue_id VARCHAR(255) NOT NULL REFERENCES venues(id) ON DELETE CASCADE,
     title VARCHAR(255) NOT NULL,
     description TEXT,
     event_date DATE NOT NULL,
@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS pop_up_events (
 CREATE TABLE IF NOT EXISTS merchant_submissions (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     merchant_id UUID NOT NULL REFERENCES merchant_profiles(id) ON DELETE CASCADE,
-    venue_id UUID REFERENCES venues(id) ON DELETE SET NULL,
+    venue_id VARCHAR(255) REFERENCES venues(id) ON DELETE SET NULL,
     submission_type VARCHAR(50) NOT NULL CHECK (submission_type IN ('happy_hour', 'pop_up')),
     reference_id UUID, -- References happy_hours or pop_up_events
     title VARCHAR(255) NOT NULL,
