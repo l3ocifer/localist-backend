@@ -20,8 +20,9 @@ RUN mkdir -p /app/data /app/database/migrations
 # Build the application
 RUN npm run build
 
-# Remove dev dependencies
-RUN npm prune --production
+# NOTE: Keeping devDependencies (ts-node, @types/*) for running scripts
+# like db:seed and venue scraping. The ~50MB size increase is acceptable.
+# RUN npm prune --production
 
 # Expose ports
 EXPOSE 3001 9090
