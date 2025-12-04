@@ -106,7 +106,7 @@ ON CONFLICT (id) DO NOTHING;
 -- User Subscriptions
 CREATE TABLE IF NOT EXISTS user_subscriptions (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id) ON DELETE CASCADE,
+  user_id UUID REFERENCES users(id) ON DELETE CASCADE,
   tier_id VARCHAR(50) REFERENCES subscription_tiers(id),
   status VARCHAR(20) DEFAULT 'active', -- active, cancelled, expired, trial
   trial_ends_at TIMESTAMP WITH TIME ZONE,
@@ -122,7 +122,7 @@ CREATE INDEX IF NOT EXISTS idx_user_subscriptions_user ON user_subscriptions(use
 -- User Preferences (Concierge Persona Builder)
 CREATE TABLE IF NOT EXISTS user_preferences (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) UNIQUE REFERENCES users(id) ON DELETE CASCADE,
+  user_id UUID UNIQUE REFERENCES users(id) ON DELETE CASCADE,
   preferred_cities JSONB DEFAULT '[]', -- Array of city IDs
   preferred_cuisines JSONB DEFAULT '[]', -- Array of cuisine IDs
   dietary_restrictions JSONB DEFAULT '[]', -- vegetarian, vegan, gluten-free, etc.
@@ -147,7 +147,7 @@ CREATE TABLE IF NOT EXISTS onboarding_questions (
 
 CREATE TABLE IF NOT EXISTS user_onboarding_responses (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id) ON DELETE CASCADE,
+  user_id UUID REFERENCES users(id) ON DELETE CASCADE,
   question_id VARCHAR(50) REFERENCES onboarding_questions(id),
   response JSONB, -- User's answer
   created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
@@ -161,8 +161,8 @@ CREATE TABLE IF NOT EXISTS user_onboarding_responses (
 -- User Referrals (Invite Friends)
 CREATE TABLE IF NOT EXISTS user_referrals (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  referrer_id VARCHAR(50) REFERENCES users(id) ON DELETE SET NULL,
-  referred_id VARCHAR(50) REFERENCES users(id) ON DELETE CASCADE,
+  referrer_id UUID REFERENCES users(id) ON DELETE SET NULL,
+  referred_id UUID REFERENCES users(id) ON DELETE CASCADE,
   referral_code VARCHAR(50) NOT NULL,
   status VARCHAR(20) DEFAULT 'pending', -- pending, completed, rewarded
   reward_given BOOLEAN DEFAULT FALSE,
@@ -190,7 +190,7 @@ CREATE TABLE IF NOT EXISTS affiliate_partners (
 CREATE TABLE IF NOT EXISTS affiliate_clicks (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
   partner_id VARCHAR(50) REFERENCES affiliate_partners(id),
-  user_id VARCHAR(50) REFERENCES users(id), -- Can be null for anonymous
+  user_id UUID REFERENCES users(id), -- Can be null for anonymous
   anonymous_id VARCHAR(100), -- For anonymous tracking
   source_type VARCHAR(50), -- list, venue, event
   source_id VARCHAR(50), -- ID of list/venue/event
@@ -232,7 +232,7 @@ CREATE TABLE IF NOT EXISTS brand_partnerships (
 
 CREATE TABLE IF NOT EXISTS share_events (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id),
+  user_id UUID REFERENCES users(id),
   anonymous_id VARCHAR(100),
   share_type VARCHAR(50) NOT NULL, -- list, venue, itinerary
   shared_entity_id VARCHAR(50) NOT NULL,
@@ -251,7 +251,7 @@ CREATE INDEX IF NOT EXISTS idx_share_events_code ON share_events(share_code);
 
 CREATE TABLE IF NOT EXISTS search_queries (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id),
+  user_id UUID REFERENCES users(id),
   anonymous_id VARCHAR(100),
   query_text TEXT NOT NULL,
   city_id VARCHAR(50) REFERENCES cities(id),
@@ -297,7 +297,7 @@ CREATE TABLE IF NOT EXISTS csi_reports (
 
 CREATE TABLE IF NOT EXISTS influencers (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) UNIQUE REFERENCES users(id) ON DELETE CASCADE,
+  user_id UUID UNIQUE REFERENCES users(id) ON DELETE CASCADE,
   display_name VARCHAR(255) NOT NULL,
   bio TEXT,
   profile_image_url TEXT,
@@ -313,7 +313,7 @@ CREATE TABLE IF NOT EXISTS influencers (
 
 CREATE TABLE IF NOT EXISTS influencer_applications (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id),
+  user_id UUID REFERENCES users(id),
   city_id VARCHAR(50) REFERENCES cities(id),
   social_handles JSONB,
   follower_count INT,
@@ -335,7 +335,7 @@ ALTER TABLE lists ADD COLUMN IF NOT EXISTS is_influencer_list BOOLEAN DEFAULT FA
 
 CREATE TABLE IF NOT EXISTS merchants (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id), -- Owner account
+  user_id UUID REFERENCES users(id), -- Owner account
   venue_id VARCHAR(50) REFERENCES venues(id), -- Their venue
   business_name VARCHAR(255) NOT NULL,
   contact_email VARCHAR(255),
@@ -376,7 +376,7 @@ CREATE TABLE IF NOT EXISTS merchant_payments (
 
 CREATE TABLE IF NOT EXISTS auto_list_requests (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id),
+  user_id UUID REFERENCES users(id),
   source_venue_id VARCHAR(50) REFERENCES venues(id), -- Venue they "starred"
   target_city_id VARCHAR(50) REFERENCES cities(id),
   meal_types JSONB, -- Selected meal types
@@ -421,7 +421,7 @@ CREATE INDEX IF NOT EXISTS idx_api_usage_date ON api_usage_logs(logged_at);
 
 CREATE TABLE IF NOT EXISTS birthday_program_referrals (
   id VARCHAR(50) PRIMARY KEY DEFAULT gen_random_uuid()::text,
-  user_id VARCHAR(50) REFERENCES users(id),
+  user_id UUID REFERENCES users(id),
   merchant_id VARCHAR(50) REFERENCES merchants(id),
   referral_type VARCHAR(20), -- consumer, merchant
   registration_completed BOOLEAN DEFAULT FALSE,
