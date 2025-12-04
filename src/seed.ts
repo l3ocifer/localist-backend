@@ -137,7 +137,19 @@ async function seed() {
     }
 
     console.log('🏪 Inserting venues...');
+    // Get valid city IDs from the database
+    const validCitiesResult = await pool.query('SELECT id FROM cities');
+    const validCityIds = new Set(validCitiesResult.rows.map((r: { id: string }) => r.id));
+    let skippedVenues = 0;
+    let insertedVenues = 0;
+
     for (const venue of seedData.venues) {
+      // Skip venues with invalid city_id
+      if (!validCityIds.has(venue.city_id)) {
+        skippedVenues++;
+        continue;
+      }
+
       // Map price_level to price_range string
       const priceRange = venue.price_range || '$'.repeat(venue.price_level || 2);
 
@@ -182,8 +194,9 @@ async function seed() {
           features, // PostgreSQL handles JS arrays directly via pg driver
         ]
       );
+      insertedVenues++;
     }
-    console.log(`✅ Inserted ${seedData.venues.length} venues`);
+    console.log(`✅ Inserted ${insertedVenues} venues (skipped ${skippedVenues} with invalid city_id)`);
 
     console.log('👤 Inserting users...');
     for (const user of seedData.users) {
@@ -259,22 +272,38 @@ async function seed() {
     // Insert list-venue relationships if available
     if (seedData.list_venues && seedData.list_venues.length > 0) {
       console.log('🔗 Inserting list-venue relationships...');
+      // Get valid venue IDs that were actually inserted
+      const validVenuesResult = await pool.query('SELECT id FROM venues');
+      const validVenueIds = new Set(validVenuesResult.rows.map((r: { id: string }) => r.id));
+      let insertedRelations = 0;
+      let skippedRelations = 0;
+
       for (const relation of seedData.list_venues) {
-        await pool.query(
-          `INSERT INTO list_venues (list_id, venue_id, position, notes, added_at)
-           VALUES ($1, $2, $3, $4, $5)
-           ON CONFLICT (list_id, venue_id) DO UPDATE SET
-           position = EXCLUDED.position`,
-          [
-            relation.list_id,
-            relation.venue_id,
-            relation.position || 0,
-            relation.notes,
-            relation.added_at || new Date().toISOString(),
-          ]
-        );
+        // Skip if venue doesn't exist
+        if (!validVenueIds.has(relation.venue_id)) {
+          skippedRelations++;
+          continue;
+        }
+        try {
+          await pool.query(
+            `INSERT INTO list_venues (list_id, venue_id, position, notes, added_at)
+             VALUES ($1, $2, $3, $4, $5)
+             ON CONFLICT (list_id, venue_id) DO UPDATE SET
+             position = EXCLUDED.position`,
+            [
+              relation.list_id,
+              relation.venue_id,
+              relation.position || 0,
+              relation.notes,
+              relation.added_at || new Date().toISOString(),
+            ]
+          );
+          insertedRelations++;
+        } catch (e) {
+          skippedRelations++;
+        }
       }
-      console.log(`✅ Inserted ${seedData.list_venues.length} list-venue relationships`);
+      console.log(`✅ Inserted ${insertedRelations} list-venue relationships (skipped ${skippedRelations})`);
 
       // Update venue_ids array in lists table for compatibility
       console.log('📊 Updating list venue_ids arrays...');
