@@ -1,0 +1,3171 @@
+[
+  {
+    "id": "venue_1764810362568_vwkn4z",
+    "name": "Le Pigeon",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$$",
+    "description": "Elegant French-inspired fare served with a diverse selection of wines in a lively & intimate room.",
+    "website": "https://www.lepigeon.com/",
+    "phone": "(503) 546-8796",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJn_5mjKWglVQR94bKSpAYe4s/photos/AWn5SU5sF9FsOOp0h2KbC4Tjyngq4DYUm9n2tb6mCdfPhx2d8b2pBnD-bFB0_Fz532xxyCcXbtVHwwENQYZxL4e3XpWhFfgmxB4B0lruyJugk66nHJ4tQy_6G9O2B7TE13SOIQEk4g90mDCI8ZeU5VgxEAC0MnVXhyfF6i4Y3j2A2DxSAKi0BqKB6RlGhhLbUj6B0QAMh1Yohhvd0TPYTdJ0II8h33TkbuavHk71xhMM_gZuklXkJB9SyCDsxjD3kjCEhnaOq9_NUZaiFY6dFLPnx9rvi-HY9aZ31KNT8tv2yGVgrd8OaWobobrPO3blAlE9wonVCLPimy0DpPUm1Wce7xChx3YKzDDnh8fEVZ1DCcmNn2rHo55psScdxbiPZMHGb2Fb72gwjFWmycaIDxgrc7q4htEw6fjufywB3-n-uthIzg/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 1082,
+    "coordinates": {
+      "lat": 45.5228349,
+      "lng": -122.6578121
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJn_5mjKWglVQR94bKSpAYe4s",
+    "google_maps_url": "https://maps.google.com/?cid=10050654001416537847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "738 E Burnside St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_6zlgrz",
+    "name": "Lechon",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Vibrant, rustic-chic joint offering creative South American meals, happy hours, and a tapas menu.",
+    "website": "http://lechonpdx.com/",
+    "phone": "(503) 219-9000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJC3pkrwcKlVQRKmGrD6FKRYw/photos/AWn5SU7uYTkMT71dHRYqTWBlBqh1hRXS14zf04YrUYLmWoIGOdySKMfrYQIqPJF7HRskcOcaW-_mniEMSfBtKbOBuqGgBssnSwOv8G9RhHlCtyT0vy30jGR3xA_LGkC1cMC5J_ZjXUm7z-4k2r9RpM9JRbb84n85rohaS6HnQSeAK5JB6BrsbEJWjsuZ2QbQpfOXm-5ckw4-FlnjFZPvBdk4ZYPpONt2sa7hvQTK4_mrPB78hyl39yXrFTOD2tFVOkBqDVKvtF0TJkQs-0GfbyASOxm918Rfwhj_iIFtJuN-rX2lu52EahUeRP3N5mO6Ei6ZUwNhdb4x6Rr2k8pUmOyBDQBzDxspTwLVjITdMu43do-3BJvyjn-71GAjP2gVu6x4krYqMTA8FseE7qsfoQfD5ObGdFB87HDcHmDU9n1FQES0nA/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 2317,
+    "coordinates": {
+      "lat": 45.521264699999996,
+      "lng": -122.67074789999998
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJC3pkrwcKlVQRKmGrD6FKRYw",
+    "google_maps_url": "https://maps.google.com/?cid=10107566994316026154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "113 SW Naito Pkwy, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_au4idp",
+    "name": "Arden Restaurant Portland",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "description": "Warm, rustic-modern outpost offering seasonal Pacific Northwest cuisine & a sizeable wine menu.",
+    "website": "https://www.ardenpdx.com/",
+    "phone": "(503) 206-6097",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJiR7c4gEKlVQR6sk4VSxK2QU/photos/AWn5SU4CFEZaNctiEtiIt_j1GP9uWX8FGfX7E68LPdW5KnKb9xspbSfiTYIM23siwPIe1o6S7NnbWell82wWesz7tPAaJ-2ehV6xGGoFxbZ2eRqarwLmEiePoWQIFM8e_s_CGW7Ptd65Icjdn1Au1li5rrcn3_oobrnfUEkgsS4pnN7vD0GGWQ-BSdkVxJTBHfd-Xzu_LO50N-bWum4JR6E9RQDBIbqZ5sa7-k7faXWZmrOm6xAn4TX_CCggVRPS5ydsbF6WDQti0-MsdkdqmeFKrys4QX5PCn_sogWijCttil9lJw/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 424,
+    "coordinates": {
+      "lat": 45.5260526,
+      "lng": -122.681367
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "vegetarian_restaurant",
+      "seafood_restaurant",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJiR7c4gEKlVQR6sk4VSxK2QU",
+    "google_maps_url": "https://maps.google.com/?cid=421449594404653546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "417 NW 10th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_ihxrf3",
+    "name": "Canard",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$$",
+    "description": "Dishes take their inspiration from all over the world at this stylish venue mixing fresh cocktails.",
+    "website": "https://www.canardrestaurant.com/",
+    "phone": "(971) 279-2356",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJN9nCjKWglVQRnr-YstaX95c/photos/AWn5SU4yfEOr9xKYIDXyyn09vDESBU45pngq_qrFOh-dyZ_q0iULlReTAG5EDq-Uzs1dPkoUlmITxAgaMJZP9FbOH4xiazv54pEa1cvPhxwEgOPkYu9fM9ZztNSUcU3ovqAXqYOMk68wUj1xFBkBVcJrRL5STec2BL5CrZWolhi2npnTVcJA5Iy_K5h2ktEQpkhEfmj9Euzea_S3yxIt3x5CLb4lVW_jZgePybAFEogw2Dxwp9FxyRlHb7qHhhbkZKrLDmTFfDQFER9kiUIMbe07-vWjH33_aYAcD8UyYfJWB8MAVBHn6YJqcaWV4PXRkVN8GOl8ZoB_CSQzcKvYOEMVBFeOLg3SprGrRZpke8P1Mp43JTU3S3o-pLqjU-MgQD620revuIn02aM_1dZPM2dZhFIWbEQXCXQBt20YJ-bqgmpFuEyg/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 1140,
+    "coordinates": {
+      "lat": 45.522799,
+      "lng": -122.65799969999999
+    },
+    "features": [
+      "french_restaurant",
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJN9nCjKWglVQRnr-YstaX95c",
+    "google_maps_url": "https://maps.google.com/?cid=10950387967349800862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "734 E Burnside St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_1kxbd3",
+    "name": "Q Restaurant & Bar",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": "Modern & romantic space featuring imaginative, locally sourced Pacific Northwest cuisine.",
+    "website": "http://q-portland.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=2445e5f5-8a8f-4d47-a4f9-a5850a66c9c0",
+    "phone": "(503) 850-8915",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlTRPdw8KlVQRart98XbCf1s/photos/AWn5SU4z8y-7fmED9yWetCwbnxKQG64MWtmzneHY8JryZpRR6s7RHgywjEUwVab79M4DjLrbD0V-yrNHagNKs9GgZxXAg3gxhz1u3YnEsedGBSMFN754PsNvxuC_1rjGGno-ACn7dFBdV6jPAl2-dyFJ8WIp0snRIq3t_Nb6LHZQlO2L2LyNS0kTvsGONxfaodfKd8LEBmgfviy-DNJUOvgBsx8Aq5dg-hiiNCLW5R52w7lHKUVRACiwdl92T2dtyZiJ9LkZyIMyRgN7uUMESxPIbXFytbc0nmbAO8OlQDv6_uAKwPfxaaxG7KawLdt_bG_ZPYzhZAKGJaajoTIZcSxJxzVojl0sUr8r-eVd9gNBrxYWPegjLa61Ers6BPsNzxMHps7_ddFoRmHfASBpAJyJq_9puvw5XCjKug9Z9lMa6Sc/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 1523,
+    "coordinates": {
+      "lat": 45.516803599999996,
+      "lng": -122.67505899999998
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlTRPdw8KlVQRart98XbCf1s",
+    "google_maps_url": "https://maps.google.com/?cid=6593202195607173994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "828 SW 2nd Ave, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_zl9dch",
+    "name": "Coquine",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Cozy corner kitchen serving polished, farm-to-table New American dinners & casual cafe fare by day.",
+    "website": "https://www.coquinepdx.com/",
+    "phone": "(503) 384-2483",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJj5vTbf6glVQRafj1UTq2hk4/photos/AWn5SU4XsePlqmZj-nwprn-mZKcHlJx2NbYSAzw0PJGDkO5_MgQqNQvbpeynXEYRhel8LitY3D1w9YrlrPybZtobzdQ7ZZtoQ65PE4c_Gl9vjEXaa6-Tn2_xfwK9iFH7nBGkgpfPZEHEyt034fbSQB9ubOicxa6odBgO7jaT5Tsj05DQ2vMo8-58ig52eP1K0-_u-UH22nrZMSqIn46lO8BszzJL_9iNmD-aivdkqD0Ea0G3993BPycceIcgZ0tBF-yfXFUmoZN9gmSBtjdh-UB48iJgXQfDWBU8WvcVw2oLKElqQ7mVbspwHVeCkq2k4wL9woX7ah9VzpKw-TlJPpitfQOcfqJ48OgBOSXbWMsdMu6VFl2KMIOW7f-eOxl_K3pTgNr_TR5zu_u7nI_vNlNE0U6jByMBcL6-i4QVrJ-o2e65Ffgt/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 843,
+    "coordinates": {
+      "lat": 45.5170361,
+      "lng": -122.59240189999998
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJj5vTbf6glVQRafj1UTq2hk4",
+    "google_maps_url": "https://maps.google.com/?cid=5658410343437039721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6839 SE Belmont St, Portland, OR 97215, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_i52uim",
+    "name": "Andina",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$$",
+    "description": "Upscale Peruvian tapas & entrees, plus regional cocktails, presented in a warm, bustling room.",
+    "website": "https://www.andinarestaurant.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "(503) 228-9535",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1bXhuPgJlVQRD9JEUHsIBis/photos/AWn5SU60s-lx0HZz_fsxF4RHN0mon-ckZdeP_zbptlMX4HS9UoRtlDrlpC4ML5bt9Wb8XLrd8CahA9lhT9B5ZHS7lMXF28d19kIBXbY6X2F7QRaywArgqKKX2r21sm3kDLA5DqYWBImOtTdYyqw_cmLtQhVQZJHdyDKlI9fmMnBOXBetArmfyXKlcYewEbc-VjPxjBO_wOSQYgjTedqoGHb1QBQKkSHck9Lb-nuHUhNt5ey6zAAlhtEYRgo1lPmGT9FtyRwm482w7LPIoKeveomkJ2g7Yrgbqmb7YwxVQSG0LPGNmw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 3421,
+    "coordinates": {
+      "lat": 45.526334,
+      "lng": -122.68460300000001
+    },
+    "features": [
+      "brunch_restaurant",
+      "night_club",
+      "wedding_venue",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1bXhuPgJlVQRD9JEUHsIBis",
+    "google_maps_url": "https://maps.google.com/?cid=3100174719211852303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1314 NW Glisan St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_z72806",
+    "name": "Mucca Osteria",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Romantic Italian spot offers organic fare & handmade pasta in a refined space with Gothic flair.",
+    "website": "http://www.muccaosteria.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=311284b5-a632-46cd-949e-792c10c37b42",
+    "phone": "(503) 227-5521",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJQ6lVpAQKlVQRGf8Z15SgZdE/photos/AWn5SU7GK504dLBBtphnrK2xp9U9JBQy9wKcUvpbExnpXldUgcTMlz9O7nwVE-kZg6LgkSs_14P0VMBoMGwcufLtPAul5fsgE4tCDuwl_rws6HBMUvYZlaNMr-4f9OTjIozFcOk1pzWbgr3kAD_XIPk3LTmQVLfBdYdObw7Zympz2bcarEdF-OgOZkL1cF2ozebag-_COoVYAk-kHQ03R5MngNXr3GQcZCzgpSXw3CQYMhXTcLiD_qR34BvvB0Hnn9hao5PVch3LcwRSeeGg3hN312NXPgovDegGwRy6Gm8FJ-60lw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 783,
+    "coordinates": {
+      "lat": 45.520067,
+      "lng": -122.6827446
+    },
+    "features": [
+      "italian_restaurant",
+      "fine_dining_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJQ6lVpAQKlVQRGf8Z15SgZdE",
+    "google_maps_url": "https://maps.google.com/?cid=15088642687699123993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1022 SW Morrison St, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_zwnutp",
+    "name": "Langbaan",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$$$$",
+    "description": "This tiny Thai restaurant with a rustic vibe offers family-style dinners & daytime cooking classes.",
+    "website": "http://langbaanportland.com/",
+    "phone": "(971) 344-2564",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJK6UvA7-glVQRR6PiHnH7ZCw/photos/AWn5SU42qv5e4tA2ivPgB61s-ZCKoBogmZMPTPxoehEM0aw36fjPPYiNpqCBfQyhyMZUr6Va0kLyloW9xcPOSdPSlWBLeZZBR4xGWP25YWPoN4_MTeHPPBRYGxHvFmc4LRVGOKzYXg5gOzb0kdS3G_3JRsgYFV1sLsWh_uGpUO-mF-WDchDurL9TB6KltuJwyETVMBBrb6k51hct0v4miFiOLyoYOhVnZ1-QiLrI2ppyfwZP8oPnPIf_rJp_vFQ0JhiN1JnXpfOLu-tMrMGJfzDYhIfwDzAyKAr0dfHa1wnnIq6tDCzXrgFI8Zyd-OGgnbXi2Iw-DFskEMgRSJ1ts3UJksOR2BLWdfdz0mdECuCjIxkQd9A8sL-DjwEapTM89eqcmOCZ9LyLoDAvTNM8nOxFORw7gaXj6NYO6vBLV7gWjZUnzA/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 417,
+    "coordinates": {
+      "lat": 45.5357177,
+      "lng": -122.699664
+    },
+    "features": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJK6UvA7-glVQRR6PiHnH7ZCw",
+    "google_maps_url": "https://maps.google.com/?cid=3198958098607940423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1818 NW 23rd Pl, Portland, OR 97210, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_7kfcng",
+    "name": "OX Restaurant",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": "Stylish eatery with a bar where Argentinean-inspired NW fare is cooked on a wood-fired grill.",
+    "website": "https://oxpdx.com/",
+    "phone": "(503) 284-3366",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe3PKSEmnlVQRYAblCH7fjpA/photos/AWn5SU4aFz-TMmQfTyvh2I75poqViR_eR3NX9x7u2kd8nLun6eFI7YWLa-qZii8eZB_zVEHbun9Ej7qqXR6v1r16TMtEAefgsDi0ftOjLeyJKH2Z1nZytlWTZxqd-4ZAYWGx7r4Y-qocUteESvBYKTiA6Si632g-MoxWkr659F2zDMZSEx_7FgeWTZM_NwdD54b0GRrzg7I7YsbijZ0fPWSeW2upOiA7JUC0QJsRsEfNWp3doGBMl2Gj8Slm3sbUgfGR5C2n9mKdXE5vNGZipudvPVVYx15OMn-DSpA7Op5YpyNW5dzhf-bs6mTyEuDlDe6eI41ga9SBzCmop99GUEJ8iqIT2Zkxl1EjcnzdlPuKYx0M8ms5pLd7oNqbPtYFtV5RY-LLGRjP95Si6juJQAC1EWpoUwTfVP6AsxcjsqqULj40HWo/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 1798,
+    "coordinates": {
+      "lat": 45.5394194,
+      "lng": -122.6619443
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe3PKSEmnlVQRYAblCH7fjpA",
+    "google_maps_url": "https://maps.google.com/?cid=10416508720562636384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2225 NE Martin Luther King Jr Blvd, Portland, OR 97212, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_dszt03",
+    "name": "The Observatory",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Stylish neighborhood eatery earns buzz for its creative take on American classics & craft cocktails.",
+    "website": "http://www.theobservatorypdx.com/",
+    "phone": "(503) 445-6284",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu9pp4gahlVQRK2-syvMVfQ4/photos/AWn5SU5WcGMEULol4VlIDPzKEqcmuRp8uIz0v1JcriGKmlRL248vaBIHh0FgQ2vYM9t-_OUJlmMXJZmPpEyFe7-vgXTS6XKfe9I4nLr5HHLZxQFIUGEUUXecfXKWZVrwEhNUifOHSbmaJwyOk1-0d8GbFCt0RLB96qI02uL6lBKnuLjQQaYWVgMAM3dLcbu1Mnkf4c2UNJqJM7UEFbVrpudeq4BvUrPG0dI1GXLRd-jYlkuvwU0i5M-u9vcYejLQr7FTTTOZyys6aixQmOWf1FG6_1_VGpNNT_Tr0T2wmyC0249yyVKXvi9_dmPNCbp9C2u6fBuGKBnY3GQP6TCXji_l9Ntzu-Q_Z06sYTrxKjoFiEWJW2qiWkyKdPjVfC0BmrGoSR7unzWbYR8m9Gr0_GFU_THhDey3nQ2U9yGCN5geiw0Jog/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 3116,
+    "coordinates": {
+      "lat": 45.5192701,
+      "lng": -122.58019379999999
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJu9pp4gahlVQRK2-syvMVfQ4",
+    "google_maps_url": "https://maps.google.com/?cid=1044014825441357611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "8115 SE Stark St, Portland, OR 97215, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_swpu60",
+    "name": "Lilia Comedor",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": null,
+    "website": "http://www.liliapdx.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10116908362801027932",
+    "phone": "(503) 984-0828",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJcfxUYwULlVQRlCW4srsrr_4/photos/AWn5SU4aQmG18wswHIJ_160VpcSSdaO-4sOslt84q8HXwfL6tmQiaPsZQ3f9uRhza9HUrrfFGtdrEinJ-WGAEeaCUUEDpCfvvg1GunAB-Fg7p7xC3HJyKzbDb3_N6cenv10OhtC3C7t0uFiv5fAngedc_wHQLO_guD4dGuLsmBUZp3I10sfcA9lgcaOJKeZaKPIGCtp1xBfxpDODPFvx40BkGWIywzxmGusA9iE10fiTTTs3Hxo0AZespdXioeImgbiJyEf-OAkG_wVnwt3JwlIy1WNzafIfovGL2q5Ik2f0i56hUA1sVOKnk87dzOw7PsyxWJxn-WCzP1z-BdydkZ4Li8a6MlgdJxfHYLPxatdyldWDoMSwNtqAiTzm5s3QDkzwDSHy8kLCxmn23jG2o90UTXWQG8WwzTWIGfAy_sFwXn4IBlA/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 261,
+    "coordinates": {
+      "lat": 45.5263056,
+      "lng": -122.6782917
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJcfxUYwULlVQRlCW4srsrr_4",
+    "google_maps_url": "https://maps.google.com/?cid=18351935091715351956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "422 NW 8th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_zfg27z",
+    "name": "L’ Orange",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://www.lorangepdx.com/",
+    "phone": "(503) 880-5682",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPV5W7FgLlVQRTbpl_7-POoc/photos/AWn5SU7zGdjDgMaLPAB5buloZR1RZnPQYGo-dEwRru4GzYZM6R9VeO8gwSv4Le8ZWY-XerCFZ06J0qHPCyB-hNKOEfkaSNpvPEWS-2jB3Oavvm8bGkz7L0EDl9PM9NcN8yl-TDk1S9hrnGpVJiORo6u-3BbxeQCgCZ2lxUpzD1q1i8f-nQ2UpLKRaHmE1zkvwlGtHuJavBr7TyF_GmPkT3cRdd9sg_EDHQB-SOTn02qHW15iwWrn5FSrNEziy55secpLgR-sMDQkGLX7sVnJkd2XCU3jdi6Gr7jAECB74WsTJemXjw6rMUPCkbR7927S_0TmMv9rVv4aAUeyQKZpLWBVYQzVgOZKb3IIFldDMggM0vV3NHz4-A1GkPPFn4dbgjp2Ud3-4ljuiOGce9f2c3nOKJ_KbUkNxttbP3jEOz6xRFgX0vvn/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 213,
+    "coordinates": {
+      "lat": 45.508519899999996,
+      "lng": -122.65492760000001
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJPV5W7FgLlVQRTbpl_7-POoc",
+    "google_maps_url": "https://maps.google.com/?cid=9744258798555871821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2005 SE 11th Ave, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_9vx6jq",
+    "name": "Olympia Provisions",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Housemade charcuterie & European-style meals provided in an industrial space with a to-go counter.",
+    "website": "https://www.olympiaprovisions.com/",
+    "phone": "(503) 954-3663",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJDzuJgKeglVQRXyGLZ_NJERA/photos/AWn5SU4L78hFBGapJNfFgyPKbwGX3cPkUcz1WffQEbOhpZ1DqC_-FhD1Zo86Xvh7iftGu3p9MWq6SliGFaghihSJgwv4-awcBitmml9vnfCFpOEi1FvQjVtyyd8shDdaqFzrQjQBYW_2LygG-gVqQVBdNG5wicMd4W4ghjDe7gTSHQvOScfU56EZJKTpAnln2wgCUe6jtJtNSmURmNxhwAl6aFOMMnDxQflTlzcQ8Im4_jouijqxZ7wqRxebVK6scEIly4lgxCfiZ68I4VCXCGEtPuk3Qd3C_E6WydgMGc6GM8jT5g/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1473,
+    "coordinates": {
+      "lat": 45.518769,
+      "lng": -122.66393900000001
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "bar",
+      "american_restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJDzuJgKeglVQRXyGLZ_NJERA",
+    "google_maps_url": "https://maps.google.com/?cid=1157787888973979999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "107 SE Washington St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_zxwhl3",
+    "name": "Higgins",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Longtime classy spot for local & sustainable NW fare, with a lively bar, many beers & Oregon wines.",
+    "website": "http://higginsportland.com/",
+    "phone": "(503) 222-9070",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6UnKghoKlVQRDec3N8_R2fE/photos/AWn5SU6zM-qWwVlD0a2C4FJBI2rDPP3XuuanwxOA_4LCU0UlI9ccgb2jmlwoJFr098LMpQm-XQL0p7qhUIbi7ZtULwHUfoTnUp4yRb9okCH1KrFFf4q7CGX3jgY0MfuX4RNTHkU2R7G12Sl43jvvqpZT_bbca1PvbH30ESp9RQ-XFIMqC6LWuhmLGtnoSdupCZbusQis3AwkvdSCbe_j6uxKsyuc7EOnv7WOxR5caUYed-Y6mAxdhmsXnJOsrMnq78SifZ1hkIuMBIDjP_b8c9aUW9FO_jNZhNGDjxx-EX6Lyst8Rq9_K--kwuEDotPrrw2WF4cX6pTruc-1KE7YVwU128Mmm_fct1I_iJTbCF1SPMGIjdn09YKmJr-OWYxBHAXSJ-RzmlEegkzO_zE39k10dx4luZLeTwbJ2gxd7asmTfw8-Q/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 1313,
+    "coordinates": {
+      "lat": 45.515572,
+      "lng": -122.682
+    },
+    "features": [
+      "bar",
+      "american_restaurant",
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ6UnKghoKlVQRDec3N8_R2fE",
+    "google_maps_url": "https://maps.google.com/?cid=17427190921001690893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1239 SW Broadway, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_ysly1b",
+    "name": "kann",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$$$",
+    "description": null,
+    "website": "https://kannrestaurant.com/",
+    "phone": "(971) 489-2202",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIUdfuzChlVQRepfM4S5jGUQ/photos/AWn5SU556NgkJbRhTnr5p4LOtWjRC0Xk8gHZduyqornUElbX-EalaZ83e6OQKNnr5MvlxDdT--_Bu6Qd_4iKpMG1VvVqo9OB9QK17LyelM5nkmm07NBw0tsHlQ38PU_t3_gWLmdEUfX-Xe4cdfL-HESdnEDJPsI21Kiuc-GIljBr1YSytIhuLOM6FZPbCgYdxDFEcNJM_mmWr-t0D18TZdWITWZChuu4O7ZqB73yaV9kcdmwqLvqn48ElOWchKRBHRMIBR2DveTO5_xQyCpqRhDbAkgqWEScJM1PsfadGTq_L_maQpMVz-0WKfju-NmxgxORhUxrRbXSisiwB6Zxb_X9NPgiwstfLh5DqclFEx2aDZMKf9CiqkZNxE7FwRwkWlf9IN5hnc0IJg3h-q8gnk5EyFtiKEK2jlu3sAG0_eC9SdgfXQdOxSL_mcS1UIdeH5Vo/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1102,
+    "coordinates": {
+      "lat": 45.5212863,
+      "lng": -122.6598948
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIUdfuzChlVQRepfM4S5jGUQ",
+    "google_maps_url": "https://maps.google.com/?cid=4907062322004793210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "548 SE Ash St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_9vcb9w",
+    "name": "Mediterranean Exploration Company",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Upscale Mediterranean-Middle Eastern fare & cocktails served in an industrial-chic setting.",
+    "website": "http://mecpdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=f874eda6-772d-4a82-8c61-e412ea7cbcc4",
+    "phone": "(503) 222-0906",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ6RMIovgJlVQRjbkx4aGydMM/photos/AWn5SU4kgnBPPpzdkYsH6JUvVkdqprRkpcV346kFF3LDv7oCY-kFXnbWn5cNR7sCVw8ypTjhfvy6WJOpAHTwIDQMhh8K5MkgrXA9uGqjHvyzi7idSija02kWYcyJYLYL2M_9L4XmgAUfKQ98Lvu_pYb1A1m8zkn6ws3xgdnihrsiFEfdiw_umKpZp6jVEqp5SkvioI6cqIoEhBzaJsbapmqD2bCUnX3fKfduzlePdCniqusLb-nTM3QZgpdLtlbt44ZYKS90GU6LkoQDfJDCkLgfRwn3QvoTx9u8tD8tSxDMm-ADMA/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 1501,
+    "coordinates": {
+      "lat": 45.5256012,
+      "lng": -122.68447839999999
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "fine_dining_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ6RMIovgJlVQRjbkx4aGydMM",
+    "google_maps_url": "https://maps.google.com/?cid=14084078343031994765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "333 NW 13th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_18vqqz",
+    "name": "The Star Portland",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "description": "Airy, stylish outpost serving up deep-dish & thin-crust pies alongside wine, beer & cocktails.",
+    "website": "https://www.thestarportland.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=8bef601b-b06d-46fe-9718-811f8f5a9476",
+    "phone": "(503) 300-7827",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJad-aqIgJlVQR1LY7Sc5lQD4/photos/AWn5SU7k42RTVEvFG64px_mP5NGeZAWSYVtlDLC-Bb6Lp-ft5NSze3P88NREZZWxHMVtek2A-PIhHOMnMqPHsXWIKz1qazB3VExyCJhd76ZGp3NbXqwJzKekzTi58gf3b549XzyfYK5m2BESRgAVaz_ejgSYDy0nczjx3nFPMd4IMS8DWF37XOmCZZgaLls_LDOqsJiLp_gqnp-w_fsZsTcQSZIan100qVAwpnZSDLvjCq4ZIg2W49nDa8GQQQWH9FTVHMT7hFT89eUWgzUv4y8ePjOtcq6Ef4Oj36onjTDVPcZmQ6MIFYNxQ00pAZsKO7Zi7eb9KTNGVY-B2X-XZQUGPbGtnMoq95vWR9tL73n-Js5ypsVoDpm754jZshkDxrzb67ovUSDunhsuNakbH05p9hikvw8i-OHsooaBlH5niur00svx/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 905,
+    "coordinates": {
+      "lat": 45.5273198,
+      "lng": -122.68453540000002
+    },
+    "features": [
+      "pizza_restaurant",
+      "meal_delivery",
+      "meal_takeaway",
+      "food_delivery",
+      "italian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJad-aqIgJlVQR1LY7Sc5lQD4",
+    "google_maps_url": "https://maps.google.com/?cid=4485697165527332564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1309 NW Hoyt St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_xzwnda",
+    "name": "a Cena Ristorante",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Housemade pastas & locally sourced Italian fare served in an intimate, warm-hued eatery.",
+    "website": "https://www.acenapdx.com/",
+    "phone": "(503) 206-3291",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJqTSQO8MKlVQRzrQhTZuYzrw/photos/AWn5SU4-FNxv8UoIoh0ElEPfNqIxwPWmATRMOxLGVaLNnqH3zL9892j43ZkJG4MbHNKE6cxP6iTgxJcK-jNf7yirza9G1PGSuUQr9Ynmgin0nhLVeG-r-pw02Ek1BFPOZeFQ7gF8ErmnJDzDlVpuYFbpMK7iMBmYLKnLh8wAw6gQ9Rshth_aaK729NsA2DvNzpMYmx38nbT5RP_ebcF6QdglvGzIaFmC_yCl72L2MWLAFTn0mq2xcoc4XWBhmgAo4JESjGkGUQnaehoGTLnGhgN_NViFp7rX5lgCBeg33YMckbAhoA/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 819,
+    "coordinates": {
+      "lat": 45.46875,
+      "lng": -122.6527056
+    },
+    "features": [
+      "italian_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJqTSQO8MKlVQRzrQhTZuYzrw",
+    "google_maps_url": "https://maps.google.com/?cid=13604979317114254542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7742 SE 13th Ave, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362568_3gyifj",
+    "name": "Urban Farmer Portland",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": "Modern NW fare emphasizing steak at country-chic restaurant in 8th-floor atrium of the Nines Hotel.",
+    "website": "https://www.urbanfarmersteakhouse.com/",
+    "phone": "(503) 222-5700",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVZDfqQUKlVQR9Vg6PMLTv78/photos/AWn5SU6sENSVfHLH0k2NeDd5xm8y1EXRnU8pabMn-OhJwEz-0GV39cxamir4ad-NXrn6gUc7fz9uDvyNaNBRFQD4RJKGXWIvCmHYhMNAd5ZgMX3BZZeIQnn7DpvIHoLrsqiw2cCNdedkjzPmNVMuCR2dKvcboSAbTmavaufjiUv0RyQBUrYQH7yAiB4dvTuo23lOFQCnPXuuumezxo3f7JHPK_2ACmrx2oC68eLcfwGb91LFEAdMSGElTUsUAM5SQQrPgMMziZBnrUCdXc-ZbdILgYLCQGqgyD9V1Ll4n8Kknz_xpA/media?maxWidthPx=800",
+    "rating": 4.3,
+    "review_count": 1015,
+    "coordinates": {
+      "lat": 45.5191261,
+      "lng": -122.6780254
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVZDfqQUKlVQR9Vg6PMLTv78",
+    "google_maps_url": "https://maps.google.com/?cid=13816995012983544053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "525 SW Morrison St, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_blp0aw",
+    "name": "Clarklewis Restaurant",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "Locally sourced Pacific NW dishes served at upscale, energetic restaurant in a converted warehouse.",
+    "website": "https://www.clarklewispdx.com/",
+    "phone": "(503) 235-2294",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYzU7YAkKlVQRNkkJhaLTz0s/photos/AWn5SU4hqO-q84aj5GrVP1HSHdN6fXPYr2uEnSkN2tM6jBSKQ6NO8a0bYwSuCtqLItPCxJAWWH7EUyeCQXjMMnSczkcNTNlM7XdqYqD2XjZk5LIIeBVHtzg7GJGUmjrM6S30pA8kNnBBJ5g_oHJnHSmrrFox2pj2zKeE55D3dH01u1z4xW05150zRRiyJ74jeIiF18T1VUZJ7XLvtfqclXX0QePHyKQe4QjQHYapAVPNLFBnyN8nlvmeCWlRzFGOzcnYD9WCpkfnP6YYDiXWzRnQw-Pi1eyomMdDC36eG-lvCTPw1A/media?maxWidthPx=800",
+    "rating": 4.2,
+    "review_count": 861,
+    "coordinates": {
+      "lat": 45.515225,
+      "lng": -122.6660242
+    },
+    "features": [
+      "american_restaurant",
+      "fine_dining_restaurant",
+      "catering_service",
+      "food_delivery",
+      "italian_restaurant",
+      "pizza_restaurant",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYzU7YAkKlVQRNkkJhaLTz0s",
+    "google_maps_url": "https://maps.google.com/?cid=5462817567993841974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1001 SE Water Ave, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_ggdeqj",
+    "name": "Nodoguro",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$$$",
+    "description": "Serving multicourse Japanese menus with farm-to-table ingredients in a bright & intimate space.",
+    "website": "http://www.nodoguropdx.com/",
+    "phone": null,
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZTtw7ZaglVQRin14qvylu4s/photos/AWn5SU7nM1PA_2tFz3igmY71ppwswcaM5QD4VTTbJqSkffFcnRAcXWW_wqUzk-hm6agh_VG-uCfKbDjliz9omaM2bZpeEBOgZaobBlGf2XFpIIaQEatxWazYMBC7HqH-6DU2pdJrXNzTEZ8GZ8QCxXxRsp99UV47lV8XX4KgZTqNR56Jm8LFO3O_rpzqLwcldL46OZUXj2y_cTf2CSoe5UjuHEMU77QcJu0TEze8-BlOwAZPh-MMWpdB9rl3yFUVCxF8o6HE63BnHGKwXL7c0vAksp3P4ROkysssQISeNIQDJ2NpLMVaeyxAcrCPNWALuj2_8UutV9K89Pea7qpYCO6NcjdKUC_5Wtn23IQtIAV93AQXZOnlU0tjb6RJhUC6m85m3VOQZQRB8mYNs94ZxylfohUxz6FBUy-eMOp199JMby_NjQ/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 190,
+    "coordinates": {
+      "lat": 45.520561,
+      "lng": -122.67919699999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZTtw7ZaglVQRin14qvylu4s",
+    "google_maps_url": "https://maps.google.com/?cid=10068823896527240586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "515 SW Broadway #100, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_5c2tkg",
+    "name": "Departure Restaurant + Lounge",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": "Upscale, Asian-fusion go-to serves creative fare & global cocktails in a chic space with city views.",
+    "website": "https://www.departureportland.com/",
+    "phone": "(503) 802-5370",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJleNCqAUKlVQRJewBNCXtRRU/photos/AWn5SU4EvhzT6WDDU4gMTTvgeQkjExIDUlto5PPpSCOj52Hr2xh5KHGpztvayI8M904ggAze3wEFcNGhKqZOTcDQLfCKQk8j4hQRjRJ1CqFolv0lbjiyvn4qy1X2VR4LE80ResI_3ViEF9zNPF1JuZY7U8AwcFFNqFs3X8Msh7nTl4nri1uJZvIMscoWl4D3_cFy7uUpdxE8TOTL8U8PUboG3CsyX2UlgQ_VRWpt1S2m5wpLP4iEl6k2D1VI58F9LuXNAvUi0J4869rKjJX-Uf5DsqDqWlc2LkYNUEHvuEJ5GxtCAA/media?maxWidthPx=800",
+    "rating": 4.3,
+    "review_count": 2531,
+    "coordinates": {
+      "lat": 45.519054999999994,
+      "lng": -122.67806979999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJleNCqAUKlVQRJewBNCXtRRU",
+    "google_maps_url": "https://maps.google.com/?cid=1532891992231636005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "525 SW Morrison St 15th Floor 15th Floor, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_ijw21f",
+    "name": "Gado Gado",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "asian",
+    "price_range": "$$",
+    "description": "Bustling hangout with pan-Asian & Dutch-Indonesian offerings, plus specialty cocktails.",
+    "website": "http://www.gadogadopdx.com/",
+    "phone": "(503) 206-8778",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJyXh3nRWhlVQRZDrOg3Pl1L8/photos/AWn5SU4b56WicC8o0hrajxBeEIR29ZORYc5mljXPGh6N0oBjUuhdh0w_ZDn6Ba4wzbrtHAqD6-3NibSU57SQemWXp-yE-A-Fmt7OM05-teDBzUAfYxy8qMYDhird8OJPNUDmVaKWWPWcaHuP1oqikQxYpW7g9xmz3r0vL7_6YW46JBRGS9Wi51n3ztDFeT4qoM8e2E6GN4CTw4tUU89BQsl1WZviS_7l3w8WCr99kmMCjFq9MyzCOWE5a47ZgLB2O_ebDlRWLfoRV39Mra94TCKuNmyPMwrOyDXGRxKX_AkgtRB4Jw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 760,
+    "coordinates": {
+      "lat": 45.5358448,
+      "lng": -122.6233036
+    },
+    "features": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJyXh3nRWhlVQRZDrOg3Pl1L8",
+    "google_maps_url": "https://maps.google.com/?cid=13822925440602225252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1801 NE Cesar E Chavez Blvd, Portland, OR 97212, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_s8mm4c",
+    "name": "Han Oak Restaurant",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "korean",
+    "price_range": "$$$",
+    "description": "Minimal-chic Korean spot with upscale tasting menus & drink pairings, plus noodle & dumpling nights.",
+    "website": "http://www.hanoakpdx.com/",
+    "phone": "(971) 255-0032",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpT2LSLiglVQRX93h8i2F_Yo/photos/AWn5SU4D0XQYCZ_hbpXn4TUuCmJaquxpBQ1CnHfHyXo-IiAR-rVBNVQgRx_fApu96I_Oz8gh-RDvLvO9WBhZMY5mqaBYzD3OlbcsHSB_eSzG6DAoAbdVqsrCw7LcBzzdeTTO6zcbtByjRYvK9x64Ca4imiOHKCvVXWaoUf8_WG2ogo4FQgYCn2jFFQOjqCHFCQxg4s6sH9ajD4H3m8lvuXrSfixRACfJfpgO-NCQawsiArIrZmICwltP9IBb8aQOYxK1brZ_2jXPe6rezIR_QPZ9xQbmJDYvIoN_ny3NIzbaF45K2A/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 756,
+    "coordinates": {
+      "lat": 45.5268066,
+      "lng": -122.64183500000001
+    },
+    "features": [
+      "korean_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpT2LSLiglVQRX93h8i2F_Yo",
+    "google_maps_url": "https://maps.google.com/?cid=10015307578736762207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "511 NE 24th Ave, Portland, OR 97232, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_756dth",
+    "name": "Enoteca Nostrana",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "description": null,
+    "website": "https://enotecanostrana.com/",
+    "phone": "(503) 236-7006",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEcC58u6hlVQRLcNSY7iyRBU/photos/AWn5SU7NgV632n6aYFP_TIS3ENgSJXZVOGhmlxN8T_N1KveEGhHgnx0o0jnZ7pYj3OJCvmzqUD70wm-CrO8GiwiNcXx_fYtW53HAV-XgPtObZsu3Hu1nDgssvg0Hr7Vp5KsyrfopndfYCAPpPuBax2YnWWpr8FV-lrv1R1QUiUY397kGZp6_scUvKGyjG_cTkyGTHUHMMRICOAU_LtP9oRS6OfACU-9boiseL_JIYeAyAjaOzqCZXGREdwrfBE988KKjyuCHkFdlZ2qlC_YZwOedXvr6gKkt2DeEM8jOYQZ1_478Mg/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 86,
+    "coordinates": {
+      "lat": 45.5176154,
+      "lng": -122.65131579999999
+    },
+    "features": [
+      "wine_bar",
+      "fine_dining_restaurant",
+      "italian_restaurant",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEcC58u6hlVQRLcNSY7iyRBU",
+    "google_maps_url": "https://maps.google.com/?cid=1532546278222906157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1401 SE Morrison St #105, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_eann7o",
+    "name": "Nong's Khao Man Gai (Downtown)",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$",
+    "description": "Popular Thai food cart serving namesake chicken-&-rice special with veggie options.",
+    "website": "http://khaomangai.com/",
+    "phone": "(503) 208-2402",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJFVKvnQQKlVQRHxy8hJZXsZ8/photos/AWn5SU7ALDoSKFSvVmDa3qxpbN9NJkdXwNEFggyQ165-GC2TUrjDUj5dUaFk2H-tWNkrFb3CMlU80Gy6ln-6zp0Y_XMTELv-SQg_Q1O2VmpHW4tjXQi3oiN_A7B3TQ---5ryMLliOPvM7xo_E_njS3vpJ191pAdEaXA6ZAIPvPfXEOj4HNTSYI3LbzHvmkFZ1gaEdIfeEBy7U8mnL_cuKOAIIXtUIiVSZtoAvRjUUKZBv4W_Kc2K4DNf5bIUUnwV6x_Evv0JSUCvW04LBucw6qsyfZwdX_PawXKR40ii74AhKX1lDQ/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 890,
+    "coordinates": {
+      "lat": 45.52261310000001,
+      "lng": -122.68441720000001
+    },
+    "features": [
+      "thai_restaurant",
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJFVKvnQQKlVQRHxy8hJZXsZ8",
+    "google_maps_url": "https://maps.google.com/?cid=11507074826891959327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "417 SW 13th Ave, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_sxp005",
+    "name": "Hat Yai Belmont",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": null,
+    "website": "http://www.hatyaipdx.com/",
+    "phone": "(503) 206-8156",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJrcyv5zuhlVQRF9JBn1j59LU/photos/AWn5SU4-Q7FwahvODX_wdeQGHxBtNrQMYZBgbC6e7Q4ZKyOe4lM5IdJ_NQzRp_ajIKU6t1FcghatJGQgcFk1H8BvEWFnlAAUxVk8f09DUt3o_sKWKyBcwHSF6E3bQ7tObL0pVvLjftXmDkSZlalYYBF0B_d67KdgpYUNXEGIZsFFrksrVn5BJrZW8ADL7n6XN6d3-4TLUfvjfTPkFmd2uvz-pD6CwknRjsmBySHCJpqKkRtuw2WkM6LHjLWk6l1vTXjLVGhYTKnQ_Hk4rRaLVB8QHRVB_LYe7BoUlX9fa1nohnIVvA/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 849,
+    "coordinates": {
+      "lat": 45.516639399999995,
+      "lng": -122.65961030000001
+    },
+    "features": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJrcyv5zuhlVQRF9JBn1j59LU",
+    "google_maps_url": "https://maps.google.com/?cid=13111378574206685719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "605 SE Belmont St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_82d0jr",
+    "name": "Paadee",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": "Modern Thai outfit is a buzzy spot for inventive dishes, craft cocktails & sophisticated atmosphere.",
+    "website": "http://www.paadeepdx.com/",
+    "phone": "(503) 360-1453",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJw1ATHL-glVQR6je1841dCaY/photos/AWn5SU7BejrJFysIGq6zBOwqqoBqbJg8IvzQzJtuhIADQ3xyx5uvFg7QHPYrQjKWNvkIgn6QA6tPzqfbUphEYUhLIsFuNsmljU4B8j9PUUiDowuBC4sFnpJcvXG5pa2dStySQYnFZHYKSj-AAjHJGOWAYOkOi4Ss3R_3LdcsWVu4TwLFU7MbuNRVuUePKg_zLDHDqF3rNaca9x1oTqxWnrHk9-qTcghWujak4CK8dqHLhiIcTkGaNMuWksBy1GuXvI7FRUxWObk-gBWQaxDc8CeWU-09Tq8V9LcrX03g7XbZtTp5o8hLiesqJN-wv_RRSrsQBP07Dy8KHPoSxeMTn77-_4zS8It3PfwfZkpEVeKvW_YZjMj6BFYcytDNQWeiKOTi-X2G0Wk4pNqG1LRC1nhKEuWIPtEa1upntHVWaLCYB_zgGg/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 827,
+    "coordinates": {
+      "lat": 45.5227417,
+      "lng": -122.63712500000001
+    },
+    "features": [
+      "thai_restaurant",
+      "asian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJw1ATHL-glVQR6je1841dCaY",
+    "google_maps_url": "https://maps.google.com/?cid=11964196749346945002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6 SE 28th Ave, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810362881_6rtdjo",
+    "name": "Oma's Hideaway",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://omashideaway.com/",
+    "phone": "(971) 754-4923",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ9Y056PihlVQRIV8suzu2aQI/photos/AWn5SU4peViyGwZXjfLnmTK3tyEqoKPvYh7cNQWGRcuKEZxv0YKLXfh-B-J5LYkHW5MDwnbXkYULYfNGaR2uKLDJ6MUcnqe_1XkmWYHZTWmOVBDwJzWQYY4i2kFVtv-mplhq6KYsKpXBTHq9xnbsP1R5obbQkLyLbP539ZjaBIM2fh2YdhMPbeKjQ4dTDY96cy7dTpiO5wSxD4pWpTSlfqvwPzaGA_TeAlVzf4VkjCmH0VGrc4HtUkL5RJCBtzk2CCWMU4DJBnFt6VyTERtOBaiN6qRmAGUkXM5R56Q94Yo0-cw851nCdhZirAvh4eNn43TRf8LVJ6H7gHHhp_MUvq-XI51RyeACh9jnu--RDmASDEOhxjmsMi8Hg1c-BsYRHmYpYTE8CMCSkVEuSLZKKlKT40jKXs19FxIUvNckEXUdtgXwDQ3A/media?maxWidthPx=800",
+    "rating": 4.4,
+    "review_count": 639,
+    "coordinates": {
+      "lat": 45.5049916,
+      "lng": -122.6328854
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ9Y056PihlVQRIV8suzu2aQI",
+    "google_maps_url": "https://maps.google.com/?cid=173870428290047777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3131 SE Division St, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_m7vpq6",
+    "name": "Alma",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.almapdx.com/",
+    "phone": "(971) 313-9730",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJEXTw6WynlVQRFePdNyhKqOg/photos/AWn5SU5c6q_lTvgmVm78vHWi-_qOFk7_WN5OcMwAgRZQHTe63ZYbE8kadjlT-pPuGl7b_mfpDNe0DFb3MY7w5crYsLvEK-0UKTYx65pVNpKbdIN5c24wAgpTxrM4yE5aXC02xkEbZWzsd9c-0x_sOcxYmhh4Ql92PYuEnr5wEXU7LUQvjiPk7ilVt5aBrvehlyobN3teBmMV0tTwTDocSfpuZZgMZSgn4u1E2RtkBLpj_VFL0sEBlXLZCOwRCd4M3VrWKO8qoBzDOpbf85zXNnHleq0sIqjjBX3wWMvmg9UH040Drw/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 72,
+    "coordinates": {
+      "lat": 45.5612491,
+      "lng": -122.66185709999999
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "mediterranean_restaurant",
+      "turkish_restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJEXTw6WynlVQRFePdNyhKqOg",
+    "google_maps_url": "https://maps.google.com/?cid=16764731149483107093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5237 NE Martin Luther King Jr Blvd, Portland, OR 97211, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_f12cue",
+    "name": "Terra Mae",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://terramaepdx.com/",
+    "phone": "(503) 782-1611",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJI31R97mnlVQRpBpdsYM4P8U/photos/AWn5SU4mfVZzV5nxYmAz9JhCO0pp00bT6Gm020vMRxvrJ_DMhgP2V9s_BOw9gKvwQsi1eYcbwHtLoOYuJoDAlMfLGDd-3ps96EkekM_LnBRznuSYaQpAmz9Dylu2qx5_UuKWfbDpEeKO0oGrFpQLKrK8_ZdIF_NyW7HRSKyc67X8RMDnLhOLVQclcFq_f5VIGnyVtRUnMDUMOGSJaDNpSkC_9__snOYetOORTnzOLsFvQZ7y3LVLQVHgyUDj--8xD3DFlqectsDz0kPXJINW5xeUlTLykBZviN-5QlX4Z_hCUkoXaQ/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 167,
+    "coordinates": {
+      "lat": 45.5589801,
+      "lng": -122.65394789999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJI31R97mnlVQRpBpdsYM4P8U",
+    "google_maps_url": "https://maps.google.com/?cid=14213141087272114852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1150 NE Alberta St 2nd Floor, Portland, OR 97211, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_13l2ni",
+    "name": "Memoire Cà Phê",
+    "city_id": "portland",
+    "category": "cafe",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.instagram.com/memoire.caphe/",
+    "phone": null,
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfQEZItKnlVQRnHadtUpmMGA/photos/AWn5SU6pTT4PL0pvAFfDS1Ydn7HTBjbXJ6EnHkPemiWFoYGxErhFuzqsIfVxG0gypXmMWjfoQ9Jw2xNf3dggLvfdf43jMm18Fuk4QylFdY9moJZozV91Yk7acUxchAWL9s7-7WmjaFAcaoBfUK5XCD4RY9Pk10yQy5n2zZb5gafkvKRJgb54dFdA7yOQOI8BDw_3i7MDLQT23TATZi1KliIJU3b1C9y8_ERuDeaOMcLQbd1rY1TxmtD1Z2ilOhKG-ZX9SsxVf2wII3r32pvpXDkOePVXVQFxp6Ph4YhO0oO6LQQgSL5vPiq1Hv-dcm-D46ce4Q7-qA56Rw1N0mSzus58B7EluzVCjSebEjrOF78tlH7Z7tPa6y_oPvRVa4j4Isslw-Ily1s9lz9SJSRuEgIn5eKf-3-4eojL74XY5_ihQtyDLTS6f6TBhoxkpUooWlSU/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 148,
+    "coordinates": {
+      "lat": 45.5592152,
+      "lng": -122.6499091
+    },
+    "features": [
+      "coffee_shop",
+      "brunch_restaurant",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "google_place_id": "ChIJfQEZItKnlVQRnHadtUpmMGA",
+    "google_maps_url": "https://maps.google.com/?cid=6931152297583802012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1495 NE Alberta St, Portland, OR 97211, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_n1mguh",
+    "name": "Kabba’s Kitchen",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.kabbaskitchenor.com/",
+    "phone": "(503) 438-6770",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJPRtkIdahlVQRDoy2JQsY_FU/photos/AWn5SU4IeunVZCvGeZ6m7p-3TlSFJc7QqqteSA9UbDRueO8_5o02znRhyAqI4DHB08zGJmhGqW-f4l8Yd7X3ILb9AumO8he5mMy9wiBNftXLADUj-8CE8WyM4mg0fjs2UV1E7lEUiUtstYfxMyCWJBPmwEJPGdSKtaNC-fUCZTrwFUISdAfr7aYYfomlYEzrLembXwO5AGCt5So0tOQs5OSvANPipSpeyMw3FrbL2DJSpqioF3h2QpUk1eK90ydYE1U7FcZb8zxaxS81suu8pI-zXgyujrk8G_aOjP0xS3dLkyugQiuP_0gHIO_OR0Xod-_2fjBJQE2lWt_Zh9jnLHc9L725cHPfvFQhW5St0HHgOq2uM2RbF4D26FNDQGU9zV_wCFz9JK2OC6GgC9Qzd6QYt7XutwfRzQ1f9_Ol1WTc84ruC1ZA/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 51,
+    "coordinates": {
+      "lat": 45.5176811,
+      "lng": -122.6554336
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJPRtkIdahlVQRDoy2JQsY_FU",
+    "google_maps_url": "https://maps.google.com/?cid=6195853623511387150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "722 SE 10th Ave, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_9kwzy6",
+    "name": "Javelina Indigenous Dining",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://javelinapdx.com/",
+    "phone": "(503) 505-0913",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMQ9bCvinlVQR5cAOoaO6pKg/photos/AWn5SU6vTlSGbi_G8pOkcviIJRLtTqNTaVKx6vnf70UuCQqqp_sNmElgBQZrkJxhMIjO_ISPpQ-fNNfXOfocAMUgGnGMFmmLyY5nvUH5Oti4fzR8xMNTwg5mcadsqe9O81nuVvj2L0NHnrZ2VTG0ugF6tcLUZFHXbLqJHxQSdHfUXhj9tB6RHPKLO5NuRZWjN2fQmaGOFNDNmwi0klXHvvqE3P_QmqQIRxqOv6m3IGgSFFX7o5o7d7gRNkvxvvynDSyofpz591wdhGrOCCREfvMN3D2OG7HKgW5cUxrKsRizd1p-46YfwpvqnnU1Ei4BR0PV8EdyR0aIylVeau-bGyZChDdkXARXuNFSitQOJrrOYJaFXseM2XZmhK51-jywixL4zd-X4sPkhndpztySu_xQ6C6hjLwSRsrBLg88ELNY1Z-XwoGumHGANzP304hPiE1f/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 186,
+    "coordinates": {
+      "lat": 45.5572726,
+      "lng": -122.619929
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMQ9bCvinlVQR5cAOoaO6pKg",
+    "google_maps_url": "https://maps.google.com/?cid=12152042906496975077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4636 NE 42nd Ave, Portland, OR 97218, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_kzb9r3",
+    "name": "L’Echelle",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.lechellepdx.com/",
+    "phone": null,
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh6sAUQChlVQRcZiMxLlmpE0/photos/AWn5SU7x3sAazsE9HWxL1ksNxJzkSKczKNDq56O49c8qMb2FKmG68oNP-wFqU3uc0ajhxweqcnz1lLtmCmqKKgpqf4olj91SIUbTe3_kAW9Ah7oeu0kFDBkL56Fdg-zLWI9zuw7nXa0_PG-AmqLf7btfC4srkHDdCHgiL2yWnAalHjXRo0YFA7w_mX6c3AHjWzNh7O_Ns7n4Swv9MwWhCR04TeUZuR24R58M1baq7QaiOQdQ8BD7bJDptBbB_Q36lAEQryGq6IPhsgWlvz-2W_ZmyIWwPgy81LPnRs1_GIcekgSK9y-TiMXTjby65e7n8FiPXWMoG2j-ezuYch1VdZ_OLIBd9CQ4ViOH2_RcxawkC5Zag8DhlO3Snpfwxtc4w0HOxOn4FLAJHrKMi9EhKUndmZKqPtvnNKvXWehQaGelctH_doKEFLCSnk3wdvY6vagz/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 84,
+    "coordinates": {
+      "lat": 45.505404,
+      "lng": -122.6153884
+    },
+    "features": [
+      "french_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJh6sAUQChlVQRcZiMxLlmpE0",
+    "google_maps_url": "https://maps.google.com/?cid=5594709585153529969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4537 SE Division St, Portland, OR 97206, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_vhg7eo",
+    "name": "Xiao Ye",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.xiaoyepdx.com/",
+    "phone": "(503) 764-9478",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJv5N1eA2hlVQRUfBlqlou3K0/photos/AWn5SU77n926BNlEsnGnOi9SSqeF-4ETaIFJ9s23626AzAehbsvKlIHn-eeK8ieGAYQHBtBkQy5OYkInuqiqoF0ttjpItggKv1Xf6gRK2azUNjL7qyWM8TOopPNSHCKMHE0XFqP6adH4b4DOmD2yX_fuKDxZmawExMk2JY4yi6Lt5V_EneyKmJcwGX6Z0sKe2AbujSMEd0tzyjG6RfaQU-f5L2VBrZ2ch-qKrxEUti_isbsHjVyixzxctI91ymquAqM3aE0r1_gIrRw-WJard6Jcr23sNqyK26aaTvVsTCoN7QwIzw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 246,
+    "coordinates": {
+      "lat": 45.53450600000001,
+      "lng": -122.62344300000001
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJv5N1eA2hlVQRUfBlqlou3K0",
+    "google_maps_url": "https://maps.google.com/?cid=12527939230378618961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3832 NE Sandy Blvd, Portland, OR 97232, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_95tix0",
+    "name": "ASTERA",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "description": null,
+    "website": "http://asterapdx.com/",
+    "phone": "(503) 610-8076",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJr2M1xzKhlVQRfItqA8flxRs/photos/AWn5SU6PK7ACPJDepdfT-SdszQSif_yB3778XtXhl1xLN8_S2cIoFt1mpd44d7cq2zCgDNihZg8FP3nLezhQvd1Pt3dugl3asGr3ViNZaN9qIgGh-KqLqKKQ6O7RIdOr8gO3N22fHMNoI3gDecFh3gEqNlLkK4xq1KAKTZw7ab7ZjfBf08ReFAGVd2t7vhtQhWzVSScGJgNdkZ3Sn8ribJCGDRPtisi6tZ74geZSkn_XiAx7c54mMRKbH5JbOCDPkHIKjiavVSp_CKOTgiViYbErkpYQjMs9cG9XUKQDXkGJvfZ3yg/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 107,
+    "coordinates": {
+      "lat": 45.5167101,
+      "lng": -122.65135559999997
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJr2M1xzKhlVQRfItqA8flxRs",
+    "google_maps_url": "https://maps.google.com/?cid=2001258252354620284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1407 SE Belmont St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_cwvd9p",
+    "name": "Yaowarat",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://www.yaowaratpdx.com/",
+    "phone": "(971) 420-8913",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJk_vxw32hlVQR3t0Bmh6kFSc/photos/AWn5SU7S3kQFLQcAAJkUt3HXKClizFDuDGnKcgrvX6dU63Lx8hzzMtBH5Qrpy55MoFQ6Zwx6lptAPsGN5b9YAnDTobG64hpIDD1wl97JMphLBjmfxTzqzSb1xiXCdW4w22iU8U4Z6QPxjfPSTEK5EFYrgtpmx-DsEBkYimTPHAPu1JkbiV_VsJwf1KxQP_Ou9OxNk8cmGmglCXCgHlkdGeKcN7PaBr8eJMjZYxaQaMbl9FNiKIBhmEn4bOJGdXPOS536ioUP06hEStIW1udvqR4zExLo5WM8jc68m_Pf-ysHjc2uqIRY8FOcUon-cWoklV9SaLRv_JXzJygWGig3z95s-i1V55pitQqMCT6rx6QC21NNiGkIwl-FETO14xwkJyuZ-U5wPDYwTlMXHoARy5uhU9hg1QvEMnvVRDCzpid6yvu_Vu0/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 325,
+    "coordinates": {
+      "lat": 45.519310499999996,
+      "lng": -122.5816546
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJk_vxw32hlVQR3t0Bmh6kFSc",
+    "google_maps_url": "https://maps.google.com/?cid=2816337593329901022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7937 SE Stark St, Portland, OR 97215, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_vqd20q",
+    "name": "Rachel & Rose",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.instagram.com/rachel_and_rose_doubledecker?igsh=YWY4ZzI0b3R0M2Q3&utm_source=qr",
+    "phone": "(503) 770-0105",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJJWqLjZILlVQRmaWYCzYFq7s/photos/AWn5SU7ca3NHk8TiG959CZR_DPqpoplNIZfzs1NtwtJA97DCd2XlKmR0E0mMVl9OM6PYOs3SWHfDkhBgER73B0SPQxLN1sRf61hTKDljla8XmkD4kjmDU9IN5nA9ufhlronOUXJLl4LqAmXsphuKebzryUy2qv-a4brHOJfUDEebRJlJaNXeJ7YpBL_EwNvjomyoPMzf0767Ko_t-dhYAHYb-nYuxcGmHspd-kGE2y422VnZ6YmtOVs0UxbsDVOKv4bJOjwH6KBtfDiEuRQrDc6b_g7tXQYZBN65_mgBqzTZcvxb1Q/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 95,
+    "coordinates": {
+      "lat": 45.5229146,
+      "lng": -122.67879560000002
+    },
+    "features": [
+      "bar",
+      "wine_bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJJWqLjZILlVQRmaWYCzYFq7s",
+    "google_maps_url": "https://maps.google.com/?cid=13522908035790972313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "770 W Burnside St, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_6iv1mc",
+    "name": "Street Disco",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$",
+    "description": null,
+    "website": "http://www.street-disco.com/",
+    "phone": "(503) 327-8280",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ2fWTZMmhlVQR0NQw-ZZcmeY/photos/AWn5SU7iWyMA7NpujKFt9CeU1kxfFbT5neA3I4wyvj1RUJxEMCED8K7z2typ5i8YQF3aQ-jsznVY51zxjcU6VXL5FE93LsM4DZKOychZsedIz0Rkaat0uF3rC1hj3Y-TkjdcptEAdxancZpNNhbJQFkHPYXa6SjXUQjxZVHpGMBgt71bC2UxyLYXhwzENci5FsLNgEytTaCinrSa2FAVSOvjm-QqVG5TZ62lWpp617EVp97CTYHQFY2Gydvfs-xnxq6X1LHTreIZ5aBJzBpm3nFKskjc7o9LXs5xzZpKk1dpa0L-ni7m2WKuozWr6ejy3TEQUQpr3qT0jgIeMgVTUkJ-IzyGfMiFpem0ZrY16JdGGa8wuRTcJktc0rWwaGTusfxJCOACfqv_vKSHgh-YVE78BhKsgyPoXRebt3HZdRH0zmtc-A/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 253,
+    "coordinates": {
+      "lat": 45.49259,
+      "lng": -122.6015731
+    },
+    "features": [
+      "restaurant",
+      "wine_bar",
+      "seafood_restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ2fWTZMmhlVQR0NQw-ZZcmeY",
+    "google_maps_url": "https://maps.google.com/?cid=16616414103655732432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4144A SE 60th Ave, Portland, OR 97206, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_ij5bnc",
+    "name": "Akizawa Japanese Bistro",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$",
+    "description": null,
+    "website": null,
+    "phone": "(971) 469-9753",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ89QR95cLlVQRnRH_YNTCFWc/photos/AWn5SU7E55ZPaE1Wu-TECKCxB9rEx-7PQuC-lovFWkfYV_O9PQdot6hhv6shcCFxuSVjLRj5WPaJp7Nx3Py4xlCQsjcaDEtHkgJnJhXoT5knVTp9VyPFY6D_6oPDuRoT0tKBtETJMxQzIkjBeXolBW5Qjg8WHGs9F1xE43jLrJzzlAm8ChH19HASED7zcyTOssQdUCkZd5-6R5OCaknlyNnYI3FWUGSLNqyxR90cnEsnv6gRBFq1nHlhNbBLQAsfSrbpztKHUkqPzWurO4vAN8nvdC-QVBy60mk4HG2IuxXzUwtGIQ/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 103,
+    "coordinates": {
+      "lat": 45.520529599999996,
+      "lng": -122.67918689999999
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ89QR95cLlVQRnRH_YNTCFWc",
+    "google_maps_url": "https://maps.google.com/?cid=7428057377833685405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "507 SW Broadway, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363223_e36pq5",
+    "name": "Viking Soul Food",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$",
+    "description": null,
+    "website": "https://www.vikingsoulfood.com/",
+    "phone": "(971) 430-0171",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ-zz1oNILlVQR-w9BEJD-bkQ/photos/AWn5SU4vSS3TmSUthOQTyTU3TIc1-FqxAH5ndEN0NwnFOx8P7dk6eCHN2lMb3x0YYYQjG4Y7vMBqb8lrlQYxCjAmKiyP8sMiBCLOwzkydpsiyn0PmK5Ukkkko9oZVhd-GqD7VCBuVJxoJ-PRKvIGV5FeTOW7HBdL_xxMy-zj4V_BzCgIiAFgw8BVqMfz_NP6AV_jgk6Rq4o09pKEK-CzDQZXcbZgK2nvCsOb61JqHyH67_8nh5GsSicl--L7jblF6sJPO0qSSNm-BKZdrrt2tHLHSPXPitjk2fN7yAmbw1DeNAC19GhCD7INY7_djakhi-5b8Ts9uri4AYgwtbHcrLVIVPgEONBpYttRVWAc77_kzl_MHJnbJwFdzEPrdyVHJcBpPIEVwx9WDedQ3xfT2W9HIUAwXbZPBt_RsOT6mcBYQXJUTMa8/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 162,
+    "coordinates": {
+      "lat": 45.4790314,
+      "lng": -122.61691920000001
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ-zz1oNILlVQR-w9BEJD-bkQ",
+    "google_maps_url": "https://maps.google.com/?cid=4931158536718716923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4422 SE Woodstock Blvd, Portland, OR 97206, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_nhw3bb",
+    "name": "Bellpine",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.bellpinepdx.com/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "phone": "(971) 900-4442",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJtTYH2pcLlVQRUsEOf6hm0RM/photos/AWn5SU68UkOEA2Li8UkRQLpIMuLvS65tJ24226Mk8psXnz-QMc2Pl_lM8s7CGAVD9jOKgFTet0FUs4p5HGSkqDePNH_ABHLNKXVJ_sUFpWixlOvnWhN_NqumTIImz9enyTVmA5gPB6cI6FNRefirERMZaaDW00M6msfshER6sk4EOhS4Y7_b_JXlYPd0a4bk3H_n5tgndILnmCWWnVJdZtwve2gaKsO87t8qbDKyZBePCamMOccg854XjVp-Ln8CPceLTaItJsGFbLMHiEbJI1g4Gs9pzwK-p29mznBSOHAew-atbA/media?maxWidthPx=800",
+    "rating": 4.3,
+    "review_count": 197,
+    "coordinates": {
+      "lat": 45.5210651,
+      "lng": -122.6808411
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJtTYH2pcLlVQRUsEOf6hm0RM",
+    "google_maps_url": "https://maps.google.com/?cid=1428035430725370194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "900 SW Washington St, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_hac00z",
+    "name": "Roe",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$$",
+    "description": "Elevated New American seafood tasting menus are served in elegant, cozy surrounds.",
+    "website": "http://roepdx.rest/",
+    "phone": "(503) 232-1566",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpRflKYSglVQRPCjEZWk8NnE/photos/AWn5SU4o5bns88VKhlPWeUEArioiRTcdO1eJPyi-4juOtYLLmNRskNvfxbAomwPoyTxDFK6W0EeZGTDw43gWaI_e18qncpwpmmWCM-NiVHUiZYpOMHWE3wizizpGASiqzTCSxWVLScxTE5zHkx8oka1Y1FeeUVYuPeJDydBc_RMTBvYhHEVkv-sNeAQ6f0UWN5X9xdNXMruNFS6nzpT6JMBLbFZ10D7Vq45Aws_wB3SNPo8FN-_XDbO1Z1ejVSu1ICbwI6Z2dlAxEfR3e909VFMgRo0lBtJ7faQEAsO6_5CJA68VJA/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 158,
+    "coordinates": {
+      "lat": 45.520561,
+      "lng": -122.67919699999999
+    },
+    "features": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpRflKYSglVQRPCjEZWk8NnE",
+    "google_maps_url": "https://maps.google.com/?cid=8157774198404819004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "515 SW Broadway #100, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_xkjl7b",
+    "name": "El Gaucho Portland",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Elegant steakhouse offering a menu of high-end classics like Angus beef & seafood.",
+    "website": "https://elgaucho.com/portland/",
+    "phone": "(503) 227-8794",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZe_uCwQKlVQR12oMzXx3wFQ/photos/AWn5SU6G0SZQkOKoeWGCxyoI5qK9xAdOfeZbD5VXvg6H-ukoVpilWECAmHe_tYpqEz9mHpa6JE4sZyVPMIW4qnk8IJWWUtrLfwUfBg6lL86nQUCUu5SUr43QIg8ZhuDtcZGlfZGUpUJd-zbLy6bEqptd8lTQAC8EuD4RtfNy9psXLi2F1tQjsmwr5m3cWKGsAEhaq-2aFxfOmDJsmKZklRWvKF1OhmJZVkoOVz7mOHagQ1sS18BgoUd3iNlZjP5F-iHCQbwM9bVgBvcuknhgnHBTS1uTFmxaODEJTeOqmzUuYvIMNg/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1603,
+    "coordinates": {
+      "lat": 45.5215472,
+      "lng": -122.6787062
+    },
+    "features": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZe_uCwQKlVQR12oMzXx3wFQ",
+    "google_maps_url": "https://maps.google.com/?cid=6107012472614185687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "319 SW Broadway, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_as6oe3",
+    "name": "NORMANDIE",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$",
+    "description": "Chic bistro with French fare & full bar featuring a lengthy wine list plus 2 happy hour periods.",
+    "website": "http://www.normandiepdx.com/",
+    "phone": "(503) 233-4129",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJp-nakymhlVQRwy3qqk1wiz0/photos/AWn5SU4RnulGUXR26gppAEJ8frsSJw6QlLV-sovOYaGnCVzLUcKUI-WUkPKL9opaL25j8bo_9bA492s_FSLgW0Dk9mMV800OY6W2AxPfvjyw4qxp62erS09lXL62sR0lBM4BqlTjf6aNGKLIC6-jIBepXiL7aQRkWE5DCXRdziS0BIXbevC4JzSDL-IKAmHUNol6kkIvqcqwXDrH3w2wlul1pqBGyv6H7EHJJp2cSkD8eJkbihhYYzcp_3mcvppYFsFplr62g8TGpBdYL5Ckybdfa1YJ7zECb1DzptA6eoAj__12N843ch7BQXU2qu3QR79SHQEchXg0a6znS-ApbW2sGmKUrGrsoTEFwO4a4jMeX6WDqO67uBT0oHO3jy8bs2mnovz85ePNiFF9gBg7ApGdnMn-DO8Oc1exnlwyEkacO39oKaY/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 581,
+    "coordinates": {
+      "lat": 45.5223033,
+      "lng": -122.6554372
+    },
+    "features": [
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJp-nakymhlVQRwy3qqk1wiz0",
+    "google_maps_url": "https://maps.google.com/?cid=4434761736958651843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1005 SE Ankeny St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_g5wgy1",
+    "name": "Portland City Grill",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "New American dishes with an Asian touch, plus a happy hour, served with a 30th-floor skyline view.",
+    "website": "https://www.portlandcitygrill.com/",
+    "phone": "(503) 450-0030",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJIdb6sAYKlVQRzG3Bedsy6mA/photos/AWn5SU4c4RZIQb2G475GT1DXpOqI7epeZ_jxZCASmXMuHYE3b-_nkcTbWRitdN1Lm4vGsJd_VW0h5XMVvadY0eBeaRmd0BCLnVDOTTWmjlPyRJZah8HwxmVbt5vWpKeKUTzCxpjO7W-3NGJPHa0o1_VC0eCulyff0VoC9s2e1wjoZYBJXZvxWi4wtY_xb1YAvoA2FJfJkvNlZQueYVaQEI2lgzLFp3GAQ6tOOakgDxKFxe5_eQ7KNL6a5C4mSJ0SBbMjfWLCUSfJKY9t6bym3OCddKVgq5coFDFSRP6MwV4WXmGRUw/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 7714,
+    "coordinates": {
+      "lat": 45.5222146,
+      "lng": -122.67594749999999
+    },
+    "features": [
+      "seafood_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJIdb6sAYKlVQRzG3Bedsy6mA",
+    "google_maps_url": "https://maps.google.com/?cid=6983450090413321676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "111 SW 5th Ave 30th Floor, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_wyoldh",
+    "name": "Huber's Cafe",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "American eatery with clubby bar, founded in 1879, is known for roast turkey & Spanish coffee.",
+    "website": "https://hubers.com/",
+    "phone": "(503) 228-5686",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMyTseAYKlVQRQCw2ERy5aqE/photos/AWn5SU4TLzk8P6ZiwL2KyHs9xPkLDwjrPrVfg8cTy9dsWjEANMc6V2PDm4USbjf1L3RkGpURui67o-9Z4hRi3cvstqqbfeGNnSDGAUleWcSnM0QDAoBLh4LrjML9FznfS2Ak5e0jpmmEAhWDY6V2V1VYOLe5zKvmdHDTAA_6N_KWg7rkO7-pi2iuF8AoNXDfEk1SugdUQleuhi6JoxGloUcAoRosdWPydVrcZd2Zi4ltYXG7PAh_r8gE8N-X2c8mmdYdgYxOvVNyt83BZU-ozB1HKvM9-o3opa8zp1dPeUOjBLbIng/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 3208,
+    "coordinates": {
+      "lat": 45.520069,
+      "lng": -122.67473799999999
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMyTseAYKlVQRQCw2ERy5aqE",
+    "google_maps_url": "https://maps.google.com/?cid=11631312517836713024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "411 SW 3rd Ave, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_l0e920",
+    "name": "Bullard Tavern",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Tex-Mex-inspired fare & classic cocktails in a cozy space with booth seating, fit for large parties.",
+    "website": "https://www.bullardpdx.com/",
+    "phone": "(503) 222-1670",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzSCVRWMLlVQRiUjHkCZuQ0g/photos/AWn5SU5Vv7f6w_34xuNIo9hZ0wTAni6cagMRleNQ0BjsuzBB_Y5XnIgPX0GSb4NNRaNvf1kdteS2iJwOOwKrU6zUPFA1u8dhGGW0iqSY6NNQ3QocR7L1N6RJeDyaBm3qKC_ZFKdIqvnXNJGQ0eI4cyqHOe5azJoLxpydS6UXKX2R_D3jaudoZpQmOLJSwk7JlMS50Ejno5RrNJTqmFr54OAPnp8k7KdPYFwnRmSV0kFszIZHZ6qGNXzS3WiqsHb01Q3e0wRuuFun-viL0d4xeMhGqAlj3uGPjSi2Gayor6sBgs-q9A/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 680,
+    "coordinates": {
+      "lat": 45.5204588,
+      "lng": -122.68052159999999
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzSCVRWMLlVQRiUjHkCZuQ0g",
+    "google_maps_url": "https://maps.google.com/?cid=5207126706087217289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "813 SW Alder St, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_fqlc7u",
+    "name": "Tusk",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "mediterranean",
+    "price_range": "$$$",
+    "description": "Buzzy, light-filled standout serving creative Middle Eastern fare plus craft cocktails.",
+    "website": "https://www.tuskpdx.com/",
+    "phone": "(503) 894-8082",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJfcK8u76glVQRrGwwsGh_7z0/photos/AWn5SU5j9zgsTiNtvyM5nzVkJwCgg9X-QBX6hHCCoSj9h-3wKEj6PVBaG9Bs1ojQIlBQ83Lq03a8XeajiCaB-0A-lW4Y9vnX5P4Q_YK0iEPFm-Rw-HUTNcpIH3jE63XTeTyN57QG2ibJumt_MtOnMUrx7JZA-DifpZ6L4V5OpLqwTebv3KRtOVlRmKA-_jCs8n7WU40KNB6dP_FLdt7vdL8NZPY9yxwYkT8luiCwKl8wH7pL-wHugOmlMe92KiYhNCsdsp8AtokrmUjjnZoWaJA30Z1mFTA5O7hikWENBAnTuaJMXw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1125,
+    "coordinates": {
+      "lat": 45.522636899999995,
+      "lng": -122.64049360000001
+    },
+    "features": [
+      "mediterranean_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJfcK8u76glVQRrGwwsGh_7z0",
+    "google_maps_url": "https://maps.google.com/?cid=4462925843356740780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2448 E Burnside St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363555_zghgvo",
+    "name": "República",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$",
+    "description": "Upscale restaurant offering tasting & a la carte menus of elevated, Mexican-influenced dishes.",
+    "website": "https://www.mexico-forward.com/",
+    "phone": "(541) 900-5836",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxU-ooHgJlVQRCZn_ahvLP9Q/photos/AWn5SU7jQx1d_nsBXoRDRQXY85dTfO-WpL2Wx6PqJkiXgipH1eeWPNNapTNOTNJu5u15I5WH9LJRlBZ-CnlyX6JTc77qPh4zyyciXQx8I5Dtk1amIo49KzDA-Kf37kbe32vb_47OcBwEaGuIl7zrJQLewwZgxuOh9bNhT3oN0337MD5wA2yY-4F0PGyj07myoyeku_yhSQHqTqN51kZcFpyWsu6uI1cZqo3pzqcJxmToDS7hho08ooO4qoV5VAHNaSUCytkaN1GW2PdcdAqtK9I5S0qU0jsEYZ2LWlGOStqU8DzHBQ/media?maxWidthPx=800",
+    "rating": 4.4,
+    "review_count": 488,
+    "coordinates": {
+      "lat": 45.523806799999996,
+      "lng": -122.68097999999999
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "mexican_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxU-ooHgJlVQRCZn_ahvLP9Q",
+    "google_maps_url": "https://maps.google.com/?cid=15294166178193185033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "100 NW 10th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363901_ppkpro",
+    "name": "C'est Si Bon! Bistro+Vins",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$",
+    "description": "Modern eatery featuring local, seasonal sweet & savory crepes & fine wines in a stylish snug space.",
+    "website": "http://cestsibonpdx.shop/",
+    "phone": null,
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0XjRZq-glVQR-AnsOGKRaag/photos/AWn5SU4yMZc-ulA5w2GtAEE3lUF4wjIZ6TE9YowCK5bdjuggEZIvzj8rJcRPAtELS0MXMJwscmrovWpgLESdUzjbexw6jpMInrZVQ-pBlZD9chu5pRBWie_Q2LS_Qn84qReW9MasY_gNgySveeCaAoLUWwolciD-yaMlGIveQXtpVLSbHA7GrOcopsmDGKRs2jh-PzCxfwcHm_H37T7LyzCwFAjUuMoWkHWxnZDzpev7-UC-hYOlFRaoNIyOkxxEGcMOfj7jmTRswvwH9Iqk4I_mwVQVw8ySOa9eZ49F4r1Ab7NTbw/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 214,
+    "coordinates": {
+      "lat": 45.5234695,
+      "lng": -122.65850590000001
+    },
+    "features": [
+      "french_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0XjRZq-glVQR-AnsOGKRaag",
+    "google_maps_url": "https://maps.google.com/?cid=12135390521974327800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "22 NE 7th Ave, Portland, OR 97232, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363901_doa5m7",
+    "name": "Luce",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Petite, low-key Italian restaurant and grocery serving housemade pastas & seasonal entrees.",
+    "website": "http://www.luceportland.com/",
+    "phone": "(503) 236-7195",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJU6CD87uglVQRgUNYEgg3234/photos/AWn5SU64ufDDGqDWttwMrB68TvYXm2aRwdP4Gl2nC75KbPBezMjXTusS2s5DZmN60gJSFX5SMmvctyzrviHbScjq8NGHXk2xEc3disiWl_7hZ8i8SPB8IDsnPgOHxifNrRw6QUlf3ox6In_i4UWzu3L_sZGiz09HdSUVHQ9TUN9eUrRPafTEvhwydlHgVvyr1PxDv7F2KCWaXREtdBp6Wa2mJ1qinnhHzSHEU4vDdBNG6pKEe0Vjwfjd1h2MZiBYEKRBMxGlWAALJGo7etHgnQIdUx62q9HQDDRvluWjHhEH6Q9Hlg/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 699,
+    "coordinates": {
+      "lat": 45.5227444,
+      "lng": -122.64366389999999
+    },
+    "features": [
+      "italian_restaurant",
+      "liquor_store",
+      "grocery_store",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJU6CD87uglVQRgUNYEgg3234",
+    "google_maps_url": "https://maps.google.com/?cid=9140960376485593985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2140 E Burnside St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810363901_owekkw",
+    "name": "St. Jack",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "french",
+    "price_range": "$$$",
+    "description": "French cafe offering hearty cooking & a deep list of wines in cozy surroundings with a rustic feel.",
+    "website": "http://stjackpdx.com/",
+    "phone": "(503) 360-1281",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJaxVzr-UJlVQRcb8_AKL8pzM/photos/AWn5SU4SW2PMsckVugyiMvkf49aCbLtbfViLn9vE2EZQ6RR6mqTIop5RU0A-mAFoo_N2MIbua9yEadzrBRzFClZ9yH8pYI6YtPE3aFfyBu2cWSOmxERt522_9HRmndsmk695KEJs6s3BG_IYfi_xnO4VfknNWpl1pMmIxYiTrJ5wpN1u7jdzbvAIA_Qr1OZq5eXfSNslgfpknJpFvUptHA2TSwELswooGGVYstdMJ-2aAV1M6HfPhlZr0B9bcn1gGqZgiRq49KKSRBGlwe2HBImESSJ7GAd-qUTrXF4Ne5cP-EHmjvUXQDhx7sK_ZrC35rarcLUiIRvqKpFlsERtCduWYxD4wkCceourkj_zVA9LUYLjrdn_p1ajxPpeDaBeBYFfxwVDxVhxR2m4QxYOyAgAq98MhO342uIgVpeimdmnRTNF3A/media?maxWidthPx=800",
+    "rating": 4.4,
+    "review_count": 761,
+    "coordinates": {
+      "lat": 45.5342295,
+      "lng": -122.69865189999999
+    },
+    "features": [
+      "french_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJaxVzr-UJlVQRcb8_AKL8pzM",
+    "google_maps_url": "https://maps.google.com/?cid=3722221389764083569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1610 NW 23rd Ave, Portland, OR 97210, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_d5aiqg",
+    "name": "Lovely's Fifty Fifty",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "description": "Lively setting for wood-fired pies, plus other casual eats including salads & housemade ice cream.",
+    "website": "https://lovelys5050.com/",
+    "phone": "(503) 281-4060",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJT9ZbCWunlVQRIryTTXOWkEw/photos/AWn5SU62djTUGesqO46w-9HaUR19r4kOw_Tri7K4hnv1O-tGWhKhXeTJI3O2FZsup9qE0pLZHQ6b1t8LeyHRs_mUXjs5YhiHYi_IINxSuojxNp90wv22Udd5PwFXJ1EaF2IJWfL12ViuaSxqqg_AI3vzz003BX-HBq2mYrZoUJJNmp4KybymNhaIa-1f-f3Akyls723vRaXR_sgkUV3PQcpzxomut4JRZD_0qUU4Gtmp3esKofuBcAeXwpKix6z8U2oYGs4HvtjICgXJwIwkTYwfM9UmWy6ISovcjNJneVu8P7mrR-LtIEZs0qaeGa8-PTKSEaNkntvu9RfwgtMyxkdBHLEkeJEoeSCg2HNeF5qwwLUYstNaiJnKHuUT1Te_ihEkF1ALyzhtOrNJds3UBqwNvW3Sr4tCY_XPPMF7EUornTFOTQ/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 1021,
+    "coordinates": {
+      "lat": 45.5528597,
+      "lng": -122.6758503
+    },
+    "features": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJT9ZbCWunlVQRIryTTXOWkEw",
+    "google_maps_url": "https://maps.google.com/?cid=5517074965495790626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4039 N Mississippi Ave, Portland, OR 97217, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_r8d59h",
+    "name": "Murata Restaurant",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "japanese",
+    "price_range": "$$$",
+    "description": "Upmarket destination for sushi & sashimi, served in a spartan space with traditional decor.",
+    "website": "http://www.muratarestaurant.com/",
+    "phone": "(503) 227-0080",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYWS6fBEKlVQR_enRMwdJMQ0/photos/AWn5SU40yY-34bDVJV-FA2A7e0ze80RS3IFDYBspOcGht-hyC7wgv8WtBPEE__OaxD5hgld1rUxmBDqXE2kal912Jn4twzrbM6tvZGo7Fsgzgq1YQfrTgG-zRPsycfFAG0EnYc9s6WFAak0YE6ryfzyrVhLYfPvdJvIxsRCQTlq7Ejr4gg7QnuvvzuohXQtpgtDdx_NyyhGXKZsaIF7MHjfXlxj0yijLIGPgjLJt_SFKqcRtCbYNqJ2ddyfek-lDDnYgngVw5Kqkawn29IRdRuQpzGj_LdL_paxnqDxOuPusxmIEGQ/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 797,
+    "coordinates": {
+      "lat": 45.5118053,
+      "lng": -122.67835520000001
+    },
+    "features": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYWS6fBEKlVQR_enRMwdJMQ0",
+    "google_maps_url": "https://maps.google.com/?cid=950621291634878973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "200 SW Market St, Portland, OR 97201, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_plbprc",
+    "name": "Urdaneta",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "spanish",
+    "price_range": "$$",
+    "description": "Comfortable, chic choice for creative Spanish small plates paired with craft cocktails & wine.",
+    "website": "http://urdanetapdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=c7f735f4-6328-4caf-9665-b2fdfaf42804",
+    "phone": "(503) 288-1990",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ8YuIKNymlVQRVlJCozZU1Kc/photos/AWn5SU7eqCDTYCAX-G0AgOzTRRE1C3f3JFkP9C-Q9iDza8TsZUZaBKga9q8mKzTkCiygkk5aWA6Xremtp9xYUrjAQGmgKF6cAGGhmLSOuiL71wkPXea5kj0ArDYoWFfFSz5YG3khAvPzoTKpivUlvYNMYHS45QvZ2aS3THLf_e1jth6vKDY0WVr0LTBTPGZ1lA2BooPoWszvPCChOXg7ppwVUzCsvLChFFqdzLqN5hpDuwNexC7toeDECKb23pwzAxkuzx4ZwfhFxJt9sdkfs09YSRzFW6KFqbaStufr06Vs5B8IUZFZluYneGGJoF-759sbgjiJRcRtXkW-59xinf3M-cdw-rqXya7LU1ov_jEtv5EKz03P6Nj8ZTaUtt57uT1BJDJI0OOKa43iHqx1HSIr_R-enDyD5HP-3UDm7DkwxGgvT6SQYiJ3ZJdKxcFL_Pt7/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 819,
+    "coordinates": {
+      "lat": 45.5591185,
+      "lng": -122.6340327
+    },
+    "features": [
+      "restaurant",
+      "spanish_restaurant",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ8YuIKNymlVQRVlJCozZU1Kc",
+    "google_maps_url": "https://maps.google.com/?cid=12093383493040624214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3033 NE Alberta St, Portland, OR 97211, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_txx3y9",
+    "name": "Eem - Thai BBQ & Cocktails",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": "Modern Thai eatery serving creative BBQ and craft cocktails including tiki drinks in traditional mugs.",
+    "website": "http://www.eempdx.com/",
+    "phone": "(971) 295-1645",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOa08KlqnlVQR_ZZx1jEcTYY/photos/AWn5SU4TeJo5QF4J5ZuXwPDpSziKMy9X0hO9gbGLezsQ_be479uEhKMuxTfjdTfZOe1aFKLhBRX9XUWDRmX0UJB8RS64FIDzihewwEiqER-3FiEWPaW6ZkQtxUbV0y9njAshe_IvQg_hBEycUaC31zFai2bg_AlxLOksp__o0Rq3GnKl4oZVhl9D57LcYhuFDH56B9Pzhnzon3tNDx7LaX2AxZY7qUKFvRxTMdMOZBxwA7wyspwEWjf0yj5_mDR-MQampz7S2kD9lQnH6qBH2sGXQoBP_AX1Zw_W2Lmv62Q2Ub8Cgw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 2616,
+    "coordinates": {
+      "lat": 45.5506551,
+      "lng": -122.66652119999998
+    },
+    "features": [
+      "thai_restaurant",
+      "barbecue_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOa08KlqnlVQR_ZZx1jEcTYY",
+    "google_maps_url": "https://maps.google.com/?cid=9677422174665807613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3808 N Williams Ave #127, Portland, OR 97227, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_bxd7nr",
+    "name": "Magna Kusina",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.magnapdx.com/",
+    "phone": "(503) 395-8542",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpfQb_n2hlVQRBmgzHB1PG7k/photos/AWn5SU4_PlmI8SbwWQlUw-hBvZApSmQxat0gvg7TtQAN7Rb-BPoTwwiOvqgeDLUE0XxJKPeJGHeFCLu0S4XXnc2mYQ10QwtbRg3iaRy7oZAE6K380giLiIkhwOv4nIeqLm9INthN8VzFasGxrpqJ7LXt5zZ4WE8f9QTW75RkJm-Ff10U8fR0q-NjTDZYSKGe94qDJeWZRdzXV0vdLO54iGMSLmm5ozOM9IQJsp3CeNz8qUGLFJ5XF5CfdtT71ZrmaZ4wmpe3cIcJH84qR-W0sOmpOMB8JaP52vjSHlXBRliRLdGQpQm2iNXINtgSZOWHnp9JwEsoVRAHbqGHtLmUicHCKkfdl3PdmRLliicl9H0pc5CY0fzqmwvRfLMk8uI_q2hi6qPqjIa6wtmBLSdqWhSDGh-vG0Vnm1CPDnWS1T7PjC3vvw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 503,
+    "coordinates": {
+      "lat": 45.503526,
+      "lng": -122.6398419
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpfQb_n2hlVQRBmgzHB1PG7k",
+    "google_maps_url": "https://maps.google.com/?cid=13338341707833632774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2525 SE Clinton St, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_fld158",
+    "name": "Ruthie's",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://ruthiespdx.com/",
+    "phone": null,
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOUxxnXKhlVQRlBswWIujOw0/photos/AWn5SU57QbLPApaG7NPvHxmt5nxCbd8Upl-6j199xeBfu2jFrWUkMlyS_HRLN-US3ozGym5tPc_XmCNOgIYNINWmbVhnOaBQNFtqgeXAaoSlzLGE1eDXhCKnPFaXPi8LwM3RWEsQZq6U1khx1j8WhS_lmzGK-eE4m5cMTZlWBakcb7Z6uNjeUyWeImidCoEgq4V9cXIDZiDk-sJgTFqAsd4S9ulSRATGd9QXDV2GKq9u7GevsAYlYMRDw6ZESLpHgV3zG6xSiiVrInY5bY3Ss7KNOqQ3Ng0_47N5na3qpeKTB5wMKVp2a0TQnsxko2eNP3CAEOaDvOkW0ntTttdPM52f9tfjLSh4GimKtvME28cvaMMqcgsYjDCVGzTZTrGtY8vSuTm4uQdGYEcATCd1KI8QmIn94nNNquSLjYmWSN_akKHbuEg/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 73,
+    "coordinates": {
+      "lat": 45.504631499999995,
+      "lng": -122.6275529
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOUxxnXKhlVQRlBswWIujOw0",
+    "google_maps_url": "https://maps.google.com/?cid=953535564994321300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3532 SE Division St, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_8me2po",
+    "name": "Hat Yai",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": "Thai plates & draft brews are the draw at this snug, rustic-chic counter serve with outdoor seating.",
+    "website": "http://www.hatyaipdx.com/",
+    "phone": "(503) 764-9701",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5Sw2Bh6nlVQRzBMkD0n-_Zs/photos/AWn5SU46vX9K4KRPEQCGtrCZvYxiPOaN4xrJHlPWBn9JyNmuRflYm9C_ysOcKE4_OwL7Drc1B6mNjWTXLSLSBUXjWWkqmfw8uGimbPwc21YBLqqanHiedA2iIRCTbwOyo7CSyQI2zkvnUwAVQnvGH3x-Pc3H-QhwkflDZ0z3J5NxlfAfB9Rb2Gt8Tz9CsbCewJFNTOXLSt3JscH6PKBPZWfoELX7mahmcY46X6fbggMeS81l6bLsDrMm1kK1saoZXsXHs8wiipFiB0EjrmIkeRvaWdBDJBj8PBKf1351VXdtUocksA/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1322,
+    "coordinates": {
+      "lat": 45.562838799999994,
+      "lng": -122.6488294
+    },
+    "features": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5Sw2Bh6nlVQRzBMkD0n-_Zs",
+    "google_maps_url": "https://maps.google.com/?cid=11240419834726716364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1605 NE Killingsworth St, Portland, OR 97211, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364247_0vzjto",
+    "name": "Scotch Lodge",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": "Whiskey-focused cocktail bar with elevated Pacific Northwest-inspired small plates & a vintage vibe.",
+    "website": "http://scotchlodge.com/",
+    "phone": "(503) 208-2039",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJsY2Zf8yhlVQRCWpC4lx2uVw/photos/AWn5SU6lrLJeaT9fFwrTV73a2eAFVhj2WbxHa6oDfXAL8uU0dt4LCYLB6P3gu4oO-cwQ5EuzpfhN9FB8uB_HeT0N3DcGMHDoDVmA9R06KTxiKResrEhBWIfG1-ozIIdPqajwfNnXjwOw56M1o5LtLT9GJfICAcUhjCBGWhK2EzkSjbEelWGZo47vmnDgLHs_ULTkIKEl00sc4RSePODeoKp9YMHKcP8o-mS9IQM2T0vMrCiDtyD7PlIdBNSclA_GeTWI8VOCybA_jOoYpDOsRRV-95sjQ1fHlToYR_W9eSs0Rxw1Ew/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 740,
+    "coordinates": {
+      "lat": 45.521335799999996,
+      "lng": -122.65684800000001
+    },
+    "features": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJsY2Zf8yhlVQRCWpC4lx2uVw",
+    "google_maps_url": "https://maps.google.com/?cid=6681501663485913609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "215 SE 9th Ave #102, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364903_hxdt11",
+    "name": "Farmhouse Kitchen Thai Cuisine | Pearl District",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": null,
+    "website": "https://rebrand.ly/farmhouse-thai",
+    "phone": "(971) 754-4966",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJxxKF1NsLlVQRy0jvwuKrs6c/photos/AWn5SU6wo90DjU23ot-HYPKPsk_1zUxKWLA_f3oUM4HOUfdm0boT5b8JAXvWqOIdG11dl5VEIYKtVZMsm-Rbj1uYLnTqHpGDPXPbuEMlwy0RQ8nc9jQAzixBL3vebnx601uPnhXpxhPROnYjr_1s3p_KOUrf_scVphMBR0CqSY_WkW1EwGXnyElkkWmwRaw9Zs1CfDMQnZxQX8-X3Q3QOWt0DGSUwgHJf-BQtZ4UXW0ujazpTmUqsIQUo-S9amMBlD7YSuR92g1FjFjHtssJXK5U6x4U4-dhj1axKOSc8-gVjoV9EHHaCb9raYbvNTjJjjtDPxBRQ0MwGgU-u-UHXP_JRbfnivEJ-HqOJDftR9b3JEiUMS74CJaXfc3iRV1-DFmUqqvUxSnil0XcCAStsA8-gN6tSL__ztwqgLMVqTu-fk4/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 6399,
+    "coordinates": {
+      "lat": 45.5238254,
+      "lng": -122.68027180000001
+    },
+    "features": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJxxKF1NsLlVQRy0jvwuKrs6c",
+    "google_maps_url": "https://maps.google.com/?cid=12084191215586592971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "121 NW 9th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364903_lm1po3",
+    "name": "Phuket Cafe",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "thai",
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.phuketcafepdx.com/",
+    "phone": "(503) 781-2997",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJMUaePIMJlVQR6yFzZAU28fA/photos/AWn5SU7W5jtHFdJ9fihV7H4q_gSqZ9V0lxbziAppCicqMuqWkJrdS1uhgdI19bZgxl-b_EyS5kNW2sbSG7tnHsALoewAfTS9diy2gc7i6zfYGTGHeoFS-BM-1cPPe9WoLqDaTnuFuauAOeEGaXqKvEIMEzBnAII9Z7vjPDDgZ2bG0DBUSmFDKNbdfYwvSajtf1bXOzeflUprOQkRFTCvS2nSbmzEVyxNawlhWVI5gTZJlMv-21msvO5ouPAmnsteGaQ3-GaG_Nk8pRhcXLncxQVloReU2Q_B2xgyIN8hJxYypdUcmp-lipYDZXnbWKDAJktdktPqwTsra2liK-1Ams1ZH_goIrbWpPBythuoH6ZnvFP1hp2S8p1ee9eT2yhOlqy0OxvBJWrNNqoiBFIpq0IhvCFP-K52uxp0jD6von8BLOXSmRFL/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 360,
+    "coordinates": {
+      "lat": 45.5357177,
+      "lng": -122.699664
+    },
+    "features": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJMUaePIMJlVQR6yFzZAU28fA",
+    "google_maps_url": "https://maps.google.com/?cid=17361717435277976043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1818 NW 23rd Pl, Portland, OR 97210, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364903_guiwos",
+    "name": "Kachka",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Lively spot for refined Russian fare & house-infused vodkas in kitschy surroundings",
+    "website": "http://kachkapdx.com/",
+    "phone": "(503) 235-0059",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJzf1bSKeglVQR65d0nk46moU/photos/AWn5SU5o2WSxcbeJvxLW11GKi0fyLxlm4jonxn5VN_a26LVnhUP3dV-KiD84RRfgjFn-G78Jly6ps12SEDy88GN6KpmvwKK_LR1SF9iRGfp1UO-QiZCFpH9JLmOEUQG9G4XkFV8JWRbEew67ec5NndIhZQHX1YEoKmh_i2rwLT2g7eb7GoV1qSaRTqAyVGipyxa31-_uLnXSJEpuXJlVul0pmBLXD20a2khh1d_BonJSdQgTxTCsbRcmM7f7s8-JkYV6kqPSbtN5NDWeI-3BJNk9TiYr0mjgMQS-GzBRfMeMGVYd73p5LRynxDyH76ZCa1viNMK0hNMiEcuTqLXvY355xPnXb2PKq27lDn6yQn7EZ5RexLEcYlLUTMbq9XsN7zPjO0D2y7ceJZrou8vk5dKhMjypdE8VQ808qmxbTmVV0I0/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 2658,
+    "coordinates": {
+      "lat": 45.5157393,
+      "lng": -122.65455679999998
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJzf1bSKeglVQR65d0nk46moU",
+    "google_maps_url": "https://maps.google.com/?cid=9627071262798157803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "960 SE 11th Ave, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364903_ajan5l",
+    "name": "Screen Door Eastside",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Refined Southern specialties like buttermilk-fried chicken in roomy digs offering weekend brunch.",
+    "website": "https://screendoorrestaurant.com/east-side/",
+    "phone": "(503) 542-0880",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJu1MQrL6glVQRNuGYoTmvBoY/photos/AWn5SU6y8f4IdEYAfapIcLNqIMmwb4PsSNsC36hSI9z8r9Fa2S3dUX_rDkC7DTsfzVva2-9_6qQRzmrIegQSxqjPssReuMnJ7ypE-Bdd3ylUglyCC3Q0Zpvr9y2gcXYobnvrA5o5pxrFgdKGARYveoMSUuh93CFofJMlY2aQpZCMm7Zp6ggMJ9rOVU1VRreB5Ty9o_vBOGdlzkWhFzT5GQ39rha8FVPmw11BcfYU0rWNxhMlUcXZC9UJcjWBYuabc89ow-ofsri8jwRwM2b8A90WHmuun58eoMx16o2ozDbuNW2z54uR0Rr0qAna0EcShJ7hOTOuYLMlUqr1AAQenHz6mFlVujBMJ-N7bysR0_5AK74rsUjHCH31j6bJaKSBv29vQplZPNpzYaM44kYW60lVJg9CKxFQsuR6i7B-CmThNaY3sWeG/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 7469,
+    "coordinates": {
+      "lat": 45.523016999999996,
+      "lng": -122.64162499999999
+    },
+    "features": [
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJu1MQrL6glVQRNuGYoTmvBoY",
+    "google_maps_url": "https://maps.google.com/?cid=9657599113001754934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2337 E Burnside St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810364903_gsjhbz",
+    "name": "Screen Door Pearl District",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Well-lit, stylish destination with outdoor seating offering meals, beer, and cocktails.",
+    "website": "https://screendoorrestaurant.com/",
+    "phone": "(503) 542-0882",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJLU7eCV0LlVQRFraHfst6uiM/photos/AWn5SU4ZAH-oqL8sAKW_S8YoicO_mv9jUW04BsUeKqITPxk0IapFq-QZA8yfVcdleCxeAqwlX6DwqLZfnDEu5HrcuR-0YnMUBok9oobQjfgu0WMbicNq0X1rO4v1h0kZhXqgQ1ooOcdlAJtSwNsRgS7_SM3pN9zy5EkzfYtHu3lxRZcZUFQBcmd5g54wciePSYjR2t36bwc4Y2x5rWTrGQBftem62vM9S5i0HflteNDrPm7PVePEdYYAjt_Po5-qhbTE2QjVUGbFbacni9nV3tppf0ZUJjdws_Z8XcvQzuQ3a-DaCA/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1516,
+    "coordinates": {
+      "lat": 45.523796,
+      "lng": -122.68270509999998
+    },
+    "features": [
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJLU7eCV0LlVQRFraHfst6uiM",
+    "google_maps_url": "https://maps.google.com/?cid=2574505151415432726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1131 NW Couch St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_nlforj",
+    "name": "Luc Lac Vietnamese Kitchen",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "vietnamese",
+    "price_range": "$$",
+    "description": "Bustling counter-serve restaurant in a stylish setting serving pho, banh mi & other Vietnamese fare.",
+    "website": "http://www.luclackitchen.com/",
+    "phone": "(503) 222-0047",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJpTJKdg8KlVQRo08EmCpdcaQ/photos/AWn5SU5595xr90pnHIzXwqFI-bkgYHJWnF8au85ooCbGYvvPPQ5MSsXsQnE1jk4b7TrMEaYjXTgjgZkuDc_yerHCimlNvkKZf7mZ052PiZ0YetW7Kg9HBwbxOOG_eiIe-VWr-xJFDceaYVZno8cnPJ-gf4JEx3hwIf53R-SyvHky0c9CD5-DGA-SVmZeuGj7XtPfG6PlsGugtzgklMnnurVuTcVk7O_IhIm7CB8zMO3zOgeNkA6vdalMuTKR6vcelGhLb0EOd4RsFzgcoVrk_oN2glHLcB_OXqsfoMq7TJ2DuAUMQ6hdP7ufiG1VROrD8kr8Hf74ZgYUc1L_NFfMd5HLryEbWif1uOIKNqd1QOIExA04ZO-DAdQ22Lb_6xgvdk_NUlVzt_3T08yyYFE8Cb70_O9eNG8_f0f_HElqzSjh5meGCQ/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 6561,
+    "coordinates": {
+      "lat": 45.5168971,
+      "lng": -122.67541650000001
+    },
+    "features": [
+      "vietnamese_restaurant",
+      "asian_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJpTJKdg8KlVQRo08EmCpdcaQ",
+    "google_maps_url": "https://maps.google.com/?cid=11849354532108914595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "835 SW 2nd Ave, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_ucrvjm",
+    "name": "Jake's Grill",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$",
+    "description": "American fare including steak & seafood, plus whiskey, in old-school eatery with popular happy hour.",
+    "website": "https://www.jakesgrill.com/",
+    "phone": "(503) 220-1850",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUct1ngQKlVQRzYxD8Y3xKIg/photos/AWn5SU50i-k5kADujZVXYTVGgZ5xFCtVs-Jg4__PtUOxJWK6t2XhSkvIXR5GNU4Zo2IuWmxJz7c_7S0JkeQdJOXYXSfboBQthSddD3mai_00qfAwyW26Bt_kodeWnvqUTbFnRIDEKs-Rp3978iV3YWNmtdo6_zB8qGVZHtKI4gnhAeJBoeBqB97L3_EY9IhY9gES7c1Cz1a62ehxBF81r-IKfGLbFcnxGUKgMzU2vJDBXTsKrizPPm1-aoQQlLBH7QvZ7w1sVc0dPD7ftsP9hZ_enrtS9XyL1IPsP-tXScBVWozGxQ/media?maxWidthPx=800",
+    "rating": 4.4,
+    "review_count": 2111,
+    "coordinates": {
+      "lat": 45.520583599999995,
+      "lng": -122.68236509999998
+    },
+    "features": [
+      "restaurant",
+      "steak_house",
+      "fine_dining_restaurant",
+      "seafood_restaurant",
+      "wedding_venue",
+      "event_venue",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUct1ngQKlVQRzYxD8Y3xKIg",
+    "google_maps_url": "https://maps.google.com/?cid=9811357380167044301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "611 SW 10th Ave, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_0s2uja",
+    "name": "Timeout Bar & Grill",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://www.facebook.com/Time-Out-Sports-Bar-and-Grill-112672222151400/",
+    "phone": "(503) 477-4017",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYVkHPj-ilVQR0c7emlcobPE/photos/AWn5SU4yw_yCm_FPIuO8TAK__21LHt8hpRET9b47tNQ-BUC0dPkqn7hiNsI_qFiM8lfIxYGZFVQhHmoYZSkEEuww8lnEK0t8tw1TmvgbR-fes-Ow3B8QKMUbwMnz_ztIooLvBuV8FvCgsq3g7LXZHaIHtzWrl5Q27IT75FFwPc-zFewI8jvpxVHEEw9vJhr_SbED-8kaY608cY7uLLG4yBw50HVjwePJF2yXVfDTtrkMt8IO5cdibmEKLc65D-mJVdPTHFuA52F1MFSg8RlK2rm9HT1uwMphjXW1L3RbHJZRlI8TRCin-gMni2MktAOAEattQ2xfPUGdCyDGCw6LMzt7LxLoeIumU6l0SAZJwAh6t_xJ3l1PNHzmCLwrRU9Lv2n-wgClq6KyiLgVocuIXOQUfJSND4WL9fz2rg_tdfoT5_1C5c27/media?maxWidthPx=800",
+    "rating": 4.2,
+    "review_count": 120,
+    "coordinates": {
+      "lat": 45.526936299999996,
+      "lng": -122.4959253
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYVkHPj-ilVQR0c7emlcobPE",
+    "google_maps_url": "https://maps.google.com/?cid=17396323817350942417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "16219 NE Glisan St, Portland, OR 97230, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_ve3n40",
+    "name": "The Eastburn",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Bi-level neighborhood outpost offering comfort food, cocktails & draft beer, plus a heated patio.",
+    "website": "http://theeastburn.com/",
+    "phone": "(503) 236-2876",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ4fAWDLuglVQRZWSJdYBYIjs/photos/AWn5SU61-yOzI6SnRASgBgyXPh9O0nGl4G4Exc8DFzA7IwEi6zd3sj72swRPRI6q78Tx7JfujScfehHp7zJj3XaiM4Ky2MRenVALXwhyKp7Sumc9up8orRpUR4vNzYgI7zP7qiVNSdCUvSJbxAH4N8YD-_oaSRfzR8tybHziCSrZhPCDiKLK4_wxS2ZH7uJ1TXgeXH84ZSS11CbGhBg3X4_UXzaKI1901Vevr_Dd5TZHkjq7FWtVisE9m_hCF6hh_GTz73PvzgtzojclYGwPKP8Cyt9gKg1DzXxVlA0lmcIzkBgeGA/media?maxWidthPx=800",
+    "rating": 4.4,
+    "review_count": 1867,
+    "coordinates": {
+      "lat": 45.5227065,
+      "lng": -122.64732149999999
+    },
+    "features": [
+      "restaurant",
+      "brunch_restaurant",
+      "bar_and_grill",
+      "bar",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ4fAWDLuglVQRZWSJdYBYIjs",
+    "google_maps_url": "https://maps.google.com/?cid=4261065506196907109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1800 E Burnside St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_clhgko",
+    "name": "My Father's Place",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "breakfast",
+    "price_range": "$",
+    "description": "Old-school place with booth seating & brick walls offers casual, diner-style American fare & drinks.",
+    "website": "http://www.myfathersplacepdx.com/",
+    "phone": "(503) 235-5494",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVwSCGqeglVQR7NxbQKUascY/photos/AWn5SU7E-SC86ezl3vaKPJwIfFwYgDrf29NYSgiB_7hKs4ZXPxcKUU2vPtkfu0vgIo2dbfAvQ3s53fQTaOPWO941Q7tlF9R9X8otENnqp2skl3MT_S6IY_a8oQYo8j9fdyv4J2rquN7thbIrcwT2RSxQf2JHywXbcy46ijcksSIAgtWdXWqYabKZZ3-IWd4_JVa2AzGVXCAdmCpOtiF9e4ntkB2hIDhmVrGzR_mZoBY5QD0ICsOKXA0mgH7lU-MEEEINbQxT_OEMAPFg-Q9DVfp90ixk_kmFrpfgR7z0CoxwurJ6cP4NmPVhf1sDUUdC-WD3_mV7jzn6eQj2CaFCGtw11UpHIw0IsrVa0WJHTVsG3B6hWnjeSUdAx1Q3W0eqnAWZadpoyBGTpEVxGvtvJ8g4W-yERdaNo5c6qIObCgTVDC8mfyhduWNLcYBMfem85g/media?maxWidthPx=800",
+    "rating": 4.3,
+    "review_count": 2943,
+    "coordinates": {
+      "lat": 45.5188455,
+      "lng": -122.66088169999999
+    },
+    "features": [
+      "bar_and_grill",
+      "night_club",
+      "breakfast_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVwSCGqeglVQR7NxbQKUascY",
+    "google_maps_url": "https://maps.google.com/?cid=14317253987439205612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "523 SE Grand Ave, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_byp4q8",
+    "name": "Cliffs PDX",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Trendy spot with a terrace offering cocktails, comfort food & bar snacks, plus a take-out option.",
+    "website": "http://cliffspdx.com/",
+    "phone": "(503) 327-8234",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJS4pJuYWnlVQRBmb8xkxVIdY/photos/AWn5SU43KjdpwvzJDhxX7Suinhj10IoTSvXdUsk5hpa9Lw7I98ooiiER96Ph_ue7hNWSJ3r-pR_AYyzZWNYwFrrg6QpKBHSfAwLPfYDtI32orHMKy50CBiIUCo9f8MDcIr0w9A2DtVITAjzJ_k6WnjsYse7fvxtcfO-GDtakRGVn5j_6LnJHMvGNM7GSdOBuq03mBN2MQx_hU_nrcZkcGzKza4YwlvIqjZ--Ml7orwx_T2qE5Y2Oanx7fj-z9mJa8Ivl4SgKZ1uP6m5bZsHpZZO0Q1H2Y2qSS2JrhCwZG4AoeK4E3A/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 302,
+    "coordinates": {
+      "lat": 45.540783499999996,
+      "lng": -122.66347940000001
+    },
+    "features": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJS4pJuYWnlVQRBmb8xkxVIdY",
+    "google_maps_url": "https://maps.google.com/?cid=15429707586592335366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "128 NE Russell St, Portland, OR 97212, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_q3ztrb",
+    "name": "Black Star Grill",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$",
+    "description": null,
+    "website": "https://www.blackstargrill.com/",
+    "phone": "(503) 206-5993",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWZq0ORQKlVQRaiHmQH8gpjg/photos/AWn5SU6bQKF0a-iPZHSIBRMjfhw2DP02EgqJyI3afxs_Wa-GgYPSID7RvcOEmkB_nEBJSzY-yghiQoCGZAE3jyz8Er16xIXFVcRIWe39MgS_rIBp_mvQOPCJISOafwSuJwf4jjIeaGMzF5NWI6RXyY6oAosfWmCfj1vDC066o9GQ252_z9BG6MEIQBGDB3U6JOKMsJiYuGsf9KhHo1L8U8ribWCI83dN4g-lfY1FVbxzC917Iri_24wahyzpA0vnAgGZ369IbjhQruCYEp-j7HVnUh90O3a1eUSa8CXH6qCJXBdiNb6xyek0v1PmiQyVrQmGEr4KKRI-LDErLLyv6SyqwCSwIG-OVHQYHg_a79cWqEc8ge2xexTbojly69b6rrOUSFY___XhQQX2YfvxLejwHTw3wNMY4cLlCftlkzGaNxtyQ30/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 219,
+    "coordinates": {
+      "lat": 45.5238902,
+      "lng": -122.6809875
+    },
+    "features": [
+      "catering_service",
+      "meal_takeaway",
+      "food_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJWZq0ORQKlVQRaiHmQH8gpjg",
+    "google_maps_url": "https://maps.google.com/?cid=4081985843179692394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "110 NW 10th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_c7kmoj",
+    "name": "Jake's Famous Crawfish",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Landmark spot for seafood with fish flown in daily, served in clubby digs with a busy happy hour.",
+    "website": "https://www.jakesfamous.com/",
+    "phone": "(503) 226-1419",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJe8P1AwMKlVQRhUubOgPTqmA/photos/AWn5SU6DkgssU1H_5LFWDqrEO9R9-hkCMAwlanGwasqXhMYguDksGHzysYwe4yFl61raclr26zb0DxTurL_T9_xxejuPoo6KDRTNozcXKB5KKZ9ce3L48JccCra8l0xFu2n77e8PFdJaj8OrhfFEtASGQUd248FH5gg8X-tQaB6E1TwY8tSCOI2ViK0jK8nxGTl0IY5HNMRFOxRCW9yICE4uyUSI3idFkHHhafnWiXVMzGOURfo_36Orx70pBbD2hV023kkRNlNHJdLlukRZwL26arHLESGl7sRaLQNiMWrHTooU8Q/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 4231,
+    "coordinates": {
+      "lat": 45.5225,
+      "lng": -122.68347000000001
+    },
+    "features": [
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJe8P1AwMKlVQRhUubOgPTqmA",
+    "google_maps_url": "https://maps.google.com/?cid=6965611784503511941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "401 SW 12th Ave, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_gil48s",
+    "name": "King Tide Fish and Shell",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Warm, modern eatery offering raw & grilled seafood specials plus ample craft beers & wine.",
+    "website": "https://www.kingtidefishandshell.com/",
+    "phone": "(503) 295-6166",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJy9UQDRIKlVQRtZkO7hWzEfE/photos/AWn5SU6jNOVHCpHgtl8LxqAkbE3xGSuzrc0MZvjQheS7WDllL4Me0Cor5INSbhFfsDFt7I5hwSdc50LIVMFTnyZhO_E2sEBPAM941dAvbu3xUkpX-o4QnO4BkErQ4kgPm6eU5HKCiHlujNP_eSyuxJT4Z36aIRVOQ6ZSxTgDiI9QxXerL3MIbRaYLfFHnCW3m0qWZ1HhLRPdU_FPRxEc5Lq7waWG0N7iK37WqL3-gtv6j7Qfz_rwlhiJu-Te_aP-USsO6q3wUDeSRuJ0_hipeEyI0EDxumclO85BmsF5HnKOUidU5X5CMyj6JN56v_GQWSs0nfke_cn3tHr_wYErzg2HTNM4ig1BgcMhJajQN2KnZdjOgALUJL27_hpmhOKEb9fxBjFy4jmhrnmgI75qPRSji2yLaK2tIZ5tN72k3Q4mDqRn9g/media?maxWidthPx=800",
+    "rating": 4,
+    "review_count": 535,
+    "coordinates": {
+      "lat": 45.5116381,
+      "lng": -122.6742328
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJy9UQDRIKlVQRtZkO7hWzEfE",
+    "google_maps_url": "https://maps.google.com/?cid=17370862144514333109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1510 S Harbor Way, Portland, OR 97201, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_f4sleb",
+    "name": "Libre",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "http://www.librepdx.com/",
+    "phone": null,
+    "image_url": "https://places.googleapis.com/v1/places/ChIJM_msoG-hlVQR4o79-nmpvHA/photos/AWn5SU4BnJVJC5cvltnwhQKtSNp4JfF3MzhqSdtzmUbe4CbnEp--xo9NG0tvd4uqUT6vlwm7ZX29K-sq0Y-Rw_F7Dt0h73yhYV5lUHSlXA47Sg-Ne8AFJLDtVYZJBkywoYNim9ynAyK9UmXhW6pX7LLCLx1FNP1Cx-RbZM0JmmQ5DhGJz_VPG4a8gkr2wocoWabya0CkCgIsnhec5xI4cS4V3Gw2V8HTb_Q1XpFdDOy6wLUSC8ixiwj-qGGFeTU7lD63rrs484R3dTQ6K8TKEEa4j0cjuK0NoaQl-eIFsybo0k6Uy7CbJOOpT7rhUznHqWnaEKJMDTGBJkIy6tCI6F4xxd9tk1AuChFV8Eenp_TR5O3-4JV5HNr4wzJpsWtLt8caaZ7o53dYfNnZN8H5vxH7DRIGB7lZKGWcjZEEYlViBD8/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 141,
+    "coordinates": {
+      "lat": 45.503654999999995,
+      "lng": -122.63949780000002
+    },
+    "features": [
+      "bar",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJM_msoG-hlVQR4o79-nmpvHA",
+    "google_maps_url": "https://maps.google.com/?cid=8123554169236590306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2601 SE Clinton St, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365230_78zw54",
+    "name": "The Slide Inn",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "vegan",
+    "price_range": "$$",
+    "description": "Corner fixture offers German & American dishes with a global twist amid midcentury-modern decor.",
+    "website": "http://www.slideinnpdx.com/",
+    "phone": "(503) 341-1381",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJXah8HryglVQRd1NOGl9G54A/photos/AWn5SU7qPT8W5voVWE7s_pxD4YRS_APr4wwp0k7k-2Gm6W_LI6y-YawgqtIa9OnedApDFUqeYNNEFQwnUhqLwsPCWohK_79VEVPt4wq9NqjlK9k1uVvQllmJtijMzqKdTRyY0PAxadsQo4U_TqaXWTEMD0gJh1N6HsPP7naXtV_om5fkR8dVdSknEY2lJatakyRAY-AY5uIJJhwU3bz9hF8FaljeS9TK4gHFwi2Dj1MpdF9ndVivANVOGNE5_-EX14ikT98Ms8SIAcOdKlDz_TYNiwPJ5gSMiecTOVAxr2w2iVfLYQ/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 746,
+    "coordinates": {
+      "lat": 45.52207200000001,
+      "lng": -122.6415834
+    },
+    "features": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "breakfast_restaurant",
+      "italian_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJXah8HryglVQRd1NOGl9G54A",
+    "google_maps_url": "https://maps.google.com/?cid=9288470130752115575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2348 SE Ankeny St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_54kca4",
+    "name": "Mother's Bistro & Bar",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "brunch",
+    "price_range": "$$",
+    "description": "Homey cafe & bar with country-chic decor & chandeliers specializes in hearty comfort-food classics.",
+    "website": "http://www.mothersbistro.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=fa4c848e-bbb0-45b3-a639-e4ac5a93d41f",
+    "phone": "(503) 464-1122",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ5V0qcAYKlVQRcYiPk80LC4g/photos/AWn5SU5fzvwI8wVT7yUyyZ_ketqOfHrre0DeQn1EBATOus-GXAnKOUwCvqyyYPal7paNS0Z1r2PjcrkYGYuL6PrfhcwsilSj6kNYixOCt75lBT8dVGeQxbp6PQGzwDMC62trPnBpVNvHIToX_p_agdxmZKEvISYYDDdTMJDtEBpYibFVoaMZWXsnfkqB7nGrRi8UAhUPIy6tMBAZLS-V9LQsSxTyRGEm3SomSFp6ILaY9ZK4hofv1sUnuN5JQWl5dzGU1_hYeKwudhCfixxG9p_gQZdT1J-BCO4cn3WmEUODDenmQA/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 5326,
+    "coordinates": {
+      "lat": 45.5221859,
+      "lng": -122.67382389999999
+    },
+    "features": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ5V0qcAYKlVQRcYiPk80LC4g",
+    "google_maps_url": "https://maps.google.com/?cid=9802941991473875057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "121 SW 3rd Ave, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_79n4a0",
+    "name": "Escape From New York Pizza",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$",
+    "description": "Old-school pizza joint featuring traditional NYC-style slices & pies in an unfussy space.",
+    "website": "http://efnypizza.net/",
+    "phone": "(503) 227-5423",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUSkZH_EJlVQRH6F32ZlTYzU/photos/AWn5SU76OL9ZncDwtbNAW1eXjr-yYJZD5J2w9XTdrVj8em22FSm51WPUp289na3Vvm9xHjmaECULarxKVaCDHeSJjGPphfyyPyN13RhYFgcPIVDl9sUR2wO0J-6hzBU_y6G7aNR3G9iPjrYZz6Qi1hZUdby3sK4xXiBZsuWcurjd8cpa1lf6ipZAjOwAdHlUeVnhB3FIYNDOa8BYn1ad4Arep_l7E9DOOHjxnZfobKQ_RMHnfMDIdYap5aY---w1mQyIMrHLXA4OZ-L61xBejBTS3HqAUAKbOjdDUBMa7a7uJktgl7bgCxROpZFp_SYWw-rERWIZgTLqFODaUroCCw0oCFeBEfYvNNjbNXAwUhZ75AidzmjIDKYB4teoVKapVpbEThDp3_E-nzuKkbsop2D0FTTmRqNEV87TDUpM1aCC46A/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 2047,
+    "coordinates": {
+      "lat": 45.5273554,
+      "lng": -122.6983531
+    },
+    "features": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUSkZH_EJlVQRH6F32ZlTYzU",
+    "google_maps_url": "https://maps.google.com/?cid=3847010426948133151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "622 NW 23rd Ave, Portland, OR 97210, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_548gxx",
+    "name": "McMenamins Hal's Café",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Artful American restaurant at McMenamins Crystal Hotel, featuring a long bar & snazzy chandeliers.",
+    "website": "https://www.mcmenamins.com/crystal-hotel/hals-cafe",
+    "phone": "(503) 384-2500",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJGzEqBwMKlVQRhuRmbWk8LkY/photos/AWn5SU6OXcJt6TKL1a-Vvvj5KIAXWYtgIP8qAh4JGBZrJ67X0XwIMEQmyQ8kGlHXm-fFNUrJuAOvz8AatpUS6_2xkAFQXdF10HYdA0zuktXqokZ7cn4DyK6CHogXqdWgpTMHAd8unbOACe8uxkTI1RqZMU_mMFztglJcgf7jf7t7V6fvcKTUFXBf8xxlxMxmemHtajEFO8a7SuhKARVkq-04ZiSSNE5aaznKIeJGyPa0HjUV5utUkswEhnZMkLo1rpxNTl51w7vHy0j1ZrK1KemjWUSbx6J1qzcNdv56vkXOUCNUDg/media?maxWidthPx=800",
+    "rating": 4.3,
+    "review_count": 1006,
+    "coordinates": {
+      "lat": 45.5227447,
+      "lng": -122.68335499999999
+    },
+    "features": [
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJGzEqBwMKlVQRhuRmbWk8LkY",
+    "google_maps_url": "https://maps.google.com/?cid=5057045855088338054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "303 SW 12th Ave, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_t92dnh",
+    "name": "Straight From New York Pizza (Belmont)",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$",
+    "description": "Handcrafted pies, slices & calzone in a trendy counter-serve pizza parlor serving beers.",
+    "website": "http://sfnypizza.com/",
+    "phone": "(503) 736-9739",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJo1vceJSglVQRufG_czhRaA0/photos/AWn5SU7NQQFjx7e97Q5pnKQ3eq8AKdkqIY44QSpJW1rwGEL_1njVZPQT25PRGuBjOOa8CAmqDy-rOB-b9MyVfjYDp9gPUZZgarBYdBnBdmvug8XntrPbTGsUWoQrTRsVZS85Sr56cPcs6Ik5Y2mnCWZ3JNwGS0pPq2CmqGBtnI2fwKXiKRnWg9IjH0Gn5OfubNnWPd7JI0ZnmjKIOuR-kmeAjFY7u7QT7-LKsvzKTHqG8KUYcry2HOzt1onMtO1Ovb_S-xgErQtHOhba1wZZz0UxQgs2BDQSS4uhvOiqyEcLNGjbwA/media?maxWidthPx=800",
+    "rating": 4.2,
+    "review_count": 747,
+    "coordinates": {
+      "lat": 45.5162908,
+      "lng": -122.63022129999999
+    },
+    "features": [
+      "pizza_restaurant",
+      "meal_takeaway",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJo1vceJSglVQRufG_czhRaA0",
+    "google_maps_url": "https://maps.google.com/?cid=966111422972948921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3330 SE Belmont St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_6mnn80",
+    "name": "CRAFTpdx",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "Restaurant in the Hi-Lo Hotel featuring local, seasonal ingredients for daytime fare & a bar.",
+    "website": "http://www.hi-lo-hotel.com/taste",
+    "phone": "(971) 222-2100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJlV-0gQYKlVQRdy1bfiZqCKY/photos/AWn5SU56EIorU923RTTnqu8Bw7uhZ-Vo05BEwwjw-sFVn8xT2j9AKkRA2GDR3IGDpHSaehJC8I3ERjxOHVQuW7rWQllwKlxRuiHG5-mMnj7V7E4h6k6fmBL4V_igClxnGPIn9yt7qY82XjZw3_IGTBRj9Pp9jn3PVV5NZmNBgbJ8h-Vm4nDX89t7J8pZxiceMmdZSSyBJLjnZD_WoWj7rkOunXLnIluZxa8gwh6wXP-N-_4MhduSPj4zukS4y6JcmwRVzRntaJyFsgqPzW3DhiCgV1o9o7w1xDZJQDniy-HoZHuw1CQdftiI31_yj819s65cF0yIKTW0Ogdvqe5oyqX4bm0RHQbsN_uerkSvZB1j-Vw9dpZl6G3gjEss_bclq_ZmwWhmZ-LKHSBJlaGsX-8UnNUs-WJZtjMW7YX-aPCZaWczELkAjV72qSH3HdolegvX/media?maxWidthPx=800",
+    "rating": 4,
+    "review_count": 260,
+    "coordinates": {
+      "lat": 45.520282699999996,
+      "lng": -122.67503289999998
+    },
+    "features": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJlV-0gQYKlVQRdy1bfiZqCKY",
+    "google_maps_url": "https://maps.google.com/?cid=11963929123670928759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "320 SW Harvey Milk St, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_y643pb",
+    "name": "Salty's on the Columbia River",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "seafood",
+    "price_range": "$$$",
+    "description": "Upscale seafood & steak outpost in a waterfront locale serving a luxurious buffet brunch.",
+    "website": "http://saltys.com/portland",
+    "phone": "(503) 288-4444",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJh9y2IHamlVQRtYXoYQcRp_M/photos/AWn5SU4GMUGiWCvlmogYLOE1Lc4AoR4VqvYvk6CnU3sNscnNmYyF6nqhgHEOnhs1Nuu3kKnb6IiyQsAtYi5CizIZG8M9Gn581KByNV2GbwqqweIpjEobhgj4AHBUzC4kd9uXLS6Eh3d0R8Sxe-DCBTFj3M_S7NubrB5Llbh8K8eELRinWgV09WgP9q9K2exn7EF5qJr5cF6lfxIVPn1hQSxHsZd1h9UvuPcN9UIEcJN6zGF_8-0pSZdUxw6sLTjhkZyROg8beLAk0kMXIvude0Q0Tyeh53WlCjBjmUd5scOGPWzlsw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 5360,
+    "coordinates": {
+      "lat": 45.6008911,
+      "lng": -122.62460320000001
+    },
+    "features": [
+      "seafood_restaurant",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJh9y2IHamlVQRtYXoYQcRp_M",
+    "google_maps_url": "https://maps.google.com/?cid=17557020395732239797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3839 NE Marine Dr, Portland, OR 97211, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_n8sb1q",
+    "name": "Heroes American Cafe",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$",
+    "description": "Easygoing hangout whipping up burgers, wraps, subs & meat dishes, plus draft beer.",
+    "website": "http://www.heroesamericancafe.com/",
+    "phone": "(971) 544-7234",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJdwTiyNULlVQRAjH8flAONss/photos/AWn5SU4lsEkUOzG_sLpEjuOfX7812D7E_fTaOXdy63X5zG5I4ZEGknjDLUnHRPmu1Y-VaEhlUzUuYEMZdUo1ktTz970-cpBr8WrYi10B4Wj6DkUXmN-rt6zsx9O8tevqz_KeILPfmYWGLg7ZOzBp-jLIkrKmhS0kQMN11W9viTpv5TijOg9tGGXkrVAMBb39We6fMNQ43UXYLx_V52wzz5YAvBOw0miYYjAfRDD1MFj9vyzyUVIAUmnJnf7xvjzfnpYCvvgbuLBpoqgjFCVoR0en6hoJXi77Q7qPqBzZIIdSy_pjr7Ek8eNukFgMdc5Nlj7Mw_zE0eW78RU64mfnbbXiazPCGTbr_eulNgn3iYKguCu6yPM-V9GDpFV8rdI33yV8Rsijzq7X_hpr0TtHI_L0idwoYGf3vDkhOJyMt2-pn37bSWe6/media?maxWidthPx=800",
+    "rating": 4.3,
+    "review_count": 292,
+    "coordinates": {
+      "lat": 45.5143504,
+      "lng": -122.68321739999999
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJdwTiyNULlVQRAjH8flAONss",
+    "google_maps_url": "https://maps.google.com/?cid=14642906977332375810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1440 SW Park Ave, Portland, OR 97201, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_q3y4qg",
+    "name": "RingSide Steakhouse",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$$$",
+    "description": "Upscale, old-school spot for steaks & chops features tuxedoed servers & a 10,000-bottle wine cellar.",
+    "website": "https://www.ringsidesteakhouse.com/",
+    "phone": "(503) 223-1513",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZX7hbvYJlVQR8OdV10v1jGo/photos/AWn5SU4L79LcWRf1IBLqmYJO5GnRP1tTdZP2Wm4UZElZiIONEVzCXst_fSPXZc1oX7fYrDtwaVik8uT98jz1L-ZvBVJyFNvcI6Cv6l39YHSj3boj_52jRhnoATp0yl01hdFCdPr7MSAOi8MSwj7icCSMY4nNE-n1Q363UVb63yBTsPFbU2SWGHnkaSpwU03EwMNbNG5JkNOsA0QbAa03XgY-VA2bKkNMqXd0gPEtZ5nbhRHWmULij5ArC7uIRME8mHzZb0Bx2mSEv5AEfECuq0CaJjIieoU1nkiHryKcXkZz-pNUxkv91-YXua2bcFhsp6W3uR1ZvTEepigpWgRBe0wMy8MBmj13rWeyXPqsAD7tWTC9dBUUDr4wxvIXWPGJFsODdcXqmIgnhSpt4Zv70KmXdTHOTNqJ2XK4Tg3KVNcvdjbmss4k/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 2385,
+    "coordinates": {
+      "lat": 45.5235146,
+      "lng": -122.6957992
+    },
+    "features": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZX7hbvYJlVQR8OdV10v1jGo",
+    "google_maps_url": "https://maps.google.com/?cid=7677781170843936752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2165 W Burnside St, Portland, OR 97210, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_adxvgs",
+    "name": "Brix Tavern - Pearl",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$",
+    "description": "American comfort food in renovated warehouse with early/late happy hour, pool & TVs showing sports.",
+    "website": "http://brixtavern.com/",
+    "phone": "(503) 943-5995",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJYXNYxfgJlVQRVtbMaPyTNME/photos/AWn5SU54KE9iB_7uX7_hWXVwtqWaXxkW0h42H3x4x1pC3ug-km0eZk0hG_KQiGRkjTtlGDptN4MQHoAKMImqEMVDfwyjFTvKNsonXrCw8d4bSW4F2xsyyBtjKhr6b1PcwsiQu4B4i7A665KU-Kx0QWAlYQNdq91ajj5cbofUQ0Edrej4-hbzTahEteriI8CDdZlTnCj5j90PZLhtv5rArzEM-Jw8JNROsgeKrTfuHqOOlr4ClevF7PsMM63rbqf7fwsBPK4ns595od5-iSjItUrloKfceHW4XHFKseCP6PLmZqvRtg/media?maxWidthPx=800",
+    "rating": 4.2,
+    "review_count": 2118,
+    "coordinates": {
+      "lat": 45.527108899999995,
+      "lng": -122.68488679999999
+    },
+    "features": [
+      "american_restaurant",
+      "brunch_restaurant",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJYXNYxfgJlVQRVtbMaPyTNME",
+    "google_maps_url": "https://maps.google.com/?cid=13921915060408342102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1338 NW Hoyt St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_qx5qpj",
+    "name": "Straight From New York Pizza (Hawthorne)",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "pizza",
+    "price_range": "$$",
+    "description": "Handcrafted pies, slices & calzone in a trendy counter-serve pizza parlor serving beers.",
+    "website": "http://www.sfnypizza.com/",
+    "phone": "(503) 736-9739",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ68NS9JGhlVQRgPX_7yh5B3o/photos/AWn5SU7aTV2TgAXBQJUT84yIFicmHAHbOYhzYd9iSg25yaqLXYH8k46qL_rR9gMZKKHhkr6IGjrmQmNV1PM_zCfpBXAyfg_0pO0XsEy8MOCSUUiHPIdX6MFXvizdVSxcp7AYmXjwQ3ho9Wo_5xHbXQVmCGRT6XU57B_qcg-ggdpPIJaHnMceomMlM8yJCG8qi8M6VoA2eLOanhOf3FkqE2DGsxh5h8kG0A44eTz5FqFm3UPNk2lmI97EX0LBN7XxNsYxIb3SJjGYcziDEIKUyt2ZcPIignJWr-4FPULzJVTEda0fLA/media?maxWidthPx=800",
+    "rating": 4.2,
+    "review_count": 378,
+    "coordinates": {
+      "lat": 45.5122364,
+      "lng": -122.62571039999997
+    },
+    "features": [
+      "pizza_restaurant",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ68NS9JGhlVQRgPX_7yh5B3o",
+    "google_maps_url": "https://maps.google.com/?cid=8793130014196364672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3701 SE Hawthorne Blvd, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_7ddp2d",
+    "name": "Piazza Italia",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$",
+    "description": "Traditional, old-world Italian fare in a small, cheery spot with soccer decor on walls & on the TV.",
+    "website": "http://www.piazzaportland.com/",
+    "phone": "(503) 478-0619",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJidk34_4JlVQRYHD_ZbirwK4/photos/AWn5SU6nuOxeTl8NqRhz1xVCuFfq0BmapHmPS7j5qDXDPfvopPo5_P9ndLBgnJyJwhyVuKd9WpO_ipixasE1XzZmd152Lb1DnMGdz9bQn3iR0rzEIkixsy5xFNdan5_jI8gP_BcYguSOEy5vXvZj4UpxkS5S0zQQaSvcTEV1IYcwSt0cBqF5ET1jiMJeSuK2IfcVL0pKYwn2Xa36F_eGPKaZG7fK5CKDQ-NhEI9ob7xuddFWFOfyO30d1Pc5c9yaRqZ6CTEuM83-XL4wUvVnUD085Lb26iPqQNCxW5sO9Xl2Fz141oooF_fkeEs_hXr_NDmyrLERWE2F0DeqcKUuBesqlqrAWnu-1xey2vb0LLnFKd3Ee2feOQIC06OaX6GWXkt0Oe01lKFJYID7M7VmIFxGqD5cE2tETG30SvvPk9mFJXo/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1215,
+    "coordinates": {
+      "lat": 45.528785,
+      "lng": -122.68290929999999
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJidk34_4JlVQRYHD_ZbirwK4",
+    "google_maps_url": "https://maps.google.com/?cid=12592253366601478240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1129 NW Johnson St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_kq6t57",
+    "name": "Serratto Restaurant and Bar",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Handcrafted, Italian-leaning Mediterranean fare & wines are served in a spacious, elegant eatery.",
+    "website": "https://www.serratto.com/",
+    "phone": "(503) 221-1195",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJD7-BevoJlVQRCoTcJnU1i4U/photos/AWn5SU5Wc3qj6qXVlPYDKjjvOaUG-gZOW-RpcMAeHqkfDtwqBtkocwIo9_DJbOvCBjc2mCYDk5iRsJEp6udM39NMnnvU9t1OZiArEksvfcxoKkb8z9sAhLr3altgWjKocWEZ9vGHWpGv7ooPvQlduTmV9gyBhvUBJUq67ygT8wj5GkzIt95JNuQw3582nBzyo7-VuaQCtfRtoc3fMa64TAg20EYws_mGuBBKhSDj8q82HfsGk0GNf-4MT0wzT49MudqoZcsVJxlovN34gWmjOz9-KaROrzMCKzMkN_w7_M2qcDH_TawKTSnqtc6U_Kj_mzEic0vss43G2En6wW_o3IJVAavill9AJq-1K7C6fO_9cNdmfMSA5RObCx4keXWuzJF1XnFIX6Wu2wfVRT2SPn_RaJMN40I8eMhf7BAhviptFMHTLw/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 996,
+    "coordinates": {
+      "lat": 45.529043099999996,
+      "lng": -122.6946668
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJD7-BevoJlVQRCoTcJnU1i4U",
+    "google_maps_url": "https://maps.google.com/?cid=9622843806086628362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2112 NW Kearney St, Portland, OR 97210, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810365629_regxh6",
+    "name": "Morton's The Steakhouse",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "american",
+    "price_range": "$$$$",
+    "description": "Upscale chain for aged prime beef, seafood & other traditional steakhouse fare in a clubby space.",
+    "website": "https://www.mortons.com/location/mortons-the-steakhouse-portland-or/",
+    "phone": "(503) 248-2100",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJWZKmvREKlVQRIORByu4p-ys/photos/AWn5SU4S6Wak8NdDYOWL8FwV6pXWvUMdTvdIrR5i3JZtfm7tr3sPoP4OFQK_sWLOf4ixhUxdXrF7rR3XV8loxQ4obDo-P2m2X7lEf7K0ArVcYnKna07CCzw1po0JsbTRaBtOQG2tu5f5pn-jOkU8gFdjGpK4Lc4PN3132w7x_jtVcXXmCUxiJWIFM1gj3_RixunTU1B-XdO4if31ZXzRMhYADNDXD2EnY76no-N4XohwV5Eqaw3mBJaHjc9ktVENkI-1hl7eifTu79aF4pRh3-x1fqD71ChHZHBhYqrvwpvJ42EuaQ/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 1236,
+    "coordinates": {
+      "lat": 45.512933000000004,
+      "lng": -122.677852
+    },
+    "features": [
+      "restaurant",
+      "steak_house",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJWZKmvREKlVQRIORByu4p-ys",
+    "google_maps_url": "https://maps.google.com/?cid=3169172868357547040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "213 SW Clay St, Portland, OR 97201, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366149_f7608w",
+    "name": "Love Belizean",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$",
+    "description": "Stews, curries, meat plates & other Caribbean offerings in a chill counter-serve kitchen.",
+    "website": "https://twitter.com/LoveBelizeanPDX",
+    "phone": "(503) 421-5599",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJBYG86hAKlVQRPUFFsPOeDRo/photos/AWn5SU5hjJSRBL_FwKVk44Ic8zS_eJawSZ4QPSknJ2UlAtSfNDy6GbVA95Fv1-_qTfYUDquCyJEVKWWw71W7whpIoJsFPbc9WUO0bt6cfDU5mBxFPgeTiUjxPnBDzJ_P9b8Qz2t01gRf2pQFCvUblcf1Mj3D1ZIp42bQcTX3I1f6x-cS2Di6xfuUaQXBW-R_3TWe8EM3f9u1Db9rbxrOihFY83JIBIVdFuQn3lJ0wji0csEGCy_MnxPHifN1j5MLyPPfz90GrpkNFCtS2v2nmX7KWSssRwXzIoFBMzXhho6fBjfO2JG8o428SpMkkAW4nD7P4ZgsrcrINtBZH9UgE-iRz1xId73AaqzZvGqnY8IEhxqJIG17ITJYzecXlH8on9UMyNopK1VUlQyjkn6FC49pXO5u9DopXzhQIXrV2Y8DIMsdxkc/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 390,
+    "coordinates": {
+      "lat": 45.5138458,
+      "lng": -122.6828191
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJBYG86hAKlVQRPUFFsPOeDRo",
+    "google_maps_url": "https://maps.google.com/?cid=1877331389154935101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1503 SW Broadway, Portland, OR 97201, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366149_pguwf3",
+    "name": "De Noche",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "mexican",
+    "price_range": "$",
+    "description": null,
+    "website": "https://www.denochepdx.com/",
+    "phone": "(503) 984-2033",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJA5HVsYELlVQR9zW-R8tQ37Q/photos/AWn5SU6zWocdNe0s8e4y8eN_CZ2jymVb5vTje0MJjvn7SbIc1dLebKEZNynUArVkTr7fmdaj4CTTH8eJlPsAYssFmJsHYpi9XW3C1lcCOTzVaAwO--diEhIk3a00ocZOLFOwF4Kdt2-nKMWlbPmNJDuNPNphJ_N4V_bzxlrR5lt1_qgrAvyFqgcUKQIn_RbgBNg7MCFIGPvL4sZbUbjiVbUlcN4OFh2gZPLJcSpqWLEMk4uSQE3GbV-edKMfxE6Bzegpi9_GmyP2Yy9rQgZVb67AcOVkOoYvqpY_noCKPZUO08Ny8g/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 215,
+    "coordinates": {
+      "lat": 45.523819599999996,
+      "lng": -122.6809948
+    },
+    "features": [
+      "mexican_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJA5HVsYELlVQR9zW-R8tQ37Q",
+    "google_maps_url": "https://maps.google.com/?cid=13033224680645735927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "100 NW 10th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366518_ldzayb",
+    "name": "Twelve",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": null,
+    "website": "http://twelvemaine.com/",
+    "phone": "(207) 231-3703",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ0b9RZVydskwR80emyORfK1k/photos/AWn5SU4F7uie5ESii38JQARqCpzyzADSYYIVnqVvkCeGhPtmsJZmvdhVAyqhedYO7Rw6Si7mBgJ7Wcx6ryVw0eqAuzp3eWRPEbmDJLWlsQyfcxYHlXplJWf915xUYVyjss-frTSkSsmCK47GI83pM-NeQmV9MBSB8tGE_WQ3lmi-KcuT-umT1sHULVVAJ38YLWIGrqThZMsEaW2oi-ZER7Li2RfKEvFPjIKlfxUCK3YH0zQI8OwKotY_fP4BMgj0-C-IIqs83GFpk0l4wj58pdy_T6xBYJH90e6_vqA0DdNU_DWpow/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 649,
+    "coordinates": {
+      "lat": 43.6620743,
+      "lng": -70.24433499999999
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "wine_bar",
+      "seafood_restaurant",
+      "event_venue",
+      "american_restaurant",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ0b9RZVydskwR80emyORfK1k",
+    "google_maps_url": "https://maps.google.com/?cid=6425334729597667315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "115 Thames St, Portland, ME 04101, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366518_jg9ex8",
+    "name": "Ava Genes",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "italian",
+    "price_range": "$$$",
+    "description": "Italian eatery serving cocktails & upscale fare, including family-style options, in a chic space.",
+    "website": "https://www.avagenes.com/",
+    "phone": "(971) 229-0571",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJUTfoEIaglVQRs9_WYCQvYLE/photos/AWn5SU5_S_-Q2_eXIZTIGjPt5cdBoXRD0iPAiwCvqTqV_KmTxzEmFhHLbK5Xc33pvpHqm_rgvI9lqFq0egYRim9BmqqkXyQUhsrOMQ4oNip9aMyUsNboh8d7KIsUVyFUPgfOlHwJU_XG5dmQG1hMoSQC3BV3lb7xjw-kTfPujxW3IW4Zhny8cm7Kuj0sWvyFlIMhN9A3QTOe9v2KErCHZePolQtxR0g2IcDtlweWdlOLwd3kAAFKEcMdKBO8KD0_uN0LXrVy3DhzCwx5P2hPKD6xQ3PkUJSSSGaI2pVJ5fBNvoE/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 922,
+    "coordinates": {
+      "lat": 45.505015,
+      "lng": -122.6298745
+    },
+    "features": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJUTfoEIaglVQRs9_WYCQvYLE",
+    "google_maps_url": "https://maps.google.com/?cid=12781267575767490483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3377 SE Division St, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366518_lmlhlt",
+    "name": "The Cove Restaurant",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": "Relaxed spot featuring marina views & seafood dishes, including a raw bar, plus steaks & sandwiches.",
+    "website": "http://www.thecovewa.com/",
+    "phone": "(360) 360-5000",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJVf2ohQyllVQRNKmeJqgWbHE/photos/AWn5SU7bRNt40MkGoSP-pe-7PEsQ7hlIubZ7kTuE80F_N4OgvHrkYFVRg7l_eWOYUH4w4VZY8dFKcMRyDh6lHaGrtaZb5lBVy68NjCWs7BVcPqEIAdYW4oQK94X6Kfe9q8gt-krWSfg6AHGmXiildSlQujv9iDMmDi9Ukc6UufwwD1cZcEPzKdV3b5APVc8bQuwa-0I-RfI6P2Dk37NNfPi94ZqQ6yLg7BjtgVQjyG7g3Y5a08LTn1d_ITi9Kae0qbgJ0RQncf2N1_ZZKZSg9M770kqI914C2KS2zX5BR6TJ8aXtFLgodp70ehVoLf01V3RMu1UAuXMRofC_X5_7SG6BlhOuafpOJwNMc9bpgCvn0ylw1OtvFIB9bpS3B3kqcMveoLhKqQKR9uy1k_A3aXUCvN2OFtW5XCuEUSWYul2pQUsnlvUw1VRugfqTkCBri6RA/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 1428,
+    "coordinates": {
+      "lat": 45.612691299999994,
+      "lng": -122.61044740000001
+    },
+    "features": [
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJVf2ohQyllVQRNKmeJqgWbHE",
+    "google_maps_url": "https://maps.google.com/?cid=8172932335228856628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5731 SE Columbia Way, Vancouver, WA 98661, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366518_ofop7l",
+    "name": "The Painted Lady",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": "fine dining",
+    "price_range": "$$$$",
+    "description": "Lavish restaurant serving French-influenced New American tasting menus & Oregon wines.",
+    "website": "http://www.thepaintedladyrestaurant.com/",
+    "phone": "(503) 538-3850",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKVcuP9FBlVQRTBX2YVQ1lBw/photos/AWn5SU5v6dPNtZnk6UXSkRKsRS2nZICg2m8JaNiCgZAs_wDxyRIaHEn2fQiwWt0Z5l3IW_1tHnoJwefJLOzoCd-0sGuzhcPoaQbSQRkS_hJ9SDCqrKY1RROGgr-IFUEtSqIpaIqq6cH-5UbLUmBJ87koS4WXKtLsuY-t76gISpLjfNHVSTpsuzl_TOqaAShjz99xFV6r7tukEYC3RyHlvX_KuzlZkn5zvYmjPprQBN_YOd1xDC93DPWPxzbgD1vLd5aib82mVrPdQKS1CoVq_EjOvx6Qfqj9cQL3DYySAYQDnOE/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 234,
+    "coordinates": {
+      "lat": 45.2993261,
+      "lng": -122.9730206
+    },
+    "features": [
+      "restaurant",
+      "fine_dining_restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKVcuP9FBlVQRTBX2YVQ1lBw",
+    "google_maps_url": "https://maps.google.com/?cid=2059329566152201548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "201 S College St, Newberg, OR 97132, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_flzc4v",
+    "name": "Portland Wine Bar & Winery Tasting Room",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Bright shop specializing in small-batch Oregon & Hawaiian tropical-fruit wines, plus tastings.",
+    "website": "http://www.portlandwinebar.com/",
+    "phone": "(971) 303-9674",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJ1UekEQUKlVQRvCOAz-r0raI/photos/AWn5SU7Nx8Duo3DsvdqzgMKOpoexnC8_aoth2Sva-rtXPvyD2i6VFQ5DWFTlqPDSnDLk4yAnRp_i8KC5zxpelhY83J2dYC_KD2PUOIJgQwVp53p-3Uh5DA-r4aK9s2wqDwhR2kGud_KrKxGgzklLINB0WovzFSA1DZ8Dvbj__-MtIZyt-4GsUJ647oRZmUVRDGG5hMfWAM94OMhrSbghRXWXdtl3UmoK1tcDjj0ibS1PxchGrO_7dU6GFCPDO7DVkvqalURTCD1Iqt2FHbvciw92qkaXhbs_JB0i_koVoekWP5CJtg/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 143,
+    "coordinates": {
+      "lat": 45.5182548,
+      "lng": -122.6786917
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "farm",
+      "wedding_venue",
+      "bar",
+      "food",
+      "event_venue",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJ1UekEQUKlVQRvCOAz-r0raI",
+    "google_maps_url": "https://maps.google.com/?cid=11722294694456075196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "526 SW Yamhill St, Portland, OR 97204, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_3fp6l3",
+    "name": "The Old Portland Wine Bar",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Wine, bread & cheese served in an intimate space with wood paneling and unique, vintage decor.",
+    "website": "http://www.theoldportland.com/",
+    "phone": "(971) 480-6654",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJuX7yFf0JlVQR6vvg9xtV1fw/photos/AWn5SU4azXOByOw9WerN8SSWCK0MsXNvmXEG1jHHHm9wX_K5666uZn1B0s1LYlcjTf-0n6BXaCOVGUJHZFS_NxfhqAX2oqNByRtVzf-Knf_i1L25cK6qAuFer8dxUXEDB02htyvOYwVVvjp1kXziMfR8SOSZGv6OhkK4IMgmRxiqottHR0qhaCWciu1087ZXozmtNNyjmJoU45xNKzDGGlLo88b8TpB40FiCaUP-fXIvwTddtnpK-5AIUjmlvxDXG4_XMLJJc0YgwnbCw1U9kWAyqz2BISM0XvNRPKLmiNwd3y-OiA/media?maxWidthPx=800",
+    "rating": 4.9,
+    "review_count": 58,
+    "coordinates": {
+      "lat": 45.5336895,
+      "lng": -122.68635630000001
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "wholesaler",
+      "bar",
+      "food",
+      "event_venue",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJuX7yFf0JlVQR6vvg9xtV1fw",
+    "google_maps_url": "https://maps.google.com/?cid=18218561446208404458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1433 NW Quimby St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_7qyktc",
+    "name": "ENSO Winery",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://ensowinery.com/",
+    "phone": "(503) 683-3676",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJZb21d6OglVQR6kGo7qXXazE/photos/AWn5SU7GUhlLR3VHbOypI9UXccZZwABtgZcDQyYaP1sAl7SfiRbUtUfsnk-NkwkPn3E5_B0uEmJAex-ZzSHZNEIENsqTecj8A5GiXNDvu0VFA7TBjcr7ihrePfPZqV-eqlsXojVVIsmUsv7c9dMIbgyaO4ksZQhefns53YK87Y69db4F4iWJEyt1yWJuFdk9T-c7Zclz6psuvGOGKHqTIDP9S5RVbMh6e8r7RtLE7xLhbVyeAA7C3uOHIlamUMcmX8KjMI5OhArvKCXFVI4JenGLqkpVM9Rp2n2n_0A7YoiHLylThg/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 157,
+    "coordinates": {
+      "lat": 45.5191382,
+      "lng": -122.65114930000001
+    },
+    "features": [
+      "night_club",
+      "wine_bar",
+      "farm",
+      "bar",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJZb21d6OglVQR6kGo7qXXazE",
+    "google_maps_url": "https://maps.google.com/?cid=3561177038040089066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1416 SE Stark St, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_ixe8ci",
+    "name": "Domaine Serene Wine Lounge Portland",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Popular, polished lounge at Sentinel Hotel with flights from Oregon wineries & elevated light fare.",
+    "website": "https://domaineserenewinelounge.com/",
+    "phone": "(503) 850-7001",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJkXE8YQMKlVQRGDahz6PSUPo/photos/AWn5SU65J0GKQFX1tQtkvvyEPli8DurzVl_jU4Li0YrjTLAi4auIROp3seGk4TkJx3cxMMV_hpv22tZhBHaXQenfRrDWB0A8plnVm6F8LqXhg3RTQiRrNZipEf03I7UG4zMp_8olqRsilMDtr_jMQGbTB2lUzt-1SYPe1oTNF_hNPhuTle5t4VZnbUXRnCQm33RdqREFBrfLpiejxVGA9Zvv2JdeB3PBVrv3LOR1loXieS7n8g9NMyKWNzADZm-JchprQQYmHQfRni4a31jri0EgOpj3kFKqryrCX8e4s79nmZuMRA/media?maxWidthPx=800",
+    "rating": 4.6,
+    "review_count": 172,
+    "coordinates": {
+      "lat": 45.520759899999995,
+      "lng": -122.6824758
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJkXE8YQMKlVQRGDahz6PSUPo",
+    "google_maps_url": "https://maps.google.com/?cid=18037148108623787544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1038 SW Alder St, Portland, OR 97205, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_39k9di",
+    "name": "Noble Rot",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": "american",
+    "price_range": "$$$",
+    "description": "4th-floor wine bar offering city views & small plates featuring ingredients from a rooftop garden.",
+    "website": "http://www.noblerotpdx.com/",
+    "phone": "(503) 233-1999",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJX2EUbaWglVQRt7MSs2r8k9c/photos/AWn5SU6_3MtpVRETAmo-pe1-YMgZ11Jt-1Mnu7VMgIAfOFVfOBDbF4QM_2MHVPOem2Q3FQUb-xwazaxywsjpJgxyqqmAY8idS_5mqNVvliX08BpAQ1ONT1Hkx_XIN3vc0k9Khb4b1jIyEGag6MqsDDZMfFcDPrsaeaxw5R1e6dMSEb0Tcmif0JgnyPC3YTYMvTSOrYuLWB95XHv0XlFOLH9WB6SCaDVC59psXmZixyJG8EIWNDPnykF1jSA60eC_qFmjMd4EURX4eHiRlpBD7E0oHEZEHh01dj6FZMBmYHwp9JdCrw/media?maxWidthPx=800",
+    "rating": 4.5,
+    "review_count": 1052,
+    "coordinates": {
+      "lat": 45.523075,
+      "lng": -122.654286
+    },
+    "features": [
+      "american_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJX2EUbaWglVQRt7MSs2r8k9c",
+    "google_maps_url": "https://maps.google.com/?cid=15534037074932052919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1111 E Burnside St Fourth Floor, Portland, OR 97214, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_8820ac",
+    "name": "Fullerton Wines",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$$",
+    "description": null,
+    "website": "https://fullertonwines.com/",
+    "phone": "(503) 477-7848",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJOdxWwY4NlVQRqwTEexRZfJo/photos/AWn5SU4pBwE3VjgygdVG4MBtAe2qavvJZ8SeeT9tEvnVR9MkmXexDcE9uBCV_D2vvdPvAe5Es1g09CCKaued4pTpuH-Pqzl6oB-icPuw-kPayT-Q_RUWUSHkvwRbpHnf-Vo7ot94ZIagIhib-fzp9Pl0jeDUYXS0AxuAV9AEOPaUgZa7ikK8w811xbVhcKY2U6lTLACrVjLV8uEhwWaqlELZbo6k6IzKf83_J_L_qWL5HVYqje7eh8U7-hDc-rvSoJmT4rYshsJ55b1jxWZDpWpizS_YHczqanF-Dcjzk1rkR-OEYA/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 145,
+    "coordinates": {
+      "lat": 45.5326737,
+      "lng": -122.69199559999998
+    },
+    "features": [
+      "comedy_club",
+      "liquor_store",
+      "farm",
+      "bar",
+      "restaurant",
+      "food",
+      "event_venue",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJOdxWwY4NlVQRqwTEexRZfJo",
+    "google_maps_url": "https://maps.google.com/?cid=11131870323463685291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1966 NW Pettygrove St, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_lnfu2j",
+    "name": "Battle Creek Cellars by Browne Family - Wine Tasting Room",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": null,
+    "website": "https://battlecreekcellars.com/",
+    "phone": "(503) 902-6636",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJKc2lP4gJlVQR7k1DQqOAh40/photos/AWn5SU4uWvS7VFVWn5aboQYYT1f3iGcvz2PWJvVdlOzAMu812SkcHf2c01jNCqFQ0uNWsoQrm0O5tfUr1WGEfquPJniZriXAtcBgPFebQEZz2XY_jRUyWkvlTICgKXtSwSQrnp2dMs0AJFs1DlTyU3fkqTi8F5UhE1CyWJt7Fn5pa5pCur9oPR0MaocVOKOHbCSl1h5vQRjgUqqjN88w1iMdyh9TSQHGbfZIzgGLaMSwa-rEJckK_eyU301OErvHnm8bL0utgTYnFRmqLFaQm86_S1JCEV3Q1S3mzj6E_BS-U0lWyQ/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 59,
+    "coordinates": {
+      "lat": 45.528805899999995,
+      "lng": -122.68420510000001
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "event_venue",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJKc2lP4gJlVQR7k1DQqOAh40",
+    "google_maps_url": "https://maps.google.com/?cid=10198261319883509230&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "820 NW 13th Ave, Portland, OR 97209, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_k6mdra",
+    "name": "Pairings Portland Wine Shop & Bar",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Wines sold by the glass or bottle with a focus on food compatibility, tastings, classes & events.",
+    "website": "https://pairingsportland.com/",
+    "phone": "(541) 531-7653",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJgZgbVLiglVQRHJTdmzM47u8/photos/AWn5SU4vcTlKOMaDspeL58RLeApIaYXDO8m0-RfQAdl4zMyazDirYZ4-8aY1Dt1vNVrvQJbrWE6GcJIhg0ty3h0Kg_R36T1Ld3z9iUajbVgfdHn52ZsYsGdQkE40OTofRIzYeREAxvHVofqR_5rUSzoNCf07UIjrW5L_9oPKmYsVF6qiuh9n-HYQWUqaPIILcpbjow6QH3N-9nSCuM_x9N_kPApFgKX5uxZZeIwxo2gA_EoTBhOLJThK7Cc4DVB4wOB2pX6AinU3JZNBUULTF_mXW8SuW7D-cww80I67FTYfwtGyWOipMHrSL90bAqADlHvD-oCLEhALiFuAXm4Er1aHrF4X_426t2oXqTyZcK0Aq8Vsq9D15XV0q_L_ojrRxe2LExTsOTgqlF1vdV9Fc09BI2flnsVtsLgdjYGOqvURDUw4_oll/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 122,
+    "coordinates": {
+      "lat": 45.5262582,
+      "lng": -122.64171200000001
+    },
+    "features": [
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "food",
+      "store",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJgZgbVLiglVQRHJTdmzM47u8",
+    "google_maps_url": "https://maps.google.com/?cid=17288817813831390236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "455 NE 24th Ave, Portland, OR 97232, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_nrm00q",
+    "name": "Teutonic Wine Company",
+    "city_id": "portland",
+    "category": "restaurant",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Industrial tavern/bottle shop with German & Alsatian-style wines, charcuterie/cheese plates & tapas.",
+    "website": "https://teutonicwines.com/",
+    "phone": "(503) 235-5053",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJg7jDEtGglVQRwq0Z4EaYDfM/photos/AWn5SU4oCAMcSsvWPWLEQQfGV1EHIXLJyju0XwZcoxqbwTGB5sSFVagY1kBfmDa3Lf2-_xwGfOEFi3pLmFJjmjCmx_MAGyeNeV135vW-EG9gg3x2fsxzhjdZBuEhwPOkXT7_0up71loHIBLV0qh62aBUZjB4xn0lFmM-iebApfcEjhqWRNwSBwUiWVwjMO6vdzwHdAT9K7v_G9pLFZ77a9hgHA4eR-EuEU4eXNFjf5ShZsRUF112SoU1K543XDrTG47MNcF2dAROgHstRCZ4BkMLjUASnEO5kJR-BsnDj8_iK81dFWTCjTChELhN2XHHB6Ot_WSgshljf0tCkV7T9WX3ZKJEz2ZQB1tFcUdS36VYIpnSpRJvHrzEFQZvh9mgR7x0RXeIOuCem4F315SillIQFr-rzbGmsFIT6YqA6rZCMOhrqxz4/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 117,
+    "coordinates": {
+      "lat": 45.4991171,
+      "lng": -122.6459083
+    },
+    "features": [
+      "farm",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJg7jDEtGglVQRwq0Z4EaYDfM",
+    "google_maps_url": "https://maps.google.com/?cid=17513821956088638914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3303 SE 20th Ave, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_yftgn4",
+    "name": "Hip Chicks do Wine",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "This smaller winery in an industrial area features an intimate tasting room open daily.",
+    "website": "https://www.hipchicksdowine.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=0db19f24-7169-4b45-8819-ed85b7b2dc42",
+    "phone": "(503) 234-3790",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJoc13x4UKlVQRJAwTaz9AUcA/photos/AWn5SU4B0HCF_yjuJ0x4eigOGNlYigdWVvxkBMH4pYG0x8wg3cQOb59G0ANWEWTFXPki7oI24ZpVrh6xTrq0mrhL0mlxqU-PbcffjLSEytAy3e1370VIcAYYRgyIpp4pPSdp1rOPfSycfZwUT7IRWbdanE9l5XkHRC0JhgbkdzSYmJPLW2qOkCmJxf8vxDSvMu-D164VB9nEzHF-a7m8vfEKMllPR9HQq51oMmGJ3zlR2-CJzDbymlkuZlvD8W9MtJz9eLEFD0q2UQTClyfrR_T4ytSL8rQuU0D-jF2hbs_g_fw-MA/media?maxWidthPx=800",
+    "rating": 4.7,
+    "review_count": 119,
+    "coordinates": {
+      "lat": 45.4898038,
+      "lng": -122.6420425
+    },
+    "features": [
+      "wine_bar",
+      "farm",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJoc13x4UKlVQRJAwTaz9AUcA",
+    "google_maps_url": "https://maps.google.com/?cid=13857928169519254564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4510 SE 23rd Ave, Portland, OR 97202, USA",
+    "source": "google_places"
+  },
+  {
+    "id": "venue_1764810366901_in3pjg",
+    "name": "Muse Winebar",
+    "city_id": "portland",
+    "category": "bar",
+    "cuisine": null,
+    "price_range": "$$",
+    "description": "Relaxed bar serving wine, craft beer & charcuterie in stylish, intimate surroundings.",
+    "website": "http://musewinebar.com/",
+    "phone": "(503) 444-7670",
+    "image_url": "https://places.googleapis.com/v1/places/ChIJa019B-UJlVQRDMGXaiGeZTY/photos/AWn5SU4y8szuxrpTM4ecxMfYW6By_IL7QobOqZN44ZZ3fvZIsNhu6FLRq3Nc4zrpb6ssP3xVwYI18EW3XmPJQNwK-XgsOnT8jDyT8MaoHYW1gzuMN4FMS_Zo8Pr2wR8n0GWWPIpHXau1q0Trs_hiGenHl-HHde5akY3KhF3Ys3ZQYfxNjv5sOFhKlKLcd1-mS88UwAXAqeQ4FZTfaRTpyuI4XJWce9KyybrRhBNglzkVPgQ_1GDPhVse9l15LnCJIv8-iCJVBddd37MLwY3OdK3ltdhcaw7jtWXrGTmJ9Rq2aSFseONTH_vt4tjgO8OLAESEPHfdhXaf1PYLkpblzs3MlRSscZplD5BxzC1kTsWgYaO21hG21vAY6qgGo36GczF1FRdTz46nd95a0XIZakyfSmY2N6TgCmmJ6CrdMudBzfQ5pg/media?maxWidthPx=800",
+    "rating": 4.8,
+    "review_count": 157,
+    "coordinates": {
+      "lat": 45.533972,
+      "lng": -122.698171
+    },
+    "features": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest"
+    ],
+    "google_place_id": "ChIJa019B-UJlVQRDMGXaiGeZTY",
+    "google_maps_url": "https://maps.google.com/?cid=3919712917055324428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2264 NW Raleigh St, Portland, OR 97210, USA",
+    "source": "google_places"
+  }
+]
