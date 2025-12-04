@@ -67,13 +67,21 @@ async function seed() {
 
     // Clear existing data in correct order (respecting foreign key constraints)
     console.log('🧹 Clearing existing data...');
-    await pool.query('DELETE FROM saved_venues');
-    await pool.query('DELETE FROM list_venues');
-    await pool.query('DELETE FROM user_lists');
-    await pool.query('DELETE FROM lists');
-    await pool.query('DELETE FROM venues');
-    await pool.query('DELETE FROM neighborhoods');
-    await pool.query('DELETE FROM cities');
+    // Use try-catch for tables that might not exist in older schemas
+    const safeDelete = async (table: string) => {
+      try { await pool.query(`DELETE FROM ${table}`); } 
+      catch (e: any) { 
+        if (e.code !== '42P01') throw e; // Only ignore "table doesn't exist" errors
+        console.log(`   ⚠️ Table ${table} not found, skipping...`);
+      }
+    };
+    await safeDelete('saved_venues');
+    await safeDelete('list_venues');
+    await safeDelete('user_lists');
+    await safeDelete('lists');
+    await safeDelete('venues');
+    await safeDelete('neighborhoods');
+    await safeDelete('cities');
     await pool.query("DELETE FROM users WHERE email != 'admin@localist.ai'"); // Keep admin user if exists
 
     console.log('📍 Inserting cities...');
