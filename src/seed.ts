@@ -179,7 +179,7 @@ async function seed() {
           parseFloat(venue.rating) || 4.0,
           JSON.stringify(venue.coordinates),
           JSON.stringify(venue.hours || {}),
-          JSON.stringify(features),
+          features, // PostgreSQL handles JS arrays directly via pg driver
         ]
       );
     }
