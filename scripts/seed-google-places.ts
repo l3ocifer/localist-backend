@@ -327,6 +327,7 @@ function delay(ms: number): Promise<void> {
 
 interface ScraperOptions {
   dryRun: boolean;
+  jsonOutput: boolean;  // Output to JSON files instead of DB
   minRating: number;
   minReviews: number;
   targetPerCity: number;
@@ -342,6 +343,8 @@ class VenueScraper {
     duplicates: 0,
     lowQuality: 0,
   };
+  private venuesByCity: Map<string, any[]> = new Map();
+  private seenPlaceIds: Set<string> = new Set();
 
   constructor(options: ScraperOptions) {
     this.options = options;
@@ -351,7 +354,7 @@ class VenueScraper {
     console.log('\n' + '═'.repeat(70));
     console.log('🗺️  LOCALIST VENUE SCRAPER');
     console.log('═'.repeat(70));
-    console.log(`Mode:        ${this.options.dryRun ? '🔍 DRY RUN' : '💾 LIVE'}`);
+    console.log(`Mode:        ${this.options.dryRun ? '🔍 DRY RUN' : this.options.jsonOutput ? '📄 JSON OUTPUT' : '💾 DATABASE'}`);
     console.log(`Min Rating:  ${this.options.minRating}⭐`);
     console.log(`Min Reviews: ${this.options.minReviews}`);
     console.log(`Target:      ${this.options.targetPerCity} venues/city`);
@@ -385,10 +388,42 @@ class VenueScraper {
       await this.processCity(city);
     }
 
+    // Write JSON files if in JSON output mode
+    if (this.options.jsonOutput) {
+      await this.writeJsonFiles();
+    }
+
     // Summary
     this.printSummary();
 
-    await pool.end();
+    if (!this.options.jsonOutput) {
+      await pool.end();
+    }
+  }
+
+  private async writeJsonFiles(): Promise<void> {
+    const fs = await import('fs');
+    const outputDir = path.join(__dirname, '../data/venues');
+    
+    // Ensure output directory exists
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+    }
+
+    console.log('\n📄 Writing JSON files to:', outputDir);
+
+    for (const [cityId, venues] of this.venuesByCity) {
+      const filename = `${cityId}-venues.json`;
+      const filepath = path.join(outputDir, filename);
+      fs.writeFileSync(filepath, JSON.stringify(venues, null, 2));
+      console.log(`   ✅ ${filename} (${venues.length} venues)`);
+    }
+
+    // Also write a combined file
+    const allVenues = Array.from(this.venuesByCity.values()).flat();
+    const combinedPath = path.join(outputDir, 'all-venues.json');
+    fs.writeFileSync(combinedPath, JSON.stringify(allVenues, null, 2));
+    console.log(`   ✅ all-venues.json (${allVenues.length} total venues)`);
   }
 
   private async processCity(city: City): Promise<void> {
@@ -396,8 +431,10 @@ class VenueScraper {
     console.log(`🏙️  ${city.name}, ${city.state}`);
     console.log('─'.repeat(70));
 
-    // Ensure city exists in database
-    await this.ensureCityExists(city);
+    // Ensure city exists in database (skip for JSON mode)
+    if (!this.options.jsonOutput) {
+      await this.ensureCityExists(city);
+    }
 
     const seenPlaceIds = new Set<string>();
     let cityVenueCount = 0;
@@ -442,8 +479,13 @@ class VenueScraper {
     }
 
     // Get current count
-    const countResult = await pool.query('SELECT COUNT(*) as count FROM venues WHERE city_id = $1', [city.id]);
-    console.log(`\n✅ ${city.name}: ${countResult.rows[0].count} total venues`);
+    if (this.options.jsonOutput) {
+      const count = this.venuesByCity.get(city.id)?.length || 0;
+      console.log(`\n✅ ${city.name}: ${count} venues collected for JSON`);
+    } else {
+      const countResult = await pool.query('SELECT COUNT(*) as count FROM venues WHERE city_id = $1', [city.id]);
+      console.log(`\n✅ ${city.name}: ${countResult.rows[0].count} total venues`);
+    }
   }
 
   private async searchAndSave(
@@ -497,17 +539,26 @@ class VenueScraper {
   }
 
   private async saveVenue(place: GooglePlace, cityId: string, category: Category): Promise<boolean> {
-    // Check for duplicate
-    const existing = await pool.query(
-      `SELECT id FROM venues WHERE 
-       google_place_id = $1 OR (LOWER(TRIM(name)) = LOWER($2) AND city_id = $3)
-       LIMIT 1`,
-      [place.id, place.displayName.text.trim(), cityId]
-    );
-
-    if (existing.rows.length > 0) {
+    // Check for duplicate (in-memory for JSON mode, DB for live mode)
+    if (this.seenPlaceIds.has(place.id)) {
       return false;
     }
+
+    if (!this.options.jsonOutput) {
+      // Check database for duplicates
+      const existing = await pool.query(
+        `SELECT id FROM venues WHERE 
+         google_place_id = $1 OR (LOWER(TRIM(name)) = LOWER($2) AND city_id = $3)
+         LIMIT 1`,
+        [place.id, place.displayName.text.trim(), cityId]
+      );
+
+      if (existing.rows.length > 0) {
+        return false;
+      }
+    }
+
+    this.seenPlaceIds.add(place.id);
 
     if (this.options.dryRun) {
       console.log(`   [DRY] ${place.displayName.text} (${place.rating}⭐, ${place.userRatingCount} reviews)`);
@@ -544,6 +595,37 @@ class VenueScraper {
 
     const venueId = `venue_${Date.now()}_${Math.random().toString(36).substr(2, 6)}`;
 
+    const venueData = {
+      id: venueId,
+      name: place.displayName.text.trim(),
+      city_id: cityId,
+      category: actualCategory,
+      cuisine: cuisine,
+      price_range: priceMap[place.priceLevel || ''] || '$$',
+      description: place.editorialSummary?.text || null,
+      website: place.websiteUri || null,
+      phone: place.nationalPhoneNumber || null,
+      image_url: imageUrl,
+      rating: place.rating,
+      review_count: place.userRatingCount,
+      coordinates: { lat: place.location.latitude, lng: place.location.longitude },
+      features: types.filter(t => !t.includes('establishment')),
+      google_place_id: place.id,
+      google_maps_url: place.googleMapsUri || null,
+      address: place.formattedAddress,
+      source: 'google_places',
+    };
+
+    // JSON output mode - collect data
+    if (this.options.jsonOutput) {
+      if (!this.venuesByCity.has(cityId)) {
+        this.venuesByCity.set(cityId, []);
+      }
+      this.venuesByCity.get(cityId)!.push(venueData);
+      return true;
+    }
+
+    // Database mode - insert directly
     try {
       await pool.query(
         `INSERT INTO venues (
@@ -556,23 +638,23 @@ class VenueScraper {
           $13, $14, $15, $16, $17, 'google_places', NOW(), NOW()
         )`,
         [
-          venueId,
-          place.displayName.text.trim(),
-          cityId,
-          actualCategory,
-          cuisine,
-          priceMap[place.priceLevel || ''] || '$$',
-          place.editorialSummary?.text || null,
-          place.websiteUri || null,
-          place.nationalPhoneNumber || null,
-          imageUrl,
-          place.rating,
-          place.userRatingCount,
-          JSON.stringify({ lat: place.location.latitude, lng: place.location.longitude }),
-          JSON.stringify(types.filter(t => !t.includes('establishment'))),
-          place.id,
-          place.googleMapsUri || null,
-          place.formattedAddress,
+          venueData.id,
+          venueData.name,
+          venueData.city_id,
+          venueData.category,
+          venueData.cuisine,
+          venueData.price_range,
+          venueData.description,
+          venueData.website,
+          venueData.phone,
+          venueData.image_url,
+          venueData.rating,
+          venueData.review_count,
+          JSON.stringify(venueData.coordinates),
+          JSON.stringify(venueData.features),
+          venueData.google_place_id,
+          venueData.google_maps_url,
+          venueData.address,
         ]
       );
       return true;
@@ -644,6 +726,7 @@ function parseArgs(): ScraperOptions {
   const args = process.argv.slice(2);
   const options: ScraperOptions = {
     dryRun: false,
+    jsonOutput: false,
     minRating: DEFAULT_MIN_RATING,
     minReviews: DEFAULT_MIN_REVIEWS,
     targetPerCity: DEFAULT_TARGET_PER_CITY,
@@ -653,6 +736,9 @@ function parseArgs(): ScraperOptions {
     switch (args[i]) {
       case '--dry-run':
         options.dryRun = true;
+        break;
+      case '--json':
+        options.jsonOutput = true;
         break;
       case '--city':
         options.cities = [args[++i]];
@@ -690,6 +776,7 @@ Options:
   --min-rating <n>    Minimum star rating (default: ${DEFAULT_MIN_RATING})
   --min-reviews <n>   Minimum review count (default: ${DEFAULT_MIN_REVIEWS})
   --target <n>        Target venues per city (default: ${DEFAULT_TARGET_PER_CITY})
+  --json              Output to JSON files (data/venues/) instead of database
   --dry-run           Preview without saving
   --help              Show this help
 
