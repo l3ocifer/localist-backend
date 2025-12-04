@@ -79,6 +79,10 @@ async function seed() {
       "ALTER TABLE venues ALTER COLUMN price_range TYPE VARCHAR(20)",
       "ALTER TABLE venues ALTER COLUMN image_url TYPE TEXT",
       "ALTER TABLE venues ALTER COLUMN website TYPE TEXT",
+      // Add category_type column to lists if missing
+      "ALTER TABLE lists ADD COLUMN IF NOT EXISTS category_type VARCHAR(50)",
+      // Add venue_count column to lists if missing
+      "ALTER TABLE lists ADD COLUMN IF NOT EXISTS venue_count INTEGER DEFAULT 0",
       // Convert features to JSONB if it's still text[]
       `DO $$ BEGIN
         IF EXISTS (SELECT 1 FROM information_schema.columns 
