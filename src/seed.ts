@@ -65,24 +65,30 @@ async function seed() {
 
     await pool.query('BEGIN');
 
-    // Clear existing data in correct order (respecting foreign key constraints)
+    // Clear existing data using TRUNCATE CASCADE to handle foreign keys
     console.log('🧹 Clearing existing data...');
-    // Use try-catch for tables that might not exist in older schemas
-    const safeDelete = async (table: string) => {
-      try { await pool.query(`DELETE FROM ${table}`); } 
-      catch (e: any) { 
-        if (e.code !== '42P01') throw e; // Only ignore "table doesn't exist" errors
-        console.log(`   ⚠️ Table ${table} not found, skipping...`);
+    // Use TRUNCATE CASCADE for tables with foreign key relationships
+    // This handles all dependent tables automatically
+    const safeTruncate = async (table: string) => {
+      try { 
+        await pool.query(`TRUNCATE TABLE ${table} CASCADE`); 
+        console.log(`   ✅ Truncated ${table}`);
+      } catch (e: any) { 
+        if (e.code === '42P01') {
+          console.log(`   ⚠️ Table ${table} not found, skipping...`);
+        } else {
+          console.log(`   ⚠️ Could not truncate ${table}: ${e.message}`);
+        }
       }
     };
-    await safeDelete('saved_venues');
-    await safeDelete('list_venues');
-    await safeDelete('user_lists');
-    await safeDelete('lists');
-    await safeDelete('venues');
-    await safeDelete('neighborhoods');
-    await safeDelete('cities');
-    await pool.query("DELETE FROM users WHERE email != 'admin@localist.ai'"); // Keep admin user if exists
+    
+    // Truncate core tables - CASCADE will handle dependent tables
+    await safeTruncate('lists'); // This cascades to list_venues
+    await safeTruncate('venues'); // This cascades to saved_venues, list_venues
+    await safeTruncate('neighborhoods');
+    await safeTruncate('cities'); // This cascades to venues, neighborhoods
+    // Don't truncate users - keep existing users
+    console.log('   ℹ️ Keeping existing users...');
 
     console.log('📍 Inserting cities...');
     for (const city of seedData.cities) {
