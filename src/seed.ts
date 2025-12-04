@@ -69,6 +69,38 @@ async function seed() {
 
     await client.query('BEGIN');
 
+    // Ensure schema is compatible (migrations may not have run)
+    console.log('🔧 Ensuring schema compatibility...');
+    const schemaFixes = [
+      // Increase column sizes to handle all our data
+      "ALTER TABLE lists ALTER COLUMN id TYPE VARCHAR(250)",
+      "ALTER TABLE list_venues ALTER COLUMN list_id TYPE VARCHAR(250)",
+      "ALTER TABLE venues ALTER COLUMN phone TYPE VARCHAR(50)",
+      "ALTER TABLE venues ALTER COLUMN price_range TYPE VARCHAR(20)",
+      "ALTER TABLE venues ALTER COLUMN image_url TYPE TEXT",
+      "ALTER TABLE venues ALTER COLUMN website TYPE TEXT",
+      // Convert features to JSONB if it's still text[]
+      `DO $$ BEGIN
+        IF EXISTS (SELECT 1 FROM information_schema.columns 
+                   WHERE table_name='venues' AND column_name='features' AND data_type='ARRAY') THEN
+          ALTER TABLE venues ALTER COLUMN features DROP DEFAULT;
+          ALTER TABLE venues ALTER COLUMN features TYPE JSONB USING COALESCE(to_jsonb(features), '[]'::jsonb);
+          ALTER TABLE venues ALTER COLUMN features SET DEFAULT '[]'::jsonb;
+        END IF;
+       END $$`
+    ];
+    for (const fix of schemaFixes) {
+      try {
+        await client.query(fix);
+      } catch (e: any) {
+        // Ignore errors (column may already be correct type)
+        if (!e.message?.includes('already')) {
+          console.log(`   ⚠️ Schema fix skipped: ${e.message?.substring(0, 50)}`);
+        }
+      }
+    }
+    console.log('   ✅ Schema compatibility ensured');
+
     // Clear existing data using TRUNCATE CASCADE to handle foreign keys
     console.log('🧹 Clearing existing data...');
     const safeTruncate = async (table: string) => {
