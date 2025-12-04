@@ -13,6 +13,10 @@
     "db:seed:lists": "node scripts/expand-lists.js",
     "db:generate-seed": "ts-node src/generate-seed-data.ts",
     "db:reset": "cd database && ./init.sh --seed",
+    "scrape": "ts-node scripts/seed-google-places.ts",
+    "scrape:all": "ts-node scripts/seed-google-places.ts --min-rating 4.0",
+    "scrape:city": "ts-node scripts/seed-google-places.ts --city",
+    "scrape:phase": "ts-node scripts/seed-google-places.ts --phase",
     "migrate": "node-pg-migrate",
     "typecheck": "tsc --noEmit",
     "lint": "eslint . --ext .ts"

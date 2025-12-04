@@ -97,16 +97,26 @@ export const RELAXED_QUALITY_FILTERS: QualityFilters = {
   excludeClosed: true,
 };
 
-// City center coordinates for searches
+// City center coordinates for searches (all 15 MVP cities)
 const CITY_INFO: Record<string, { lat: number; lng: number; name: string; state: string }> = {
   nyc: { lat: 40.7580, lng: -73.9855, name: 'New York City', state: 'NY' },
   la: { lat: 34.0522, lng: -118.2437, name: 'Los Angeles', state: 'CA' },
   chicago: { lat: 41.8827, lng: -87.6233, name: 'Chicago', state: 'IL' },
+  sf: { lat: 37.7749, lng: -122.4194, name: 'San Francisco', state: 'CA' },
+  houston: { lat: 29.7604, lng: -95.3698, name: 'Houston', state: 'TX' },
   miami: { lat: 25.7617, lng: -80.1918, name: 'Miami', state: 'FL' },
+  austin: { lat: 30.2672, lng: -97.7431, name: 'Austin', state: 'TX' },
   vegas: { lat: 36.1147, lng: -115.1728, name: 'Las Vegas', state: 'NV' },
+  philly: { lat: 39.9526, lng: -75.1652, name: 'Philadelphia', state: 'PA' },
+  seattle: { lat: 47.6062, lng: -122.3321, name: 'Seattle', state: 'WA' },
+  nola: { lat: 29.9511, lng: -90.0715, name: 'New Orleans', state: 'LA' },
+  boston: { lat: 42.3601, lng: -71.0589, name: 'Boston', state: 'MA' },
+  dc: { lat: 38.9072, lng: -77.0369, name: 'Washington DC', state: 'DC' },
+  nashville: { lat: 36.1627, lng: -86.7816, name: 'Nashville', state: 'TN' },
+  portland: { lat: 45.5152, lng: -122.6784, name: 'Portland', state: 'OR' },
 };
 
-// Neighborhoods for targeted searches (top areas per city)
+// Neighborhoods for targeted searches (top areas per city - all 15 MVP cities)
 const NEIGHBORHOODS: Record<string, string[]> = {
   nyc: [
     'Manhattan', 'Williamsburg Brooklyn', 'SoHo Manhattan', 'West Village Manhattan',
@@ -126,15 +136,65 @@ const NEIGHBORHOODS: Record<string, string[]> = {
     'Lincoln Park', 'Bucktown', 'Hyde Park', 'Andersonville', 'Ukrainian Village',
     'Fulton Market', 'Gold Coast', 'Old Town', 'Lakeview', 'Wrigleyville',
   ],
+  sf: [
+    'Mission District', 'Hayes Valley', 'Marina District', 'North Beach', 'SOMA',
+    'Castro', 'Noe Valley', 'Pacific Heights', 'Financial District', 'Chinatown SF',
+    'Haight-Ashbury', 'Potrero Hill', 'Dogpatch', 'Inner Richmond', 'Japantown',
+  ],
+  houston: [
+    'Montrose Houston', 'Heights Houston', 'Downtown Houston', 'Midtown Houston',
+    'River Oaks', 'EaDo Houston', 'Museum District', 'Galleria', 'Upper Kirby',
+    'Rice Village', 'Memorial Park', 'Westchase', 'Chinatown Houston', 'Bellaire',
+  ],
   miami: [
     'Wynwood', 'Design District', 'South Beach', 'Brickell', 'Little Havana',
     'Coconut Grove', 'Coral Gables', 'Edgewater', 'Midtown Miami', 'Downtown Miami',
     'Little Haiti', 'North Beach', 'Key Biscayne', 'Miami Beach',
   ],
+  austin: [
+    'Downtown Austin', 'South Congress', 'East Austin', 'Rainey Street', 'Hyde Park Austin',
+    'Zilker', 'Mueller', 'North Loop', 'Clarksville', 'Bouldin Creek',
+    'West 6th Street', 'Domain Austin', 'South Lamar', 'Travis Heights',
+  ],
   vegas: [
     'The Strip Las Vegas', 'Downtown Fremont Street', 'Arts District Las Vegas',
     'Summerlin', 'Henderson', 'Chinatown Las Vegas', 'Spring Valley',
     'Green Valley', 'Paradise', 'Enterprise',
+  ],
+  philly: [
+    'Center City', 'Rittenhouse Square', 'Old City Philadelphia', 'Fishtown',
+    'Northern Liberties', 'South Philly', 'University City', 'Manayunk',
+    'East Passyunk', 'Queen Village', 'Fairmount', 'Chinatown Philadelphia',
+  ],
+  seattle: [
+    'Capitol Hill Seattle', 'Ballard', 'Fremont Seattle', 'Queen Anne',
+    'Pioneer Square', 'Pike Place', 'Georgetown Seattle', 'Columbia City',
+    'Wallingford', 'University District', 'Beacon Hill Seattle', 'South Lake Union',
+  ],
+  nola: [
+    'French Quarter', 'Garden District', 'Marigny', 'Bywater', 'Warehouse District',
+    'Uptown New Orleans', 'Magazine Street', 'Mid-City New Orleans', 'Tremé',
+    'Central Business District', 'Irish Channel', 'Frenchmen Street',
+  ],
+  boston: [
+    'North End Boston', 'South End Boston', 'Back Bay', 'Beacon Hill', 'Seaport',
+    'Cambridge', 'Somerville', 'Brookline', 'Jamaica Plain', 'Fenway',
+    'Charlestown', 'South Boston', 'Allston Brighton',
+  ],
+  dc: [
+    'Georgetown DC', 'Dupont Circle', 'Adams Morgan', 'U Street', 'Capitol Hill DC',
+    'Shaw DC', 'Penn Quarter', 'Navy Yard', '14th Street NW', 'Logan Circle',
+    'Columbia Heights', 'Petworth', 'H Street NE', 'Foggy Bottom',
+  ],
+  nashville: [
+    'Downtown Nashville', 'East Nashville', 'The Gulch', 'Germantown Nashville',
+    '12 South', 'Hillsboro Village', 'Midtown Nashville', 'Sylvan Park',
+    'Marathon Village', 'West End Nashville', 'Music Row', 'Five Points Nashville',
+  ],
+  portland: [
+    'Pearl District', 'Alberta Arts District', 'Hawthorne', 'Division Street Portland',
+    'Mississippi Avenue', 'Northwest Portland', 'Southeast Portland', 'Sellwood',
+    'St Johns', 'Montavilla', 'Hollywood Portland', 'Clinton Street',
   ],
 };
 

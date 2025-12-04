@@ -44,12 +44,26 @@ interface VenueData {
   google_maps_url?: string;
 }
 
+// All 15 MVP cities
 const CITY_DETAILS: Record<string, { name: string; state: string; lat: number; lng: number }> = {
+  // Phase 1
   nyc: { name: 'New York City', state: 'NY', lat: 40.7128, lng: -74.006 },
   la: { name: 'Los Angeles', state: 'CA', lat: 34.0522, lng: -118.2437 },
   chicago: { name: 'Chicago', state: 'IL', lat: 41.8781, lng: -87.6298 },
+  sf: { name: 'San Francisco', state: 'CA', lat: 37.7749, lng: -122.4194 },
   miami: { name: 'Miami', state: 'FL', lat: 25.7617, lng: -80.1918 },
+  // Phase 2
+  houston: { name: 'Houston', state: 'TX', lat: 29.7604, lng: -95.3698 },
+  austin: { name: 'Austin', state: 'TX', lat: 30.2672, lng: -97.7431 },
   vegas: { name: 'Las Vegas', state: 'NV', lat: 36.1699, lng: -115.1398 },
+  philly: { name: 'Philadelphia', state: 'PA', lat: 39.9526, lng: -75.1652 },
+  seattle: { name: 'Seattle', state: 'WA', lat: 47.6062, lng: -122.3321 },
+  // Phase 3
+  nola: { name: 'New Orleans', state: 'LA', lat: 29.9511, lng: -90.0715 },
+  boston: { name: 'Boston', state: 'MA', lat: 42.3601, lng: -71.0589 },
+  dc: { name: 'Washington DC', state: 'DC', lat: 38.9072, lng: -77.0369 },
+  nashville: { name: 'Nashville', state: 'TN', lat: 36.1627, lng: -86.7816 },
+  portland: { name: 'Portland', state: 'OR', lat: 45.5152, lng: -122.6784 },
 };
 
 class VenueImporter {

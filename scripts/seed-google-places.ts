@@ -1,20 +1,22 @@
 #!/usr/bin/env ts-node
 /**
- * Seed Venues from Google Places API
+ * 🗺️ UNIFIED VENUE SCRAPER
  * 
- * Uses Google Places API (New) with quality filtering to discover high-rated venues.
- * Only includes venues with 4.6+ stars rating.
+ * The single source of truth for scraping venue data from Google Places API.
+ * Supports all 15 MVP cities with 4.0+ star quality filter.
  * 
  * Usage:
- *   npx ts-node scripts/seed-google-places.ts
- *   npx ts-node scripts/seed-google-places.ts --city sf
- *   npx ts-node scripts/seed-google-places.ts --phase 2
- *   npx ts-node scripts/seed-google-places.ts --new-cities
- *   npx ts-node scripts/seed-google-places.ts --dry-run
+ *   npx ts-node scripts/seed-google-places.ts                    # All cities
+ *   npx ts-node scripts/seed-google-places.ts --city sf          # Single city
+ *   npx ts-node scripts/seed-google-places.ts --cities sf,austin # Multiple cities
+ *   npx ts-node scripts/seed-google-places.ts --phase 2          # Phase 2 cities
+ *   npx ts-node scripts/seed-google-places.ts --dry-run          # Preview mode
+ *   npx ts-node scripts/seed-google-places.ts --min-rating 4.5   # Custom rating
+ *   npx ts-node scripts/seed-google-places.ts --target 150       # Venues per city
  * 
- * Prerequisites:
- *   - GOOGLE_MAPS_API_KEY environment variable set
- *   - PostgreSQL database running
+ * Environment:
+ *   GOOGLE_MAPS_API_KEY - Required
+ *   DATABASE_URL - PostgreSQL connection string
  */
 
 import * as dotenv from 'dotenv';
@@ -22,136 +24,229 @@ import * as path from 'path';
 
 dotenv.config({ path: path.join(__dirname, '../../.env') });
 dotenv.config({ path: path.join(__dirname, '../../.env.local'), override: true });
+dotenv.config({ path: path.join(__dirname, '../.env'), override: true });
 
 import pool from '../src/config/database';
-// import logger from '../src/services/logger.service';
 
-// Google Places API configuration
+// ============================================================================
+// CONFIGURATION
+// ============================================================================
+
 const API_KEY = process.env.GOOGLE_MAPS_API_KEY;
 const PLACES_BASE_URL = 'https://places.googleapis.com/v1';
 
-// Quality threshold: 4.6 stars minimum
-const MIN_RATING = 4.6;
-const MIN_REVIEWS = 50;
+// Default quality thresholds (can be overridden via CLI)
+const DEFAULT_MIN_RATING = 4.0;
+const DEFAULT_MIN_REVIEWS = 50;
+const DEFAULT_TARGET_PER_CITY = 100;
 
-// All 15 MVP cities with coordinates
-const CITIES = [
-  // Phase 1 (original 5)
-  { id: 'nyc', name: 'New York City', state: 'NY', phase: 1, lat: 40.7580, lng: -73.9855 },
-  { id: 'la', name: 'Los Angeles', state: 'CA', phase: 1, lat: 34.0522, lng: -118.2437 },
-  { id: 'chicago', name: 'Chicago', state: 'IL', phase: 1, lat: 41.8827, lng: -87.6233 },
-  { id: 'sf', name: 'San Francisco', state: 'CA', phase: 1, lat: 37.7749, lng: -122.4194 },
-  { id: 'miami', name: 'Miami', state: 'FL', phase: 1, lat: 25.7617, lng: -80.1918 },
-  // Phase 2 (new)
-  { id: 'houston', name: 'Houston', state: 'TX', phase: 2, lat: 29.7604, lng: -95.3698 },
-  { id: 'austin', name: 'Austin', state: 'TX', phase: 2, lat: 30.2672, lng: -97.7431 },
-  { id: 'vegas', name: 'Las Vegas', state: 'NV', phase: 2, lat: 36.1147, lng: -115.1728 },
-  { id: 'philly', name: 'Philadelphia', state: 'PA', phase: 2, lat: 39.9526, lng: -75.1652 },
-  { id: 'seattle', name: 'Seattle', state: 'WA', phase: 2, lat: 47.6062, lng: -122.3321 },
-  // Phase 3 (new)
-  { id: 'nola', name: 'New Orleans', state: 'LA', phase: 3, lat: 29.9511, lng: -90.0715 },
-  { id: 'boston', name: 'Boston', state: 'MA', phase: 3, lat: 42.3601, lng: -71.0589 },
-  { id: 'dc', name: 'Washington', state: 'DC', phase: 3, lat: 38.9072, lng: -77.0369 },
-  { id: 'nashville', name: 'Nashville', state: 'TN', phase: 3, lat: 36.1627, lng: -86.7816 },
-  { id: 'portland', name: 'Portland', state: 'OR', phase: 3, lat: 45.5152, lng: -122.6784 },
+// ============================================================================
+// CITY DEFINITIONS - All 15 MVP Cities
+// ============================================================================
+
+interface City {
+  id: string;
+  name: string;
+  state: string;
+  phase: number;
+  lat: number;
+  lng: number;
+  neighborhoods: string[];
+}
+
+const CITIES: City[] = [
+  // Phase 1 - Launch cities
+  {
+    id: 'nyc', name: 'New York City', state: 'NY', phase: 1,
+    lat: 40.7580, lng: -73.9855,
+    neighborhoods: [
+      'Manhattan', 'Williamsburg Brooklyn', 'SoHo Manhattan', 'West Village',
+      'East Village', 'Chelsea Manhattan', 'Tribeca', 'DUMBO Brooklyn',
+      'Greenpoint Brooklyn', 'Park Slope Brooklyn', 'Bushwick Brooklyn',
+      'Astoria Queens', 'Long Island City', 'Harlem', 'Upper West Side',
+    ],
+  },
+  {
+    id: 'la', name: 'Los Angeles', state: 'CA', phase: 1,
+    lat: 34.0522, lng: -118.2437,
+    neighborhoods: [
+      'Silver Lake', 'Los Feliz', 'Echo Park', 'Highland Park', 'Venice Beach',
+      'Santa Monica', 'West Hollywood', 'Downtown LA', 'Koreatown',
+      'Arts District LA', 'Culver City', 'Pasadena', 'Beverly Hills',
+      'Manhattan Beach', 'Sawtelle', 'Little Tokyo',
+    ],
+  },
+  {
+    id: 'chicago', name: 'Chicago', state: 'IL', phase: 1,
+    lat: 41.8827, lng: -87.6233,
+    neighborhoods: [
+      'Wicker Park', 'Logan Square', 'Pilsen', 'West Loop', 'River North',
+      'Lincoln Park', 'Bucktown', 'Hyde Park', 'Andersonville', 'Ukrainian Village',
+      'Fulton Market', 'Gold Coast', 'Old Town', 'Lakeview', 'Wrigleyville',
+    ],
+  },
+  {
+    id: 'sf', name: 'San Francisco', state: 'CA', phase: 1,
+    lat: 37.7749, lng: -122.4194,
+    neighborhoods: [
+      'Mission District', 'Hayes Valley', 'Marina District', 'North Beach', 'SOMA',
+      'Castro', 'Noe Valley', 'Pacific Heights', 'Financial District', 'Chinatown SF',
+      'Haight-Ashbury', 'Potrero Hill', 'Dogpatch', 'Inner Richmond', 'Japantown',
+    ],
+  },
+  {
+    id: 'miami', name: 'Miami', state: 'FL', phase: 1,
+    lat: 25.7617, lng: -80.1918,
+    neighborhoods: [
+      'Wynwood', 'Design District', 'South Beach', 'Brickell', 'Little Havana',
+      'Coconut Grove', 'Coral Gables', 'Edgewater', 'Midtown Miami', 'Downtown Miami',
+      'Little Haiti', 'North Beach', 'Key Biscayne', 'Miami Beach',
+    ],
+  },
+  // Phase 2 - Week 2 cities
+  {
+    id: 'houston', name: 'Houston', state: 'TX', phase: 2,
+    lat: 29.7604, lng: -95.3698,
+    neighborhoods: [
+      'Montrose Houston', 'Heights Houston', 'Downtown Houston', 'Midtown Houston',
+      'River Oaks', 'EaDo Houston', 'Museum District', 'Galleria', 'Upper Kirby',
+      'Rice Village', 'Memorial Park', 'Westchase', 'Chinatown Houston', 'Bellaire',
+    ],
+  },
+  {
+    id: 'austin', name: 'Austin', state: 'TX', phase: 2,
+    lat: 30.2672, lng: -97.7431,
+    neighborhoods: [
+      'Downtown Austin', 'South Congress', 'East Austin', 'Rainey Street', 'Hyde Park',
+      'Zilker', 'Mueller', 'North Loop', 'Clarksville', 'Bouldin Creek',
+      'West 6th Street', 'Domain Austin', 'South Lamar', 'Travis Heights',
+    ],
+  },
+  {
+    id: 'vegas', name: 'Las Vegas', state: 'NV', phase: 2,
+    lat: 36.1147, lng: -115.1728,
+    neighborhoods: [
+      'The Strip Las Vegas', 'Downtown Fremont Street', 'Arts District Las Vegas',
+      'Summerlin', 'Henderson', 'Chinatown Las Vegas', 'Spring Valley',
+      'Green Valley', 'Paradise', 'Enterprise',
+    ],
+  },
+  {
+    id: 'philly', name: 'Philadelphia', state: 'PA', phase: 2,
+    lat: 39.9526, lng: -75.1652,
+    neighborhoods: [
+      'Center City', 'Rittenhouse Square', 'Old City Philadelphia', 'Fishtown',
+      'Northern Liberties', 'South Philly', 'University City', 'Manayunk',
+      'East Passyunk', 'Queen Village', 'Fairmount', 'Chinatown Philadelphia',
+    ],
+  },
+  {
+    id: 'seattle', name: 'Seattle', state: 'WA', phase: 2,
+    lat: 47.6062, lng: -122.3321,
+    neighborhoods: [
+      'Capitol Hill Seattle', 'Ballard', 'Fremont Seattle', 'Queen Anne',
+      'Pioneer Square', 'Pike Place', 'Georgetown Seattle', 'Columbia City',
+      'Wallingford', 'University District', 'Beacon Hill Seattle', 'South Lake Union',
+    ],
+  },
+  // Phase 3 - Week 3 cities
+  {
+    id: 'nola', name: 'New Orleans', state: 'LA', phase: 3,
+    lat: 29.9511, lng: -90.0715,
+    neighborhoods: [
+      'French Quarter', 'Garden District', 'Marigny', 'Bywater', 'Warehouse District',
+      'Uptown New Orleans', 'Magazine Street', 'Mid-City New Orleans', 'Tremé',
+      'Central Business District', 'Irish Channel', 'Frenchmen Street',
+    ],
+  },
+  {
+    id: 'boston', name: 'Boston', state: 'MA', phase: 3,
+    lat: 42.3601, lng: -71.0589,
+    neighborhoods: [
+      'North End Boston', 'South End Boston', 'Back Bay', 'Beacon Hill', 'Seaport',
+      'Cambridge', 'Somerville', 'Brookline', 'Jamaica Plain', 'Fenway',
+      'Charlestown', 'South Boston', 'Allston Brighton',
+    ],
+  },
+  {
+    id: 'dc', name: 'Washington DC', state: 'DC', phase: 3,
+    lat: 38.9072, lng: -77.0369,
+    neighborhoods: [
+      'Georgetown DC', 'Dupont Circle', 'Adams Morgan', 'U Street', 'Capitol Hill DC',
+      'Shaw DC', 'Penn Quarter', 'Navy Yard', '14th Street NW', 'Logan Circle',
+      'Columbia Heights', 'Petworth', 'H Street NE', 'Foggy Bottom',
+    ],
+  },
+  {
+    id: 'nashville', name: 'Nashville', state: 'TN', phase: 3,
+    lat: 36.1627, lng: -86.7816,
+    neighborhoods: [
+      'Downtown Nashville', 'East Nashville', 'The Gulch', 'Germantown Nashville',
+      '12 South', 'Hillsboro Village', 'Midtown Nashville', 'Sylvan Park',
+      'Marathon Village', 'West End Nashville', 'Music Row', 'Five Points Nashville',
+    ],
+  },
+  {
+    id: 'portland', name: 'Portland', state: 'OR', phase: 3,
+    lat: 45.5152, lng: -122.6784,
+    neighborhoods: [
+      'Pearl District', 'Alberta Arts District', 'Hawthorne', 'Division Street Portland',
+      'Mississippi Avenue', 'Northwest Portland', 'Southeast Portland', 'Sellwood',
+      'St Johns', 'Montavilla', 'Hollywood Portland', 'Clinton Street',
+    ],
+  },
 ];
 
-// Neighborhoods for each city (for granular searches)
-const NEIGHBORHOODS: Record<string, string[]> = {
-  // Phase 2 cities
-  houston: [
-    'Montrose Houston', 'Heights Houston', 'Midtown Houston', 'Downtown Houston',
-    'Rice Village Houston', 'River Oaks Houston', 'EaDo Houston', 'Upper Kirby Houston',
-    'Memorial Houston', 'Galleria Houston', 'Museum District Houston', 'Washington Avenue Houston',
-  ],
-  austin: [
-    'Downtown Austin', 'South Congress Austin', 'East Austin', 'Rainey Street Austin',
-    'South Lamar Austin', 'Hyde Park Austin', 'Mueller Austin', 'Domain Austin',
-    'Zilker Austin', 'Clarksville Austin', '6th Street Austin', 'West Campus Austin',
-  ],
-  vegas: [
-    'The Strip Las Vegas', 'Downtown Fremont Street', 'Arts District Las Vegas',
-    'Summerlin Las Vegas', 'Henderson Nevada', 'Chinatown Las Vegas', 'Spring Valley Las Vegas',
-  ],
-  philly: [
-    'Center City Philadelphia', 'Old City Philadelphia', 'Rittenhouse Square',
-    'Fishtown Philadelphia', 'Northern Liberties Philadelphia', 'South Philadelphia',
-    'University City Philadelphia', 'Manayunk Philadelphia', 'East Passyunk Philadelphia',
-  ],
-  seattle: [
-    'Capitol Hill Seattle', 'Ballard Seattle', 'Fremont Seattle', 'Queen Anne Seattle',
-    'South Lake Union Seattle', 'Downtown Seattle', 'Pike Place Market', 'Wallingford Seattle',
-    'Georgetown Seattle', 'Columbia City Seattle', 'University District Seattle',
-  ],
-  // Phase 3 cities
-  nola: [
-    'French Quarter New Orleans', 'Garden District New Orleans', 'Marigny New Orleans',
-    'Bywater New Orleans', 'CBD New Orleans', 'Warehouse District New Orleans',
-    'Uptown New Orleans', 'Mid-City New Orleans', 'Frenchmen Street New Orleans',
-  ],
-  boston: [
-    'Back Bay Boston', 'South End Boston', 'North End Boston', 'Seaport Boston',
-    'Cambridge Massachusetts', 'Somerville Massachusetts', 'Beacon Hill Boston',
-    'Fenway Boston', 'Jamaica Plain Boston', 'Brookline Massachusetts',
-  ],
-  dc: [
-    'Georgetown Washington DC', 'Dupont Circle Washington DC', 'Adams Morgan Washington DC',
-    'Capitol Hill Washington DC', 'Shaw Washington DC', 'U Street Washington DC',
-    'Penn Quarter Washington DC', '14th Street Washington DC', 'Navy Yard Washington DC',
-  ],
-  nashville: [
-    'Downtown Nashville', 'East Nashville', 'The Gulch Nashville', 'Germantown Nashville',
-    '12 South Nashville', 'Hillsboro Village Nashville', 'Midtown Nashville',
-    'West End Nashville', 'Music Row Nashville', 'Five Points Nashville',
-  ],
-  portland: [
-    'Pearl District Portland', 'Alberta Arts District Portland', 'Southeast Portland',
-    'Northwest Portland', 'Division Street Portland', 'Mississippi Avenue Portland',
-    'Hawthorne Portland', 'Downtown Portland', 'St Johns Portland', 'Sellwood Portland',
-  ],
+// ============================================================================
+// SEARCH QUERIES - Tiered for quality
+// ============================================================================
+
+const SEARCH_QUERIES = {
+  // Tier 1: Award/Recognition-based (highest quality signal)
+  tier1: {
+    restaurant: [
+      'Michelin star restaurant', 'James Beard award restaurant', 'best new restaurant 2024',
+      'award winning restaurant', 'Michelin Bib Gourmand restaurant',
+    ],
+    bar: [
+      'best cocktail bar award', "World's 50 Best Bars", 'award winning speakeasy',
+      'James Beard award bar',
+    ],
+    cafe: ['best coffee roaster award', 'specialty coffee award'],
+  },
+  // Tier 2: Curated list references (editorial quality)
+  tier2: {
+    restaurant: [
+      'Eater 38 restaurant', 'Infatuation best restaurant', 'TimeOut best restaurant',
+      'New York Times restaurant review', 'best restaurant critics choice',
+    ],
+    bar: ['Eater best bars', 'best speakeasy', 'best rooftop bar', 'best hotel bar'],
+    cafe: ['best specialty coffee', 'best coffee shop'],
+  },
+  // Tier 3: Cuisine and type specific
+  tier3: {
+    restaurant: [
+      'fine dining', 'tasting menu', 'omakase', 'farm to table',
+      'best Italian restaurant', 'best Japanese restaurant', 'best Mexican restaurant',
+      'best Chinese restaurant', 'best Thai restaurant', 'best Indian restaurant',
+      'best French restaurant', 'best steakhouse', 'best seafood restaurant',
+      'best brunch', 'best date night restaurant', 'best pizza',
+      'best sushi', 'best ramen', 'best tacos', 'best burger',
+    ],
+    bar: [
+      'craft cocktail bar', 'speakeasy bar', 'rooftop bar', 'wine bar',
+      'natural wine bar', 'jazz bar', 'whiskey bar', 'mezcal bar', 'tiki bar',
+    ],
+    cafe: ['specialty coffee roaster', 'third wave coffee', 'artisan bakery cafe'],
+  },
 };
 
-// Search queries for high-quality venues
-const SEARCH_QUERIES = {
-  restaurant: [
-    'best restaurant',
-    'top rated restaurant',
-    'fine dining',
-    'best new restaurant 2024',
-    'michelin restaurant',
-    'james beard restaurant',
-    'best italian restaurant',
-    'best japanese restaurant',
-    'best mexican restaurant',
-    'best sushi',
-    'best steakhouse',
-    'best seafood restaurant',
-    'best brunch',
-    'best date night restaurant',
-    'farm to table restaurant',
-    'tasting menu',
-    'omakase',
-  ],
-  bar: [
-    'best cocktail bar',
-    'best bar',
-    'craft cocktail bar',
-    'speakeasy',
-    'rooftop bar',
-    'wine bar',
-    'best happy hour',
-    'whiskey bar',
-    'jazz bar',
-    'best hotel bar',
-  ],
-  cafe: [
-    'best coffee shop',
-    'specialty coffee',
-    'best cafe',
-    'artisan bakery',
-    'best brunch cafe',
-  ],
-};
+const CATEGORIES = ['restaurant', 'bar', 'cafe'] as const;
+type Category = typeof CATEGORIES[number];
+
+// ============================================================================
+// GOOGLE PLACES API
+// ============================================================================
 
 interface GooglePlace {
   id: string;
@@ -171,243 +266,251 @@ interface GooglePlace {
   businessStatus?: string;
 }
 
-class GooglePlacesSeeder {
-  private dryRun: boolean;
-  private targetCity?: string;
-  private targetPhase?: number;
-  private newCitiesOnly: boolean;
-  private venueCount = 0;
-  private skippedCount = 0;
-  private requestCount = 0;
+let requestCount = 0;
+let lastRequestTime = 0;
 
-  constructor(options: { 
-    dryRun?: boolean; 
-    city?: string; 
-    phase?: number;
-    newCitiesOnly?: boolean;
-  } = {}) {
-    this.dryRun = options.dryRun || false;
-    this.targetCity = options.city;
-    this.targetPhase = options.phase;
-    this.newCitiesOnly = options.newCitiesOnly || false;
+async function rateLimit(): Promise<void> {
+  const now = Date.now();
+  const minInterval = 200; // 5 requests/second
+  if (now - lastRequestTime < minInterval) {
+    await delay(minInterval - (now - lastRequestTime));
+  }
+  lastRequestTime = Date.now();
+  requestCount++;
+}
+
+async function textSearch(query: string, location: { lat: number; lng: number }): Promise<GooglePlace[]> {
+  if (!API_KEY) throw new Error('GOOGLE_MAPS_API_KEY not set');
+
+  await rateLimit();
+
+  const fieldMask = [
+    'places.id', 'places.displayName', 'places.formattedAddress', 'places.location',
+    'places.types', 'places.rating', 'places.userRatingCount', 'places.priceLevel',
+    'places.websiteUri', 'places.nationalPhoneNumber', 'places.regularOpeningHours',
+    'places.photos', 'places.editorialSummary', 'places.googleMapsUri', 'places.businessStatus',
+  ].join(',');
+
+  const response = await fetch(`${PLACES_BASE_URL}/places:searchText`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Goog-Api-Key': API_KEY,
+      'X-Goog-FieldMask': fieldMask,
+    },
+    body: JSON.stringify({
+      textQuery: query,
+      maxResultCount: 20,
+      languageCode: 'en',
+      locationBias: {
+        circle: { center: { latitude: location.lat, longitude: location.lng }, radius: 25000 },
+      },
+    }),
+  });
+
+  if (!response.ok) {
+    const error = await response.text();
+    throw new Error(`API error ${response.status}: ${error}`);
+  }
+
+  const data = await response.json() as { places?: GooglePlace[] };
+  return data.places || [];
+}
+
+function delay(ms: number): Promise<void> {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// ============================================================================
+// VENUE SCRAPER CLASS
+// ============================================================================
+
+interface ScraperOptions {
+  dryRun: boolean;
+  minRating: number;
+  minReviews: number;
+  targetPerCity: number;
+  cities?: string[];
+  phase?: number;
+}
+
+class VenueScraper {
+  private options: ScraperOptions;
+  private stats = {
+    total: 0,
+    saved: 0,
+    duplicates: 0,
+    lowQuality: 0,
+  };
+
+  constructor(options: ScraperOptions) {
+    this.options = options;
   }
 
   async run(): Promise<void> {
-    console.log('🚀 Google Places Venue Seeding\n');
-    console.log(`Mode: ${this.dryRun ? 'DRY RUN' : 'LIVE'}`);
-    console.log(`Quality Filter: ≥${MIN_RATING}⭐ rating, ≥${MIN_REVIEWS} reviews\n`);
+    console.log('\n' + '═'.repeat(70));
+    console.log('🗺️  LOCALIST VENUE SCRAPER');
+    console.log('═'.repeat(70));
+    console.log(`Mode:        ${this.options.dryRun ? '🔍 DRY RUN' : '💾 LIVE'}`);
+    console.log(`Min Rating:  ${this.options.minRating}⭐`);
+    console.log(`Min Reviews: ${this.options.minReviews}`);
+    console.log(`Target:      ${this.options.targetPerCity} venues/city`);
+    console.log('═'.repeat(70));
 
     if (!API_KEY) {
-      console.error('❌ GOOGLE_MAPS_API_KEY environment variable not set');
+      console.error('\n❌ GOOGLE_MAPS_API_KEY not set');
       process.exit(1);
     }
 
     // Determine which cities to process
     let citiesToProcess = CITIES;
     
-    if (this.targetCity) {
-      citiesToProcess = CITIES.filter(c => c.id === this.targetCity);
-    } else if (this.targetPhase) {
-      citiesToProcess = CITIES.filter(c => c.phase === this.targetPhase);
-    } else if (this.newCitiesOnly) {
-      // Phase 2 and 3 only (the 10 new cities)
-      citiesToProcess = CITIES.filter(c => c.phase >= 2);
+    if (this.options.cities && this.options.cities.length > 0) {
+      citiesToProcess = CITIES.filter(c => this.options.cities!.includes(c.id));
+    } else if (this.options.phase) {
+      citiesToProcess = CITIES.filter(c => c.phase === this.options.phase);
     }
 
     if (citiesToProcess.length === 0) {
-      console.error('❌ No cities matched your criteria');
+      console.error('\n❌ No cities matched criteria');
       this.printHelp();
       process.exit(1);
     }
 
-    console.log(`Processing ${citiesToProcess.length} cities:`);
-    citiesToProcess.forEach(c => console.log(`  - ${c.name}, ${c.state} (Phase ${c.phase})`));
-    console.log('');
+    console.log(`\nCities (${citiesToProcess.length}):`);
+    citiesToProcess.forEach(c => console.log(`  • ${c.name}, ${c.state} (Phase ${c.phase})`));
 
+    // Process each city
     for (const city of citiesToProcess) {
       await this.processCity(city);
     }
 
     // Summary
-    console.log('\n' + '='.repeat(60));
-    console.log('📊 SEEDING COMPLETE');
-    console.log('='.repeat(60));
-    console.log(`Total venues saved: ${this.venueCount}`);
-    console.log(`Skipped (low rating/duplicate): ${this.skippedCount}`);
-    console.log(`Google API requests: ${this.requestCount}`);
-    if (this.dryRun) {
-      console.log('\n⚠️  DRY RUN - No data was saved');
-    }
+    this.printSummary();
 
     await pool.end();
   }
 
-  private async processCity(city: typeof CITIES[0]): Promise<void> {
-    console.log('\n' + '='.repeat(60));
+  private async processCity(city: City): Promise<void> {
+    console.log('\n' + '─'.repeat(70));
     console.log(`🏙️  ${city.name}, ${city.state}`);
-    console.log('='.repeat(60));
+    console.log('─'.repeat(70));
 
-    // Ensure city exists
+    // Ensure city exists in database
     await this.ensureCityExists(city);
 
-    // Search for restaurants
-    console.log('\n🍽️  Discovering restaurants...');
-    for (const query of SEARCH_QUERIES.restaurant) {
-      await this.searchAndSave(city, query, 'restaurant');
-    }
+    const seenPlaceIds = new Set<string>();
+    let cityVenueCount = 0;
 
-    // Search for bars
-    console.log('\n🍸 Discovering bars...');
-    for (const query of SEARCH_QUERIES.bar) {
-      await this.searchAndSave(city, query, 'bar');
-    }
+    // Process each category
+    for (const category of CATEGORIES) {
+      console.log(`\n📍 ${category.charAt(0).toUpperCase() + category.slice(1)}s`);
 
-    // Search for cafes
-    console.log('\n☕ Discovering cafes...');
-    for (const query of SEARCH_QUERIES.cafe) {
-      await this.searchAndSave(city, query, 'cafe');
-    }
+      // Tier 1: Awards
+      for (const query of SEARCH_QUERIES.tier1[category] || []) {
+        if (cityVenueCount >= this.options.targetPerCity) break;
+        const added = await this.searchAndSave(city, `${query} ${city.name}`, category, seenPlaceIds);
+        cityVenueCount += added;
+      }
 
-    // Neighborhood searches
-    const neighborhoods = NEIGHBORHOODS[city.id] || [];
-    if (neighborhoods.length > 0) {
-      console.log(`\n📍 Neighborhood searches (${neighborhoods.length} areas)...`);
-      for (const hood of neighborhoods) {
-        await this.searchAndSave(city, `best restaurant ${hood}`, 'restaurant');
-        await this.searchAndSave(city, `best bar ${hood}`, 'bar');
-        await this.delay(500); // Rate limit
+      // Tier 2: Curated
+      for (const query of SEARCH_QUERIES.tier2[category] || []) {
+        if (cityVenueCount >= this.options.targetPerCity) break;
+        const added = await this.searchAndSave(city, `${query} ${city.name}`, category, seenPlaceIds);
+        cityVenueCount += added;
+      }
+
+      // Tier 3: Types
+      for (const query of SEARCH_QUERIES.tier3[category] || []) {
+        if (cityVenueCount >= this.options.targetPerCity) break;
+        const added = await this.searchAndSave(city, `best ${query} ${city.name}`, category, seenPlaceIds);
+        cityVenueCount += added;
       }
     }
 
-    // Get current count for this city
-    const countResult = await pool.query(
-      'SELECT COUNT(*) as count FROM venues WHERE city_id = $1',
-      [city.id]
-    );
-    console.log(`\n✅ ${city.name} now has ${countResult.rows[0].count} venues`);
+    // Tier 4: Neighborhood searches for coverage
+    if (cityVenueCount < this.options.targetPerCity) {
+      console.log(`\n📍 Neighborhood searches (${city.neighborhoods.length} areas)`);
+      for (const hood of city.neighborhoods) {
+        if (cityVenueCount >= this.options.targetPerCity) break;
+        const added = await this.searchAndSave(city, `best restaurant ${hood}`, 'restaurant', seenPlaceIds);
+        cityVenueCount += added;
+        
+        const addedBars = await this.searchAndSave(city, `best bar ${hood}`, 'bar', seenPlaceIds);
+        cityVenueCount += addedBars;
+      }
+    }
+
+    // Get current count
+    const countResult = await pool.query('SELECT COUNT(*) as count FROM venues WHERE city_id = $1', [city.id]);
+    console.log(`\n✅ ${city.name}: ${countResult.rows[0].count} total venues`);
   }
 
   private async searchAndSave(
-    city: typeof CITIES[0],
+    city: City,
     query: string,
-    category: string
-  ): Promise<void> {
-    const fullQuery = `${query} ${city.name} ${city.state}`;
-    
-    try {
-      const places = await this.textSearch(fullQuery, {
-        lat: city.lat,
-        lng: city.lng,
-      });
+    category: Category,
+    seenPlaceIds: Set<string>
+  ): Promise<number> {
+    let added = 0;
 
-      let savedInQuery = 0;
+    try {
+      const places = await textSearch(query, { lat: city.lat, lng: city.lng });
+
       for (const place of places) {
+        if (seenPlaceIds.has(place.id)) continue;
+        seenPlaceIds.add(place.id);
+
+        this.stats.total++;
+
+        // Quality filter
+        if (!place.rating || place.rating < this.options.minRating) {
+          this.stats.lowQuality++;
+          continue;
+        }
+        if (!place.userRatingCount || place.userRatingCount < this.options.minReviews) {
+          this.stats.lowQuality++;
+          continue;
+        }
+        if (place.businessStatus === 'CLOSED_PERMANENTLY') {
+          this.stats.lowQuality++;
+          continue;
+        }
+
         const saved = await this.saveVenue(place, city.id, category);
-        if (saved) savedInQuery++;
+        if (saved) {
+          added++;
+          this.stats.saved++;
+        } else {
+          this.stats.duplicates++;
+        }
       }
 
-      if (savedInQuery > 0) {
-        console.log(`  ✓ "${query}" → ${savedInQuery} venues`);
+      if (added > 0) {
+        console.log(`   ✓ "${query.substring(0, 40)}..." → ${added} venues`);
       }
     } catch (error: any) {
-      console.log(`  ⚠️ "${query}" failed: ${error.message}`);
+      console.log(`   ⚠️ "${query.substring(0, 30)}...": ${error.message}`);
     }
+
+    return added;
   }
 
-  private async textSearch(
-    query: string, 
-    location: { lat: number; lng: number }
-  ): Promise<GooglePlace[]> {
-    await this.rateLimit();
-    this.requestCount++;
-
-    const fieldMask = [
-      'places.id',
-      'places.displayName',
-      'places.formattedAddress',
-      'places.location',
-      'places.types',
-      'places.rating',
-      'places.userRatingCount',
-      'places.priceLevel',
-      'places.websiteUri',
-      'places.nationalPhoneNumber',
-      'places.regularOpeningHours',
-      'places.photos',
-      'places.editorialSummary',
-      'places.googleMapsUri',
-      'places.businessStatus',
-    ].join(',');
-
-    const response = await fetch(`${PLACES_BASE_URL}/places:searchText`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'X-Goog-Api-Key': API_KEY!,
-        'X-Goog-FieldMask': fieldMask,
-      },
-      body: JSON.stringify({
-        textQuery: query,
-        maxResultCount: 20,
-        languageCode: 'en',
-        locationBias: {
-          circle: {
-            center: { latitude: location.lat, longitude: location.lng },
-            radius: 25000,
-          },
-        },
-      }),
-    });
-
-    if (!response.ok) {
-      const error = await response.text();
-      throw new Error(`API error ${response.status}: ${error}`);
-    }
-
-    const data = await response.json() as { places?: GooglePlace[] };
-    return data.places || [];
-  }
-
-  private async saveVenue(
-    place: GooglePlace, 
-    cityId: string,
-    category: string
-  ): Promise<boolean> {
-    // Quality filter: 4.6 stars minimum
-    if (!place.rating || place.rating < MIN_RATING) {
-      this.skippedCount++;
-      return false;
-    }
-
-    // Review count filter
-    if (!place.userRatingCount || place.userRatingCount < MIN_REVIEWS) {
-      this.skippedCount++;
-      return false;
-    }
-
-    // Skip closed businesses
-    if (place.businessStatus === 'CLOSED_PERMANENTLY') {
-      this.skippedCount++;
-      return false;
-    }
-
+  private async saveVenue(place: GooglePlace, cityId: string, category: Category): Promise<boolean> {
     // Check for duplicate
     const existing = await pool.query(
       `SELECT id FROM venues WHERE 
-       (LOWER(TRIM(name)) = LOWER($1) AND city_id = $2)
-       OR google_place_id = $3
+       google_place_id = $1 OR (LOWER(TRIM(name)) = LOWER($2) AND city_id = $3)
        LIMIT 1`,
-      [place.displayName.text.trim(), cityId, place.id]
+      [place.id, place.displayName.text.trim(), cityId]
     );
 
     if (existing.rows.length > 0) {
-      this.skippedCount++;
       return false;
     }
 
-    if (this.dryRun) {
-      console.log(`    [DRY] ${place.displayName.text} (${place.rating}⭐)`);
-      this.venueCount++;
+    if (this.options.dryRun) {
+      console.log(`   [DRY] ${place.displayName.text} (${place.rating}⭐, ${place.userRatingCount} reviews)`);
       return true;
     }
 
@@ -419,7 +522,7 @@ class GooglePlacesSeeder {
       'PRICE_LEVEL_VERY_EXPENSIVE': '$$$$',
     };
 
-    // Determine category from types
+    // Determine actual category from types
     const types = place.types || [];
     let actualCategory = category;
     if (types.includes('bar') || types.includes('night_club')) {
@@ -434,9 +537,9 @@ class GooglePlacesSeeder {
       ? cuisineTypes[0].replace('_restaurant', '').replace(/_/g, ' ')
       : null;
 
-    // Get photo URL
+    // Get photo URL (without API key - add via proxy)
     const imageUrl = place.photos?.[0]
-      ? `${PLACES_BASE_URL}/${place.photos[0].name}/media?maxWidthPx=800&key=${API_KEY}`
+      ? `${PLACES_BASE_URL}/${place.photos[0].name}/media?maxWidthPx=800`
       : null;
 
     const venueId = `venue_${Date.now()}_${Math.random().toString(36).substr(2, 6)}`;
@@ -447,10 +550,10 @@ class GooglePlacesSeeder {
           id, name, city_id, category, cuisine, price_range,
           description, website, phone, image_url, rating, review_count,
           coordinates, features, google_place_id, google_maps_url,
-          source, created_at, updated_at
+          address, source, created_at, updated_at
         ) VALUES (
           $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12,
-          $13, $14, $15, $16, 'google_places', NOW(), NOW()
+          $13, $14, $15, $16, $17, 'google_places', NOW(), NOW()
         )`,
         [
           venueId,
@@ -469,107 +572,153 @@ class GooglePlacesSeeder {
           JSON.stringify(types.filter(t => !t.includes('establishment'))),
           place.id,
           place.googleMapsUri || null,
+          place.formattedAddress,
         ]
       );
-
-      this.venueCount++;
       return true;
     } catch (error: any) {
-      console.log(`    ❌ Failed: ${place.displayName.text} - ${error.message}`);
+      console.log(`   ❌ ${place.displayName.text}: ${error.message}`);
       return false;
     }
   }
 
-  private async ensureCityExists(city: typeof CITIES[0]): Promise<void> {
+  private async ensureCityExists(city: City): Promise<void> {
     const existing = await pool.query('SELECT id FROM cities WHERE id = $1', [city.id]);
     
     if (existing.rows.length === 0) {
-      console.log(`  Creating city: ${city.name}`);
-      if (!this.dryRun) {
+      console.log(`   Creating city: ${city.name}`);
+      if (!this.options.dryRun) {
         await pool.query(
-          `INSERT INTO cities (id, name, state, country, description, coordinates)
-           VALUES ($1, $2, $3, 'USA', $4, $5)
+          `INSERT INTO cities (id, name, state, country, description, coordinates, image_url)
+           VALUES ($1, $2, $3, 'USA', $4, $5, $6)
            ON CONFLICT (id) DO NOTHING`,
           [
             city.id,
             city.name,
             city.state,
-            `Discover the best restaurants and bars in ${city.name}`,
+            `Discover the best restaurants, bars, and cafes in ${city.name}`,
             JSON.stringify({ lat: city.lat, lng: city.lng }),
+            `https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800`, // Default
           ]
         );
       }
     }
   }
 
-  private async rateLimit(): Promise<void> {
-    // Google allows 600 QPM, we'll be conservative at 200ms between requests
-    await this.delay(200);
-  }
-
-  private delay(ms: number): Promise<void> {
-    return new Promise(resolve => setTimeout(resolve, ms));
+  private printSummary(): void {
+    console.log('\n' + '═'.repeat(70));
+    console.log('📊 SCRAPING COMPLETE');
+    console.log('═'.repeat(70));
+    console.log(`Total found:    ${this.stats.total}`);
+    console.log(`Saved:          ${this.stats.saved}`);
+    console.log(`Duplicates:     ${this.stats.duplicates}`);
+    console.log(`Low quality:    ${this.stats.lowQuality}`);
+    console.log(`API requests:   ${requestCount}`);
+    if (this.options.dryRun) {
+      console.log('\n⚠️  DRY RUN - No data was saved');
+    }
+    console.log('═'.repeat(70));
   }
 
   private printHelp(): void {
     console.log(`
-Available options:
-  --dry-run       Run without saving to database
-  --city <id>     Process single city
-  --phase <1-3>   Process cities in specific phase
-  --new-cities    Process only Phase 2 & 3 cities (10 new cities)
-
-City IDs:
+Available cities:
   Phase 1: nyc, la, chicago, sf, miami
   Phase 2: houston, austin, vegas, philly, seattle
   Phase 3: nola, boston, dc, nashville, portland
+
+Usage examples:
+  npx ts-node scripts/seed-google-places.ts --city sf
+  npx ts-node scripts/seed-google-places.ts --cities sf,austin,seattle
+  npx ts-node scripts/seed-google-places.ts --phase 2
+  npx ts-node scripts/seed-google-places.ts --min-rating 4.0 --target 150
 `);
   }
 }
 
-// Parse arguments
-const args = process.argv.slice(2);
-const options: { dryRun?: boolean; city?: string; phase?: number; newCitiesOnly?: boolean } = {};
+// ============================================================================
+// CLI PARSING
+// ============================================================================
 
-for (let i = 0; i < args.length; i++) {
-  if (args[i] === '--dry-run') {
-    options.dryRun = true;
-  } else if (args[i] === '--city' && args[i + 1]) {
-    options.city = args[i + 1];
-    i++;
-  } else if (args[i] === '--phase' && args[i + 1]) {
-    options.phase = parseInt(args[i + 1], 10);
-    i++;
-  } else if (args[i] === '--new-cities') {
-    options.newCitiesOnly = true;
-  } else if (args[i] === '--help' || args[i] === '-h') {
-    console.log(`
-Google Places Venue Seeder
---------------------------
-Seeds venues from Google Places API with 4.6+ star rating filter.
+function parseArgs(): ScraperOptions {
+  const args = process.argv.slice(2);
+  const options: ScraperOptions = {
+    dryRun: false,
+    minRating: DEFAULT_MIN_RATING,
+    minReviews: DEFAULT_MIN_REVIEWS,
+    targetPerCity: DEFAULT_TARGET_PER_CITY,
+  };
+
+  for (let i = 0; i < args.length; i++) {
+    switch (args[i]) {
+      case '--dry-run':
+        options.dryRun = true;
+        break;
+      case '--city':
+        options.cities = [args[++i]];
+        break;
+      case '--cities':
+        options.cities = args[++i].split(',');
+        break;
+      case '--phase':
+        options.phase = parseInt(args[++i], 10);
+        break;
+      case '--min-rating':
+        options.minRating = parseFloat(args[++i]);
+        break;
+      case '--min-reviews':
+        options.minReviews = parseInt(args[++i], 10);
+        break;
+      case '--target':
+        options.targetPerCity = parseInt(args[++i], 10);
+        break;
+      case '--help':
+      case '-h':
+        console.log(`
+🗺️  Localist Venue Scraper
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Scrapes high-quality venues from Google Places API for all 15 MVP cities.
 
 Usage:
   npx ts-node scripts/seed-google-places.ts [options]
 
 Options:
-  --dry-run       Preview without saving
-  --city <id>     Single city (e.g., --city sf)
-  --phase <1-3>   Cities in phase (e.g., --phase 2)
-  --new-cities    Phase 2 & 3 only (10 new cities)
-  --help          Show this help
+  --city <id>         Single city (e.g., --city sf)
+  --cities <ids>      Multiple cities (e.g., --cities sf,austin)
+  --phase <1|2|3>     All cities in phase
+  --min-rating <n>    Minimum star rating (default: ${DEFAULT_MIN_RATING})
+  --min-reviews <n>   Minimum review count (default: ${DEFAULT_MIN_REVIEWS})
+  --target <n>        Target venues per city (default: ${DEFAULT_TARGET_PER_CITY})
+  --dry-run           Preview without saving
+  --help              Show this help
+
+Cities:
+  Phase 1: nyc, la, chicago, sf, miami
+  Phase 2: houston, austin, vegas, philly, seattle
+  Phase 3: nola, boston, dc, nashville, portland
 
 Examples:
-  npx ts-node scripts/seed-google-places.ts --new-cities
-  npx ts-node scripts/seed-google-places.ts --phase 2 --dry-run
-  npx ts-node scripts/seed-google-places.ts --city austin
+  npx ts-node scripts/seed-google-places.ts                       # All cities
+  npx ts-node scripts/seed-google-places.ts --city austin         # Just Austin
+  npx ts-node scripts/seed-google-places.ts --phase 2             # Phase 2 cities
+  npx ts-node scripts/seed-google-places.ts --min-rating 4.0      # Lower threshold
+  npx ts-node scripts/seed-google-places.ts --dry-run --city nyc  # Preview NYC
 `);
-    process.exit(0);
+        process.exit(0);
+    }
   }
+
+  return options;
 }
 
-// Run
-const seeder = new GooglePlacesSeeder(options);
-seeder.run().catch(error => {
+// ============================================================================
+// MAIN
+// ============================================================================
+
+const options = parseArgs();
+const scraper = new VenueScraper(options);
+scraper.run().catch(error => {
   console.error('Fatal error:', error);
   process.exit(1);
 });
