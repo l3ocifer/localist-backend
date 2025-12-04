@@ -168,38 +168,191 @@ const ALL_CITIES = [
   }
 ];
 
-// Full taxonomy from LIST_TAXONOMY.md
+// Full taxonomy from LIST_TAXONOMY.md - ALL cuisines with ALL sub-cuisines
 const taxonomy = {
   cuisines: {
-    "Italian": ["Red Sauce Italian", "Coastal Seafood Italian", "Northern Alpine Italian", "Tuscan Steakhouse / Griglia", "Rustic Countryside Italian"],
-    "Chinese": ["Sichuan / Chengdu", "Cantonese / Dim Sum", "Shanghai / Xiaolongbao", "Hunan / Xiang", "Northern Noodle & Dumpling Houses"],
-    "Mexican": ["Street Tacos & Taquerias", "Birria & Regional Jalisco-Style", "Elevated Fine Dining Mexican", "Mariscos / Coastal Mexican", "Home-Style Comida Corrida"],
-    "Japanese": ["Sushi & Sashimi Bars", "Ramen Shops", "Izakayas", "Binchotan / Yakitori Grills", "Katsu & Curry Houses"],
-    "Indian": ["North Indian / Punjabi", "South Indian", "Hyderabadi / Biryani Houses", "Indo-Chinese", "Vegetarian Thali / Home-Style"],
-    "Thai": ["Bangkok Street Thai", "Northern Thai / Isaan", "Southern / Coastal Thai", "Royal / Refined Thai", "Modern Thai Fusion"],
-    "French": ["Classic Bistro", "Haute Cuisine / Fine Dining", "Provençal / Coastal", "Patisserie & Boulangerie", "Rustic Countryside / Bistronomy"],
-    "Greek": ["Classic Taverna", "Island / Seafood Greek", "Gyro & Souvlaki Shops", "Modern Greek / Neo-Taverna"],
-    "American": ["Classic Diner & Comfort", "BBQ & Smokehouse", "Modern American / New American", "Fast-Casual Burgers & Fried Chicken", "Soul Food & Southern Comfort"],
-    "Spanish": ["Tapas & Pintxos Bars", "Paella & Rice Houses", "Basque / Northern Spanish", "Modern Spanish / Gastrobar"],
-    "Korean": ["Korean BBQ", "K-BBQ + Drinking Joints", "Korean Fried Chicken & Street Snacks", "Homestyle / Banchan-Driven", "Modern Korean / New Korean"],
-    "Vietnamese": ["Pho Houses", "Banh Mi & Street Snacks", "Bun / Vermicelli & Rice Plates", "Modern Vietnamese / Elevated"],
-    "Middle Eastern": ["Lebanese", "Turkish", "Moroccan", "Levantine"],
-    "Brazilian": ["Churrascaria / Rodizio", "Feijoada & Homestyle", "Coastal / Bahian"],
-    "Peruvian": ["Nikkei", "Cevicheria", "Andean / Rustic Peruvian"],
-    "Ethiopian": ["Classic Injera & Wot Houses", "Vegan / Vegetarian Ethiopian"],
-    "Caribbean": ["Jamaican Jerk & Grill", "Islands Seafood & Rum Bars"],
-    "Mediterranean": ["Pan-Med Small Plates", "Health-Focused Mediterranean"],
-    "Southern": ["Low Country & Coastal Southern", "Classic Meat-and-Three", "Modern Southern"]
+    "Italian": [
+      "Red Sauce Italian",
+      "Coastal Seafood Italian", 
+      "Northern Alpine Italian",
+      "Tuscan Steakhouse / Griglia",
+      "Rustic Countryside Italian"
+    ],
+    "Chinese": [
+      "Sichuan / Chengdu",
+      "Cantonese / Dim Sum",
+      "Shanghai / Xiaolongbao",
+      "Hunan / Xiang",
+      "Northern Noodle & Dumpling Houses"
+    ],
+    "Mexican": [
+      "Street Tacos & Taquerias",
+      "Birria & Regional Jalisco-Style",
+      "Elevated Fine Dining Mexican",
+      "Mariscos / Coastal Mexican",
+      "Home-Style Comida Corrida"
+    ],
+    "Japanese": [
+      "Sushi & Sashimi Bars",
+      "Ramen Shops",
+      "Izakayas",
+      "Binchotan / Yakitori Grills",
+      "Katsu & Curry Houses"
+    ],
+    "Indian": [
+      "North Indian / Punjabi",
+      "South Indian",
+      "Hyderabadi / Biryani Houses",
+      "Indo-Chinese",
+      "Vegetarian Thali / Home-Style"
+    ],
+    "Thai": [
+      "Bangkok Street Thai",
+      "Northern Thai / Isaan",
+      "Southern / Coastal Thai",
+      "Royal / Refined Thai",
+      "Modern Thai Fusion"
+    ],
+    "French": [
+      "Classic Bistro",
+      "Haute Cuisine / Fine Dining",
+      "Provençal / Coastal",
+      "Patisserie & Boulangerie",
+      "Rustic Countryside / Bistronomy"
+    ],
+    "Greek": [
+      "Classic Taverna",
+      "Island / Seafood Greek",
+      "Gyro & Souvlaki Shops",
+      "Modern Greek / Neo-Taverna"
+    ],
+    "American": [
+      "Classic Diner & Comfort",
+      "BBQ & Smokehouse",
+      "Modern American / New American",
+      "Fast-Casual Burgers & Fried Chicken",
+      "Soul Food & Southern Comfort"
+    ],
+    "Spanish": [
+      "Tapas & Pintxos Bars",
+      "Paella & Rice Houses",
+      "Basque / Northern Spanish",
+      "Modern Spanish / Gastrobar"
+    ],
+    "Korean": [
+      "Korean BBQ",
+      "K-BBQ + Drinking Joints",
+      "Korean Fried Chicken & Street Snacks",
+      "Homestyle / Banchan-Driven",
+      "Modern Korean / New Korean"
+    ],
+    "Vietnamese": [
+      "Pho Houses",
+      "Banh Mi & Street Snacks",
+      "Bun / Vermicelli & Rice Plates",
+      "Modern Vietnamese / Elevated"
+    ],
+    "Middle Eastern": [
+      "Moroccan",
+      "Lebanese",
+      "Turkish",
+      "Levantine",
+      "Maghrebi North African"
+    ],
+    "Lebanese": [
+      "Classic Meze Houses",
+      "Shawarma & Wrap Spots",
+      "Modern Levantine / Wine-Focused"
+    ],
+    "Turkish": [
+      "Kebab & Ocakbasi Grills",
+      "Pide & Lahmacun Shops",
+      "Turkish Breakfast & Café"
+    ],
+    "Moroccan": [
+      "Tagine-Focused Restaurants",
+      "Couscous & Grill Houses",
+      "Modern Moroccan / Fusion"
+    ],
+    "Brazilian": [
+      "Churrascaria / Rodizio",
+      "Feijoada & Homestyle",
+      "Coastal / Bahian"
+    ],
+    "Peruvian": [
+      "Nikkei",
+      "Cevicheria",
+      "Andean / Rustic Peruvian"
+    ],
+    "Indonesian": [
+      "Warung-Style Homestyle",
+      "Satay & Grill Focused",
+      "Nasi Goreng / Street Food"
+    ],
+    "Ethiopian": [
+      "Classic Injera & Wot Houses",
+      "Vegan / Vegetarian Ethiopian"
+    ],
+    "Cajun": [
+      "Cajun & Creole Seafood",
+      "Low-Key Boil & Shack-Style"
+    ],
+    "Caribbean": [
+      "Jamaican Jerk & Grill",
+      "Islands Seafood & Rum Bars"
+    ],
+    "Mediterranean": [
+      "Pan-Med Small Plates",
+      "Health-Focused Mediterranean"
+    ],
+    "Southern": [
+      "Low Country & Coastal Southern",
+      "Classic Meat-and-Three",
+      "Modern Southern"
+    ]
   },
   
+  // All 39 signature dishes in order of popularity
   signature_dishes: [
-    "Pizza", "Hamburger", "French Fries", "Ice Cream", "Fried Chicken",
-    "Steak", "Sushi", "Tacos", "Pasta", "Burrito", "Ramen", "Coffee",
-    "Hot Dog", "Mac and Cheese", "Dumplings", "Curry", "Fried Rice",
-    "Pho", "Lasagna", "Donuts", "Chocolate Cake", "Roast Chicken",
-    "Kebab", "Biryani", "Pad Thai", "Dim Sum", "Falafel", "Hummus",
-    "Croissant", "Meatballs", "Paella", "Peking Duck", "Breakfast Burrito",
-    "Grilled Cheese", "Philly Cheesesteak"
+    "Pizza",
+    "Hamburger",
+    "French Fries",
+    "Ice Cream",
+    "Fried Chicken",
+    "Steak",
+    "Sushi",
+    "Tacos",
+    "Pasta",
+    "Burrito",
+    "Ramen",
+    "Coffee",
+    "Hot Dog",
+    "Mac and Cheese",
+    "Dumplings",
+    "Curry",
+    "Fried Rice",
+    "Pho",
+    "Lasagna",
+    "Donuts",
+    "Chocolate Cake",
+    "Apple Pie",
+    "Roast Chicken",
+    "Kebab",
+    "Biryani",
+    "Pad Thai",
+    "Dim Sum",
+    "Falafel",
+    "Hummus",
+    "Croissant",
+    "Meatballs",
+    "Paella",
+    "Peking Duck",
+    "Breakfast Burrito",
+    "Turkey Sandwich",
+    "Grilled Cheese",
+    "Banana Split",
+    "Philly Cheesesteak",
+    "Kimchi"
   ],
   
   occasions: [
@@ -212,7 +365,7 @@ const taxonomy = {
 
 // Image templates for list covers
 const imageTemplates = {
-  // Cuisines
+  // Cuisines (all 24)
   "Italian": "https://images.unsplash.com/photo-1498579150354-977475b7ea0b?w=800",
   "Chinese": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800",
   "Mexican": "https://images.unsplash.com/photo-1613514785940-daed07799d9b?w=800",
@@ -226,29 +379,58 @@ const imageTemplates = {
   "Korean": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800",
   "Vietnamese": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800",
   "Middle Eastern": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800",
+  "Lebanese": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800",
+  "Turkish": "https://images.unsplash.com/photo-1561626423-a51b45b63cfe?w=800",
+  "Moroccan": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=800",
   "Brazilian": "https://images.unsplash.com/photo-1594041680534-e8c8cdebd659?w=800",
-  "Mediterranean": "https://images.unsplash.com/photo-1544025162-d76978f8e4de?w=800",
   "Peruvian": "https://images.unsplash.com/photo-1535399831218-d5bd36d1a6b3?w=800",
+  "Indonesian": "https://images.unsplash.com/photo-1562565651-7d4948f339eb?w=800",
   "Ethiopian": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?w=800",
+  "Cajun": "https://images.unsplash.com/photo-1568479062231-a7dce4dd7401?w=800",
   "Caribbean": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=800",
+  "Mediterranean": "https://images.unsplash.com/photo-1544025162-d76978f8e4de?w=800",
   "Southern": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800",
   
-  // Signature Dishes
+  // Signature Dishes (all 39)
   "Pizza": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
   "Hamburger": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+  "French Fries": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800",
+  "Ice Cream": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=800",
+  "Fried Chicken": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=800",
+  "Steak": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800",
   "Sushi": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=800",
   "Tacos": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800",
-  "Ramen": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
-  "Steak": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800",
-  "Fried Chicken": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=800",
-  "Coffee": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
   "Pasta": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800",
   "Burrito": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800",
-  "Pho": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800",
-  "Dumplings": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800",
-  "Ice Cream": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=800",
+  "Ramen": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+  "Coffee": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
   "Hot Dog": "https://images.unsplash.com/photo-1612392062631-94e4f1a56ed7?w=800",
+  "Mac and Cheese": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=800",
+  "Dumplings": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800",
+  "Curry": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+  "Fried Rice": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800",
+  "Pho": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800",
+  "Lasagna": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=800",
   "Donuts": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800",
+  "Chocolate Cake": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800",
+  "Apple Pie": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800",
+  "Roast Chicken": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800",
+  "Kebab": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800",
+  "Biryani": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800",
+  "Pad Thai": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800",
+  "Dim Sum": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800",
+  "Falafel": "https://images.unsplash.com/photo-1593001874117-c99c800e3eb5?w=800",
+  "Hummus": "https://images.unsplash.com/photo-1577805947697-89e18249d767?w=800",
+  "Croissant": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800",
+  "Meatballs": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=800",
+  "Paella": "https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=800",
+  "Peking Duck": "https://images.unsplash.com/photo-1518492104633-130d0cc84637?w=800",
+  "Breakfast Burrito": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800",
+  "Turkey Sandwich": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800",
+  "Grilled Cheese": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800",
+  "Banana Split": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=800",
+  "Philly Cheesesteak": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=800",
+  "Kimchi": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800",
   
   // Occasions
   "Date Night": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
@@ -302,7 +484,7 @@ function generateLists(cities, existingLists) {
     const cityId = city.id;
     const cityName = city.name;
     
-    // Generate cuisine lists
+    // Generate cuisine lists - ALL cuisines with ALL sub-cuisines
     for (const [cuisine, subcuisines] of Object.entries(taxonomy.cuisines)) {
       // Parent cuisine list
       const parentId = generateListId(cityId, cuisine);
@@ -316,39 +498,36 @@ function generateLists(cities, existingLists) {
           category_type: 'cuisine',
           description: `Top ${cuisine.toLowerCase()} restaurants in ${cityName}`,
           curator: 'Localist Team',
-          is_featured: ['Italian', 'Japanese', 'Mexican', 'Chinese', 'American'].includes(cuisine),
+          is_featured: ['Italian', 'Japanese', 'Mexican', 'Chinese', 'American', 'French', 'Thai', 'Korean'].includes(cuisine),
           image_url: getImageUrl(cuisine)
         });
         existingIds.add(parentId);
       }
       
-      // Sub-cuisine lists (only for top cuisines to avoid overwhelming)
-      if (['Italian', 'Chinese', 'Japanese', 'Mexican', 'American'].includes(cuisine)) {
-        for (const subcuisine of subcuisines) {
-          const subId = generateListId(cityId, cuisine, subcuisine);
-          if (!existingIds.has(subId)) {
-            newLists.push({
-              id: subId,
-              name: `Best ${subcuisine} in ${cityName}`,
-              city_id: cityId,
-              scope: 'city',
-              category: cuisine,
-              subcategory: subcuisine,
-              category_type: 'cuisine',
-              description: `${subcuisine} spots in ${cityName}`,
-              curator: 'Localist Team',
-              is_featured: false,
-              image_url: getImageUrl(cuisine)
-            });
-            existingIds.add(subId);
-          }
+      // Sub-cuisine lists for ALL cuisines
+      for (const subcuisine of subcuisines) {
+        const subId = generateListId(cityId, cuisine, subcuisine);
+        if (!existingIds.has(subId)) {
+          newLists.push({
+            id: subId,
+            name: `Best ${subcuisine} in ${cityName}`,
+            city_id: cityId,
+            scope: 'city',
+            category: cuisine,
+            subcategory: subcuisine,
+            category_type: 'cuisine',
+            description: `${subcuisine} spots in ${cityName}`,
+            curator: 'Localist Team',
+            is_featured: false,
+            image_url: getImageUrl(cuisine)
+          });
+          existingIds.add(subId);
         }
       }
     }
     
-    // Generate signature dish lists (top 20 only for MVP)
-    const topDishes = taxonomy.signature_dishes.slice(0, 20);
-    for (const dish of topDishes) {
+    // Generate signature dish lists (ALL 39 dishes)
+    for (const dish of taxonomy.signature_dishes) {
       const dishId = generateListId(cityId, dish);
       if (!existingIds.has(dishId)) {
         newLists.push({
