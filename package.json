@@ -10,6 +10,7 @@
     "test": "jest",
     "db:init": "cd database && ./init.sh",
     "db:seed": "ts-node src/seed.ts",
+    "db:seed:lists": "node scripts/expand-lists.js",
     "db:generate-seed": "ts-node src/generate-seed-data.ts",
     "db:reset": "cd database && ./init.sh --seed",
     "migrate": "node-pg-migrate",
