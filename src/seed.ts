@@ -231,20 +231,17 @@ async function seed() {
       }
 
       await pool.query(
-        `INSERT INTO lists (id, name, city_id, neighborhood_id, scope, category, description, curator, is_featured, image_url, user_id, is_public, created_at, updated_at)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14)
+        `INSERT INTO lists (id, name, city_id, category, description, curator, is_featured, image_url, user_id, is_public, created_at, updated_at)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
          ON CONFLICT (id) DO UPDATE SET
          name = EXCLUDED.name,
          description = EXCLUDED.description,
          is_featured = EXCLUDED.is_featured,
-         neighborhood_id = EXCLUDED.neighborhood_id,
-         scope = EXCLUDED.scope`,
+         category = EXCLUDED.category`,
         [
           list.id,
           list.name,
           list.city_id,
-          list.neighborhood_id || null,
-          list.scope || 'city',
           list.category,
           list.description,
           list.curator || (list.is_curated ? 'Localist Team' : null),
