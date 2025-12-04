@@ -99,7 +99,7 @@ router.get('/:cityId/lists', async (req: Request, res: Response) => {
   
   try {
     let query = `
-      SELECT id, name, category, description, curator, is_featured, venue_ids, image_url
+      SELECT id, name, category, category_type, description, curator, is_featured, venue_ids, image_url
       FROM lists 
       WHERE city_id = $1
     `;
